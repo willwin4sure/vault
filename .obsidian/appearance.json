@@ -3,5 +3,6 @@
   "enabledCssSnippets": [
     "highlights",
     "callouts"
-  ]
+  ],
+  "baseFontSize": 13
 }

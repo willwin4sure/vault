@@ -38,5 +38,21 @@
     }
   ],
   "app:go-back": [],
-  "obsidian-editor-shortcuts:duplicateLine": []
+  "obsidian-editor-shortcuts:duplicateLine": [],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Delete"
+    }
+  ],
+  "templater-obsidian:Templates/Vocab.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ]
 }

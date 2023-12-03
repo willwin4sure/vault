@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "93b678c035f43b3b",
+        "id": "e411a82f980d4375",
         "type": "tabs",
         "children": [
           {
-            "id": "699972167bf1c271",
+            "id": "39609a1e489d7a32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📏Measure Theory/📏Measure Theory Homepage.md",
-                "mode": "source",
+                "file": "📏Measures and Probability/Measures/Measure Spaces.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 330.5
   },
   "right": {
     "id": "7484f9602ccd0758",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📏Measure Theory/📏Measure Theory Homepage.md",
+                "file": "📏Measures and Probability/Measures/Measure Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📏Measure Theory/📏Measure Theory Homepage.md",
+                "file": "📏Measures and Probability/Measures/Measure Spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📏Measure Theory/📏Measure Theory Homepage.md"
+                "file": "📏Measures and Probability/Measures/Measure Spaces.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,25 +146,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "699972167bf1c271",
+  "active": "39609a1e489d7a32",
   "lastOpenFiles": [
-    "🏠Home.md",
-    "📏Measure Theory/📏Measure Theory Homepage.md",
-    "Templates/vocab.md",
-    "Templates",
-    "🧮Math Homepage.md",
-    "🧮Math/🧮Math Homepage.md",
+    "📏Measures and Probability/Measures/Measures Homepage.md",
+    "📏Measures and Probability/Measures/Discrete Measure Theory.md",
+    "📏Measures and Probability/Measures/Measure Spaces.md",
+    "📏Measures and Probability/Measures/Probability Spaces.md",
+    "📏Measures and Probability/Measures/Independence.md",
+    "📏Measures and Probability/Measures/Lebesque Measure.md",
+    "measure.md",
+    "().md",
+    "📏Measures and Probability/📏Measures and Probability Portal.md",
+    "📏Measures and Probability/Measures/Borel-Cantelli Lemmas.md",
+    "📏Measures and Probability/Measures/Uniqueness of Extensions.md",
+    "📏Measures and Probability/Measures/Carathéodory's Extension Theorem.md",
+    "📏Measures and Probability/SLLN and CLT/SLLN and CLT Homepage.md",
     "README.md",
-    "Untitled.canvas",
-    "2023-12-01.md",
-    "🧮Math",
-    "Measure Theory Homepage.md",
+    "📏Measures and Probability/Gaussians/Gaussians Homepage.md",
+    "📏Measures and Probability/Fourier Transforms/Fourier Transforms Homepage.md",
+    "📏Measures and Probability/Lebesgue Spaces/Lebesgue Spaces Homepage.md",
+    "📏Measures and Probability/Norms and Inequalities/Norms and Inequalities Homepage.md",
+    "📏Measures and Probability/Integration/Integration Homepage.md",
+    "📏Measures and Probability/Ergodic Theory/Ergodic Theory Homepage.md",
+    "📏Measures and Probability/Measurable Functions/Measurable Functions Homepage.md",
+    "Measure Homepage.md",
+    "Measures Homepage",
+    "🏠Home.md",
+    "📏Measures and Probability/SLLN and CLT",
+    "📏Measures and Probability/Ergodic Theory",
+    "📏Measures and Probability/Gaussians",
+    "📏Measures and Probability/Fourier Transforms",
+    "📏Measures and Probability/Lebesgue Spaces",
+    "📏Measures and Probability/Norms and Inequalities",
     "Untitled 1.md",
-    "There.md",
-    "Hello.md",
-    "📏Measure Theory",
-    "snippets/highlight.css",
-    "snippets/callouts.css",
-    "snippets"
+    "📏Measures and Probability/Integration",
+    "📏Measures and Probability/Measurable Functions",
+    "📏Measures and Probability/Measures",
+    "Templates/Vocab.md",
+    "🧮Math Homepage.md",
+    "Untitled.canvas"
   ]
 }

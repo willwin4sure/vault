@@ -5,10 +5,10 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"🧮Math/📏Measure Theory\"  ",
+      "query": "path:\"📏Measures and Probability\"  ",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -18,13 +18,13 @@
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.63442906574394,
+  "lineSizeMultiplier": 1.80397923875433,
   "collapse-forces": false,
-  "centerStrength": 0.489583333333333,
-  "repelStrength": 10,
+  "centerStrength": 0.344290657439446,
+  "repelStrength": 11.522491349481,
   "linkStrength": 1,
-  "linkDistance": 265,
-  "scale": 1.4019828977761024,
+  "linkDistance": 255,
+  "scale": 0.655498353494695,
   "close": false
 }
