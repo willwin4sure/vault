@@ -1,0 +1,96 @@
+/* 
+    Custom callout styles for Obsidian
+*/
+/* Purple theorem */
+.callout[data-callout="theorem"] {
+    --callout-color: 255, 0, 255;
+    --callout-icon: "lucide-boxes";
+}
+.callout[data-callout="thm"] {
+    --callout-color: 255, 0, 255;
+    --callout-icon: "lucide-boxes";
+}
+
+/* Red problem */
+.callout[data-callout="problem"] {
+    --callout-color: 255, 0, 0;
+    --callout-icon: "lucide-help-circle";
+}
+/* Just don't use this. */
+/* .callout[data-callout="prob"] {
+    --callout-title: "Problem";
+    --callout-color: 255, 0, 0;
+    --callout-icon: "lucide-help-circle";
+} */
+
+/* Green claim */
+.theme-dark .callout[data-callout="claim"] {
+    --callout-color: 0, 255, 0;
+    --callout-icon: "lucide-zap";
+}
+.theme-light .callout[data-callout="claim"] {
+    --callout-color: 0, 192, 0;
+    --callout-icon: "lucide-zap";
+}
+
+/* Teal Definition */
+.theme-dark .callout[data-callout="definition"] {
+    --callout-color: 0, 255, 255;
+    --callout-icon: "lucide-box";
+}
+.theme-dark .callout[data-callout="defn"] {
+    --callout-color: 0, 255, 255;
+    --callout-icon: "lucide-box";
+}
+.theme-light .callout[data-callout="definition"] {
+    --callout-color: 0, 192, 192;
+    --callout-icon: "lucide-box";
+}
+.theme-light .callout[data-callout="defn"] {
+    --callout-color: 0, 192, 192;
+    --callout-icon: "lucide-box";
+}
+
+/* Orange Example */
+.callout[data-callout="example"] {
+    --callout-color: 255, 165, 0;
+    --callout-icon: "lucide-flame";
+}
+
+/* Grey solution */
+.callout[data-callout="solution"] {
+    --callout-color: 128, 128, 128;
+    --callout-icon: "lucide-check-circle";
+}
+
+/* Grey Part */
+.callout[data-callout="part"] {
+    --callout-color: 128, 128, 128;
+    --callout-icon: "lucide-arrow-big-right";
+}
+
+/* Black Idea */
+.theme-light .callout[data-callout="idea"] {
+    --callout-color: 0, 0, 0;
+    --callout-icon: "lucide-lightbulb";
+}
+.theme-dark .callout[data-callout="idea"] {
+    --callout-color: 255, 255, 255;
+    --callout-icon: "lucide-lightbulb";
+}
+
+/* Black Notation */
+.theme-light .callout[data-callout="notation"] {
+    --callout-color: 0, 0, 0;
+    --callout-icon: "lucide-pencil";
+}
+.theme-dark .callout[data-callout="notation"] {
+    --callout-color: 255, 255, 255;
+    --callout-icon: "lucide-pencil";
+}
+
+/* Blue proof */
+.callout[data-callout="proof"] {
+    --callout-color: 0, 128, 255;
+    --callout-icon: "lucide-citrus";
+}
