@@ -1,11 +1,11 @@
-Intuitively, the goal of measure theory is to define the "size" of sets. Unfortunately, we encounter [[difficulties]] trying to simply assign a reasonable measure to, say, all subsets of the interval $[0,1]$. Instead, we must restrict our attention to "nice" subsets.
+Intuitively, the goal of measure theory is to define the "size" of sets. Unfortunately, we encounter [[Vitali Construction|difficulties]] trying to simply assign a reasonable measure to, say, all subsets of the interval $[0,1]$. Instead, we must restrict our attention to "nice" subsets.
 
-Work over a set $E$. Then, $\sigma$-algebras tell you what these "nice" subsets of $E$ are.
+Work over a set $E$. Then, $\sigma$-algebras tell you what these "nice" subsets of $E$ are. There are many possible $\sigma$-algebras over a particular set $E$, though some will be more natural than others.
 
 >[!definition] Definition ($\sigma$-algebra)
 >A <span style="color:#0088ff">$\sigma$-algebra</span> $\mathcal{E}$ is a nonempty set of subsets of $E$ closed under complementation and countable unions.
 >
->In other words, for all $A\in\mathcal{E}$ and sequences $(A_n:n\in\mathbb{N})$ in $\mathcal{E}$,
+>In other words, for all $A\in\mathcal{E}$ and sequences $(A_n:n\in\mathbb{N})\in\mathcal{E}$,
 >$$A^c\in\mathcal{E}, \qquad\bigcup_{n}A_n\in\mathcal{E}.$$
 
 ^f1d37f
@@ -60,6 +60,12 @@ Finally, an important fact about how we describe $\sigma$-algebras. This is anal
 >Now, their union is
 >$$\mathcal{E}_1\cup\mathcal{E}_2=\{\varnothing, \{a\}, \{b\}, \{b, c\}, \{a, c\}, \{a, b, c\}\}.$$
 >This is clearly not a $\sigma$-algebra, since, for example, $\{a\}\cup\{b\}=\{a,b\}\not\in\mathcal{E}_1\cup\mathcal{E}_2$.
+
+>[!problem]
+>Show that the following sets of subsets of $\mathbb{R}$ all generate the same $\sigma$-algebra.
+>1. $\{ (a,b):a<b \}$,
+>2. $\{ (a,b]:a<b \}$,
+>3. $\{ (-\infty,b]:b\in\mathbb{R} \}$.
 
 
 ---

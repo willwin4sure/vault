@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1d796e4c90f97703",
+        "id": "98d8aa8f9fc9a17d",
         "type": "tabs",
         "children": [
           {
-            "id": "2cbf480615c13b8b",
+            "id": "6ef3dc00d10fb2c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 330.5
   },
   "right": {
     "id": "7484f9602ccd0758",
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,44 +147,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2cbf480615c13b8b",
+  "active": "6ef3dc00d10fb2c7",
   "lastOpenFiles": [
-    "📏Measures and Probability/Measures/Rings and Algebras.md",
-    "📏Measures and Probability/Measures/Carathéodory's Extension Theorem.md",
-    "📏Measures and Probability/Measures/Set Functions.md",
-    "📏Measures and Probability/Measures/🛖Measures Homepage.md",
-    "📏Measures and Probability/Measures/Measure Spaces.md",
-    "📏Measures and Probability/Measures/Borel-Cantelli Lemmas.md",
-    "📏Measures and Probability/Measures/Lebesque Measure.md",
     "📏Measures and Probability/Measures/Discrete Measure Theory.md",
+    "📏Measures and Probability/Measures/Measure Spaces.md",
+    "📏Measures and Probability/Measures/Rings and Algebras.md",
+    "📏Measures and Probability/Measures/Set Functions.md",
+    "📏Measures and Probability/Measures/Sierpiński–Dynkin's π-λ theorem.md",
+    "📏Measures and Probability/Measures/Lebesgue Measure.md",
+    "📏Measures and Probability/Measures/Banach-Tarski Paradox.md",
+    "📏Measures and Probability/Measures/Carathéodory's Extension Theorem.md",
     "📏Measures and Probability/📏Measures and Probability Portal.md",
+    "📏Measures and Probability/Measures/⛺Measures Homepage.md",
+    "📏Measures and Probability/Measures/Borel-Cantelli Lemmas.md",
     "📏Measures and Probability/Measures/Independence.md",
-    "Templates/Vocab.md",
-    "README.md",
-    "🏠Home.md",
-    "📏Measure Theory/📏Measure Theory Homepage.md",
-    "📏Measures and Probability/Measures/Uniqueness of Extensions.md",
     "📏Measures and Probability/Measures/Probability Spaces.md",
+    "📏Measures and Probability/Measures/Uniqueness of Extensions.md",
+    "📏Measures and Probability/Measures/Vitali Construction.md",
+    "Untitled.md",
+    "📏Measures and Probability/Lebesgue Spaces/Pi and Lambda Systems.md",
     "📏Measures and Probability/SLLN and CLT/SLLN and CLT Homepage.md",
-    "📏Measures and Probability/Norms and Inequalities/Norms and Inequalities Homepage.md",
-    "📏Measures and Probability/Measurable Functions/Measurable Functions Homepage.md",
+    "nontrivial challenges.md",
+    "smaller set of subsets.md",
+    "📏Measures and Probability/Measures/Measures Homepage.md",
+    "measure.md",
+    "().md",
+    "README.md",
     "📏Measures and Probability/Gaussians/Gaussians Homepage.md",
-    "📏Measures and Probability/Lebesgue Spaces/Lebesgue Spaces Homepage.md",
-    "📏Measures and Probability/Integration/Integration Homepage.md",
     "📏Measures and Probability/Fourier Transforms/Fourier Transforms Homepage.md",
-    "📏Measures and Probability/Ergodic Theory/Ergodic Theory Homepage.md",
+    "Measures Homepage",
     "📏Measures and Probability/SLLN and CLT",
-    "📏Measures and Probability/Norms and Inequalities",
-    "📏Measures and Probability/Measures",
-    "📏Measures and Probability/Measurable Functions",
-    "📏Measures and Probability/Gaussians",
-    "📏Measures and Probability/Lebesgue Spaces",
-    "📏Measures and Probability/Integration",
-    "📏Measures and Probability/Fourier Transforms",
     "📏Measures and Probability/Ergodic Theory",
-    "📏Measures and Probability",
-    "🧮Math Homepage.md",
-    "🧮Math/🧮Math Homepage.md",
+    "📏Measures and Probability/Gaussians",
+    "📏Measures and Probability/Fourier Transforms",
+    "📏Measures and Probability/Lebesgue Spaces",
+    "📏Measures and Probability/Norms and Inequalities",
+    "📏Measures and Probability/Integration",
+    "📏Measures and Probability/Measurable Functions",
+    "📏Measures and Probability/Measures",
     "Untitled.canvas"
   ]
 }

@@ -13,7 +13,7 @@ Suppose that $E$ is countable, and let $\mathcal{E}=\mathcal{P}(E)$ be the set o
 
 So, discrete measure theory is quite boring. However, it is essentially the only form of measure theory where we can specify a nontrivial measure explicitly. In particular, general $\sigma$-algebras are not amenable to an explicit presentation which allows us to make such a specification.
 
-Instead, we will specify the values of the measure on a [[smaller set of subsets]] which can generate the full $\sigma$-algebra.
+Instead, we will specify the values of the measure on a [[Rings and Algebras#^aed1d6|smaller set of subsets]] which can generate the full $\sigma$-algebra.
 
 ---
 
