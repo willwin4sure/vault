@@ -1,7 +1,7 @@
 > A pea can be chopped up and reassembled into the sun.
 > — The Banach-Tarski Paradox
 
-The fundamental object in measure theory is, naturally, the [[Measure Spaces#^996cdc|measure]]. Measures are foundational to formalizing probability theory. Indeed, when trying to formally define even basic concepts from probability, such as the uniform distribution on $[0,1]$, we will encounter [[nontrivial challenges]], necessitating a field of study refining our definitions and intuition.
+The fundamental object in measure theory is, naturally, the [[Measure Spaces#^dde3c4|measure]]. Measures are foundational to formalizing probability theory. Indeed, when trying to formally define even basic concepts from probability, such as the uniform distribution on $[0,1]$, we will encounter [[nontrivial challenges]], necessitating a field of study refining our definitions and intuition.
 
 Measures themselves are independently applicable to other fields such as integration theory and quantum physics. In this first section of the class, we will investigate measures in isolation before restricting our attention to probability spaces.
 

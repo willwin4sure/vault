@@ -13,7 +13,7 @@ From the first half of the MIT graduate course [18.675 Theory of Probability](ht
 \end{tikzcd}" />
 
 # Homepages
-1. [[Measures Homepage]]
+1. [[🛖Measures Homepage]]
 2. [[Measurable Functions Homepage]]
 3. [[Integration Homepage]]
 4. [[Norms and Inequalities Homepage]]
@@ -22,3 +22,4 @@ From the first half of the MIT graduate course [18.675 Theory of Probability](ht
 7. [[Gaussians Homepage]]
 8. [[Ergodic Theory Homepage]]
 9. [[SLLN and CLT Homepage]]
+
