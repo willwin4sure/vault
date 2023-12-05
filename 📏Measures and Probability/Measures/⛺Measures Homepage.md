@@ -15,18 +15,14 @@ First, learn the formal definition of the fundamental objects in measure theory.
 1. [[Measure Spaces]]
 2. [[Discrete Measure Theory]]
 
-Next, construct more sophisticated measures, such as the real numbers. 
+Next, construct more sophisticated measures, such over the real numbers. 
 
 3. [[Carathéodory's Extension Theorem]]
 4. [[Uniqueness of Extensions]]
 5. [[Lebesgue Measure]]
 
-Finally, begin discussion of probability, including important lemmas on infinite sequences of events.
+Finally, begin a discussion of probability, including important lemmas on infinite sequences of events.
 
 6. [[Probability Spaces]]
 7. [[Independence]]
 8. [[Borel-Cantelli Lemmas]]
-
----
-
-**Next:** [[Measure Spaces]]

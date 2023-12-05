@@ -1,3 +1,3 @@
-Hungry for something? Try one of our homepages.
+Hungry for something? Try one of our portals.
 
 [[📏Measures and Probability Portal]]

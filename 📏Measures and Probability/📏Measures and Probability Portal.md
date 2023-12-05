@@ -14,12 +14,12 @@ From the first half of the MIT graduate course [18.675 Theory of Probability](ht
 
 # Homepages
 1. [[⛺Measures Homepage]]
-2. [[Measurable Functions Homepage]]
-3. [[Integration Homepage]]
-4. [[Norms and Inequalities Homepage]]
-5. [[Lebesgue Spaces Homepage]]
-6. [[Fourier Transforms Homepage]]
-7. [[Gaussians Homepage]]
-8. [[Ergodic Theory Homepage]]
-9. [[SLLN and CLT Homepage]]
+2. [[⛺Measurable Functions Homepage]]
+3. [[⛺Integration Homepage]]
+4. [[⛺Norms and Inequalities Homepage]]
+5. [[⛺Lebesgue Spaces Homepage]]
+6. [[⛺Fourier Transforms Homepage]]
+7. [[⛺Gaussians Homepage]]
+8. [[⛺Ergodic Theory Homepage]]
+9. [[⛺SLLN and CLT Homepage]]
 
