@@ -3,9 +3,13 @@
 >[!definition] Definition ($\pi$-system)
 >Let $\mathcal{A}$ be a set of subsets of $E$. We say that $\mathcal{A}$ is a <span style="color:#0088ff">$\pi$-system</span> if it contains the empty set and is closed under finite intersections, i.e. $\varnothing\in\mathcal{A}$ and $A\cap B\in\mathcal{A}$ for all $A,B\in\mathcal{A}$.
 
+^232a53
+
 >[!definition] Definition ($\lambda$-system)
 >Let $\mathcal{A}$ be a set of subsets of $E$. We say that $\mathcal{A}$ is a <span style="color:#0088ff">$\lambda$-system</span> (or <span style="color:#0088ff">$d$-system</span>) if $E\in\mathcal{A}$ and if for all $A,B\in\mathcal{A}$ with $A\subseteq B$ and all increasing sequences $(A_{n}:n\in\mathbb{N})\in\mathcal{A}$,
 >$$B\setminus A\in\mathcal{A},\qquad \bigcup_{n}A_{n}\in\mathcal{A}.$$ 
+
+^32fdbb
 
 ## Basic Properties
 

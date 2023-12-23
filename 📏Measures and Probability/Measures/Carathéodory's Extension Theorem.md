@@ -57,7 +57,7 @@ Call $\mathcal{M}$ the set of all $\mu ^{*}$-measurable sets. As promised, we wi
 >We only need to consider the case where all $\mu ^{*}(B_{n})$ are finite. We will use the classic trick of giving ourselves an **"epsilon of room"**: it suffices to show that
 >$$\mu ^{*}(B)\leq \sum_{n}\mu ^{*}(B_{n})+\varepsilon$$
 >for arbitrary $\varepsilon>0$. In order to do this, we divide our $\varepsilon$ across all $B_{n}$ into pieces of size $\varepsilon \cdot 2^{-n}$. Indeed, by the outer measure definition, there should exist sequences $(A_{nm}:m\in\mathbb{N})$ in our ring $\mathcal{A}$ such that
->$$B_n\subseteq \bigcup_{m}A_{nm},\quad \mu^*(B_n)+\varepsilon/2^n\ge\sum_m\mu(A_{nm})$$
+>$$B_n\subseteq \bigcup_{m}A_{nm},\quad \mu^*(B_n)+\varepsilon \cdot 2^{-n}\ge\sum_m\mu(A_{nm})$$
 >for any $\varepsilon>0$. Since
 >$$B\subseteq\bigcup_n\bigcup_{m}A_{nm},$$
 >we know that
@@ -128,6 +128,20 @@ Call $\mathcal{M}$ the set of all $\mu ^{*}$-measurable sets. As promised, we wi
 >so $\mu ^{*}$ has countable additivity on $\mathcal{M}$.
 
 Put together, these claims finish, as $\mu ^{*}$ is a measure that extends $\mu$ from $\mathcal{A}$ to $\mathcal{M}$, which contains $\sigma(\mathcal{A})$.
+
+## Completion and Null Sets
+
+> [!definition] (Null sets)
+> Let $(E,\mathcal{E},\mu)$ be a measure space. We call a subset $N\subseteq E$ <span style="color:#0088ff">null</span> if $N\subseteq B$ for some $B\in\mathcal{E}$ with $\mu(B)=0$.
+
+> [!question]
+> Let $\mathcal{N}$ be the set of null sets. Prove that the set of subsets $\mathcal{E}^\mu=\{ A\cup N:A\in\mathcal{E},N\in\mathcal{N} \}$ is a $\sigma$-algebra. We call this the <span style="color:#0088ff">completion of $\mathcal{E}$ with respect to $\mu$.</span>
+
+> [!question]
+> Show that $\mu$ has a well-defined and countably additive extension to $\mathcal{E}^\mu$ given by $\mu(A\cup N)=\mu(A)$.
+
+> [!question]
+> Suppose that $E$ is [[Finite Measures#^f9f30f|$\sigma$-finite]] and write $\mu ^{*}$ for the outer measure associated with $\mu$, as in the proof above. Show that $\mathcal{E}^{\mu}$ is exactly the set of $\mu ^{*}$-measurable sets.
 
 ---
 
