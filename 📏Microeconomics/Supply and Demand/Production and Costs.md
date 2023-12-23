@@ -1,0 +1,1 @@
+We turn our attention to firms, who are the producers. 

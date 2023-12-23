@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "c07e9b1251738018",
+        "id": "e9dc6da1fce415f9",
         "type": "tabs",
         "children": [
           {
-            "id": "73216e7299ef09c0",
+            "id": "3d2e58c3b1591709",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📏Measures and Probability/Measures/Uniqueness of Extensions.md",
-                "mode": "preview",
+                "file": "📏Microeconomics/Monopoly and Oligopoly/⛺Monopoly and Oligopoly Homepage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f367516017c8a631",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📏Microeconomics/Factor Markets/⛺Factor Markets Homepage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5c24a1eef6b5cb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📏Microeconomics/Monopoly and Oligopoly/Oligopoly and Cournot Equilibrium.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📏Measures and Probability/Measures/Uniqueness of Extensions.md",
+                "file": "📏Microeconomics/Monopoly and Oligopoly/Oligopoly and Cournot Equilibrium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📏Measures and Probability/Measures/Uniqueness of Extensions.md",
+                "file": "📏Microeconomics/Monopoly and Oligopoly/Oligopoly and Cournot Equilibrium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📏Measures and Probability/Measures/Uniqueness of Extensions.md"
+                "file": "📏Microeconomics/Monopoly and Oligopoly/Oligopoly and Cournot Equilibrium.md"
               }
             }
           }
@@ -147,44 +172,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "73216e7299ef09c0",
+  "active": "b5c24a1eef6b5cb5",
   "lastOpenFiles": [
-    "📏Measures and Probability/Measures/Pi and Lambda Systems.md",
-    "📏Measures and Probability/Measures/Lebesgue Measure.md",
-    "📏Measures and Probability/Measures/Uniqueness of Extensions.md",
-    "📏Measures and Probability/Measures/Sierpiński–Dynkin's π-λ Theorem.md",
+    "📏Microeconomics/Supply and Demand/Production and Costs.md",
+    "📏Microeconomics/Supply and Demand/Properties of Demand Curves.md",
+    "Factor Demand.md",
+    "📏Microeconomics/Factor Markets/⛺Factor Markets Homepage.md",
+    "📏Microeconomics/Monopoly and Oligopoly/⛺Monopoly and Oligopoly Homepage.md",
+    "⛺Factor Markets Homepage",
+    "📏Microeconomics/Factor Markets",
+    "📏Microeconomics/Monopoly and Oligopoly/Oligopoly and Cournot Equilibrium.md",
+    "📏Microeconomics/Monopoly and Oligopoly/Cartels.md",
+    "📏Microeconomics/Supply and Demand/⛺Supply and Demand Homepage.md",
+    "📏Microeconomics/📏Microeconomics Portal.md",
+    "📏Microeconomics/Monopoly and Oligopoly/img/airline_monopoly.png",
+    "📏Microeconomics/Monopoly and Oligopoly/img/airline_duopoly.png",
+    "📏Microeconomics/Monopoly and Oligopoly/img/airline_cournot.png",
+    "📏Microeconomics/Monopoly and Oligopoly/img",
+    "📏Microeconomics/Monopoly and Oligopoly",
+    "📏Microeconomics/Supply and Demand/Supply and Demand Curves.md",
+    "📏Microeconomics/Supply and Demand/Utility and Budget.md",
+    "📏Microeconomics/Supply and Demand/img/substitution_income_effects.png",
+    "📏Microeconomics/Supply and Demand/img/engel_curves.png",
+    "📏Microeconomics/Supply and Demand/img/deriving_demand_curves.png",
     "📏Measures and Probability/Measures/Measure Spaces.md",
-    "📏Measures and Probability/Measures/Probability Spaces.md",
     "📏Measures and Probability/Measures/Rings and Algebras.md",
-    "📏Measures and Probability/Measures/Set Functions.md",
-    "📏Measures and Probability/Measures/Vitali Construction.md",
-    "📏Measures and Probability/Measures/Independence.md",
-    "📏Measures and Probability/Measures/Discrete Measure Theory.md",
     "📏Measures and Probability/Measures/Carathéodory's Extension Theorem.md",
-    "📏Measures and Probability/Measures/Borel-Cantelli Lemmas.md",
     "📏Measures and Probability/Measures/Banach-Tarski Paradox.md",
-    "📏Measures and Probability/Measures/⛺Measures Homepage.md",
     "📏Measures and Probability/📏Measures and Probability Portal.md",
-    "📏Measures and Probability/SLLN and CLT/⛺SLLN and CLT Homepage.md",
-    "🏠Home.md",
+    "📏Measures and Probability/Measures/⛺Measures Homepage.md",
+    "📏Microeconomics/Supply and Demand/img/supply_demand_curves.png",
+    "📏Microeconomics/Supply and Demand/img",
+    "📏Microeconomics/Images",
+    "📏Microeconomics/Supply and Demand/supply_demand_curves.png",
+    "📏Microeconomics/Supply and Demand/14.01 Principles of Microeconomics (2).png",
+    "📏Microeconomics/Supply and Demand/14.01 Principles of Microeconomics.png",
+    "📏Measures and Probability/Measures/Pi and Lambda Systems.md",
+    "📏Measures and Probability/Norms and Inequalities/⛺Norms and Inequalities Homepage.md",
+    "📏Microeconomics/Supply and Demand",
+    "Supply and Demand Homepage.md",
+    "📏Advanced Probability/📏Advanced Probability Portal.md",
+    "📏Measures and Probability/Norms and Inequalities/🏠Home.md",
+    "📏Advanced Probability",
+    "📏Microeconomics",
     "README.md",
     "Templates/Vocab.md",
-    "📏Measures and Probability/Lebesgue Spaces/⛺Lebesgue Spaces Homepage.md",
-    "📏Measures and Probability/Ergodic Theory/⛺Ergodic Theory Homepage.md",
-    "📏Measures and Probability/Fourier Transforms/⛺Fourier Transforms Homepage.md",
-    "📏Measures and Probability/Gaussians/⛺Gaussians Homepage.md",
-    "📏Measures and Probability/Integration/⛺Integration Homepage.md",
-    "📏Measures and Probability/Norms and Inequalities/⛺Norms and Inequalities Homepage.md",
+    "📏Measures and Probability/SLLN and CLT/⛺SLLN and CLT Homepage.md",
+    "📏Measures and Probability/Measures/Probability Spaces.md",
     "Measures Homepage",
-    "📏Measures and Probability/SLLN and CLT",
-    "📏Measures and Probability/Ergodic Theory",
-    "📏Measures and Probability/Gaussians",
-    "📏Measures and Probability/Fourier Transforms",
-    "📏Measures and Probability/Lebesgue Spaces",
-    "📏Measures and Probability/Norms and Inequalities",
-    "📏Measures and Probability/Integration",
-    "📏Measures and Probability/Measurable Functions",
-    "📏Measures and Probability/Measures",
     "Untitled.canvas"
   ]
 }

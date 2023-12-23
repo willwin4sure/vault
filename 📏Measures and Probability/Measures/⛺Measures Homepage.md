@@ -8,7 +8,7 @@ The fundamental object in measure theory is, naturally, the [[Measure Spaces#^dd
 Measures themselves are independently applicable to other fields such as integration theory and quantum physics. In this first section of the class, we will investigate measures in isolation before restricting our attention to probability spaces.
 
 ---
-# Main Sequence
+## Main Sequence
 
 First, learn the formal definition of the fundamental objects in measure theory. Also, a simple example of measure spaces.
 

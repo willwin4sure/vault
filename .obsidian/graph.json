@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "path:📏Microeconomics  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
     }
   ],
   "collapse-display": false,
@@ -23,8 +30,8 @@
   "collapse-forces": false,
   "centerStrength": 0.344290657439446,
   "repelStrength": 11.522491349481,
-  "linkStrength": 0.854166666666667,
+  "linkStrength": 1,
   "linkDistance": 255,
-  "scale": 0.7683174228123835,
+  "scale": 0.9832475302420585,
   "close": false
 }
