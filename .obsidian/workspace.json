@@ -4,22 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "7473ddf9640150d2",
+        "id": "c07e9b1251738018",
         "type": "tabs",
         "children": [
           {
-            "id": "0961e8686eab918c",
+            "id": "73216e7299ef09c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏠Home.md",
+                "file": "📏Measures and Probability/Measures/Uniqueness of Extensions.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏠Home.md",
+                "file": "📏Measures and Probability/Measures/Uniqueness of Extensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🏠Home.md",
+                "file": "📏Measures and Probability/Measures/Uniqueness of Extensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏠Home.md"
+                "file": "📏Measures and Probability/Measures/Uniqueness of Extensions.md"
               }
             }
           }
@@ -147,44 +148,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0961e8686eab918c",
+  "active": "73216e7299ef09c0",
   "lastOpenFiles": [
-    "README.md",
-    "📏Measures and Probability/Measures/Measure Spaces.md",
-    "📏Measures and Probability/Measures/Independence.md",
-    "📏Measures and Probability/Measures/Probability Spaces.md",
-    "📏Measures and Probability/Measures/Carathéodory's Extension Theorem.md",
+    "📏Measures and Probability/Measures/Pi and Lambda Systems.md",
     "📏Measures and Probability/Measures/Lebesgue Measure.md",
-    "📏Measures and Probability/Measures/Littlewood's First Principle.md",
+    "📏Measures and Probability/Measures/Uniqueness of Extensions.md",
+    "📏Measures and Probability/Measures/Sierpiński–Dynkin's π-λ Theorem.md",
+    "📏Measures and Probability/Measures/Measure Spaces.md",
+    "📏Measures and Probability/Measures/Probability Spaces.md",
     "📏Measures and Probability/Measures/Rings and Algebras.md",
     "📏Measures and Probability/Measures/Set Functions.md",
-    "📏Measures and Probability/Measures/Sierpiński–Dynkin's π-λ Theorem.md",
-    "📏Measures and Probability/Measures/Finite Measures.md",
-    "📏Measures and Probability/Measures/Discrete Measure Theory.md",
-    "📏Measures and Probability/Measures/Pi and Lambda Systems.md",
     "📏Measures and Probability/Measures/Vitali Construction.md",
-    "📏Measures and Probability/Measures/Uniqueness of Extensions.md",
-    "📏Measures and Probability/Measures/⛺Measures Homepage.md",
+    "📏Measures and Probability/Measures/Independence.md",
+    "📏Measures and Probability/Measures/Discrete Measure Theory.md",
+    "📏Measures and Probability/Measures/Carathéodory's Extension Theorem.md",
     "📏Measures and Probability/Measures/Borel-Cantelli Lemmas.md",
-    "📏Measures and Probability/📏Measures and Probability Portal.md",
-    "🏠Home.md",
     "📏Measures and Probability/Measures/Banach-Tarski Paradox.md",
+    "📏Measures and Probability/Measures/⛺Measures Homepage.md",
+    "📏Measures and Probability/📏Measures and Probability Portal.md",
     "📏Measures and Probability/SLLN and CLT/⛺SLLN and CLT Homepage.md",
+    "🏠Home.md",
+    "README.md",
     "Templates/Vocab.md",
     "📏Measures and Probability/Lebesgue Spaces/⛺Lebesgue Spaces Homepage.md",
     "📏Measures and Probability/Ergodic Theory/⛺Ergodic Theory Homepage.md",
     "📏Measures and Probability/Fourier Transforms/⛺Fourier Transforms Homepage.md",
     "📏Measures and Probability/Gaussians/⛺Gaussians Homepage.md",
+    "📏Measures and Probability/Integration/⛺Integration Homepage.md",
+    "📏Measures and Probability/Norms and Inequalities/⛺Norms and Inequalities Homepage.md",
     "Measures Homepage",
-    "📏Measures and Probability/SLLN and CLT",
-    "📏Measures and Probability/Ergodic Theory",
-    "📏Measures and Probability/Gaussians",
-    "📏Measures and Probability/Fourier Transforms",
-    "📏Measures and Probability/Lebesgue Spaces",
-    "📏Measures and Probability/Norms and Inequalities",
-    "📏Measures and Probability/Integration",
-    "📏Measures and Probability/Measurable Functions",
-    "📏Measures and Probability/Measures",
     "Untitled.canvas"
   ]
 }

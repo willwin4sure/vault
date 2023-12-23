@@ -2,7 +2,9 @@
   "accentColor": "",
   "enabledCssSnippets": [
     "highlights",
-    "callouts"
+    "callouts",
+    "images",
+    "tables"
   ],
-  "baseFontSize": 17
+  "baseFontSize": 16
 }
