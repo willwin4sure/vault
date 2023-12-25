@@ -1,6 +1,6 @@
 We've covered two forms of markets: perfect competition (very rare) and monopolies (also rather rare). Most markets are actually <span style="color:#0088ff">oligopolies</span>, somewhere between these two extremes. There are a small number of firms that produce everything in the market.
 
-In an oligopoly, each firm has two options: to cooperate or not to cooperate. Cooperation leads to the formation of a <span style="color:#0088ff">cartel</span>, which essentially acts as a large monopoly that then shares the profits. We'll discuss later why [[Cartels|cartels don't last that long]]; for now, let's discuss the noncooperative case.
+In an oligopoly, each firm has two options: to cooperate or not to cooperate. Cooperation leads to the formation of a <span style="color:#0088ff">cartel</span>, which essentially acts as a large monopoly that then shares the profits. We'll discuss later why [[Cartels#Why Not Cartels?|cartels don't last that long]]; for now, let's discuss the noncooperative case.
 ## Game Theory
 
 We will analyze this using game theory. You should already know all about this: Nash equilibria, prisoner's dilemma, payoff matrices, etc.
@@ -25,9 +25,9 @@ First, let's compute what American would do if it were in a monopoly.
 
 The marginal revenue is
 $$
-\text{MR}=\frac{ \partial }{ \partial q_{A} } (q_{A}(339 - q_{A}))=339-2q_{A}. 
+MR=\frac{ \partial }{ \partial q_{A} } (q_{A}(339 - q_{A}))=339-2q_{A}. 
 $$
-As a monopolist, we should set $\text{MR}=\text{MC}$, yielding $q_{A}=96$.
+As a monopolist, we should set $MR=MC$, yielding $q_{A}=96$.
 
 ### Duopoly Case
 
@@ -37,7 +37,7 @@ Now, suppose that American *knew* that United would provide 64 flights, and want
 
 We should compute the *residual* demand, which is $P=275-q_{A}$. Then, the marginal revenue is
 $$
-\text{MR}=\frac{ \partial  }{ \partial q_{A} } (q_{A}(275-q_{A})) = 275 - 2q_{A},
+MR=\frac{ \partial  }{ \partial q_{A} } (q_{A}(275-q_{A})) = 275 - 2q_{A},
 $$
 and equating it to the marginal cost gives $q_{A}=64$, lesser than before.
 
@@ -51,9 +51,9 @@ Since the problem is symmetric in this case, United's best response curve is jus
 
 To compute the best response curve for American, the residual demand curve is $P=339-q_{A}-q_{U}$. Then, the revenue is $R=339q_{A}-q_{A}^{2}-q_{U}q_{A}$, so the marginal revenue is
 $$
-\text{MR}=\frac{ \partial R }{ \partial q_{A} } = 339 - 2q_{A} - q_{U}.
+MR=\frac{ \partial R }{ \partial q_{A} } = 339 - 2q_{A} - q_{U}.
 $$
-Setting this equal to $\text{MC}=147$ gives $q_{A}=96-\frac{q_{U}}{2}$.
+Setting this equal to $MC=147$ gives $q_{A}=96-\frac{q_{U}}{2}$.
 
 By symmetry, United's best response curve is just $q_{U}=96-\frac{q_{A}}{2}$. Therefore, the Cournot equilibrium occurs at $q_{A}=q_{U}=64$. 
 

@@ -27,3 +27,7 @@ By cheating, United raises their profits and lowers American's profits. This dec
 Perfect competition has the most quantity produced, but literally zero profit per producer. Monopoly has the least quantity produced, but the most profit per producer. Oligopoly lies somewhere in the middle. 
 
 In terms of welfare, perfect competition has the highest welfare, but it is all in the form of consumer surplus. Monopoly has the most deadweight loss, on the other hand, but it has the most producer surplus.
+
+---
+
+**Next:** [[⛺Monopoly and Oligopoly Homepage]]
