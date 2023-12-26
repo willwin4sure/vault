@@ -1,3 +1,5 @@
+#MIT #math #probability
+
 > A pea can be chopped up and reassembled into the sun.
 > — The [[Banach-Tarski Paradox]]
 
@@ -26,3 +28,7 @@ Finally, begin a discussion of probability, including important lemmas on infini
 6. [[Probability Spaces]]
 7. [[Independence]]
 8. [[Borel-Cantelli Lemmas]]
+
+---
+
+**Next:** [[⛺Measurable Functions Homepage]]

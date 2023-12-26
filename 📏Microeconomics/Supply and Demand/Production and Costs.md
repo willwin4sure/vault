@@ -22,6 +22,9 @@ Capital consists of all machines, land, etc. that go into production, and comes 
 
 >[!idea]
 > Analogous to utility, we should expect there to be <span style="color:#0088ff">diminishing marginal product</span> in all inputs. For example, if you are digging a hole with a single shovel, adding more workers can only help up to a certain point.
+
+^78e50d
+
 ## Short Run Production and Costs
 
 In the short run (on the order of weeks, perhaps), you can easily hire/fire workers, but not buy/sell machines or land.

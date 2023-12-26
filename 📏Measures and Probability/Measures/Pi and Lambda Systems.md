@@ -20,7 +20,7 @@
 >Show that if $\mathcal{A}$ is both a $\pi$-system and a $\lambda$-system, then $\mathcal{A}$ is a [[Measure Spaces#^f1d37f|$\sigma$-algebra]].
 
 >[!question]
->Show that a $\pi$-system is a [[Rings and Algebras#^aed1d6|ring]].
+>Show that a [[Rings and Algebras#^aed1d6|ring]] is a $\pi$-system.
 
 ## Some Intuition
 

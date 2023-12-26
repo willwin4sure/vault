@@ -32,6 +32,8 @@ Alright, well now that we know which sets are potentially measurable, let's assi
 >[!definition] Definition (Measure space)
 >Given a [[Measure Spaces#^dde3c4|measure]] $\mu$ on a [[Measure Spaces#^c0c7fc|measurable space]] $(E,\mathcal{E})$, the triple $(E,\mathcal{E},\mu)$ is called a <span style="color:#0088ff">measure space</span>.
 
+^607777
+
 >[!question]
 >What would go wrong if we imposed *uncountable* additivity?
 
