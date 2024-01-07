@@ -1,6 +1,6 @@
 #MIT #math #probability
 
-From the first half of the MIT graduate course [18.675 Theory of Probability](http://student.mit.edu/catalog/search.cgi?search=18.675) taught by Konstantinos Kavvadias. For the second half of the course, check out the [[📏Advanced Probability Portal]].
+From the first half of the MIT graduate course [18.675 Theory of Probability](http://student.mit.edu/catalog/search.cgi?search=18.675) taught by Konstantinos Kavvadias. For the second half of the course, check out the [[🎲Advanced Probability Portal]].
 
 This section of the course follows James Norris' set of notes [Probability and Measure](https://www.statslab.cam.ac.uk/~james/Lectures/pm.pdf).
 

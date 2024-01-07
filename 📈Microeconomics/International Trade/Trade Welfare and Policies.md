@@ -22,7 +22,7 @@ The reason people don't like imports is because it might hurt domestic producers
 
 One idea for preventing this is a <span style="color:#0088ff">tariff</span>, which is a tax on imports. This increases the effective world price to $P_{T}>P_{W}$, as shown.
 
-![[📏Microeconomics/tariff.png|center|384]]
+![[tariff.png|center|384]]
 
 Consumers now lose out on the entire $A+B+C+D$, while producers only gain $A$. The government gains $C$ from the tariff (the width of the rectangle is remaining imports, the height is the tariff amount). $B+D$ is pure deadweight loss.
 

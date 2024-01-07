@@ -1,6 +1,6 @@
 #MIT #economics 
 
-*From the [[📏Microeconomics Portal]].*
+*From the [[📈Microeconomics Portal]].*
 
 In this section, we explore the topics of decision-making under uncertainty, and why that leads to insurance as a service. 
 ## Main Sequence

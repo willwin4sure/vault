@@ -1,6 +1,6 @@
 #MIT #economics 
 
-*From the [[📏Microeconomics Portal]].*
+*From the [[📈Microeconomics Portal]].*
 
 This section of the course discusses two alternative market structures to perfect competition.
 ## Main Sequence
