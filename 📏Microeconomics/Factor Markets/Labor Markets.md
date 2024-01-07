@@ -25,7 +25,7 @@ This is what happens when only a single firm supplies labor. Similar to [[Monopo
 $$
 \frac{d}{dL}(L\cdot w(L))=w+\frac{dw}{dL}\cdot L,
 $$
-which is greater than just $w$; this is now set to $MRP_{L}$. Mathematical details are left as an exercise.
+which is greater than just $w$; this instead is now set to $MRP_{L}$. Mathematical details are left as an exercise.
 
 ---
 

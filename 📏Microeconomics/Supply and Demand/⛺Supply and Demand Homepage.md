@@ -7,7 +7,7 @@
 
 Microeconomics is the study of how individuals and firms make themselves as well off as possible in a world of **scarcity**.
 
-Everything in life is a tradeoff, because of <span style="color:#0088ff">opportunity costs</span>: every action—or inaction—has a cost in terms of *what could have been done instead*.
+Everything in life is a tradeoff, because of <span style="color:#0088ff">opportunity costs</span>: every action—or inaction—has a cost in terms of *what could have been done instead*. ^457859
 
 Our goal in this course is to build simplified **models** of how the economy works. We will try to understand these models on three levels: intuitively, graphically, and mathematically.
 

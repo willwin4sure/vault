@@ -4,95 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "62911c6e9c62839f",
+        "id": "3e566deaa70acbde",
         "type": "tabs",
         "children": [
           {
-            "id": "02740ff89c18296b",
+            "id": "5ca4988f487587ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📏Measures and Probability/Measures/⛺Measures Homepage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "693f3c288aca0f96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📏Microeconomics/Factor Markets/⛺Factor Markets Homepage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de5d920b419c3123",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f556686ad397f4d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📏Microeconomics/International Trade/⛺International Trade Homepage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d0689842040ef16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📏Microeconomics/International Trade/⛺International Trade Homepage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a5515fc72e4650d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📏Microeconomics/Uncertainty and Insurance/⛺Uncertainty and Insurance Homepage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "931f6199dd71b857",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "📏Microeconomics/Uncertainty and Insurance/Asymmetric Information and Social Insurance.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "📏Microeconomics/Uncertainty and Insurance/Asymmetric Information and Social Insurance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "📏Microeconomics/Uncertainty and Insurance/Asymmetric Information and Social Insurance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "📏Microeconomics/Uncertainty and Insurance/Asymmetric Information and Social Insurance.md"
               }
             }
           }
@@ -220,48 +147,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "931f6199dd71b857",
+  "active": "5ca4988f487587ec",
   "lastOpenFiles": [
-    "Templates/Vocab.md",
-    "📏Microeconomics/Uncertainty and Insurance/⛺Uncertainty and Insurance Homepage.md",
-    "📏Microeconomics/Miscellany/⛺Miscellany Homepage.md",
-    "📏Microeconomics/International Trade/⛺International Trade Homepage.md",
-    "📏Microeconomics/Factor Markets/⛺Factor Markets Homepage.md",
-    "📏Microeconomics/Factor Markets/Capital Markets.md",
-    "📏Microeconomics/International Trade/When and Why to Trade.md",
-    "📏Microeconomics/International Trade/Trade Welfare and Policies.md",
-    "📏Microeconomics/Uncertainty and Insurance/Asymmetric Information and Social Insurance.md",
     "📏Microeconomics/Uncertainty and Insurance/Decision Making Under Uncertainty.md",
-    "📏Microeconomics/📏Microeconomics Portal.md",
-    "📏Microeconomics/tariff.png",
-    "📏Microeconomics/Factor Markets/Labor Markets.md",
-    "📏Microeconomics/Monopoly and Oligopoly/⛺Monopoly and Oligopoly Homepage.md",
-    "📏Microeconomics/Supply and Demand/⛺Supply and Demand Homepage.md",
-    "📏Measures and Probability/Measures/⛺Measures Homepage.md",
-    "📏Measures and Probability/Measurable Functions/⛺Measurable Functions Homepage.md",
-    "📏Measures and Probability/📏Measures and Probability Portal.md",
-    "README.md",
-    "📏Microeconomics/Factor Markets/Factor Demand.md",
-    "📏Microeconomics/Monopoly and Oligopoly/Cartels.md",
+    "📏Microeconomics/Uncertainty and Insurance/Asymmetric Information and Social Insurance.md",
+    "📏Microeconomics/Uncertainty and Insurance/⛺Uncertainty and Insurance Homepage.md",
+    "📏Microeconomics/International Trade/⛺International Trade Homepage.md",
+    "📏Microeconomics/International Trade/Trade Welfare and Policies.md",
+    "📏Microeconomics/International Trade/img/tariff.png",
+    "📏Microeconomics/International Trade/img/consumption_sets_under_trade.png",
+    "expor.md",
+    "📏Microeconomics/International Trade/img/exports.png",
+    "📏Microeconomics/International Trade/img/exports_files/docviewer.css",
+    "📏Microeconomics/International Trade/img/exports_files/variables-7dd4b80918af0e0218ec0229e4bd5873(1).css",
+    "📏Microeconomics/International Trade/img/exports_files/heap-3001039959.js.download",
+    "📏Microeconomics/International Trade/img/exports_files/variables-7dd4b80918af0e0218ec0229e4bd5873(1).js.download",
+    "📏Microeconomics/International Trade/img/exports_files/main.64dc4ea3e0e5a9ed0bbc.bundle.js.download",
+    "📏Microeconomics/International Trade/img/exports_files/Denver-8b016888d3.js.download",
+    "📏Microeconomics/International Trade/img/exports_files/raven.min.js.download",
+    "📏Microeconomics/International Trade/img/exports_files/8.7f24524f32cfb6651a44.bundle.js.download",
+    "📏Microeconomics/International Trade/img/exports_files/28.e1bcc23a5c68c92f63e0.bundle.js.download",
+    "📏Microeconomics/International Trade/img/exports_files/fonts-6ee09b0b2f.css",
+    "📏Microeconomics/International Trade/img/exports_files/avatar-50.png",
+    "📏Microeconomics/International Trade/img/imports.png",
+    "📏Microeconomics/International Trade/When and Why to Trade.md",
     "📏Microeconomics/Monopoly and Oligopoly/Oligopoly and Cournot Equilibrium.md",
     "📏Microeconomics/Monopoly and Oligopoly/Monopoly.md",
+    "📏Microeconomics/Monopoly and Oligopoly/Cartels.md",
+    "📏Microeconomics/Supply and Demand/Properties of Demand Curves.md",
+    "📏Microeconomics/Factor Markets/Labor Markets.md",
+    "📏Microeconomics/Factor Markets/Capital Markets.md",
+    "📏Microeconomics/Factor Markets/⛺Factor Markets Homepage.md",
+    "📏Microeconomics/Supply and Demand/⛺Supply and Demand Homepage.md",
+    "📏Microeconomics/International Trade/img/joint_ppf.png",
+    "README.md",
+    "📏Microeconomics/International Trade/img/economies_of_scope.png",
+    "📏Microeconomics/International Trade/img/Files_files/avatar-50.png",
+    "📏Microeconomics/Factor Markets/Factor Demand.md",
+    "📏Microeconomics/Monopoly and Oligopoly/⛺Monopoly and Oligopoly Homepage.md",
+    "📏Microeconomics/Supply and Demand/Utility and Budget.md",
     "📏Microeconomics/Supply and Demand/Surpluses and Welfare Economics.md",
     "📏Microeconomics/Supply and Demand/Firms in Competition.md",
     "📏Microeconomics/Supply and Demand/Production and Costs.md",
-    "📏Microeconomics/Supply and Demand/Properties of Demand Curves.md",
+    "📏Microeconomics/Supply and Demand/Supply and Demand Curves.md",
+    "📏Microeconomics/📏Microeconomics Portal.md",
+    "📏Microeconomics/Supply and Demand/Real-World Examples.md",
+    "📏Microeconomics/Miscellany/⛺Miscellany Homepage.md",
+    "📏Microeconomics/tariff.png",
     "📏Microeconomics/Monopoly and Oligopoly/img/monopoly_equilibrium.jpg",
-    "📏Microeconomics/Miscellany",
-    "📏Microeconomics/Uncertainty and Insurance",
-    "📏Microeconomics/International Trade",
-    "📏Microeconomics/Supply and Demand/img/price_ceiling_dwl.png",
-    "📏Microeconomics/Supply and Demand/img/surpluses.jpg",
-    "📏Microeconomics/Supply and Demand/img/flattening_supply_curve.jpg",
-    "📏Microeconomics/Supply and Demand/img/optimal_inputs.png",
-    "📏Microeconomics/Supply and Demand/img/optimal_bundle.png",
-    "📏Microeconomics/Supply and Demand/img/optimal_bundle.jpg",
-    "📏Microeconomics/Supply and Demand/img/short_run_cost_curves.jpg",
-    "📏Microeconomics/Supply and Demand/img/SNAP.jpg",
-    "Measures Homepage",
     "Untitled.canvas"
   ]
 }

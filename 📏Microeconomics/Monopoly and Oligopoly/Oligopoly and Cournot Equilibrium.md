@@ -7,7 +7,7 @@ We will analyze this using game theory. You should already know all about this: 
 
 Prisoner's dilemma literally appears in economics in the example of advertising versus not advertising the capture the market; the dominant cooperative strategy is to both not advertise, while the dominant noncooperative strategy is to both advertise (à la prisoner's dilemma).
 
-How do we solve this problem? Well, we make it a *repeated game*.
+How do we solve this problem? Well, we make it a *repeated game*. Blah blah, you've heard this.
 ## Cournot Model
 
 This is one model of noncooperative oligopolistic equilibria based off of Nash equilibria. We will consider two competing firms in the market, and each firm can decide what quantity to produce. 

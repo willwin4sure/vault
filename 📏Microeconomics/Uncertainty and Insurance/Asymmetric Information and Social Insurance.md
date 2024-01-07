@@ -1,0 +1,1 @@
+This gives us a way of modeling why people purchase insurance! However, there's one great issue that faces insurance providers: <span style="color:#0088ff">adverse selection</span> and <span style="color:#0088ff">information asymmetry</span>. Individuals know more about their 

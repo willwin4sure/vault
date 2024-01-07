@@ -27,6 +27,8 @@ We can represent indifference curves as the level curves of utility functions. F
 > [!definition] Definition (Utility function)
 > Suppose we have two goods $X$ and $Y$, and you buy $x$ units of one and $y$ units of the other. A <span style="color:#0088ff">utility function</span> $\mathcal{U}:\mathbb{R}\times \mathbb{R}\to \mathbb{R}$ maps every bundle to some number of <span style="color:#0088ff">utils</span>. This encodes preferences as an ordinal ranking: if some bundle has more utils, it is preferred.
 
+^15a1a4
+
 > [!example]
 > If I bought $S$ slices of pizza and $C$ cookies, my utility function could be $\mathcal{U}(S,C)=\sqrt{ SC }$.
 

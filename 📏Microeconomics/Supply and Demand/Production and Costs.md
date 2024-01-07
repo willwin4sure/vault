@@ -2,7 +2,7 @@ We turn our attention to firms, who are the producers. The goal of firms is to m
 
 The short story is not so different from what happened from consumers in the section on [[Utility and Budget]]. This time, producers try to hit some production target $q$ based on their <span style="color:#0088ff">production function</span>, but do so while minimizing the <span style="color:#0088ff">cost of production</span>.
 
-Afterward, they will set $q$ to optimize profits given a market price $P$ (we'll discuss this in the next section on [[Firms in Competition]]). The story gets a bit more complicated when the quantity they decide to produce *affects* $P$, but we will address these issues when we discuss [[⛺Monopoly and Oligopoly Homepage|different market structures]].
+This tells them how much it costs to produce any quantity $q$. Afterward, they will set $q$ to optimize profits given a market price $P$ (we'll discuss this in the next section on [[Firms in Competition]]). The story gets a bit more complicated when the quantity they decide to produce *affects* $P$, but we will address these issues when we discuss [[⛺Monopoly and Oligopoly Homepage|different market structures]].
 ## Firm Inputs and Outputs
 
 Firms convert inputs (<span style="color:#0088ff">factors of production</span>) into outputs through a <span style="color:#0088ff">production process</span>. The inputs are capital and labor, while the outputs are the goods and services produced by the firm. ^d16137
