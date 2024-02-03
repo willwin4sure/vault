@@ -1,4 +1,4 @@
-So far, we've discussed how the market economy works to answer three basic questions: what goods to produce, how much to produce, and how to allocate the goods. To do, we developed a theory of [[Supply and Demand Curves|supply and demand]].
+So far, we've discussed how the market economy works to answer three basic questions: what goods to produce, how much to produce, and how to allocate the goods. To do so, we developed a theory of [[Supply and Demand Curves|supply and demand]].
 
 In this section, we begin discussing welfare economics, which is a measurement of economic outcomes on the well-being of society. How would we quantify such a thing?
 ## Surplus

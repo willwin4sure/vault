@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📈Microeconomics/📈Microeconomics Portal.md",
+                "file": "📈Microeconomics/Supply and Demand/Surpluses and Welfare Economics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71fcf561376a2723",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📈Microeconomics/Miscellany/Social Welfare Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "303e6d0f10143d71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💻Programming/💻Programming Portal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f55f7502050c2083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💻Programming/Rust/Rust Setup and Cargo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "870f5514fd4580c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💻Programming/💻Programming Portal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📈Microeconomics/📈Microeconomics Portal.md",
+                "file": "💻Programming/Rust/Rust Setup and Cargo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📈Microeconomics/📈Microeconomics Portal.md",
+                "file": "💻Programming/Rust/Rust Setup and Cargo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📈Microeconomics/📈Microeconomics Portal.md"
+                "file": "💻Programming/Rust/Rust Setup and Cargo.md"
               }
             }
           }
@@ -147,17 +196,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5ca4988f487587ec",
+  "active": "f55f7502050c2083",
   "lastOpenFiles": [
-    "🎲Advanced Probability/🎲Advanced Probability Portal.md",
-    "📈Microeconomics/Factor Markets/⛺Factor Markets Homepage.md",
-    "📈Microeconomics/📈Microeconomics Portal.md",
+    "💻Programming/Rust/⛺Rust Homepage.md",
+    "📈Microeconomics/Supply and Demand/Surpluses and Welfare Economics.md",
+    "📈Microeconomics/Supply and Demand/Production and Costs.md",
+    "📈Microeconomics/Supply and Demand/Properties of Demand Curves.md",
+    "📈Microeconomics/Supply and Demand/Real-World Examples.md",
+    "📈Microeconomics/Supply and Demand/Supply and Demand Curves.md",
     "🏠Home.md",
+    "📈Microeconomics/Miscellany/Social Welfare Function.md",
+    "📈Microeconomics/Supply and Demand/Utility and Budget.md",
+    "📈Microeconomics/Miscellany/⛺Miscellany Homepage.md",
+    "📈Microeconomics/International Trade/Trade Welfare and Policies.md",
+    "📈Microeconomics/International Trade/When and Why to Trade.md",
     "📈Microeconomics/Uncertainty and Insurance/Asymmetric Information and Social Insurance.md",
     "📈Microeconomics/Uncertainty and Insurance/Decision Making Under Uncertainty.md",
+    "📈Microeconomics/Supply and Demand/Firms in Competition.md",
+    "📈Microeconomics/Supply and Demand/⛺Supply and Demand Homepage.md",
+    "💻Programming/Rust/Rust Setup and Cargo.md",
+    "💻Programming/💻Programming Portal.md",
+    "💻Programming/Rust/Rust Macros.md",
+    "💻Programming/C++/⛺C++ Homepage.md",
+    "💻Programming/Rust",
+    "📈Microeconomics/Factor Markets/⛺Factor Markets Homepage.md",
+    "💻Programming/C++/C++ Homepage",
+    "💻Programming/C++",
+    "📈Microeconomics/📈Microeconomics Portal.md",
+    "💻Programming",
+    "🎲Advanced Probability/🎲Advanced Probability Portal.md",
     "📈Microeconomics/Uncertainty and Insurance/⛺Uncertainty and Insurance Homepage.md",
     "📈Microeconomics/International Trade/⛺International Trade Homepage.md",
-    "📈Microeconomics/International Trade/Trade Welfare and Policies.md",
     "📏Microeconomics/International Trade/img/tariff.png",
     "📈Microeconomics/International Trade/img/consumption_sets_under_trade.png",
     "expor.md",
@@ -168,31 +237,11 @@
     "📏Microeconomics/International Trade/img/exports_files/variables-7dd4b80918af0e0218ec0229e4bd5873(1).js.download",
     "📏Microeconomics/International Trade/img/exports_files/main.64dc4ea3e0e5a9ed0bbc.bundle.js.download",
     "📏Microeconomics/International Trade/img/exports_files/Denver-8b016888d3.js.download",
-    "📏Microeconomics/International Trade/img/exports_files/raven.min.js.download",
-    "📏Microeconomics/International Trade/img/exports_files/8.7f24524f32cfb6651a44.bundle.js.download",
-    "📏Microeconomics/International Trade/img/exports_files/28.e1bcc23a5c68c92f63e0.bundle.js.download",
-    "📏Microeconomics/International Trade/img/exports_files/fonts-6ee09b0b2f.css",
     "📏Microeconomics/International Trade/img/exports_files/avatar-50.png",
     "📈Microeconomics/International Trade/img/imports.png",
-    "📈Microeconomics/International Trade/When and Why to Trade.md",
-    "📈Microeconomics/Monopoly and Oligopoly/Oligopoly and Cournot Equilibrium.md",
-    "📈Microeconomics/Monopoly and Oligopoly/Monopoly.md",
-    "📈Microeconomics/Monopoly and Oligopoly/Cartels.md",
-    "📈Microeconomics/Supply and Demand/Properties of Demand Curves.md",
-    "📈Microeconomics/Factor Markets/Labor Markets.md",
-    "📈Microeconomics/Factor Markets/Capital Markets.md",
-    "📈Microeconomics/Supply and Demand/⛺Supply and Demand Homepage.md",
     "📈Microeconomics/International Trade/img/joint_ppf.png",
-    "README.md",
     "📈Microeconomics/International Trade/img/economies_of_scope.png",
     "📏Microeconomics/International Trade/img/Files_files/avatar-50.png",
-    "📈Microeconomics/Factor Markets/Factor Demand.md",
-    "📈Microeconomics/Monopoly and Oligopoly/⛺Monopoly and Oligopoly Homepage.md",
-    "📈Microeconomics/Supply and Demand/Utility and Budget.md",
-    "📈Microeconomics/Supply and Demand/Surpluses and Welfare Economics.md",
-    "📈Microeconomics/Supply and Demand/Firms in Competition.md",
-    "📈Microeconomics/Supply and Demand/Production and Costs.md",
-    "📈Microeconomics/Supply and Demand/Supply and Demand Curves.md",
     "📈Microeconomics/tariff.png",
     "📈Microeconomics/Monopoly and Oligopoly/img/monopoly_equilibrium.jpg",
     "Untitled.canvas"

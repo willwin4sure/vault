@@ -34,6 +34,9 @@ Intuitively, price elasticity of demand measures how much price changes impact t
 
 > [!note]
 > Importantly, elasticity changes along the curve! This is especially true if we assume that the curve is linear.
+
+> [!question]
+> Draw a perfectly inelastic demand curve, and a perfectly elastic demand curve.
 ## Shifting Demand Curves
 
 Last, we saw how changes in price affect quantity demanded. In this section, we explore how changes in income affect quantity demanded.
