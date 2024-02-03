@@ -80,7 +80,7 @@ To solve for constrained choice, you set the MRS and MRT equal.
 > $$
 > xp_{X}=\frac{2}{5}B\quad\text{and}\quad yp_{Y}=\frac{3}{5}B.
 > $$
-> Therefore, the optimal bundle is $(x^{*},y^{*})=\left( \frac{2}{5}, \frac{3}{10} \right)$.
+> Therefore, the optimal bundle is $(x^{*},y^{*})=\left( \frac{2}{5}, \frac{3}{10} \right)$. Note that we spend more of our budget on $Y$, which makes sense since the utility function values it more.
 
 This showcases a common feature of utility functions of this shape: the optimal bundle will involve the consumer spending some fraction of their budget on each good, regardless of the price (it only depends on their preferences).
 

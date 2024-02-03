@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3e566deaa70acbde",
+        "id": "c4d4d172c29d21a2",
         "type": "tabs",
         "children": [
           {
-            "id": "5ca4988f487587ec",
+            "id": "7b629a549ee108a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📈Microeconomics/📈Microeconomics Portal.md",
-                "mode": "source",
+                "file": "📈Microeconomics/Factor Markets/Capital Markets.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📈Microeconomics/📈Microeconomics Portal.md",
+                "file": "📈Microeconomics/Factor Markets/Capital Markets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📈Microeconomics/📈Microeconomics Portal.md",
+                "file": "📈Microeconomics/Factor Markets/Capital Markets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📈Microeconomics/📈Microeconomics Portal.md"
+                "file": "📈Microeconomics/Factor Markets/Capital Markets.md"
               }
             }
           }
@@ -147,11 +147,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5ca4988f487587ec",
+  "active": "7b629a549ee108a8",
   "lastOpenFiles": [
-    "🎲Advanced Probability/🎲Advanced Probability Portal.md",
+    "📈Microeconomics/Factor Markets/Labor Markets.md",
+    "📈Microeconomics/Factor Markets/Factor Demand.md",
     "📈Microeconomics/Factor Markets/⛺Factor Markets Homepage.md",
+    "📈Microeconomics/Monopoly and Oligopoly/⛺Monopoly and Oligopoly Homepage.md",
+    "📈Microeconomics/Monopoly and Oligopoly/Cartels.md",
+    "📈Microeconomics/Monopoly and Oligopoly/Oligopoly and Cournot Equilibrium.md",
+    "📈Microeconomics/Monopoly and Oligopoly/Monopoly.md",
+    "📈Microeconomics/Supply and Demand/⛺Supply and Demand Homepage.md",
+    "📈Microeconomics/Supply and Demand/Surpluses and Welfare Economics.md",
+    "📈Microeconomics/Supply and Demand/Properties of Demand Curves.md",
+    "📈Microeconomics/Supply and Demand/Utility and Budget.md",
+    "📈Microeconomics/Supply and Demand/Supply and Demand Curves.md",
     "📈Microeconomics/📈Microeconomics Portal.md",
+    "🎲Advanced Probability/🎲Advanced Probability Portal.md",
     "🏠Home.md",
     "📈Microeconomics/Uncertainty and Insurance/Asymmetric Information and Social Insurance.md",
     "📈Microeconomics/Uncertainty and Insurance/Decision Making Under Uncertainty.md",
@@ -175,24 +186,13 @@
     "📏Microeconomics/International Trade/img/exports_files/avatar-50.png",
     "📈Microeconomics/International Trade/img/imports.png",
     "📈Microeconomics/International Trade/When and Why to Trade.md",
-    "📈Microeconomics/Monopoly and Oligopoly/Oligopoly and Cournot Equilibrium.md",
-    "📈Microeconomics/Monopoly and Oligopoly/Monopoly.md",
-    "📈Microeconomics/Monopoly and Oligopoly/Cartels.md",
-    "📈Microeconomics/Supply and Demand/Properties of Demand Curves.md",
-    "📈Microeconomics/Factor Markets/Labor Markets.md",
     "📈Microeconomics/Factor Markets/Capital Markets.md",
-    "📈Microeconomics/Supply and Demand/⛺Supply and Demand Homepage.md",
     "📈Microeconomics/International Trade/img/joint_ppf.png",
     "README.md",
     "📈Microeconomics/International Trade/img/economies_of_scope.png",
     "📏Microeconomics/International Trade/img/Files_files/avatar-50.png",
-    "📈Microeconomics/Factor Markets/Factor Demand.md",
-    "📈Microeconomics/Monopoly and Oligopoly/⛺Monopoly and Oligopoly Homepage.md",
-    "📈Microeconomics/Supply and Demand/Utility and Budget.md",
-    "📈Microeconomics/Supply and Demand/Surpluses and Welfare Economics.md",
     "📈Microeconomics/Supply and Demand/Firms in Competition.md",
     "📈Microeconomics/Supply and Demand/Production and Costs.md",
-    "📈Microeconomics/Supply and Demand/Supply and Demand Curves.md",
     "📈Microeconomics/tariff.png",
     "📈Microeconomics/Monopoly and Oligopoly/img/monopoly_equilibrium.jpg",
     "Untitled.canvas"

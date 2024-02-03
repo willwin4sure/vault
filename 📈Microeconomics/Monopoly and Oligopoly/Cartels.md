@@ -1,4 +1,4 @@
-Last time, we discussed what happens in oligopoly when firms do not cooperate. However, we discovered that firms can perform better in aggregate by cooperating, and essentially forming a larger monopoly and splitting the profits; this is called a <span style="color:#0088ff">cartel</span>. 
+Last time, we discussed what happens in oligopoly when firms do not cooperate. However, we discovered that firms can perform better in aggregate by cooperating—essentially forming a larger monopoly and splitting the profits; this is called a <span style="color:#0088ff">cartel</span>. 
 
 ## Comparing Profits
 

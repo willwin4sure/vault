@@ -48,14 +48,14 @@ For example, if you are the only firm producing insulin, consumers will have to 
 
 ## Welfare Effects of Monopoly
 
-It is clear from the image above that the monopolist introduces [[Surpluses and Welfare Economics#^43802d|deadweight loss]], marked in black versus the perfectly competitive case.
+It is clear from the image above that the monopolist introduces [[Surpluses and Welfare Economics#^43802d|deadweight loss]] (marked in black) versus the perfectly competitive case.
 
 However, a monopolist that can perform perfect <span style="color:#0088ff">price discrimination</span> can actually recapture the entire social welfare, it just all comes in the form of producer surplus! All such a monopolist would have to do is sell to each person at exactly the price they are willing to pay, unlike in our current model where the monopolist must charge the same price for every customer.
 
 In this case, the monopolist will keep selling until $P=MC(Q)$, once again the perfectly competitive equilibrium, maximizing social welfare.
 
 > [!idea]
-> The government can actually solve this with policy! They can impose a price ceiling at the perfectly competitive price.
+> An alternative solution is that the government solves this with policy! They can impose a price ceiling at the perfectly competitive price.
 
 If they set the price ceiling too low, however, this may introduce even more deadweight loss than leaving the monopoly alone.
 ## How do Monopolies Arise?

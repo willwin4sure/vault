@@ -1,3 +1,5 @@
+This page contains several real-world examples, linked from various pages in the section.
+
 > [!example] Example (eBay kidney auction)
 > Auctions are great examples of perfectly competitive markets. Someone once offered one of their kidneys up for auction on eBay. Bidding started at $25,000, and the price climbed to $5 million before the auction was shut down, because it is illegal to sell bodily organs on the market.
 

@@ -2,9 +2,9 @@
   "accentColor": "",
   "enabledCssSnippets": [
     "highlights",
-    "callouts",
     "images",
-    "tables"
+    "tables",
+    "callouts"
   ],
   "baseFontSize": 16,
   "theme": "obsidian"

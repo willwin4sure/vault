@@ -4,7 +4,7 @@ The supply of capital comes from consumers, based on their decisions of how much
 
 How do household savings actually become financial capital?
 
-1. Money can go into the **bank**, which can give a loan to firm. Banks pool money, promising riskless investments to investors, and then spend them on riskier ventures.
+1. Money can go into the **bank**, which can give a loan to firm. Banks pool money, promising riskless investments to investors, and spending them on riskier ventures.
 2. People can make a direct loan to the firm by buying **corporate bonds**.
 3. People can invest directly in the **stocks** of the firm.
 ## Intertemporal Choice
