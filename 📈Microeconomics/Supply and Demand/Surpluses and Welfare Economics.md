@@ -3,7 +3,7 @@ So far, we've discussed how the market economy works to answer three basic quest
 In this section, we begin discussing welfare economics, which is a measurement of economic outcomes on the well-being of society. How would we quantify such a thing?
 ## Surplus
 
-Let's start with the consumers. We've already developed a way of measuring well-being: utility. We can even construct a more sophisticated [[Social Welfare Function|social welfare function]]. However, in practice, it is much easier to simply use money as the welfare measure.
+Let's start with the consumers. We've already developed a way of measuring well-being: utility. We can even construct a more sophisticated [[Efficiency and Equity|social welfare function]]. However, in practice, it is much easier to simply use money as the welfare measure.
 
 How much well-being does a consumer get from a good? Well, we can measure it by their *willingness to pay* for the good; this is literally just the demand curve! If they are willing to pay $300 for tickets to a Taylor Swift concert, and they got them for only $250, then we can say that they had a net well-being gain of $50.
 

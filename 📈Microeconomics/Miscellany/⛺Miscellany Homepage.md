@@ -2,7 +2,7 @@
 
 *From the [[📈Microeconomics Portal]].*
 
-A few remaining topics from the class that were hard to classify, and were only devoted a single lecture to. Not to say that they aren't important: **many of these topics are very cool!** I just couldn't find a good section to place them into.
+A few remaining topics from the class that were hard to classify, and each were only devoted a single lecture to. Not to say that they aren't important: **many of these topics are very cool!** I just couldn't find a good section to place them into.
 ## Main Sequence
 
 Is efficiency all we should strive for? Just because there is no [[Surpluses and Welfare Economics#^43802d|deadweight loss]], does that mean we are happy with the societal outcome? Learn about tradeoffs between efficiency and equity, and how we even define a good societal outcome.

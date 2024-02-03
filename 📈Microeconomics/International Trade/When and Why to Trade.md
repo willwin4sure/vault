@@ -28,7 +28,7 @@ How do we decide whether or not to trade? We need to look at the [[⛺Supply and
 > [!definition] Definition (Comparative advantage)
 > A country has a <span style="color:#0088ff">comparative advantage</span> in producing a good if the opportunity cost of producing it is lower.
 
-In particular, Colombia has a comparative advantage in roses since $\frac{1}{8}< \frac{2}{3}$, while the United State has a comparative advantage in computers since $\frac{3}{2}<8$.
+In particular, Colombia has a comparative advantage in roses since $\frac{1}{8}< \frac{2}{3}$, while the United States has a comparative advantage in computers since $\frac{3}{2}<8$.
 
 > [!definition] Definition (Absolute advantage)
 > A country has an <span style="color:#0088ff">absolute advantage</span> in producing a good if it requires less labor to produce it.
@@ -37,7 +37,7 @@ In particular, Colombia has a comparative advantage in roses since $\frac{1}{8}<
 > Comparative advantage is what you care about when deciding whether or not to trade, not absolute advantage!
 
 > [!explanation]-
-> If Colombia took 3 units of labor to make a carton of roses instead, it would still have a competitive advantage in roses and a competitive disadvantage in computer, and trade should still occur. This happens despite the fact that the United States has absolute advantage in both goods.
+> If Colombia took 3 units of labor to make a carton of roses instead, it would still have a competitive advantage in roses and a competitive disadvantage in computers, and trade should still occur. This happens despite the fact that the United States has absolute advantage in both goods.
 
 > [!question]
 > Tell me the range of ratios of roses for computers at which Colombia and the United States would be willing to trade.
