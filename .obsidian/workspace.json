@@ -4,15 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3e566deaa70acbde",
+        "id": "c4d4d172c29d21a2",
         "type": "tabs",
         "children": [
           {
-            "id": "5ca4988f487587ec",
+            "id": "7b629a549ee108a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "📈Microeconomics/Supply and Demand/Surpluses and Welfare Economics.md",
                 "mode": "source",
                 "source": false
@@ -63,6 +64,10 @@
               "state": {
                 "file": "💻Programming/💻Programming Portal.md",
                 "mode": "source",
+=======
+                "file": "📈Microeconomics/Factor Markets/Capital Markets.md",
+                "mode": "preview",
+>>>>>>> 5a0ceded55fa9d99485dd745f9d78125561173ee
                 "source": false
               }
             }
@@ -134,7 +139,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "💻Programming/Rust/Rust Setup and Cargo.md",
+=======
+                "file": "📈Microeconomics/Factor Markets/Capital Markets.md",
+>>>>>>> 5a0ceded55fa9d99485dd745f9d78125561173ee
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +160,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "💻Programming/Rust/Rust Setup and Cargo.md",
+=======
+                "file": "📈Microeconomics/Factor Markets/Capital Markets.md",
+>>>>>>> 5a0ceded55fa9d99485dd745f9d78125561173ee
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +187,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "💻Programming/Rust/Rust Setup and Cargo.md"
+=======
+                "file": "📈Microeconomics/Factor Markets/Capital Markets.md"
+>>>>>>> 5a0ceded55fa9d99485dd745f9d78125561173ee
               }
             }
           }
@@ -239,9 +256,19 @@
     "📏Microeconomics/International Trade/img/exports_files/Denver-8b016888d3.js.download",
     "📏Microeconomics/International Trade/img/exports_files/avatar-50.png",
     "📈Microeconomics/International Trade/img/imports.png",
+<<<<<<< HEAD
+=======
+    "📈Microeconomics/International Trade/When and Why to Trade.md",
+    "📈Microeconomics/Factor Markets/Capital Markets.md",
+>>>>>>> 5a0ceded55fa9d99485dd745f9d78125561173ee
     "📈Microeconomics/International Trade/img/joint_ppf.png",
     "📈Microeconomics/International Trade/img/economies_of_scope.png",
     "📏Microeconomics/International Trade/img/Files_files/avatar-50.png",
+<<<<<<< HEAD
+=======
+    "📈Microeconomics/Supply and Demand/Firms in Competition.md",
+    "📈Microeconomics/Supply and Demand/Production and Costs.md",
+>>>>>>> 5a0ceded55fa9d99485dd745f9d78125561173ee
     "📈Microeconomics/tariff.png",
     "📈Microeconomics/Monopoly and Oligopoly/img/monopoly_equilibrium.jpg",
     "Untitled.canvas"

@@ -94,3 +94,8 @@
     --callout-color: 0, 128, 255;
     --callout-icon: "lucide-citrus";
 }
+
+.callout[data-callout="proposition"] {
+    --callout-color: 0, 128, 255;
+    --callout-icon: "lucide-sparkles";
+}
