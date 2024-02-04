@@ -17,7 +17,7 @@ First, learn the formal definition of the fundamental objects in measure theory.
 1. [[Measure Spaces]]
 2. [[Discrete Measure Theory]]
 
-Next, construct more sophisticated measures, such over the real numbers. 
+Next, construct more sophisticated measures, such as over the real numbers. 
 
 3. [[Carathéodory's Extension Theorem]]
 4. [[Uniqueness of Extensions]]

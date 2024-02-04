@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📈Microeconomics/Miscellany/Efficiency and Equity.md",
-                "mode": "source",
+                "file": "📏Measures and Probability/Measures/⛺Measures Homepage.md",
+                "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "439aed601e47dbce",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📈Microeconomics/Miscellany/Efficiency and Equity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📈Microeconomics/Miscellany/Efficiency and Equity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "📈Microeconomics/Miscellany/Efficiency and Equity.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,25 +152,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "115ad968fea3fead",
+  "active": "439aed601e47dbce",
   "lastOpenFiles": [
+    "📈Microeconomics/Uncertainty and Insurance/Asymmetric Information and Social Insurance.md",
+    "📈Microeconomics/Uncertainty and Insurance/⛺Uncertainty and Insurance Homepage.md",
+    "📈Microeconomics/International Trade/When and Why to Trade.md",
+    "📈Microeconomics/Supply and Demand/⛺Supply and Demand Homepage.md",
+    "📏Measures and Probability/Measurable Functions/Measurable Functions.md",
+    "📏Measures and Probability/Measures/⛺Measures Homepage.md",
+    "📏Measures and Probability/Measures/Measure Spaces.md",
+    "💻Programming/Rust/Rust Setup and Cargo.md",
+    "📈Microeconomics/📈Microeconomics Portal.md",
+    "📏Measures and Probability/Measurable Functions/⛺Measurable Functions Homepage.md",
+    "📏Measures and Probability/Integration/⛺Integration Homepage.md",
+    "📏Measures and Probability/Measures/Carathéodory's Extension Theorem.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "📏Measures and Probability/Measures/Set Functions.md",
+    "📏Measures and Probability/Measures/Rings and Algebras.md",
+    "📏Measures and Probability/Measures/Discrete Measure Theory.md",
+    "📏Measures and Probability/Measures/Vitali Construction.md",
+    "📏Measures and Probability/📏Measures and Probability Portal.md",
+    "📏Measures and Probability/Measures/Banach-Tarski Paradox.md",
+    "📈Microeconomics/Miscellany/Efficiency and Equity.md",
     "📈Microeconomics/Supply and Demand/Surpluses and Welfare Economics.md",
     "📈Microeconomics/Monopoly and Oligopoly/Cartels.md",
     "📈Microeconomics/Monopoly and Oligopoly/Monopoly.md",
     "📈Microeconomics/Monopoly and Oligopoly/Oligopoly and Cournot Equilibrium.md",
-    "📈Microeconomics/Miscellany/Efficiency and Equity.md",
-    "📈Microeconomics/Miscellany/Social Welfare Function.md",
-    "📈Microeconomics/Miscellany/⛺Miscellany Homepage.md",
-    "📈Microeconomics/Uncertainty and Insurance/⛺Uncertainty and Insurance Homepage.md",
-    "📈Microeconomics/Uncertainty and Insurance/Asymmetric Information and Social Insurance.md",
-    "📈Microeconomics/Uncertainty and Insurance/Decision Making Under Uncertainty.md",
-    "📈Microeconomics/Factor Markets/Labor Markets.md",
-    "📈Microeconomics/International Trade/When and Why to Trade.md",
-    "📈Microeconomics/International Trade/⛺International Trade Homepage.md",
-    "📈Microeconomics/International Trade/Trade Welfare and Policies.md",
-    "📈Microeconomics/Factor Markets/⛺Factor Markets Homepage.md",
-    "📈Microeconomics/Monopoly and Oligopoly/⛺Monopoly and Oligopoly Homepage.md",
-    "🎲Advanced Probability/🎲Advanced Probability Portal.md",
-    "💻Programming/💻Programming Portal.md"
+    "📈Microeconomics/Miscellany/Social Welfare Function.md"
   ]
 }

@@ -2,3 +2,24 @@
 > — Henri Lebesgue
 
 *From the [[📏Measures and Probability Portal]].*
+
+## Main Sequence
+
+First, relearn integration from your basic calculus class, this time using the Lebesgue integral instead of the Riemann integral (philosophically, we chop horizontally instead of vertically). We will reprove many of the facts you have learned, formally.
+
+1. [[Lebesgue Integration]]
+2. [[Monotone Convergence Theorem]]
+3. [[Lebesgue Integrals Behave]]
+4. [[Fatou's Lemma and Dominated Convergence Theorem]]
+5. [[Transformations of Integrals]]
+6. [[The Fundamental Theorem of Calculus]]
+7. [[Differentiation Under the Integral Sign]]
+
+Next, investigate how to integrate over multiple variables. This includes a discussion of when it is valid to swap order of integration.
+
+8. [[Product Measure and Fubini's Theorem]]
+9. [[Laws of Independent Random Variables]]
+
+---
+
+**Next:** [[⛺Norms and Inequalities Homepage]]

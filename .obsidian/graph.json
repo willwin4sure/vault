@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"📏Measures and Probability\"  ",
@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "path:📏Microeconomics  ",
+      "query": "path:📈Microeconomics  ",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -32,6 +32,6 @@
   "repelStrength": 11.522491349481,
   "linkStrength": 1,
   "linkDistance": 255,
-  "scale": 0.3568081096214622,
+  "scale": 0.2545024694576887,
   "close": false
 }
