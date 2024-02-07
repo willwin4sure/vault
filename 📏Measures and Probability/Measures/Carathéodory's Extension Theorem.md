@@ -131,7 +131,7 @@ Put together, these claims finish, as $\mu ^{*}$ is a measure that extends $\mu$
 
 ## Completion and Null Sets
 
-> [!definition] (Null sets)
+> [!definition] Definition (Null sets)
 > Let $(E,\mathcal{E},\mu)$ be a measure space. We call a subset $N\subseteq E$ <span style="color:#0088ff">null</span> if $N\subseteq B$ for some $B\in\mathcal{E}$ with $\mu(B)=0$.
 
 > [!question]

@@ -4,31 +4,119 @@
     "type": "split",
     "children": [
       {
-        "id": "545833324e9d8265",
+        "id": "d478d5d5f11aa371",
         "type": "tabs",
         "children": [
           {
-            "id": "115ad968fea3fead",
+            "id": "5e0a09a79144ff2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📏Measures and Probability/Measures/⛺Measures Homepage.md",
-                "mode": "preview",
+                "file": "🚶Stochastic Calculus/🚶Stochastic Calculus Portal.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "439aed601e47dbce",
+            "id": "e739c405b56f06bc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🦾Sensorimotor Learning/🦾Sensorimotor Learning Portal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6057a94451d7c01c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🦾Sensorimotor Learning/🦾Sensorimotor Learning Portal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98ef21fb1475e545",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🦾Sensorimotor Learning/🦾Sensorimotor Learning Portal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49d27138dd7b1860",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📈Microeconomics/📈Microeconomics Portal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5823801b02f9f70c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📉Macroeconomics/📉Macroeconomics Portal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df17fff3533b1103",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💻Programming/Typescript/Static Checking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07f15d28424d83ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🚶Stochastic Calculus/Gaussian Variables and Processes/⛺Gaussian Variables and Processes Homepage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "197957c52035d060",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💻Programming/Typescript/Static Checking.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -57,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adverse",
+                "query": "tag:#02/05/24",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,6 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🚶Stochastic Calculus/Gaussian Variables and Processes/⛺Gaussian Variables and Processes Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🚶Stochastic Calculus/Gaussian Variables and Processes/⛺Gaussian Variables and Processes Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +221,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🚶Stochastic Calculus/Gaussian Variables and Processes/⛺Gaussian Variables and Processes Homepage.md"
+              }
             }
           }
         ]
@@ -152,33 +244,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "439aed601e47dbce",
+  "active": "7b8958fc77ca60a8",
   "lastOpenFiles": [
-    "📈Microeconomics/Uncertainty and Insurance/Asymmetric Information and Social Insurance.md",
-    "📈Microeconomics/Uncertainty and Insurance/⛺Uncertainty and Insurance Homepage.md",
-    "📈Microeconomics/International Trade/When and Why to Trade.md",
-    "📈Microeconomics/Supply and Demand/⛺Supply and Demand Homepage.md",
-    "📏Measures and Probability/Measurable Functions/Measurable Functions.md",
-    "📏Measures and Probability/Measures/⛺Measures Homepage.md",
-    "📏Measures and Probability/Measures/Measure Spaces.md",
-    "💻Programming/Rust/Rust Setup and Cargo.md",
+    "🚶Stochastic Calculus/Gaussian Variables and Processes",
+    "🚶Stochastic Calculus/🚶Stochastic Calculus Portal.md",
+    "📈Microeconomics/Monopoly and Oligopoly/⛺Monopoly and Oligopoly Homepage.md",
+    "🚶Stochastic Calculus/Gaussian Variables and Processes/⛺Gaussian Variables and Processes Homepage.md",
+    "🚶Stochastic Calculus/Informal Overview.md",
+    "💻Programming/Typescript/Mutation and Reassignment.md",
+    "💻Programming/Typescript/Static Checking.md",
+    "💻Programming/💻Programming Portal.md",
+    "📉Macroeconomics/📉Macroeconomics Portal.md",
+    "📉Macroeconomics/Economic Measurement.md",
     "📈Microeconomics/📈Microeconomics Portal.md",
-    "📏Measures and Probability/Measurable Functions/⛺Measurable Functions Homepage.md",
+    "🤔Inference and Information/🤔Inference and Information Portal.md",
+    "📉Macroeconomics",
+    "🦾Sensorimotor Learning/🦾Sensorimotor Learning Portal.md",
+    "🤔Inference and Information",
+    "🦾Sensorimotor Learning/Learning.md",
+    "🦾Sensorimotor Learning/Sequential Decision Making.md",
+    "🦾Sensorimotor Learning",
+    "📏Measures and Probability/Integration/Lebesgue Integration.md",
+    "README.md",
+    "Static Checking",
+    "💻Programming/Typescript",
+    "📏Measures and Probability/Measurable Functions/Convergence of Measurable Functions.md",
+    "📏Measures and Probability/Measurable Functions/Tail Events.md",
+    "📏Measures and Probability/Measurable Functions/Random Variables.md",
+    "📏Measures and Probability/Measurable Functions/Rademacher Functions.md",
+    "📏Measures and Probability/Measurable Functions/Measurable Functions.md",
+    "📏Measures and Probability/Measurable Functions/Image Measures.md",
     "📏Measures and Probability/Integration/⛺Integration Homepage.md",
-    "📏Measures and Probability/Measures/Carathéodory's Extension Theorem.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "📏Measures and Probability/Measures/Set Functions.md",
-    "📏Measures and Probability/Measures/Rings and Algebras.md",
-    "📏Measures and Probability/Measures/Discrete Measure Theory.md",
-    "📏Measures and Probability/Measures/Vitali Construction.md",
-    "📏Measures and Probability/📏Measures and Probability Portal.md",
-    "📏Measures and Probability/Measures/Banach-Tarski Paradox.md",
-    "📈Microeconomics/Miscellany/Efficiency and Equity.md",
-    "📈Microeconomics/Supply and Demand/Surpluses and Welfare Economics.md",
-    "📈Microeconomics/Monopoly and Oligopoly/Cartels.md",
-    "📈Microeconomics/Monopoly and Oligopoly/Monopoly.md",
-    "📈Microeconomics/Monopoly and Oligopoly/Oligopoly and Cournot Equilibrium.md",
-    "📈Microeconomics/Miscellany/Social Welfare Function.md"
+    "Monotone Convergence Theorem.md",
+    "📏Measures and Probability/Measurable Functions/⛺Measurable Functions Homepage.md",
+    "🚶Stochastic Calculus"
   ]
 }

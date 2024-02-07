@@ -53,6 +53,9 @@ To define a measure, we first need to determine which subsets of $\mathbb{R}$ to
 > $$
 > 
 
+^70558a
+
+
 Finally, the condition that characterizes the Lebesgue measure $\mu$ on $\mathbb{R}$ allows us to check that $\mu$ is <span style="color:#0088ff">translation invariant</span>, meaning that for any $x \in\mathbb{R}$ and $B\in\mathcal{B}$, if we define
 $$
 \mu_{x}(B)=\mu(B+x),\quad B+x=\{ b+x:b\in\mathcal{B} \},

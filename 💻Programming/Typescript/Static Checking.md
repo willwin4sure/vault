@@ -1,0 +1,1 @@
+Typescript is statically typed, which allows our code to ==fail fast==: we discover errors before even attempting to run!

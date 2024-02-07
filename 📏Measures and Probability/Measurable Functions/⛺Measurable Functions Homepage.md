@@ -7,7 +7,7 @@ As in all other fields of math, objects are most interesting when we investigate
 1. [[Measurable Functions]]
 2. [[Image Measures]]
 3. [[Random Variables]]
-4. [[Convergence of Measurable Functions and Random Variables]]
+4. [[Convergence of Measurable Functions]]
 5. [[Tail Events]]
 
 ---

@@ -16,6 +16,9 @@ The second Borel-Cantelli lemma states that if the sum of the probabilities of a
 > 1. If $\sum_{n}^{}\mathbb{P}(A_{n})<\infty$, then $\mathbb{P}(A_{n}\text{ i.o.})=0$.
 > 2. If $(A_{n}:n\in \mathbb{N})$ are independent and $\sum_{n}^{}\mathbb{P}(A_{n})=\infty$, then $\mathbb{P}(A_{n}\text{ i.o.})=1$.
 
+^8e9b48
+
+
 > [!proof]-
 > 1. For the first lemma, check that
 > $$

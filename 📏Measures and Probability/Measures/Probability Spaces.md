@@ -7,7 +7,7 @@ You can interpret $(\Omega,\mathcal{F},\mathbb{P})$ as a model for *experiment i
 
 * $\Omega$ is the set of all possible outcomes, or worlds.
 * $\mathcal{F}$ is the set of observable subsets of outcomes, or <span style="color:#0088ff">events</span>.
-* $\mathbb{P}(A)$ is the probability of the events $A$ occurring.
+* $\mathbb{P}(A)$ is the probability of the event $A$ occurring.
 
 ---
 

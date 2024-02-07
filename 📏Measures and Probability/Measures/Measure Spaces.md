@@ -39,7 +39,7 @@ Alright, well now that we know which sets are potentially measurable, let's assi
 
 > [!proposition]
 > Let $(A_{n}:n\in\mathbb{N})$ be elements of $\mathcal{E}$ in a measure space $(E,\mathcal{E},\mu)$. Then, the following hold:
-> * **Continuity from below:** If $A_{i}\uparrow A$, i.e. $A_{1}\subseteq A_{2}\subseteq \cdots$ and $\bigcup_{i=1}^\infty A_{i}$, then $\mu(A_{i})\uparrow\mu(A)$.
+> * **Continuity from below:** If $A_{i}\uparrow A$, i.e. $A_{1}\subseteq A_{2}\subseteq \cdots$ and $A=\bigcup_{i=1}^\infty A_{i}$, then $\mu(A_{i})\uparrow\mu(A)$.
 > * **Continuity from above:** If $A_{i}\downarrow A$, i.e. $A_{1}\supseteq A_{2}\supseteq \cdots$ and $A=\bigcap_{i=1}^{\infty}A_{i}$, and also $\mu(A_{1})<\infty$, then $\mu(A_{i})\downarrow \mu(A)$.
 
 > [!remark]

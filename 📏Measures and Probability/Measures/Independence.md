@@ -29,6 +29,8 @@ Probability theory is enriched by the significance attached to the notion of ind
 > $$
 > whenever $A_{1}\in \mathcal{A}_{1}$ and $A_{2}\in \mathcal{A}_{2}$. Then $\sigma(\mathcal{A}_{1})$ and $\sigma(\mathcal{A}_{2})$ are independent.
 
+^c79539
+
 > [!proof]-
 > Fix some $A_{1}$ and define for $A\in \mathcal{F}$ the two measures
 > $$
