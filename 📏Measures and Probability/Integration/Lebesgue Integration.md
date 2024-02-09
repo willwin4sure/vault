@@ -41,5 +41,13 @@ Now, we will extend integrals to arbitrary measurable functions $f$. First, the 
 
 How do we extend this to arbitrary $\mathbb{R}$-valued measurable functions? Well, decompose the function into its positive and negative components.
 
-[!definition] Definition (Integrals of measurable functions)
-For a measurable function $f$, 
+> [!definition] Definition (Integrals of measurable functions)
+> For a measurable function $f$, split it into positive and negative parts $f^{+}=f\lor 0$ and $f^{-}=(-f)\lor 0$. Then $f=f^{+}-f^{-}$ and $|f|=f^{+}+f^{-}$, and both $f^{\pm}$ are nonnegative measurable functions. If $\mu(|f|)<\infty$, then we say that $f$ is ==integrable== and define
+> $$
+> \mu(f)=\mu(f^{+})-\mu(f^{-}).
+> $$
+> Note that $|\mu(f)|\leq \mu(|f|)$ for all integrable functions $f$. We sometimes define this even if $f$ is not integrable, but when one of $\mu(f^{\pm})$ is finite; then, the integral takes the value $\infty$ or $-\infty$.
+
+---
+
+**Next:** [[Monotone Convergence Theorem]]

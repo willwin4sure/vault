@@ -4,119 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "d478d5d5f11aa371",
+        "id": "02a5d97d39dee59d",
         "type": "tabs",
         "children": [
           {
-            "id": "5e0a09a79144ff2a",
+            "id": "1ad8ba350e7f1ebf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🚶Stochastic Calculus/🚶Stochastic Calculus Portal.md",
+                "file": "🦾Sensorimotor Learning/Learning Methods.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e739c405b56f06bc",
+            "id": "a81e1b47b437ffc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🦾Sensorimotor Learning/🦾Sensorimotor Learning Portal.md",
+                "file": "🦾Sensorimotor Learning/Simple Decision Making.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6057a94451d7c01c",
+            "id": "ca69ca4233e3a040",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🦾Sensorimotor Learning/🦾Sensorimotor Learning Portal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98ef21fb1475e545",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🦾Sensorimotor Learning/🦾Sensorimotor Learning Portal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49d27138dd7b1860",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📈Microeconomics/📈Microeconomics Portal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5823801b02f9f70c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📉Macroeconomics/📉Macroeconomics Portal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df17fff3533b1103",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💻Programming/Typescript/Static Checking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07f15d28424d83ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🚶Stochastic Calculus/Gaussian Variables and Processes/⛺Gaussian Variables and Processes Homepage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "197957c52035d060",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💻Programming/Typescript/Static Checking.md",
+                "file": "📏Measures and Probability/Integration/Lebesgue Integration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🚶Stochastic Calculus/Gaussian Variables and Processes/⛺Gaussian Variables and Processes Homepage.md",
+                "file": "📏Measures and Probability/Integration/Lebesgue Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🚶Stochastic Calculus/Gaussian Variables and Processes/⛺Gaussian Variables and Processes Homepage.md",
+                "file": "📏Measures and Probability/Integration/Lebesgue Integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🚶Stochastic Calculus/Gaussian Variables and Processes/⛺Gaussian Variables and Processes Homepage.md"
+                "file": "📏Measures and Probability/Integration/Lebesgue Integration.md"
               }
             }
           }
@@ -244,14 +172,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b8958fc77ca60a8",
+  "active": "ca69ca4233e3a040",
   "lastOpenFiles": [
-    "🚶Stochastic Calculus/Gaussian Variables and Processes",
-    "🚶Stochastic Calculus/🚶Stochastic Calculus Portal.md",
-    "📈Microeconomics/Monopoly and Oligopoly/⛺Monopoly and Oligopoly Homepage.md",
-    "🚶Stochastic Calculus/Gaussian Variables and Processes/⛺Gaussian Variables and Processes Homepage.md",
-    "🚶Stochastic Calculus/Informal Overview.md",
+    "📏Measures and Probability/Integration/Monotone Convergence Theorem.md",
+    "📏Measures and Probability/Integration/Lebesgue Integrals Behave.md",
+    "📏Measures and Probability/Integration/⛺Integration Homepage.md",
+    "📏Measures and Probability/Integration/Lebesgue Integration.md",
+    "🖥️Computer Systems Engineering/DNS/Domain Name System.md",
+    "🦾Sensorimotor Learning/Simple Decision Making.md",
+    "🖥️Computer Systems Engineering/DNS",
+    "🖥️Computer Systems Engineering",
+    "🦾Sensorimotor Learning/Learning Methods.md",
     "💻Programming/Typescript/Mutation and Reassignment.md",
+    "📈Microeconomics/Monopoly and Oligopoly/Cartels.md",
+    "🦾Sensorimotor Learning/🦾Sensorimotor Learning Portal.md",
+    "🚶Stochastic Calculus/🚶Stochastic Calculus Portal.md",
+    "🚶Stochastic Calculus/Informal Overview.md",
+    "🚶Stochastic Calculus/Gaussian Variables and Processes/⛺Gaussian Variables and Processes Homepage.md",
+    "🦾Sensorimotor Learning/Sequential Decision Making.md",
+    "🚶Stochastic Calculus/Gaussian Variables and Processes",
+    "📈Microeconomics/Monopoly and Oligopoly/⛺Monopoly and Oligopoly Homepage.md",
     "💻Programming/Typescript/Static Checking.md",
     "💻Programming/💻Programming Portal.md",
     "📉Macroeconomics/📉Macroeconomics Portal.md",
@@ -259,12 +199,8 @@
     "📈Microeconomics/📈Microeconomics Portal.md",
     "🤔Inference and Information/🤔Inference and Information Portal.md",
     "📉Macroeconomics",
-    "🦾Sensorimotor Learning/🦾Sensorimotor Learning Portal.md",
     "🤔Inference and Information",
-    "🦾Sensorimotor Learning/Learning.md",
-    "🦾Sensorimotor Learning/Sequential Decision Making.md",
     "🦾Sensorimotor Learning",
-    "📏Measures and Probability/Integration/Lebesgue Integration.md",
     "README.md",
     "Static Checking",
     "💻Programming/Typescript",
@@ -272,11 +208,6 @@
     "📏Measures and Probability/Measurable Functions/Tail Events.md",
     "📏Measures and Probability/Measurable Functions/Random Variables.md",
     "📏Measures and Probability/Measurable Functions/Rademacher Functions.md",
-    "📏Measures and Probability/Measurable Functions/Measurable Functions.md",
-    "📏Measures and Probability/Measurable Functions/Image Measures.md",
-    "📏Measures and Probability/Integration/⛺Integration Homepage.md",
-    "Monotone Convergence Theorem.md",
-    "📏Measures and Probability/Measurable Functions/⛺Measurable Functions Homepage.md",
     "🚶Stochastic Calculus"
   ]
 }

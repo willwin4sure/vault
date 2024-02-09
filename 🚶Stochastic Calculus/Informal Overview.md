@@ -1,4 +1,4 @@
-#MIT #math #probability #02/05/24
+#MIT #math #probability
 ## Constructing Brownian Motion
 
 Our first goal is to give an informal introduction to *Brownian motion*. 
