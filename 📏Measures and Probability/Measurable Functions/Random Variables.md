@@ -5,6 +5,8 @@ A random variable has an interpretation as a certain quantity, or state, determi
 > [!definition] Definition (Random variable)
 > Let $(\Omega,\mathcal{F},\mathbb{P})$ be a probability space and let $(E,\mathcal{E})$ be a measurable space. A measurable function $X:\Omega\to E$ is called a ==random variable== in $E$. If $E$ is not specified, we assume that $X$ takes values in $\mathbb{R}$.
 
+^e3ffe4
+
 If you've seen $\mathbb{R}$-valued random variables before, it is common to talk about their cumulative distribution function:
 
 > [!definition] Definition (Distributions)

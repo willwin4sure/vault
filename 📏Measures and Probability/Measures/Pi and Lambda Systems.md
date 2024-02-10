@@ -29,6 +29,9 @@ Some of this may be more clear after reading the subsequent section on [[SierpiÅ
 >[!idea]
 >A $\lambda$-system contains all reasonable "measure deductions".
 
+^1d7b4d
+
+
 In particular, an equivalent way to write the conditions for a $\lambda$-system is as follows:
 
 1. $\varnothing\in\mathcal{A}$,
@@ -41,6 +44,9 @@ On the other hand, imagine I told you that event $A$ occurs with probability $\f
 
 >[!idea]
 >A $\pi$-system contains the minimum amount of information to determine the measure on all elements of the $\sigma$-algebra it generates.
+
+^280456
+
 
 For example, if you had events $A$ and $B$, then in the full $\sigma$-algebra, you would need to assign a measure to $A\cup B$ and $A\cap B$ (it is indeterminate without further specification). It turns out that it suffices to say what $\mu$ is on a $\pi$-system$\dots$ the rest can be *deduced*, Ã  la $\lambda$-system.
 

@@ -7,7 +7,7 @@ In this section, we introduce measurable functions. These are to measurable spac
 
 ^3c3914
 
-If $(G,\mathcal{G})=(\mathbb{R},\mathcal{B})$, the [[Lebesgue Measure#^7eb63d|Borel $\sigma$-algebra]], then we simply call $f$ a measurable function on $E$ (the codomain is implied). Meanwhile, if $(G,\mathcal{G})=([0,\infty],\mathcal{B}([0,\infty]))$, we call $f$ a nonnegative measurable function on $E$. In the nonnegative case, we allow $f$ to equal $\infty$, unlike the real case.
+If $(G,\mathcal{G})=(\mathbb{R},\mathcal{B})$, the [[Lebesgue Measure#^7eb63d|Borel $\sigma$-algebra]], then we simply call $f$ a measurable function on $E$ (the codomain is implied). Meanwhile, if $(G,\mathcal{G})=([0,\infty],\mathcal{B}([0,\infty]))$, we call $f$ a nonnegative measurable function on $E$. In the nonnegative case, we allow $f$ to equal $\infty$, unlike the real case. ^e9f7cc
 
 If $\mathcal{E}=\mathcal{B}(E)$ where $E$ is a Hausdorff topological space, then a measurable function on $E$ is called Borel.
 
@@ -58,6 +58,8 @@ In this section, we prove a useful theorem for generalizing statements about sim
 > 2. If $f_{n}\in \mathcal{V}$ for all $n$ and $f$ is bounded with $0\leq f_{n}\uparrow f$, then $f\in \mathcal{V}$.
 > 
 > Then, $\mathcal{V}$ contains every bounded measurable function.
+
+^f79049
 
 > [!proof]-
 > Let $\mathcal{L}=\{ A\in \mathcal{E}:\mathbf{1}_{A}\in \mathcal{V} \}$. Then $\mathcal{L}$ is a $\lambda$-system containing $\mathcal{A}$, so $\mathcal{L}=\mathcal{E}$. Since $\mathcal{V}$ is a vector space, it contains all finite linear combinations of indicator functions on measurable sets.

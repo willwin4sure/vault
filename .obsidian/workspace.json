@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ad8ba350e7f1ebf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🦾Sensorimotor Learning/Learning Methods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a81e1b47b437ffc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🦾Sensorimotor Learning/Simple Decision Making.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ca69ca4233e3a040",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📏Measures and Probability/Integration/Lebesgue Integration.md",
+                "file": "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Variables.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📏Measures and Probability/Integration/Lebesgue Integration.md",
+                "file": "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📏Measures and Probability/Integration/Lebesgue Integration.md",
+                "file": "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📏Measures and Probability/Integration/Lebesgue Integration.md"
+                "file": "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Variables.md"
               }
             }
           }
@@ -172,42 +147,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca69ca4233e3a040",
+  "active": "7b8958fc77ca60a8",
   "lastOpenFiles": [
-    "📏Measures and Probability/Integration/Monotone Convergence Theorem.md",
-    "📏Measures and Probability/Integration/Lebesgue Integrals Behave.md",
-    "📏Measures and Probability/Integration/⛺Integration Homepage.md",
-    "📏Measures and Probability/Integration/Lebesgue Integration.md",
-    "🖥️Computer Systems Engineering/DNS/Domain Name System.md",
-    "🦾Sensorimotor Learning/Simple Decision Making.md",
-    "🖥️Computer Systems Engineering/DNS",
-    "🖥️Computer Systems Engineering",
-    "🦾Sensorimotor Learning/Learning Methods.md",
-    "💻Programming/Typescript/Mutation and Reassignment.md",
-    "📈Microeconomics/Monopoly and Oligopoly/Cartels.md",
-    "🦾Sensorimotor Learning/🦾Sensorimotor Learning Portal.md",
-    "🚶Stochastic Calculus/🚶Stochastic Calculus Portal.md",
-    "🚶Stochastic Calculus/Informal Overview.md",
     "🚶Stochastic Calculus/Gaussian Variables and Processes/⛺Gaussian Variables and Processes Homepage.md",
-    "🦾Sensorimotor Learning/Sequential Decision Making.md",
-    "🚶Stochastic Calculus/Gaussian Variables and Processes",
-    "📈Microeconomics/Monopoly and Oligopoly/⛺Monopoly and Oligopoly Homepage.md",
-    "💻Programming/Typescript/Static Checking.md",
-    "💻Programming/💻Programming Portal.md",
-    "📉Macroeconomics/📉Macroeconomics Portal.md",
-    "📉Macroeconomics/Economic Measurement.md",
-    "📈Microeconomics/📈Microeconomics Portal.md",
-    "🤔Inference and Information/🤔Inference and Information Portal.md",
-    "📉Macroeconomics",
-    "🤔Inference and Information",
-    "🦾Sensorimotor Learning",
-    "README.md",
-    "Static Checking",
-    "💻Programming/Typescript",
+    "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Variables.md",
+    "📏Measures and Probability/Integration/Fubini's Theorem.md",
+    "📏Measures and Probability/Integration/⛺Integration Homepage.md",
+    "📏Measures and Probability/Integration/Product Measure.md",
+    "📏Measures and Probability/Measurable Functions/Measurable Functions.md",
+    "📏Measures and Probability/Integration/Differentiation Under the Integral Sign.md",
+    "📏Measures and Probability/Integration/u-Substitution.md",
+    "🦾Sensorimotor Learning/🦾Sensorimotor Learning Portal.md",
+    "🦾Sensorimotor Learning/Simple Decision Making.md",
+    "🦾Sensorimotor Learning/Learning Methods.md",
+    "📏Measures and Probability/Integration/The Fundamental Theorem of Calculus.md",
+    "📏Measures and Probability/Integration/Transformations of Integrals.md",
+    "📏Measures and Probability/Integration/Dominated Convergence Theorem.md",
+    "📏Measures and Probability/Integration/Fatou's Lemma.md",
+    "📏Measures and Probability/Integration/Lebesgue Integrals Behave.md",
+    "📏Measures and Probability/Integration/Monotone Convergence Theorem.md",
+    "📏Measures and Probability/Integration/Lebesgue Integration.md",
+    "📏Measures and Probability/Measures/⛺Measures Homepage.md",
+    "📏Measures and Probability/Measurable Functions/⛺Measurable Functions Homepage.md",
     "📏Measures and Probability/Measurable Functions/Convergence of Measurable Functions.md",
     "📏Measures and Probability/Measurable Functions/Tail Events.md",
     "📏Measures and Probability/Measurable Functions/Random Variables.md",
-    "📏Measures and Probability/Measurable Functions/Rademacher Functions.md",
+    "📏Measures and Probability/Measurable Functions/Image Measures.md",
+    "📏Measures and Probability/Integration/Laws of Independent Random Variables.md",
+    "🖥️Computer Systems Engineering/DNS/Domain Name System.md",
+    "🖥️Computer Systems Engineering/DNS",
+    "🖥️Computer Systems Engineering",
+    "🚶Stochastic Calculus/Gaussian Variables and Processes",
+    "📉Macroeconomics",
+    "🤔Inference and Information",
+    "🦾Sensorimotor Learning",
+    "Static Checking",
+    "💻Programming/Typescript",
     "🚶Stochastic Calculus"
   ]
 }

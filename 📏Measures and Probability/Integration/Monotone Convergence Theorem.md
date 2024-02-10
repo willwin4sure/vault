@@ -11,7 +11,7 @@ Set $M=\sup_{n}\mu(f_{n})$. We know that
 $$
 \mu(f_{n})\uparrow M\leq \mu(f)=\sup \{ \mu(g) : g\text{ simple}, g\leq f \}.
 $$
-Therefore, it suffices to show that $\mu(g)\leq M$ for all simple functions
+Therefore, it suffices to show that $\mu(g)\leq M$ for all [[Lebesgue Integration#^a0fb65|simple functions]]
 $$
 g=\sum_{i=1}^{m}a_{k}\mathbf{1}_{A_{k}}\leq f.
 $$
@@ -43,6 +43,41 @@ Basically, on each section $A_{k}$, eventually $g_{n}$ gets arbitrarily close to
 
 > [!remark]
 > You don't actually need monotonicity of $f_{n}$. All you need is that $f_{n}\to f$ and $f_{n}\leq f$.
+
+## Alternate Proof
+
+Here's an alternate proof using [[Fatou's Lemma]]. This is not our ground truth, since the proof we present of Fatou's lemma uses monotone convergence.
+
+We can write
+$$
+\begin{align*}
+\mu(f)&=\mu\left(\liminf_{ n \to \infty } f_{n}\right)\\
+&\leq \liminf_{ n \to \infty } \mu(f_{n})\\
+&\leq \limsup_{ n \to \infty } \mu(f_{n})\\
+&\leq \mu(f).
+\end{align*}
+$$
+The first inequality is by Fatou, the second is obvious, and the final one is because $f_{n}\leq f$ always so $\mu(f_{n})\leq \mu(f)$ as well (we'll prove this in the next section). Since equality holds, $\mu(f)=\lim_{ n \to \infty }\mu(f_{n})$, as desired.
+
+## Reformulations
+
+Here are some minor variants on the monotone convergence theorem.
+
+> [!proposition]
+> Let $(f_{n}:n\in \mathbb{N})$ be a sequence of nonnegative measurable functions. Then,
+> $$
+> f_{n}\uparrow f\text{ a.e.}\implies \mu(f_{n})\uparrow \mu(f).
+> $$
+ 
+> [!proposition]
+> Let $(g_{n}:n\in \mathbb{N})$ be a sequence of nonnegative measurable functions. Then,
+> $$
+> \sum_{n=1}^{\infty}\mu(g_{n})=\mu \left( \sum_{n=1}^{\infty}g_{n} \right).
+> $$
+
+^129ee0
+
+The second reformulation makes it clear that the monotone convergence theorem is the counterpart for the integration of functions of the countable additivity property of the measure on sets.
 
 ---
 

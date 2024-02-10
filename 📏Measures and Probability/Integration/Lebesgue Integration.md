@@ -1,4 +1,4 @@
-The goal of this section is to define the *integral* for nonnegative measurable functions.
+The goal of this section is to define the *integral* for [[Measurable Functions#^e9f7cc|nonnegative measurable functions]].
 
 ## Definition
 
@@ -6,7 +6,7 @@ Work over a measure space $(E,\mathcal{E},\mu)$. We will define the ==integral==
 $$
 \mu(f)=\int_{E} f \, d\mu =\int_{E} f(x) \, \mu(dx). 
 $$
-When $(E,\mathcal{E})=(\mathbb{R},\mathcal{B}(\mathbb{R}))$ and $\mu$ is the Lebesgue measure, we can also use the familiar notation
+When $(E,\mathcal{E})=(\mathbb{R},\mathcal{B}(\mathbb{R}))$ and $\mu$ is the [[Lebesgue Measure|Lebesgue measure]], we can also use the familiar notation
 $$
 \mu(f)=\int_{\mathbb{R}} f(x) \, dx.
 $$
@@ -26,6 +26,8 @@ So far, the only type of function we can reasonably integrate at the moment are 
 > \mu(f)=\sum_{k=1}^{m}a_{k}\cdot \mu(A_{k}),
 > $$
 > where we take $0\cdot \infty=0$.
+
+^a0fb65
 
 Despite the representation of $f$ not being unique, this definition is consistent.
 
@@ -47,6 +49,8 @@ How do we extend this to arbitrary $\mathbb{R}$-valued measurable functions? Wel
 > \mu(f)=\mu(f^{+})-\mu(f^{-}).
 > $$
 > Note that $|\mu(f)|\leq \mu(|f|)$ for all integrable functions $f$. We sometimes define this even if $f$ is not integrable, but when one of $\mu(f^{\pm})$ is finite; then, the integral takes the value $\infty$ or $-\infty$.
+
+^9d6fef
 
 ---
 
