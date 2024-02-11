@@ -30,6 +30,8 @@ Let's prove some lemmas that ought to be true.
 > [!proof]-
 > We can also apply the monotone class theorem, as in the previous proof. The finiteness of $\mu_{2}$ is needed for the boundedness of $f_{1}$ when $f$ is bounded.
 
+Finally, we will define the product measure. We do this in the natural way: specify what we want on the $\pi$-system of rectangle sets, and then extend.
+
 > [!theorem] Theorem (Product measure)
 > There exists a unique measure $\mu=\mu_{1}\otimes \mu_{2}$ on $\mathcal{E}$ such that
 > $$
@@ -51,4 +53,4 @@ Finally, we can also swap the order:
 
 ---
 
-**Next:** [[Fubini's Theorem]]
+**Next:** [[Fubini-Tonelli Theorem]]

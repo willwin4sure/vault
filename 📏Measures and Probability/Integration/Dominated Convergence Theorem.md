@@ -1,30 +1,18 @@
-We're actually gonna prove another theorem that is a corollary of [[Fatou's Lemma]], which will allow us to immediately show the Dominated Convergence Theorem.
-## Statements
+This theorem showcases another time when it is possible to interchange limits and integrals, as in the [[Monotone Convergence Theorem#^aedc13|monotone convergence theorem]] we saw last time.
 
-> [!theorem] Theorem (Fatou-Lebesgue Theorem)
-> Let $(f_{n}:n\in \mathbb{N})$ be a sequence of such functions. Suppose that $g$ is some integrable function such that $|f_{n}|\leq g$ for all $n$. Then, the inequality
-> $$
-> \mu \left( \liminf_{ n \to \infty } f_{n} \right)\leq \liminf_{ n \to \infty } \mu(f_{n})\leq \limsup_{ n \to \infty } \mu(f_{n})\leq \mu \left( \limsup_{ n \to \infty } f_{n} \right)  
-> $$
-> holds.
+The proof follows almost directly from some preliminary reading:
 
-> [!theorem] Theorem (Dominated Convergence Theorem)
-> Let $f_{n}$ and $g$ be as above, but this time suppose that $f_{n}(x)\to f(x)$ for all $x \in E$. Then, $\mu(f_{n})\to \mu(f)$.
-## Proof of Fatou-Lebesgue
+1. [[Fatou-Lebesgue Theorem]]
+## Statement
 
-The first inequality follows by [[Fatou's Lemma]] on $g+f_{n}$, which is nonnegative. In particular, we can write
-$$
-\mu(g)+\mu(f)=\mu \left( \liminf_{ n \to \infty } (g+f_{n}) \right) \leq \liminf_{ n \to \infty }\mu(g+f_{n})=\mu(g)+\liminf_{ n \to \infty } \mu(f_{n}).
-$$
-Similarly, by Fatou on $g-f_{n}$, we get
-$$
-\mu(g)-\mu(f)=\mu \left( \liminf_{ n \to \infty } (g-f_{n}) \right) \leq \liminf_{ n \to \infty } \mu(g-f_{n})=\mu(g)-\limsup_{ n \to \infty } \mu(f_{n}).
-$$
-Since $g$ is integrable, we can subtract from both sides to get the desired inequality.
+> [!theorem] Theorem (Dominated Convergence)
+> Let $f$ be a measurable function and let $(f_{n}:n\in \mathbb{N})$ be a sequence of such functions. Suppose that $f_{n}(x)\to f(x)$ for all $x \in E$ and that $|f_{n}|\leq g$ for all $n$, for some integrable function $g$. Then $f$ and $f_{n}$ are integrable, for all $n$, and $\mu(f_{n})\to \mu(f)$.
 
-## Extension to Dominated Convergence
+^541a22
 
-Note that $|f|\leq g$ so $f$ is integrable. Since $\liminf_{ n \to \infty }f_{n}=\limsup_{ n \to \infty }f_{n}=f$, so equality holds, and the liminf and limsup of $\mu(f_{n})$ is squeezed to $\mu(f)$.
+## Proof
+
+Note that $|f|\leq g$ so $f$ is integrable. Since $\liminf_{ n \to \infty }f_{n}=\limsup_{ n \to \infty }f_{n}=f$, equality holds, and the liminf and limsup of $\mu(f_{n})$ are squeezed to $\mu(f)$.
 
 ---
 

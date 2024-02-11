@@ -1,4 +1,4 @@
-This section contains a few facts about integrals. 
+This section contains a few ways of constructing integrals from other ones.
 
 > [!proposition] Proposition (Restriction of integrals)
 > Let $(E,\mathcal{E},\mu)$ be a measure space and let $A\in \mathcal{E}$. Then the set $\mathcal{E}_{A}$ of measurable subsets of $A$ is a $\sigma$-algebra and the restriction $\mu_{A}$ of $\mu$ to $\mathcal{E}_{A}$ is a measure. Moreover, for any nonnegative measurable function $f$ on $E$, we have
@@ -29,6 +29,8 @@ This says exactly what you expect: the expected value of $g(X)$ is the integral 
 > $$
 > \nu(g)=\mu(fg).
 > $$
+
+^ce3afe
 
 This reweighting each piece of $E$ by the value of $f$. For example, for each nonnegative Borel function $f$ on $\mathbb{R}$, there corresponds a Borel measure $\mu$ on $\mathbb{R}$ given by $\mu(A)=\int _{A}f(x) \, dx$. Then, for all nonnegative Borel functions $g$,
 $$

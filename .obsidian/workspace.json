@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "02a5d97d39dee59d",
+        "id": "b0a616aa65db98ba",
         "type": "tabs",
         "children": [
           {
-            "id": "ca69ca4233e3a040",
+            "id": "f94f940eaec1f2f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Variables.md",
+                "file": "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Spaces and Processes.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#02/05/24",
+                "query": "tag:#MIT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Variables.md",
+                "file": "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Spaces and Processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Variables.md",
+                "file": "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Spaces and Processes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Variables.md"
+                "file": "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Spaces and Processes.md"
               }
             }
           }
@@ -147,34 +147,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b8958fc77ca60a8",
+  "active": "f94f940eaec1f2f6",
   "lastOpenFiles": [
-    "🚶Stochastic Calculus/Gaussian Variables and Processes/⛺Gaussian Variables and Processes Homepage.md",
     "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Variables.md",
-    "📏Measures and Probability/Integration/Fubini's Theorem.md",
-    "📏Measures and Probability/Integration/⛺Integration Homepage.md",
-    "📏Measures and Probability/Integration/Product Measure.md",
-    "📏Measures and Probability/Measurable Functions/Measurable Functions.md",
-    "📏Measures and Probability/Integration/Differentiation Under the Integral Sign.md",
-    "📏Measures and Probability/Integration/u-Substitution.md",
-    "🦾Sensorimotor Learning/🦾Sensorimotor Learning Portal.md",
-    "🦾Sensorimotor Learning/Simple Decision Making.md",
-    "🦾Sensorimotor Learning/Learning Methods.md",
-    "📏Measures and Probability/Integration/The Fundamental Theorem of Calculus.md",
+    "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Spaces and Processes.md",
+    "🚶Stochastic Calculus/Gaussian Variables and Processes/⛺Gaussian Variables and Processes Homepage.md",
+    "🚶Stochastic Calculus/🚶Stochastic Calculus Portal.md",
+    "🚶Stochastic Calculus/Informal Overview.md",
+    "📏Measures and Probability/Lebesgue Spaces/⛺Lebesgue Spaces Homepage.md",
+    "📏Measures and Probability/Norms and Inequalities/⛺Norms and Inequalities Homepage.md",
+    "📏Measures and Probability/Norms and Inequalities/Approximation in Lp.md",
+    "📏Measures and Probability/Norms and Inequalities/Various Inequalities.md",
+    "📏Measures and Probability/Norms and Inequalities/Minkowski's Inequality.md",
+    "📏Measures and Probability/Norms and Inequalities/Hölder's Inequality.md",
+    "📏Measures and Probability/Norms and Inequalities/Jensen's Inequality.md",
+    "📏Measures and Probability/Norms and Inequalities/Chebyshev's Inequality.md",
+    "📏Measures and Probability/Norms and Inequalities/Lp Norms.md",
     "📏Measures and Probability/Integration/Transformations of Integrals.md",
-    "📏Measures and Probability/Integration/Dominated Convergence Theorem.md",
-    "📏Measures and Probability/Integration/Fatou's Lemma.md",
-    "📏Measures and Probability/Integration/Lebesgue Integrals Behave.md",
-    "📏Measures and Probability/Integration/Monotone Convergence Theorem.md",
-    "📏Measures and Probability/Integration/Lebesgue Integration.md",
-    "📏Measures and Probability/Measures/⛺Measures Homepage.md",
-    "📏Measures and Probability/Measurable Functions/⛺Measurable Functions Homepage.md",
+    "📏Measures and Probability/Norms and Inequalities/Hölder and Minkowski Inequalities.md",
     "📏Measures and Probability/Measurable Functions/Convergence of Measurable Functions.md",
-    "📏Measures and Probability/Measurable Functions/Tail Events.md",
-    "📏Measures and Probability/Measurable Functions/Random Variables.md",
-    "📏Measures and Probability/Measurable Functions/Image Measures.md",
-    "📏Measures and Probability/Integration/Laws of Independent Random Variables.md",
-    "🖥️Computer Systems Engineering/DNS/Domain Name System.md",
+    "📏Measures and Probability/📏Measures and Probability Portal.md",
+    "📏Measures and Probability/SLLN and CLT/⛺SLLN and CLT Homepage.md",
+    "📏Measures and Probability/Ergodic Theory/⛺Ergodic Theory Homepage.md",
+    "📏Measures and Probability/Gaussians/⛺Gaussians Homepage.md",
+    "📏Measures and Probability/Fourier Transforms/⛺Fourier Transforms Homepage.md",
+    "📏Measures and Probability/Integration/⛺Integration Homepage.md",
+    "📏Measures and Probability/Measurable Functions/⛺Measurable Functions Homepage.md",
+    "📏Measures and Probability/Measures/⛺Measures Homepage.md",
+    "📈Microeconomics/Monopoly and Oligopoly/Cartels.md",
     "🖥️Computer Systems Engineering/DNS",
     "🖥️Computer Systems Engineering",
     "🚶Stochastic Calculus/Gaussian Variables and Processes",

@@ -5,13 +5,76 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"📏Measures and Probability\"  ",
+      "query": "path:\"📏Measures and Probability/Measures\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16170432
+      }
+    },
+    {
+      "query": "path:\"📏Measures and Probability/Measurable Functions\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15832475
+      }
+    },
+    {
+      "query": "path:\"📏Measures and Probability/Integration\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15758448
+      }
+    },
+    {
+      "query": "path:\"📏Measures and Probability/Norms and Inequalities\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15624034
+      }
+    },
+    {
+      "query": "path:\"📏Measures and Probability/Lebesgue Spaces\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15489620
+      }
+    },
+    {
+      "query": "path:\"📏Measures and Probability/Fourier Transforms\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15354950
+      }
+    },
+    {
+      "query": "path:\"📏Measures and Probability/Gaussians\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15023157
+      }
+    },
+    {
+      "query": "path:\"📏Measures and Probability/Ergodic Theory\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14890029
+      }
+    },
+    {
+      "query": "path:\"📏Measures and Probability/SLLN and CLT\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14756900
+      }
+    },
+    {
+      "query": "file:\"📏Measures and Probability Portal\"",
+      "color": {
+        "a": 1,
+        "rgb": 15758448
       }
     },
     {
@@ -19,6 +82,55 @@
       "color": {
         "a": 1,
         "rgb": 14725458
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5395121
       }
     }
   ],
@@ -32,6 +144,6 @@
   "repelStrength": 11.522491349481,
   "linkStrength": 1,
   "linkDistance": 255,
-  "scale": 0.4304199118984404,
+  "scale": 0.4304199118984538,
   "close": false
 }

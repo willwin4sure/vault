@@ -1,7 +1,9 @@
-Now we will begin our formal treatment of stochastic calculus. We'll begin by defining Gaussians. This should mostly be review.
+Now we will begin our formal treatment of stochastic calculus. We'll begin by defining Gaussians. This should mostly be [[⛺Gaussians Homepage|review]].
 
 > [!definition] Definition (Gaussian vectors)
 > A ==$d$-dimensional Gaussian vector== is an $\mathbb{R}^{d}$-valued random variable $X$  such that $\langle X,u \rangle$ is a one-dimensional Gaussian variable for any $u\in \mathbb{R}^{d}$.
+
+^373590
 
 This is a fancier definition than the one you've seen from other courses, but it turns out to be equivalent. It also doesn't explicitly specify that $\langle X,u \rangle$ and $\langle X,v \rangle$ are jointly Gaussian for $u,v\in \mathbb{R}^{d}$, but this is a true consequence.
 
@@ -31,4 +33,23 @@ f(x)=\frac{1}{(2\pi)^{d/2}\cdot|\text{det}\Sigma|^{1/2}}\cdot\exp \left( -\frac{
 $$
 over $x \in \mathbb{R}^{d}$.
 
-[!claim] Claim (For Gaussians, uncorrelated $\Longleftrightarrow$ independent)
+> [!claim] Claim (For Gaussians, uncorrelated $\Longleftrightarrow$ independent)
+> If $X\sim \mathcal{N}(\mu,\Sigma)$ is a $d$-dimensional Gaussian vector, then $X_{i}$ are mutually independent if and only if $\Sigma$ is diagonal.
+
+^6037a8
+
+> [!proof]-
+> Independent implying uncorrelated is obvious. For the other direction, we first suppose that $\Sigma$ is a diagonal matrix. Then, the characteristic function factors as
+> $$
+> \phi_{X}(\theta)=\prod_{j=1}^{d}\exp \left( i\theta_{j}-\frac{1}{2}\sigma_{jj}\theta_{j}^2 \right),
+> $$
+> which has no cross-terms, so the different components are independent, as desired.
+
+> [!example]
+> The standard nonexample is when $Z\sim \mathcal{N}(0,1)$ and $\varepsilon \sim \text{Unif}(\{ \pm 1 \})$, and we consider the two Gaussians $Z$ and $\varepsilon Z$. These are uncorrelated, but they aren't independent. This is because they aren't jointly Gaussian!
+
+^03c5af
+
+---
+
+**Next:** [[Gaussian Spaces and Processes]]

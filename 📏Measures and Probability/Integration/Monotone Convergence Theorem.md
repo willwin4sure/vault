@@ -1,9 +1,10 @@
-This is the key result in the theory of integration.
-
+This is the key result in the theory of integration. It allows us to interchange limits and integrals for monotonic sequences of nonnegative measurable functions.
 ## Statement
 
-> [!theorem] Theorem (Monotone convergence)
+> [!theorem] Theorem (Monotone Convergence)
 > Let $f$ be a nonnegative measurable function and let $(f_{n}:n\in \mathbb{N})$ be a sequence of such functions. Suppose that $f_{n}\uparrow f$. Then, $\mu(f_{n})\uparrow \mu(f)$.
+
+^aedc13
 
 ## Proof
 
@@ -11,7 +12,7 @@ Set $M=\sup_{n}\mu(f_{n})$. We know that
 $$
 \mu(f_{n})\uparrow M\leq \mu(f)=\sup \{ \mu(g) : g\text{ simple}, g\leq f \}.
 $$
-Therefore, it suffices to show that $\mu(g)\leq M$ for all [[Lebesgue Integration#^a0fb65|simple functions]]
+Therefore, to show equality, it suffices to show that $\mu(g)\leq M$ for all [[Lebesgue Integration#^a0fb65|simple functions]]
 $$
 g=\sum_{i=1}^{m}a_{k}\mathbf{1}_{A_{k}}\leq f.
 $$
@@ -46,7 +47,7 @@ Basically, on each section $A_{k}$, eventually $g_{n}$ gets arbitrarily close to
 
 ## Alternate Proof
 
-Here's an alternate proof using [[Fatou's Lemma]]. This is not our ground truth, since the proof we present of Fatou's lemma uses monotone convergence.
+Here's an alternate proof using [[Fatou-Lebesgue Theorem#^11e9b4|Fatou's lemma]]. This is not our ground truth, since the proof we present of Fatou's lemma uses monotone convergence.
 
 We can write
 $$
@@ -57,7 +58,7 @@ $$
 &\leq \mu(f).
 \end{align*}
 $$
-The first inequality is by Fatou, the second is obvious, and the final one is because $f_{n}\leq f$ always so $\mu(f_{n})\leq \mu(f)$ as well (we'll prove this in the next section). Since equality holds, $\mu(f)=\lim_{ n \to \infty }\mu(f_{n})$, as desired.
+The first inequality is by Fatou, the second is obvious, and the final one is because $f_{n}\leq f$ always so $\mu(f_{n})\leq \mu(f)$ [[Lebesgue Integrals Behave#^38742c|as well]]. Since equality holds, $\mu(f)=\lim_{ n \to \infty }\mu(f_{n})$, as desired.
 
 ## Reformulations
 
@@ -77,8 +78,13 @@ Here are some minor variants on the monotone convergence theorem.
 
 ^129ee0
 
-The second reformulation makes it clear that the monotone convergence theorem is the counterpart for the integration of functions of the countable additivity property of the measure on sets.
+> [!idea]
+> The second reformulation makes it clear that the monotone convergence theorem is the counterpart for the integration of functions of the countable additivity property of the measure on sets.
+
+Using monotone convergence, you can check that Lebesgue integrals satisfy some basic properties:
+
+1. [[Lebesgue Integrals Behave]]
 
 ---
 
-**Next:** [[Lebesgue Integrals Behave]]
+**Next:** [[Dominated Convergence Theorem]]

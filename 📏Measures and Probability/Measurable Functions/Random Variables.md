@@ -49,6 +49,8 @@ We've already seen what it means for a family of events or $\sigma$-algebras to 
 > $$
 > for all $x_{i}\in \mathbb{R}$ and all $n$, as we [[Independence#^c79539|only need to check on a $\pi$-system]].
 
+^1182a1
+
 It turns out that we can use a trick to construct any countable sequence of independent random variables as well. Read here:
 
 1. [[Rademacher Functions]]

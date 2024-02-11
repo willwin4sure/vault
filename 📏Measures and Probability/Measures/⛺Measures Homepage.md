@@ -1,4 +1,4 @@
-#MIT #math #probability
+#MIT #math #probability #measure #real-analysis
 
 > A pea can be chopped up and reassembled into the sun.
 > — The [[Banach-Tarski Paradox]]

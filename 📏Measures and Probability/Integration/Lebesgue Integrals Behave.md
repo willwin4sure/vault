@@ -7,6 +7,8 @@ This is just some housekeeping work to prove some basic properties of Lebesgue i
 > 2. $f\leq g$ implies $\mu(f)\leq \mu(g)$.
 > 3. $f=0$ a.e. if and only if $\mu(f)=0$.
 
+^38742c
+
 > [!proof]-
 > Define simple functions $f_{n},g_{n}$ by
 > $$
@@ -31,4 +33,4 @@ Here is another occasionally useful result:
 
 ---
 
-**Next:** [[Fatou's Lemma]]
+**Next:** [[Monotone Convergence Theorem]]

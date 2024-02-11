@@ -31,4 +31,4 @@ F(b)-F(a)=F_{a}(b)-F_{a}(a)=\int_{a}^{b} f(x) \, dx .
 $$
 ---
 
-**Next:** [[u-Substitution]]
+**Next:** [[Integration Techniques]]

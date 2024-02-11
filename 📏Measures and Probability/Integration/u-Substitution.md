@@ -1,4 +1,3 @@
-Also from your AP Calculus class. The integral is with respect to the Lebesgue measure.
 ## Statement
 
 > [!proposition] Proposition ($u$-substitution)
