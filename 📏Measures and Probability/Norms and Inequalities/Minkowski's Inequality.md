@@ -8,6 +8,8 @@ It turns out that the $L^p$-norm satisfies the triangle inequality. This is esse
 > \| f+g \| _{p}\leq \| f \|_{p}+\| g \| _{p}.
 > $$
 
+^38e149
+
 ## Proof
 
 The cases where $p=1$ or where $\| f \|_{p}=\infty$ or $\| g \|_{p}=\infty$ are easy. Now, note that $|f+g|^{p}\leq 2^{p}(|f|^{p}+|g|^{p})$ pointwise,  so integrating gives

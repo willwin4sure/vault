@@ -36,6 +36,8 @@ where the first inequality is by [[Jensen's Inequality#^77aeb6|Jensen's inequali
 > [!remark]
 > The case where $p=q=2$ is the famous Cauchy-Schwarz inequality.
 
+^2c4b8a
+
 ---
 
 **Next:** [[Minkowski's Inequality]]

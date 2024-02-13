@@ -1,4 +1,4 @@
-The Domain Name System (DNS) is a protocol that maps human-readable *domain names* (e.g. `eecs.mit.edu.`) into machine-usable *IP addresses* (e.g. `18.25.0.23`). 
+The Domain Name System (DNS) is a protocol that maps human-readable ==domain names== (e.g. `eecs.mit.edu.`) into machine-usable ==IP addresses== (e.g. `18.25.0.23`). 
 
 ## Initial Attempts
 

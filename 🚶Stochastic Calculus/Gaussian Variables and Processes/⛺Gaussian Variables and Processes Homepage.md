@@ -1,8 +1,6 @@
 #MIT #math #probability #stochastic-calc 
 
 *From the [[🚶Stochastic Calculus Portal]].*
-
-
 ## Main Sequence
 
 First, a quick review of multidimensional Gaussian random variables.
@@ -13,3 +11,7 @@ Then, we move on to the novel concept of Gaussian spaces, and their generalizati
 
 2. [[Gaussian Spaces and Processes]]
 3. [[Gaussian White Noise]]
+
+---
+
+**Next:** [[]]
