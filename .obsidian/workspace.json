@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📏Measures and Probability/Fourier Transforms/⛺Fourier Transforms Homepage.md",
+                "file": "📏Measures and Probability/Fourier Transforms/Convolutions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📏Measures and Probability/Fourier Transforms/⛺Fourier Transforms Homepage.md",
+                "file": "📏Measures and Probability/Fourier Transforms/Convolutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📏Measures and Probability/Fourier Transforms/⛺Fourier Transforms Homepage.md",
+                "file": "📏Measures and Probability/Fourier Transforms/Convolutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📏Measures and Probability/Fourier Transforms/⛺Fourier Transforms Homepage.md"
+                "file": "📏Measures and Probability/Fourier Transforms/Convolutions.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "ab5dbe592bcdb974",
   "lastOpenFiles": [
+    "📏Measures and Probability/Fourier Transforms/Fourier Transforms Definitions.md",
+    "📏Measures and Probability/Fourier Transforms/Convolutions.md",
+    "📏Measures and Probability/Fourier Transforms/⛺Fourier Transforms Homepage.md",
     "📏Measures and Probability/Lebesgue Spaces/⛺Lebesgue Spaces Homepage.md",
     "📏Measures and Probability/Lebesgue Spaces/Uniform Integrability.md",
     "📏Measures and Probability/Lebesgue Spaces/Lp as a Banach Space.md",
@@ -172,9 +175,6 @@
     "📏Measures and Probability/Integration/u-Substitution.md",
     "📏Measures and Probability/Integration/The Fundamental Theorem of Calculus.md",
     "📏Measures and Probability/Integration/Transformations of Integrals.md",
-    "📏Measures and Probability/Integration/Dominated Convergence Theorem.md",
-    "📏Measures and Probability/Integration/Monotone Convergence Theorem.md",
-    "📏Measures and Probability/Integration/Lebesgue Integration.md",
     "📉Macroeconomics/img/aggregate_demand_shift.png",
     "📉Macroeconomics/img/aggregate_demand.png",
     "📉Macroeconomics/img",
