@@ -41,4 +41,4 @@ We will see a more sophisticated version of conditional expectation later.
 
 ---
 
-**Next:** [[Conve]]
+**Next:** [[Bounded Convergence]]

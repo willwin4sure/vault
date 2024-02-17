@@ -20,9 +20,9 @@ $$
 $$
 For measurable functions $X\geq 0$,
 $$
-\mathbb{E}[X]=\mu(X|f|^{p}),\quad \mathbb{E}[X]\leq \mathbb{E}[X^{q}]^{1/q}.
+\mathbb{E}[X]=\mu(X|f|^{p}),\quad \mathbb{E}[X]\leq \mathbb{E}[X^{q}]^{1/q}
 $$
-Note that $p=q(p-1)$ by assumption, so
+by [[Jensen's Inequality|Jensen's inequality]]. Note that $p=q(p-1)$ by assumption, so
 $$
 \begin{align*}
 \mu(|fg|)&=\mu \left( \frac{|g|}{|f|^{p-1}}\mathbf{1}_{\{ |f|>0 \}}|f|^{p} \right) \\
@@ -31,7 +31,7 @@ $$
 &\leq \mu(|g|^{q})^{1/q}=\| f \| _{p}\| g \| _{q},
 \end{align*}
 $$
-where the first inequality is by [[Jensen's Inequality#^77aeb6|Jensen's inequality]] (remember that $\| f \|_{p}=1$).
+as desired.
 
 > [!remark]
 > The case where $p=q=2$ is the famous Cauchy-Schwarz inequality.

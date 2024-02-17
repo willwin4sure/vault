@@ -31,6 +31,8 @@ The following two theorems discuss some relationships between the above types of
 > 1. Take $\mu(E)<\infty$. If $f_{n}\to 0$ a.e., then $f_{n}\to 0$ in measure.
 > 2. If $f_{n}\to 0$ in measure, then $f_{n_{k}}\to 0$ a.e. for some subsequence $(n_{k})$.
 
+^dda4e5
+
 > [!proof]-
 > 1. Suppose that $f_{n}\to 0$ a.e. For each $\varepsilon>0$, we have that
 > $$

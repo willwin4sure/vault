@@ -24,7 +24,7 @@
 
 ## Some Intuition
 
-Some of this may be more clear after reading the subsequent section on [[Sierpiński–Dynkin's π-λ Theorem]].
+Some of this may be more clear after reading the subsequent section on [[Sierpiński–Dynkin's π-λ theorem]].
 
 >[!idea]
 >A $\lambda$-system contains all reasonable "measure deductions".
@@ -56,4 +56,4 @@ On the other hand, you can't just specify these values willy-nilly. In order to 
 
 ---
 
-**Next:** [[Sierpiński–Dynkin's π-λ Theorem]]
+**Next:** [[Sierpiński–Dynkin's π-λ theorem]]

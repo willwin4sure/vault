@@ -1,6 +1,8 @@
 ---
 
 ---
+> Weighted stones.
+
 If you've heard of probability mass functions, discrete measure theory is essentially equivalent.
 
 Suppose that $E$ is countable, and let $\mathcal{E}=\mathcal{P}(E)$ be the set of all subsets of $E$.

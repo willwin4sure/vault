@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "99d6af89e57deae8",
+        "id": "7361f0e5aca76991",
         "type": "tabs",
         "children": [
           {
-            "id": "cb5e58b01beacd8b",
+            "id": "ab5dbe592bcdb974",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🚶Stochastic Calculus/Gaussian Variables and Processes/⛺Gaussian Variables and Processes Homepage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bb9c19e0fe03cba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🖥️Computer Systems Engineering/OS/Virtual Memory.md",
+                "file": "📏Measures and Probability/Fourier Transforms/⛺Fourier Transforms Homepage.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#MIT",
+                "query": "simple functions",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🚶Stochastic Calculus/Gaussian Variables and Processes/⛺Gaussian Variables and Processes Homepage.md",
+                "file": "📏Measures and Probability/Fourier Transforms/⛺Fourier Transforms Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🚶Stochastic Calculus/Gaussian Variables and Processes/⛺Gaussian Variables and Processes Homepage.md",
+                "file": "📏Measures and Probability/Fourier Transforms/⛺Fourier Transforms Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🚶Stochastic Calculus/Gaussian Variables and Processes/⛺Gaussian Variables and Processes Homepage.md"
+                "file": "📏Measures and Probability/Fourier Transforms/⛺Fourier Transforms Homepage.md"
               }
             }
           }
@@ -159,43 +147,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cb5e58b01beacd8b",
+  "active": "ab5dbe592bcdb974",
   "lastOpenFiles": [
-    "Untitled.md",
-    "🚶Stochastic Calculus/Gaussian Variables and Processes/⛺Gaussian Variables and Processes Homepage.md",
-    "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian White Noise.md",
-    "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Spaces and Processes.md",
-    "🖥️Computer Systems Engineering/OS/Virtual Memory.md",
-    "🖥️Computer Systems Engineering/OS/Operating Systems.md",
-    "🖥️Computer Systems Engineering/DNS/Domain Name System.md",
-    "📈Microeconomics/Supply and Demand/Properties of Demand Curves.md",
-    "📈Microeconomics/Supply and Demand/Real-World Examples.md",
-    "📏Measures and Probability/📏Measures and Probability Portal.md",
-    "🖥️Computer Systems Engineering/OS",
-    "🚶Stochastic Calculus/🚶Stochastic Calculus Portal.md",
-    "🏠Home.md",
-    "README.md",
-    "📏Measures and Probability/Lebesgue Spaces/Bounded Convergence.md",
-    "📏Measures and Probability/Lebesgue Spaces/Uniform Integrability.md",
-    "🚶Stochastic Calculus/Constructing Brownian Motion.md",
-    "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Variables.md",
-    "📏Measures and Probability/Fourier Transforms/⛺Fourier Transforms Homepage.md",
     "📏Measures and Probability/Lebesgue Spaces/⛺Lebesgue Spaces Homepage.md",
-    "📏Measures and Probability/Lebesgue Spaces/L2 as a Hilbert Space.md",
+    "📏Measures and Probability/Lebesgue Spaces/Uniform Integrability.md",
     "📏Measures and Probability/Lebesgue Spaces/Lp as a Banach Space.md",
-    "📏Measures and Probability/Norms and Inequalities/⛺Norms and Inequalities Homepage.md",
+    "📏Measures and Probability/Lebesgue Spaces/L2 as a Hilbert Space.md",
     "📏Measures and Probability/Lebesgue Spaces/Variance, Covariance, Conditional Expectation.md",
-    "📏Measures and Probability/Integration/Lebesgue Integrals Behave.md",
+    "📏Measures and Probability/Lebesgue Spaces/Bounded Convergence.md",
+    "📏Measures and Probability/Norms and Inequalities/⛺Norms and Inequalities Homepage.md",
+    "📏Measures and Probability/Norms and Inequalities/Approximation in Lp.md",
+    "📏Measures and Probability/Norms and Inequalities/Various Inequalities.md",
+    "📏Measures and Probability/Norms and Inequalities/Minkowski's Inequality.md",
+    "📏Measures and Probability/Norms and Inequalities/Hölder's Inequality.md",
+    "📏Measures and Probability/Norms and Inequalities/Jensen's Inequality.md",
+    "📏Measures and Probability/Norms and Inequalities/Chebyshev's Inequality.md",
+    "📏Measures and Probability/Norms and Inequalities/Lp Norms.md",
+    "📏Measures and Probability/Integration/⛺Integration Homepage.md",
+    "📏Measures and Probability/Integration/Laws of Independent Random Variables.md",
+    "📏Measures and Probability/Integration/Fubini-Tonelli Theorem.md",
+    "📏Measures and Probability/Integration/Product Measure.md",
+    "📏Measures and Probability/Integration/Integration Techniques.md",
+    "📏Measures and Probability/Integration/Differentiation Under the Integral Sign.md",
+    "📏Measures and Probability/Integration/u-Substitution.md",
     "📏Measures and Probability/Integration/The Fundamental Theorem of Calculus.md",
     "📏Measures and Probability/Integration/Transformations of Integrals.md",
+    "📏Measures and Probability/Integration/Dominated Convergence Theorem.md",
+    "📏Measures and Probability/Integration/Monotone Convergence Theorem.md",
+    "📏Measures and Probability/Integration/Lebesgue Integration.md",
+    "📉Macroeconomics/img/aggregate_demand_shift.png",
+    "📉Macroeconomics/img/aggregate_demand.png",
+    "📉Macroeconomics/img",
+    "🚶Stochastic Calculus/Brownian Motion",
+    "🖥️Computer Systems Engineering/OS",
     "🖥️Computer Systems Engineering/DNS",
     "🖥️Computer Systems Engineering",
     "🚶Stochastic Calculus/Gaussian Variables and Processes",
     "📉Macroeconomics",
     "🤔Inference and Information",
     "🦾Sensorimotor Learning",
-    "Static Checking",
-    "💻Programming/Typescript",
-    "🚶Stochastic Calculus"
+    "Static Checking"
   ]
 }

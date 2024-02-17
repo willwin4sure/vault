@@ -1,6 +1,10 @@
+> You cannot measure everything.
+
 Intuitively, the goal of measure theory is to define the "size" of sets. Unfortunately, we encounter [[Vitali Construction|difficulties]] trying to simply assign a reasonable measure to, say, all subsets of the interval $[0,1]$. Instead, we must restrict our attention to "nice" subsets.
 
 Work over a set $E$. Then, $\sigma$-algebras tell you what these "nice" subsets of $E$ are. There are many possible $\sigma$-algebras over a particular set $E$, though some will be more natural than others.
+
+## Definitions
 
 >[!definition] Definition ($\sigma$-algebra)
 >A <span style="color:#0088ff">$\sigma$-algebra</span> $\mathcal{E}$ is a nonempty set of subsets of $E$ closed under complementation and countable unions.
@@ -44,6 +48,8 @@ Alright, well now that we know which sets are potentially measurable, let's assi
 
 > [!remark]
 > The finiteness condition is necessary. For example, if $\Omega=\mathbb{N}$ and $\mu$ is the measure that assigns each subset the number of elements in it, then $A_{n}=\{ n,n+1,\dots \}$ is a sequence of sets all with measure $\infty$, but the intersection has measure zero!
+
+## Generating $\sigma$-algebras
 
 Finally, an important fact about how we describe $\sigma$-algebras. This is analogous to bases for vector spaces or topologies.
 

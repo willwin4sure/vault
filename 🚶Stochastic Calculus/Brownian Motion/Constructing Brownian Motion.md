@@ -88,5 +88,3 @@ This is because we cannot get a uniform moment bound on the entire real line, so
 
 ---
 
-
-
