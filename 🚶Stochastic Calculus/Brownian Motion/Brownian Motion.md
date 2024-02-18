@@ -91,9 +91,9 @@ Intuitively, this gives an "infinitesimal amount of information" past time $t$, 
 
 > [!definition] Definition (Stopping time)
 > A random variable $T$ taking values in $[0,\infty]$ is a ==stopping time== if $\{ T\leq t \}\in \mathcal{F}_{t}$ for all $t\geq 0$. If $T$ is a stopping time, then we write
-$$
-\mathcal{F}_{T}=\{ A : A\cap \{ T\leq t \}\in \mathcal{F}_{t}\text{ for all }t\geq 0  \}.
-$$
+> $$
+> \mathcal{F}_{T}=\{ A : A\cap \{ T\leq t \}\in \mathcal{F}_{t}\text{ for all }t\geq 0  \}.
+> $$
 
 > [!theorem] Theorem (Strong Markov Property)
 > Let $B$ be a standard Brownian motion and $T$ be a stopping time with $\mathbb{P}(T<\infty)>0$. Under $\mathbb{P}(\bullet | T<\infty)$, $(B_{T+t}-B_{T})_{t\geq 0}$ is a standard Brownian motion independent of $\mathcal{F}_{T}$.

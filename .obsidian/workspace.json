@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📏Measures and Probability/Fourier Transforms/Convolutions.md",
+                "file": "📏Measures and Probability/Fourier Transforms/Weak Convergence and Characteristic Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📏Measures and Probability/Fourier Transforms/Convolutions.md",
+                "file": "📏Measures and Probability/Fourier Transforms/Weak Convergence and Characteristic Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📏Measures and Probability/Fourier Transforms/Convolutions.md",
+                "file": "📏Measures and Probability/Fourier Transforms/Weak Convergence and Characteristic Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📏Measures and Probability/Fourier Transforms/Convolutions.md"
+                "file": "📏Measures and Probability/Fourier Transforms/Weak Convergence and Characteristic Functions.md"
               }
             }
           }
@@ -149,9 +149,21 @@
   },
   "active": "ab5dbe592bcdb974",
   "lastOpenFiles": [
-    "📏Measures and Probability/Fourier Transforms/Fourier Transforms Definitions.md",
-    "📏Measures and Probability/Fourier Transforms/Convolutions.md",
+    "📏Measures and Probability/Measurable Functions/Random Variables.md",
+    "📏Measures and Probability/Fourier Transforms/Weak Convergence and Characteristic Functions.md",
+    "📏Measures and Probability/📏Measures and Probability Portal.md",
     "📏Measures and Probability/Fourier Transforms/⛺Fourier Transforms Homepage.md",
+    "📏Measures and Probability/Fourier Transforms/Fourier Transform in L2.md",
+    "📏Measures and Probability/Fourier Transforms/Uniqueness and Inversion.md",
+    "📏Measures and Probability/Fourier Transforms/Gaussian Convolutions.md",
+    "📏Measures and Probability/Fourier Transforms/Gaussian Fourier Transforms.md",
+    "📏Measures and Probability/Fourier Transforms/Convolutions.md",
+    "📏Measures and Probability/Fourier Transforms/Fourier Transform Definitions.md",
+    "Untitled.md",
+    "📏Measures and Probability/Norms and Inequalities/Minkowski's Inequality.md",
+    "📏Measures and Probability/Norms and Inequalities/Hölder's Inequality.md",
+    "🚶Stochastic Calculus/Brownian Motion/Brownian Motion.md",
+    "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian White Noise.md",
     "📏Measures and Probability/Lebesgue Spaces/⛺Lebesgue Spaces Homepage.md",
     "📏Measures and Probability/Lebesgue Spaces/Uniform Integrability.md",
     "📏Measures and Probability/Lebesgue Spaces/Lp as a Banach Space.md",
@@ -161,20 +173,8 @@
     "📏Measures and Probability/Norms and Inequalities/⛺Norms and Inequalities Homepage.md",
     "📏Measures and Probability/Norms and Inequalities/Approximation in Lp.md",
     "📏Measures and Probability/Norms and Inequalities/Various Inequalities.md",
-    "📏Measures and Probability/Norms and Inequalities/Minkowski's Inequality.md",
-    "📏Measures and Probability/Norms and Inequalities/Hölder's Inequality.md",
     "📏Measures and Probability/Norms and Inequalities/Jensen's Inequality.md",
     "📏Measures and Probability/Norms and Inequalities/Chebyshev's Inequality.md",
-    "📏Measures and Probability/Norms and Inequalities/Lp Norms.md",
-    "📏Measures and Probability/Integration/⛺Integration Homepage.md",
-    "📏Measures and Probability/Integration/Laws of Independent Random Variables.md",
-    "📏Measures and Probability/Integration/Fubini-Tonelli Theorem.md",
-    "📏Measures and Probability/Integration/Product Measure.md",
-    "📏Measures and Probability/Integration/Integration Techniques.md",
-    "📏Measures and Probability/Integration/Differentiation Under the Integral Sign.md",
-    "📏Measures and Probability/Integration/u-Substitution.md",
-    "📏Measures and Probability/Integration/The Fundamental Theorem of Calculus.md",
-    "📏Measures and Probability/Integration/Transformations of Integrals.md",
     "📉Macroeconomics/img/aggregate_demand_shift.png",
     "📉Macroeconomics/img/aggregate_demand.png",
     "📉Macroeconomics/img",

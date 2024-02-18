@@ -24,7 +24,6 @@ This section of the course follows James Norris' set of notes [Probability and M
 4. [[⛺Norms and Inequalities Homepage]]
 5. [[⛺Lebesgue Spaces Homepage]]
 6. [[⛺Fourier Transforms Homepage]]
-7. [[⛺Gaussians Homepage]]
-8. [[⛺Ergodic Theory Homepage]]
-9. [[⛺SLLN and CLT Homepage]]
+7. [[⛺Ergodic Theory Homepage]]
+8. [[⛺SLLN and CLT Homepage]]
 

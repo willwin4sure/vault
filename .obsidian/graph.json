@@ -50,24 +50,17 @@
       }
     },
     {
-      "query": "path:\"📏Measures and Probability/Gaussians\"  ",
+      "query": "path:\"📏Measures and Probability/Ergodic Theory\"  ",
       "color": {
         "a": 1,
         "rgb": 15023157
       }
     },
     {
-      "query": "path:\"📏Measures and Probability/Ergodic Theory\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14890029
-      }
-    },
-    {
       "query": "path:\"📏Measures and Probability/SLLN and CLT\"  ",
       "color": {
         "a": 1,
-        "rgb": 14756900
+        "rgb": 14890029
       }
     },
     {
@@ -144,6 +137,6 @@
   "repelStrength": 11.522491349481,
   "linkStrength": 1,
   "linkDistance": 255,
-  "scale": 0.5452708177498243,
+  "scale": 0.29290077452396057,
   "close": false
 }
