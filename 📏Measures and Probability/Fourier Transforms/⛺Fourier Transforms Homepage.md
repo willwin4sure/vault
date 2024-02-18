@@ -6,6 +6,8 @@ In this section, we learn about the beautiful Fourier transform, fundamental to 
 
 In probability, Fourier transforms are particularly important: they show up as *characteristic functions* for random variables. Since adding independent random variables is equivalent to convolving their densities, the Fourier transform allows us to convert this into direct pointwise multiplication.
 
+Ultimately, our work here will be used to readily prove the [[Central Limit Theorem]].
+
 ## Main Sequence
 
 First, learn about a broad overview of the Fourier transform, introducing many definitions and theorems. Fourier transforms allow us to turn convolutions into pointwise multiplication.
