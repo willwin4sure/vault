@@ -1,4 +1,4 @@
-#MIT #math #probability 
+#MIT #math #probability #stats
 
 *From the [[📏Measures and Probability Portal]].*
 

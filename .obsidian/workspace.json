@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d6bb08dba95d5357",
+        "id": "ba4747e8ed1a7cc2",
         "type": "tabs",
         "children": [
           {
-            "id": "b9ce5b7a6d5778c9",
+            "id": "2ea6c2837ce1f847",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📏Measures and Probability/Ergodic Theory/Measure-Preserving Transformations.md",
+                "file": "🤔Inference and Information/Decision Theory/Neyman-Pearson Hypothesis Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📏Measures and Probability/Ergodic Theory/Measure-Preserving Transformations.md",
+                "file": "🤔Inference and Information/Decision Theory/Neyman-Pearson Hypothesis Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📏Measures and Probability/Ergodic Theory/Measure-Preserving Transformations.md",
+                "file": "🤔Inference and Information/Decision Theory/Neyman-Pearson Hypothesis Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📏Measures and Probability/Ergodic Theory/Measure-Preserving Transformations.md"
+                "file": "🤔Inference and Information/Decision Theory/Neyman-Pearson Hypothesis Testing.md"
               }
             }
           }
@@ -147,34 +147,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b9ce5b7a6d5778c9",
+  "active": "2ea6c2837ce1f847",
   "lastOpenFiles": [
-    "📏Measures and Probability/Ergodic Theory/⛺Ergodic Theory Homepage.md",
-    "📏Measures and Probability/SLLN and CLT/Strong Law of Large Numbers.md",
-    "📏Measures and Probability/SLLN and CLT/SLLN with Finite Fourth Moments.md",
-    "📏Measures and Probability/SLLN and CLT/⛺SLLN and CLT Homepage.md",
-    "📏Measures and Probability/📏Measures and Probability Portal.md",
-    "📏Measures and Probability/Ergodic Theory/Bernoulli Shifts.md",
-    "📏Measures and Probability/Ergodic Theory/Birkhoff's a.e. Ergodic Theorem.md",
-    "📏Measures and Probability/Ergodic Theory/Measure-Preserving Transformations.md",
-    "README.md",
-    "📏Measures and Probability/Ergodic Theory/Von Neumann's Lp Ergodic Theorem.md",
-    "📏Measures and Probability/Fourier Transforms/⛺Fourier Transforms Homepage.md",
-    "📏Measures and Probability/SLLN and CLT/Central Limit Theorem.md",
-    "📏Measures and Probability/Fourier Transforms/Weak Convergence and Characteristic Functions.md",
-    "📏Measures and Probability/Lebesgue Spaces/Bounded Convergence.md",
-    "📏Measures and Probability/Measurable Functions/Random Variables.md",
-    "📏Measures and Probability/Fourier Transforms/Fourier Transform in L2.md",
-    "📏Measures and Probability/Fourier Transforms/Uniqueness and Inversion.md",
-    "📏Measures and Probability/Fourier Transforms/Gaussian Convolutions.md",
-    "📏Measures and Probability/Fourier Transforms/Gaussian Fourier Transforms.md",
-    "📏Measures and Probability/Fourier Transforms/Convolutions.md",
-    "📏Measures and Probability/Fourier Transforms/Fourier Transform Definitions.md",
-    "📏Measures and Probability/Norms and Inequalities/Minkowski's Inequality.md",
-    "📏Measures and Probability/Norms and Inequalities/Hölder's Inequality.md",
-    "🚶Stochastic Calculus/Brownian Motion/Brownian Motion.md",
+    "🤔Inference and Information/Decision Theory/OC-LRT.md",
+    "🤔Inference and Information/Decision Theory/The Likelihood Ratio Test.md",
+    "🤔Inference and Information/Decision Theory/Neyman-Pearson Hypothesis Testing.md",
+    "🤔Inference and Information/Decision Theory/Bayesian Hypothesis Testing.md",
+    "🤔Inference and Information/Decision Theory/img/oclrt.png",
+    "🤔Inference and Information/Decision Theory/img",
+    "🤔Inference and Information/Decision Theory/⛺Decision Theory Homepage.md",
     "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian White Noise.md",
-    "📏Measures and Probability/Lebesgue Spaces/⛺Lebesgue Spaces Homepage.md",
+    "🚶Stochastic Calculus/Gaussian Variables and Processes/⛺Gaussian Variables and Processes Homepage.md",
+    "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Spaces and Processes.md",
+    "🦾Sensorimotor Learning/Stochastic Bandits/Contextual Bandits, LinUCB, and Square CB.md",
+    "🦾Sensorimotor Learning/Stochastic Bandits/Upper Confidence Bound Algorithm.md",
+    "🚶Stochastic Calculus/Brownian Motion/Constructing Brownian Motion.md",
+    "🦾Sensorimotor Learning/Stochastic Bandits/Stochastic Bandits.md",
+    "🦾Sensorimotor Learning/Stochastic Bandits/Exploration-Exploitation Tradeoff.md",
+    "🤔Inference and Information/🤔Inference and Information Portal.md",
+    "🚶Stochastic Calculus/Brownian Motion/Continuous-time Martingales.md",
+    "🤔Inference and Information/Introductory Remarks.md",
+    "🚶Stochastic Calculus/Brownian Motion/⛺Brownian Motion Homepage.md",
+    "🤔Inference and Information/Decision Theory",
+    "🚶Stochastic Calculus/Brownian Motion/Brownian Motion.md",
+    "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Variables.md",
+    "🚶Stochastic Calculus/🚶Stochastic Calculus Portal.md",
+    "🚶Stochastic Calculus/Informal Overview.md",
+    "🦾Sensorimotor Learning/Stochastic Bandits/⛺Stochastic Bandits Homepage.md",
+    "🦾Sensorimotor Learning/🦾Sensorimotor Learning Portal.md",
+    "🦾Sensorimotor Learning/Learning Methods Overview.md",
+    "🦾Sensorimotor Learning/Sequential Decision Making.md",
+    "📏Measures and Probability/SLLN and CLT/⛺SLLN and CLT Homepage.md",
+    "🦾Sensorimotor Learning/Stochastic Bandits",
     "📉Macroeconomics/img/aggregate_demand_shift.png",
     "📉Macroeconomics/img/aggregate_demand.png",
     "📉Macroeconomics/img",
@@ -183,9 +187,6 @@
     "🖥️Computer Systems Engineering/DNS",
     "🖥️Computer Systems Engineering",
     "🚶Stochastic Calculus/Gaussian Variables and Processes",
-    "📉Macroeconomics",
-    "🤔Inference and Information",
-    "🦾Sensorimotor Learning",
-    "Static Checking"
+    "📉Macroeconomics"
   ]
 }

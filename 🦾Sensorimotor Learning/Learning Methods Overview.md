@@ -1,4 +1,5 @@
 The following methods range from hard-coded behavior to self-learnt behavior.
+
 ## Unimate
 
 Works in factories, not in the real world. Does not generalize.
@@ -58,7 +59,7 @@ Given sensory data, we must *infer* the actual state. We need to use a computer 
 
 For example, predicting object motion is not easy! This occurs because of all the assumptions we make when using physical models. Further, the real-world is not repeatable: even if we use the same objects and forces, the trajectories could differ.
 
-Model-based methods can only be as good as the specified models!
+Further, model-based methods can only be as good as the specified models!
 
 ==Intuitive models== sidestep the problem of human-specified models by *learning* the model!
 
@@ -74,9 +75,13 @@ Some people call this ==model-free learning==, since we don't need a model of th
 
 At initialization, $\theta$ is random, which means the produced actions are also random! Now it is really unlikely for us to progress to the goal state, which means there won't be much of a reward signal for us to learn on, either. How would we make $\theta$ better?
 
-This makes them **rather data inefficient**, since the systems just need to perform millions of interactions until they get lucky!
+One option is just random chance! This makes them **rather data inefficient**, since the systems just need to perform millions of interactions until they get lucky!
 
 Another issue is **designing a reward function**. We could use some basic distance metric (e.g. between images) from the goal state, but it might be better to train a visual classifier.
 
 Finally, we there are concerns with **safety during training and deployment**. For example, if RL is trying to learn how to drive a car, we'd prefer to do it in a toy environment first rather than the real world (where it will crash a bunch of times at the start).
+
+---
+
+**Next:** [[🦾Sensorimotor Learning Portal]]
 

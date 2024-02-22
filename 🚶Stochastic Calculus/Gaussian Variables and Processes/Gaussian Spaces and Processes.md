@@ -72,7 +72,7 @@ Conditional expectation among Gaussian variables corresponds to orthogonal proje
 > $$
 > Y\mid X\sim \mathcal{N}\left( \frac{bX}{a},c-\frac{b^{2}}{a} \right). 
 > $$
-> 
+> This should remind you of the linear regression slope $\frac{\text{Cov}(X,Y)}{\text{Var}(X)}$.
 
 The more general case is left as an exercise:
 

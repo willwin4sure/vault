@@ -12,5 +12,12 @@ However, we will prove the full statement with some [[⛺Ergodic Theory Homepage
 > $$
 > \frac{S_{n}}{n}\xrightarrow[n\to \infty]{\text{a.s.}} \nu.
 > $$
+
 ## Proof
+
+TODO
+
+---
+
+**Next:** [[Central Limit Theorem]]
 

@@ -14,4 +14,4 @@ Then, we move on to the novel concept of Gaussian spaces, and their generalizati
 
 ---
 
-**Next:** [[]]
+**Next:** [[⛺Brownian Motion Homepage]]

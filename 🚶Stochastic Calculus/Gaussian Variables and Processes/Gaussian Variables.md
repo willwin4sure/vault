@@ -1,4 +1,4 @@
-Now we will begin our formal treatment of stochastic calculus. We'll begin by defining Gaussians. This should mostly be [[⛺Gaussians Homepage|review]].
+Now we will begin our formal treatment of stochastic calculus. We'll begin by defining Gaussians. This should mostly be review.
 
 > [!definition] Definition (Gaussian vectors)
 > A ==$d$-dimensional Gaussian vector== is an $\mathbb{R}^{d}$-valued random variable $X$  such that $\langle X,u \rangle$ is a one-dimensional Gaussian variable for any $u\in \mathbb{R}^{d}$.

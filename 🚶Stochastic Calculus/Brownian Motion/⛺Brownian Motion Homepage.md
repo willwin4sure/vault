@@ -5,6 +5,7 @@
 ## Main Sequence
 
 1. [[Constructing Brownian Motion]]
+2. [[Brownian Motion]]
 
 ---
 

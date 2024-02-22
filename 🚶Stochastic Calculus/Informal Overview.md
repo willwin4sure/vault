@@ -50,7 +50,7 @@ Now, let $f:\mathbb{R}\to \mathbb{R}$ be a twice-differentiable function. ==Itô
 We can derive this mathematically. First, by a Taylor expansion, we can write
 $$
 \begin{align*}
-df(X_{t)})&=f'(X_{t})dX_{t}+\frac{1}{2}f''(X_{t})(dX_{t})^2\\
+df(X_{t})&=f'(X_{t})dX_{t}+\frac{1}{2}f''(X_{t})(dX_{t})^2\\
 &=f'(X_{t})(\mu_{t}dt+\sigma_{t}dB_{t})+\frac{1}{2}f''(X_{t})(\mu_{t}dt+\sigma_{t}dB_{t})^{2}.
 \end{align*}
 $$

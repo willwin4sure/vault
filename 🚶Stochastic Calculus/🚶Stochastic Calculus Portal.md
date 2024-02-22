@@ -14,3 +14,4 @@ The grade breakdown is as follows:
 First, go check out this [[Informal Overview|informal overview]] of the class.
 
 1. [[⛺Gaussian Variables and Processes Homepage]]
+2. [[⛺Brownian Motion Homepage]]
