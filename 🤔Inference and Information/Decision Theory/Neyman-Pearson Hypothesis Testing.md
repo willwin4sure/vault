@@ -21,19 +21,32 @@ subject to $P_{F}\leq\alpha$. This is called the ==Neyman-Pearson criterion==.
 > 
 > Therefore, if we want to maximize $P_{D}$ while limiting $P_{F}$, we want to pick observations $y$ with the highest likelihood ratio. 
 
-[!proof]- Rigor
-Let $\mathcal{Y}_{1}=\{ \mathbf{y}\in \mathcal{Y} : \hat{H}(\mathbf{y})=H_{1} \}$ denote the decision region of any decision rule $\hat{H}$, and suppose it has detection and false-alarm probabilities of $P_{D}$ and $P_{F}$, and let $\mathcal{Y}_{1}^{\eta}$ denote the decision region of $\hat{H}^{\eta}$ with performance measures $P_{D}^{\eta}$ and $P_{F}^{\eta}$. 
-
-We will show that whenever $P_{F}\leq P_{F}^{\eta}$, we have that $P_{D}\leq P_{D}^{\eta}$ as well: for any rule with a lower false-alarm rate, it also has a lower detection rate. In particular, we will show that
-$$
-\int_{\mathcal{Y}_{1}} \, dx 
-$$
-
+> [!proof]- Rigor
+> Let $\mathcal{Y}_{1}=\{ \mathbf{y}\in \mathcal{Y} : \hat{H}(\mathbf{y})=H_{1} \}$ denote the decision region of any decision rule $\hat{H}$, and suppose it has detection and false-alarm probabilities of $P_{D}$ and $P_{F}$, and let $\mathcal{Y}_{1}^{\eta}$ denote the decision region of $\hat{H}^{\eta}$ with performance measures $P_{D}^{\eta}$ and $P_{F}^{\eta}$. 
+> 
+> We will show that whenever $P_{F}\leq P_{F}^{\eta}$, we have that $P_{D}\leq P_{D}^{\eta}$ as well: for any rule with a lower false-alarm rate, it also has a lower detection rate. In particular, we will show that
+> $$
+> \int_{\mathcal{Y}_{1}^{\eta}} p_{\boldsymbol{\mathsf{y}}|\mathsf{H}}(\mathbf{y}|H_{1}) \, d\mathbf{y}
+> -\int_{\mathcal{Y}_{1}}p_{\boldsymbol{\mathsf{y}}|\mathsf{H}}(\mathbf{y}|H_{1}) \, d\mathbf{y}
+> \geq \eta \left[ 
+> \int_{\mathcal{Y}_{1}^{\eta}}p_{\boldsymbol{\mathsf{y}}|\mathsf{H}}(\mathbf{y}|H_{0}) \, d\mathbf{y}
+> -\int_{\mathcal{Y}_{1}}p_{\boldsymbol{\mathsf{y}}|\mathsf{H}}(\mathbf{y}|H_{0}) \, d\mathbf{y} 
+> \right].
+> $$
+> However, this is equivalent to
+> $$
+> \int_{\mathcal{Y}}(\mathbf{1}_{L(\mathbf{y})\geq \eta}-\mathbf{1}_{\mathbf{y}\in \mathcal{Y}_{1}})(L(\mathbf{y})-\eta)p_{\boldsymbol{\mathsf{y}}|\mathsf{H}}(\mathbf{y}|H_{0}) \, d\mathbf{y}\geq 0,
+> $$
+> which is true since the integrand is always nonnegative.
 
 > [!idea]
 > Just cut $P_{F}=\alpha$, and then read off the maximal $P_{D}$ along the OC-LRT.
 
 There are a lot of practical scenarios where this is not useful. For example, if one of the distributions under a hypothesis is discrete. Further, simple LRTs are only optimal among deterministic rules, and randomized classifiers could do better (e.g. logistic regression with sampling).
+
+Some extra related reading:
+
+1. [[p-values]]
 
 ---
 
