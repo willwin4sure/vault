@@ -1,6 +1,6 @@
 The heuristic for Gaussian white noise is that for every "pixel" of space, there is an independent Gaussian random variable.
 
-> [!definition] Definition (Gaussian white noise)
+> [!definition] (Gaussian white noise)
 > Let $(E,\mathcal{E})$ be a measurable space, and let $\mu$ be a $\sigma$-finite measure on $(E,\mathcal{E})$. Then, a ==Gaussian white noise with intensity $\mu$== on $(E,\mathcal{E})$ is a linear isometry $G:L^{2}(E,\mathcal{E},\mu)\to H$, where $H\subseteq L^{2}(\Omega,\mathcal{F},\mathbb{P})$ is a centered Gaussian space.
 
 An isometry is defined to preserve the inner product, so $\langle f,g \rangle=\langle G(f),G(g) \rangle$.

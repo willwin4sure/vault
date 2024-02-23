@@ -40,7 +40,7 @@ The size of the second term is typically much much larger, as it is order $\sqrt
 
 Now, let $f:\mathbb{R}\to \mathbb{R}$ be a twice-differentiable function. ==Itô's formula== characterizes the behavior of $f(X_{t})$, as follows.
 
-> [!theorem] Theorem (Itô's Formula)
+> [!theorem] (Itô's Formula)
 > $$
 > df(X_{t})=\underbrace{\left( f'(X_{t})\mu_{t} + \frac{f''(X_{t})\sigma_{t}^2}{2} \right)}_{\text{drift}}dt + \underbrace{f'(X_{t})\sigma_{t}}_{\text{volatility}}dB_{t}. 
 > $$

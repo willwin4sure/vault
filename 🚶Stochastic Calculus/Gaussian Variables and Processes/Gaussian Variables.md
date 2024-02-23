@@ -1,13 +1,13 @@
 Now we will begin our formal treatment of stochastic calculus. We'll begin by defining Gaussians. This should mostly be review.
 
-> [!definition] Definition (Gaussian vectors)
+> [!definition] (Gaussian vectors)
 > A ==$d$-dimensional Gaussian vector== is an $\mathbb{R}^{d}$-valued random variable $X$  such that $\langle X,u \rangle$ is a one-dimensional Gaussian variable for any $u\in \mathbb{R}^{d}$.
 
 ^373590
 
 This is a fancier definition than the one you've seen from other courses, but it turns out to be equivalent. It also doesn't explicitly specify that $\langle X,u \rangle$ and $\langle X,v \rangle$ are jointly Gaussian for $u,v\in \mathbb{R}^{d}$, but this is a true consequence.
 
-> [!proposition]
+> [!claim] (Gaussians are parameterized by mean and covariance)
 > The law of $X$ is uniquely determined by the ==mean vector== $\mu=\mathbb{E}[X]\in \mathbb{R}^{d}$ and the ==covariance matrix== $\Sigma=\mathbb{E}[(X-\mu)(X-\mu)^T]\in \mathbb{R}^{d\times d}$.
 
 > [!proof]-
@@ -33,7 +33,7 @@ f(x)=\frac{1}{(2\pi)^{d/2}\cdot|\text{det}\Sigma|^{1/2}}\cdot\exp \left( -\frac{
 $$
 over $x \in \mathbb{R}^{d}$.
 
-> [!claim] Claim (For Gaussians, uncorrelated $\Longleftrightarrow$ independent)
+> [!claim] (For Gaussians, uncorrelated $\Longleftrightarrow$ independent)
 > If $X\sim \mathcal{N}(\mu,\Sigma)$ is a $d$-dimensional Gaussian vector, then $X_{i}$ are mutually independent if and only if $\Sigma$ is diagonal.
 
 ^6037a8

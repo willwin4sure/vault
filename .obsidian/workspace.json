@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🤔Inference and Information/Decision Theory/Neyman-Pearson Hypothesis Testing.md",
+                "file": "🚶Stochastic Calculus/Brownian Motion/⛺Brownian Motion Homepage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🤔Inference and Information/Decision Theory/Neyman-Pearson Hypothesis Testing.md",
+                "file": "🚶Stochastic Calculus/Brownian Motion/⛺Brownian Motion Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🤔Inference and Information/Decision Theory/Neyman-Pearson Hypothesis Testing.md",
+                "file": "🚶Stochastic Calculus/Brownian Motion/⛺Brownian Motion Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🤔Inference and Information/Decision Theory/Neyman-Pearson Hypothesis Testing.md"
+                "file": "🚶Stochastic Calculus/Brownian Motion/⛺Brownian Motion Homepage.md"
               }
             }
           }
@@ -149,35 +149,35 @@
   },
   "active": "2ea6c2837ce1f847",
   "lastOpenFiles": [
+    "🚶Stochastic Calculus/Brownian Motion/Constructing Brownian Motion.md",
+    "🚶Stochastic Calculus/Brownian Motion/Continuous-time Martingales.md",
+    "🚶Stochastic Calculus/Brownian Motion/Brownian Motion.md",
+    "🚶Stochastic Calculus/Brownian Motion/⛺Brownian Motion Homepage.md",
+    "📉Macroeconomics/The Financial Market.md",
+    "📉Macroeconomics/The Goods Market.md",
+    "📉Macroeconomics/Economic Measurement.md",
+    "📉Macroeconomics/📉Macroeconomics Portal.md",
+    "🚶Stochastic Calculus/Gaussian Variables and Processes/⛺Gaussian Variables and Processes Homepage.md",
+    "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian White Noise.md",
+    "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Spaces and Processes.md",
+    "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Variables.md",
+    "🚶Stochastic Calculus/🚶Stochastic Calculus Portal.md",
+    "🚶Stochastic Calculus/Informal Overview.md",
+    "🤔Inference and Information/Decision Theory/Neyman-Pearson Hypothesis Testing.md",
     "🤔Inference and Information/Decision Theory/OC-LRT.md",
     "🤔Inference and Information/Decision Theory/The Likelihood Ratio Test.md",
-    "🤔Inference and Information/Decision Theory/Neyman-Pearson Hypothesis Testing.md",
     "🤔Inference and Information/Decision Theory/Bayesian Hypothesis Testing.md",
     "🤔Inference and Information/Decision Theory/img/oclrt.png",
     "🤔Inference and Information/Decision Theory/img",
     "🤔Inference and Information/Decision Theory/⛺Decision Theory Homepage.md",
-    "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian White Noise.md",
-    "🚶Stochastic Calculus/Gaussian Variables and Processes/⛺Gaussian Variables and Processes Homepage.md",
-    "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Spaces and Processes.md",
     "🦾Sensorimotor Learning/Stochastic Bandits/Contextual Bandits, LinUCB, and Square CB.md",
     "🦾Sensorimotor Learning/Stochastic Bandits/Upper Confidence Bound Algorithm.md",
-    "🚶Stochastic Calculus/Brownian Motion/Constructing Brownian Motion.md",
     "🦾Sensorimotor Learning/Stochastic Bandits/Stochastic Bandits.md",
     "🦾Sensorimotor Learning/Stochastic Bandits/Exploration-Exploitation Tradeoff.md",
     "🤔Inference and Information/🤔Inference and Information Portal.md",
-    "🚶Stochastic Calculus/Brownian Motion/Continuous-time Martingales.md",
     "🤔Inference and Information/Introductory Remarks.md",
-    "🚶Stochastic Calculus/Brownian Motion/⛺Brownian Motion Homepage.md",
     "🤔Inference and Information/Decision Theory",
-    "🚶Stochastic Calculus/Brownian Motion/Brownian Motion.md",
-    "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Variables.md",
-    "🚶Stochastic Calculus/🚶Stochastic Calculus Portal.md",
-    "🚶Stochastic Calculus/Informal Overview.md",
     "🦾Sensorimotor Learning/Stochastic Bandits/⛺Stochastic Bandits Homepage.md",
-    "🦾Sensorimotor Learning/🦾Sensorimotor Learning Portal.md",
-    "🦾Sensorimotor Learning/Learning Methods Overview.md",
-    "🦾Sensorimotor Learning/Sequential Decision Making.md",
-    "📏Measures and Probability/SLLN and CLT/⛺SLLN and CLT Homepage.md",
     "🦾Sensorimotor Learning/Stochastic Bandits",
     "📉Macroeconomics/img/aggregate_demand_shift.png",
     "📉Macroeconomics/img/aggregate_demand.png",
