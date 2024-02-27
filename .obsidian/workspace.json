@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🚶Stochastic Calculus/Brownian Motion/⛺Brownian Motion Homepage.md",
+                "file": "🚶Stochastic Calculus/Brownian Motion/Constructing Brownian Motion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81220c980c2ebdea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🦾Sensorimotor Learning/On-Policy Learning/The Credit Assignment Challenge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b1af5c25290770a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🦾Sensorimotor Learning/Stochastic Bandits/Contextual Bandits, LinUCB, and Square CB.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🚶Stochastic Calculus/Brownian Motion/⛺Brownian Motion Homepage.md",
+                "file": "🦾Sensorimotor Learning/On-Policy Learning/The Credit Assignment Challenge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🚶Stochastic Calculus/Brownian Motion/⛺Brownian Motion Homepage.md",
+                "file": "🦾Sensorimotor Learning/On-Policy Learning/The Credit Assignment Challenge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🚶Stochastic Calculus/Brownian Motion/⛺Brownian Motion Homepage.md"
+                "file": "🦾Sensorimotor Learning/On-Policy Learning/The Credit Assignment Challenge.md"
               }
             }
           }
@@ -147,20 +172,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2ea6c2837ce1f847",
+  "active": "81220c980c2ebdea",
   "lastOpenFiles": [
-    "🤔Inference and Information/Decision Theory/p-values.md",
-    "🤔Inference and Information/Decision Theory/The Likelihood Ratio Test.md",
-    "🤔Inference and Information/Decision Theory/Bayesian Hypothesis Testing.md",
-    "🤔Inference and Information/Decision Theory/img/oclrt.png",
-    "🤔Inference and Information/Decision Theory/img",
-    "🤔Inference and Information/Decision Theory/⛺Decision Theory Homepage.md",
+    "🦾Sensorimotor Learning/On-Policy Learning/Policy Gradients and REINFORCE.md",
+    "🦾Sensorimotor Learning/On-Policy Learning/The Credit Assignment Challenge.md",
+    "🦾Sensorimotor Learning/On-Policy Learning/⛺On-Policy Learning Homepage.md",
+    "🦾Sensorimotor Learning/Stochastic Bandits/⛺Stochastic Bandits Homepage.md",
+    "🦾Sensorimotor Learning/Learning Methods Overview.md",
     "🦾Sensorimotor Learning/Stochastic Bandits/Contextual Bandits, LinUCB, and Square CB.md",
+    "🦾Sensorimotor Learning/Stochastic Bandits/Exploration-Exploitation Tradeoff.md",
     "🦾Sensorimotor Learning/Stochastic Bandits/Upper Confidence Bound Algorithm.md",
     "🦾Sensorimotor Learning/Stochastic Bandits/Stochastic Bandits.md",
-    "🦾Sensorimotor Learning/Stochastic Bandits/Exploration-Exploitation Tradeoff.md",
-    "🤔Inference and Information/🤔Inference and Information Portal.md",
-    "🤔Inference and Information/Introductory Remarks.md",
+    "🦾Sensorimotor Learning/On-Policy Learning",
+    "🤔Inference and Information/Decision Theory/OC-LRT.md",
+    "🚶Stochastic Calculus/Brownian Motion/Brownian Motion.md",
+    "🚶Stochastic Calculus/Brownian Motion/Constructing Brownian Motion.md",
+    "🚶Stochastic Calculus/Brownian Motion/Continuous-time Martingales.md",
+    "🚶Stochastic Calculus/Brownian Motion/Kolmogorov Continuity Lemma.md",
+    "🤔Inference and Information/Decision Theory/The Likelihood Ratio Test.md",
+    "🤔Inference and Information/Decision Theory/Neyman-Pearson Hypothesis Testing.md",
+    "🤔Inference and Information/Decision Theory/Bayesian Hypothesis Testing.md",
+    "🚶Stochastic Calculus/Brownian Motion/⛺Brownian Motion Homepage.md",
+    "🖥️Computer Systems Engineering/OS/Operating Systems.md",
+    "🖥️Computer Systems Engineering/OS/The Unix File System.md",
+    "🖥️Computer Systems Engineering/OS/Unix Processes and Images.md",
+    "🖥️Computer Systems Engineering/OS/Implementation of the Unix File System.md",
+    "🖥️Computer Systems Engineering/DNS/Domain Name System.md",
+    "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian White Noise.md",
+    "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Variables.md",
+    "🚶Stochastic Calculus/🚶Stochastic Calculus Portal.md",
+    "🤔Inference and Information/Decision Theory/img/oclrt.png",
+    "🤔Inference and Information/Decision Theory/img",
     "🤔Inference and Information/Decision Theory",
     "🦾Sensorimotor Learning/Stochastic Bandits",
     "📉Macroeconomics/img/aggregate_demand_shift.png",
@@ -170,7 +212,6 @@
     "🖥️Computer Systems Engineering/OS",
     "🖥️Computer Systems Engineering/DNS",
     "🖥️Computer Systems Engineering",
-    "🚶Stochastic Calculus/Gaussian Variables and Processes",
-    "📉Macroeconomics"
+    "🚶Stochastic Calculus/Gaussian Variables and Processes"
   ]
 }

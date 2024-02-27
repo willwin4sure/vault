@@ -1,3 +1,5 @@
+> Recommendation system for users (pick one thing from a bunch of choices), where you have some context about who the user is.
+
 Now we will complicate the problem setup. 
 ## Problem Setup
 

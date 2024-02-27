@@ -1,3 +1,4 @@
+> Deciding between a bunch of options with fixed but unknown reward distributions.
 ## Problem Setup
 
 > [!definition] Definition (Multi-Armed Bandit)

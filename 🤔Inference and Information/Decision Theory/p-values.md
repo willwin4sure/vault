@@ -1,4 +1,4 @@
-> Many test have a significance level of 0.05. If the p-value of the data is 0.05, we mark it as statistically significant and reject the null.
+> Many tests have a significance level of 0.05. If the p-value of the data is 0.05, we mark it as statistically significant and reject the null.
 
 We will restrict our attention to the case where the data $\boldsymbol{\mathsf{y}}$ is governed by bounded PDFs under each hypothesis, and where the likelihood ratio $L(\boldsymbol{\mathsf{y}})$ is a purely continuous random variable (no discrete components) under each hypothesis.
 
