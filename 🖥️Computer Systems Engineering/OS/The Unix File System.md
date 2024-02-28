@@ -44,7 +44,7 @@ After the mount, there is virtually no distinction between files on the removabl
 
 The access control scheme involves associating with each file ten ==protection bits==. ^1afade
 
-Each user of the system has a unique ID. When a file is created, it is marked with the ID of the creator, as well as the ten protection bits. Nine of them specify read, write, and execute permissions of three groups of user: the owner, users in the same group as the owner, and all other users. ^91459c
+Each user of the system has a unique ID. When a file is created, it is marked with the ID of the creator, as well as the ten protection bits. Nine of them specify read, write, and execute permissions of three groups of users: the owner, users in the same group as the owner, and all other users. ^91459c
 
 If the tenth bit is on, the system will temporarily change the user ID of the current user to that of the creator of the file *when the file is executed as a program*. This is called the `setuid` bit, and allows privileged programs to access files that normal users cannot (maybe only the program should modify a certain file).
 

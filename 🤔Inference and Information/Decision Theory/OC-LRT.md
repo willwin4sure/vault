@@ -46,12 +46,12 @@ The best decision rules are in the top-left, while the worst are in the bottom-r
 > \frac{(C_{10}-C_{00})P_{0}}{(C_{01}-C_{11})P_{1}}.
 > $$
 
-> [!proof]-
+> [!proof]- Lagrange multipliers
 > The Bayes' risk is
 > $$
 > \varphi(f)=\sum_{i,j}^{}C_{ij}\mathbb{P}(\hat{H}(\boldsymbol{\mathsf{y}})=H_{i}|\mathsf{H}=H_{j})P_{j},
 > $$
-> which can be rewritten as $\varphi(f)=\alpha P_{F}-\beta P_{D}+\gamma$, where
+> which can be rewritten as a linear function $\varphi(f)=\alpha P_{F}-\beta P_{D}+\gamma$, where
 > $$
 > \alpha=(C_{10}-C_{00})P_{0},\quad \beta=(C_{01}-C_{11})P_{1},\quad \gamma=(C_{00}P_{0}+C_{11}P_{1}).
 > $$

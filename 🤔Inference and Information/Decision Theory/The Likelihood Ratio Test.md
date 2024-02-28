@@ -23,6 +23,8 @@ Then, the optimal decision rule minimizes the expected cost, referred to as the 
 $$
 \varphi(f):=\mathbb{E}\left[ C(\mathsf{H},f(\boldsymbol{\mathsf{y}})) \right].
 $$
+The expectation is over sampling a hypothesis from a prior and then generating some data $\mathbf{y}$.
+
 > [!theorem] (Likelihood ratio test)
 > Given a priori probabilities $P_{i}$, data $\mathbf{y}$, observation models $p_{\boldsymbol{\mathsf{y}}|\mathsf{H}}(\bullet|H_{i})$, and valid costs $C_{ij}$, the Bayesian decision rule takes the form
 > $$
@@ -69,7 +71,7 @@ $$
 > $$
 > which rearranges to the desired.
 
-The left hand side $L(\mathbf{y})$ is referred to as the ==likelihood ratio==. In the case that one of the values in the fraction is $0$, decide in the obvious way.
+The left hand side $L(\mathbf{y})$ is referred to as the ==likelihood ratio==. In the case that one of the values in the fraction is $0$, decide in the obvious way. (If they're both zero, something went wrong.)
 
 > [!idea]
 > If we use $0$-$1$ loss, then LRT corresponds to directly comparing a posteriori probabilities. Nontrivial losses just reweight the prior by how much it hurts to misclassify that thing (e.g. if false negatives really hurt, it is equivalent to $P_{1}$ being higher).
