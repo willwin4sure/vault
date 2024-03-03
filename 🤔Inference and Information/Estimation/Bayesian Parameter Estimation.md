@@ -61,6 +61,10 @@ The ==mean-square error (MSE) criterion== is the square of the $L^{2}$ norm $C(\
 > [!proof]- Obvious
 > Differentiate the convex loss function.
 
+For a bonus loss function, check out:
+
+1. [[Robust Bayesian Estimation]]
+
 ---
 
 **Next:** [[Properties of the BLS Estimator]]

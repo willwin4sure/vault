@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3e095d8f754591e1",
+        "id": "81bda0680c8e42a9",
         "type": "tabs",
         "children": [
           {
-            "id": "8aba4a1fcaeb650f",
+            "id": "3a1b8ef735cd4399",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🦾Sensorimotor Learning/On-Policy Learning/Advantage Actor-Critic Method.md",
+                "file": "🤔Inference and Information/Estimation/Linear LSE Estimation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🦾Sensorimotor Learning/On-Policy Learning/Advantage Actor-Critic Method.md",
+                "file": "🤔Inference and Information/Estimation/Linear LSE Estimation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🦾Sensorimotor Learning/On-Policy Learning/Advantage Actor-Critic Method.md",
+                "file": "🤔Inference and Information/Estimation/Linear LSE Estimation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🦾Sensorimotor Learning/On-Policy Learning/Advantage Actor-Critic Method.md"
+                "file": "🤔Inference and Information/Estimation/Linear LSE Estimation.md"
               }
             }
           }
@@ -147,36 +147,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8aba4a1fcaeb650f",
+  "active": "3a1b8ef735cd4399",
   "lastOpenFiles": [
-    "🦾Sensorimotor Learning/On-Policy Learning/Policy Gradients and REINFORCE.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/Actor-Critic Step Size.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/Advantage Actor-Critic Method.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/A3C Method.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/Proximal Policy Optimization.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/Variance Reduction.md",
-    "README.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/⛺On-Policy Learning Homepage.md",
-    "🚶Stochastic Calculus/Brownian Motion/Constructing Brownian Motion.md",
-    "📏Measures and Probability/Measurable Functions/Tail Events.md",
-    "🚶Stochastic Calculus/Brownian Motion/Brownian Motion.md",
     "🤔Inference and Information/Estimation/Properties of the BLS Estimator.md",
+    "🤔Inference and Information/Estimation/BLS Covariance Inequality.md",
+    "🤔Inference and Information/Estimation/Robust Bayesian Estimation.md",
+    "🤔Inference and Information/Estimation/Linear LSE Estimation.md",
+    "🤔Inference and Information/Estimation/Implementation of Bayesian Estimation.md",
     "🤔Inference and Information/Estimation/Bayesian Parameter Estimation.md",
     "🤔Inference and Information/Estimation/⛺Estimation Homepage.md",
-    "🤔Inference and Information/Techniques/Exponential Families.md",
-    "🤔Inference and Information/Techniques/⛺Techniques Homepage.md",
+    "🤔Inference and Information/Decision Theory/⛺Decision Theory Homepage.md",
+    "🤔Inference and Information/Decision Theory/Minimax Hypothesis Testing.md",
+    "🤔Inference and Information/Decision Theory/Randomized Decision Rules.md",
+    "🤔Inference and Information/Decision Theory/Discontinuous OC-LRTs.md",
+    "🤔Inference and Information/Decision Theory/Neyman-Pearson Hypothesis Testing.md",
+    "🤔Inference and Information/Decision Theory/p-values.md",
+    "🤔Inference and Information/Decision Theory/OC-LRT.md",
+    "🤔Inference and Information/Decision Theory/The Likelihood Ratio Test.md",
+    "🤔Inference and Information/Decision Theory/Bayesian Hypothesis Testing.md",
     "🤔Inference and Information/🤔Inference and Information Portal.md",
+    "🤔Inference and Information/Introductory Remarks.md",
+    "🚶Stochastic Calculus/Gaussian Variables and Processes/⛺Gaussian Variables and Processes Homepage.md",
+    "📏Measures and Probability/Lebesgue Spaces/L2 as a Hilbert Space.md",
+    "📏Measures and Probability/Lebesgue Spaces/Lp as a Banach Space.md",
+    "📏Measures and Probability/Lebesgue Spaces/Variance, Covariance, Conditional Expectation.md",
+    "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Spaces and Processes.md",
+    "Bias-Variance Decomposition.md",
+    "🦾Sensorimotor Learning/On-Policy Learning/Advantage Actor-Critic Method.md",
+    "🦾Sensorimotor Learning/On-Policy Learning/Policy Gradients and REINFORCE.md",
     "Untitled",
     "🤔Inference and Information/Techniques",
-    "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Spaces and Processes.md",
-    "🖥️Computer Systems Engineering/Networking/History of the Internet.md",
-    "📉Macroeconomics/The Financial Market.md",
-    "📉Macroeconomics/The Goods Market.md",
-    "📈Microeconomics/Supply and Demand/Utility and Budget.md",
-    "📈Microeconomics/Supply and Demand/Production and Costs.md",
-    "📉Macroeconomics/Economic Measurement.md",
-    "🖥️Computer Systems Engineering/Networking/Ethernet.md",
-    "🖥️Computer Systems Engineering/Networking/Introduction to Networking.md",
     "🖥️Computer Systems Engineering/Networking/img/moderninternet.png",
     "🖥️Computer Systems Engineering/Networking/img/voxinternet.png",
     "🖥️Computer Systems Engineering/Networking/img/arpanetgeo.png",

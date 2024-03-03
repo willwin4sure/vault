@@ -106,7 +106,7 @@ We can write a statement in full generality:
 > $$
 > where $\pi_{K}$ denotes the orthogonal projection of $X$ onto $K$.
 
-> [!remark]-
+> [!remark]
 > We can contrast this with the general case where we take some arbitrary $X \in L^{2}(\Omega,\mathcal{F},\mathbb{P})$ and condition on $\sigma(K)$; the expected value would be
 > $$
 > \mathbb{E}[X|\sigma(K)]=\pi_{L^{2}(\Omega,\sigma(K),\mathbb{P})}(X).

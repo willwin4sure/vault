@@ -24,7 +24,8 @@ This allows us to achieve the upper convex hull of the OC-LRT. Here is a picture
 
 Now, we will develop a more general theory of randomized tests. However, we will show that nothing more complicated than the above is needed.
 
-> [!idea] Time sharing is optimal.
+> [!idea]
+> Time sharing is optimal.
 
 ## Randomized Tests
 

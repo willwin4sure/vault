@@ -6,5 +6,5 @@ From the MIT graduate class [6.7800 Inference and Information](http://student.mi
 First, some [[Introductory Remarks|introductory remarks]] about inference.
 
 1. [[⛺Decision Theory Homepage]]
-2. 
+2. [[⛺Estimation Homepage]]
 

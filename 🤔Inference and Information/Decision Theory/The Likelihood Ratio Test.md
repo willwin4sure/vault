@@ -19,11 +19,14 @@ We only think about valid cost functions.
 > [!example] ($0$-$1$ loss)
 > A basic symmetric loss function is $C_{ij}=\mathbf{1}_{i\neq j}$.
 
-Then, the optimal decision rule minimizes the expected cost, referred to as the ==Bayes' risk==
-$$
-\varphi(f):=\mathbb{E}\left[ C(\mathsf{H},f(\boldsymbol{\mathsf{y}})) \right].
-$$
-The expectation is over sampling a hypothesis from a prior and then generating some data $\mathbf{y}$.
+Then, the optimal decision rule minimizes the expected cost.
+
+> [!definition] (Bayes' risk)
+> We refer to the expected cost of a decision rule $f$ as the ==Bayes' risk==
+> $$
+> \varphi(f):=\mathbb{E}\left[ C(\mathsf{H},f(\boldsymbol{\mathsf{y}})) \right].
+> $$
+> The expectation is over sampling a hypothesis from a prior and then generating some data $\boldsymbol{\mathsf{y}}=\mathbf{y}$.
 
 > [!theorem] (Likelihood ratio test)
 > Given a priori probabilities $P_{i}$, data $\mathbf{y}$, observation models $p_{\boldsymbol{\mathsf{y}}|\mathsf{H}}(\bullet|H_{i})$, and valid costs $C_{ij}$, the Bayesian decision rule takes the form
