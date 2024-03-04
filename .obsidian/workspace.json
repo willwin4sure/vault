@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "799df8e94937d540",
+            "id": "f2a31721ecedc7ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖥️Computer Systems Engineering/Unix/⛺Unix Homepage.md",
+                "file": "🦾Sensorimotor Learning/On-Policy Learning/Actor-Critic Step Size.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "1242364466db2e3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🖥️Computer Systems Engineering/Unix/⛺Unix Homepage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1e56fe7242c883c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🦾Sensorimotor Learning/On-Policy Learning/Actor-Critic Step Size.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🦾Sensorimotor Learning/On-Policy Learning/Actor-Critic Step Size.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🦾Sensorimotor Learning/On-Policy Learning/Actor-Critic Step Size.md"
+              }
             }
           }
         ]
@@ -164,14 +147,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e1e56fe7242c883c",
+  "active": "f2a31721ecedc7ec",
   "lastOpenFiles": [
+    "🦾Sensorimotor Learning/On-Policy Learning/⛺On-Policy Learning Homepage.md",
+    "🦾Sensorimotor Learning/On-Policy Learning/Advantage Actor-Critic Method.md",
+    "🦾Sensorimotor Learning/On-Policy Learning/Variance Reduction.md",
+    "🦾Sensorimotor Learning/On-Policy Learning/Actor-Critic Step Size.md",
+    "🖥️Computer Systems Engineering/Unix/⛺Unix Homepage.md",
     "📏Measures and Probability/📏Measures and Probability Portal.md",
     "🏠Home.md",
     "🖥️Computer Systems Engineering/🖥️Computer Systems Engineering Portal.md",
     "🖥️Computer Systems Engineering/Miscellany/Domain Name System.md",
     "🖥️Computer Systems Engineering/Networking/⛺Networking Homepage.md",
-    "🖥️Computer Systems Engineering/Unix/⛺Unix Homepage.md",
     "🖥️Computer Systems Engineering/Operating Systems/⛺Operating Systems Homepage.md",
     "🖥️Computer Systems Engineering/Networking/Introduction to Networking.md",
     "🖥️Computer Systems Engineering/Networking/History of the Internet.md",
@@ -190,10 +177,6 @@
     "README.md",
     "🖥️Computer Systems Engineering/Operating Systems/Virtual Memory.md",
     "🖥️Computer Systems Engineering/Operating Systems",
-    "🤔Inference and Information/Estimation/⛺Estimation Homepage.md",
-    "💻Programming/Typescript/Mutation and Reassignment.md",
-    "💻Programming/Typescript/Static Checking.md",
-    "🤔Inference and Information/Estimation/Linear LSE Estimation.md",
     "🤔Inference and Information/Techniques",
     "🖥️Computer Systems Engineering/Networking/img/moderninternet.png",
     "🖥️Computer Systems Engineering/Networking/img/voxinternet.png",

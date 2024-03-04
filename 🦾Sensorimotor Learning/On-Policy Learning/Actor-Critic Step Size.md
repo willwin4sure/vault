@@ -48,6 +48,8 @@ where $F(\theta)=\mathbb{E}_{\pi}[\nabla_{\theta}\log \pi_{\theta}(x)\nabla_{\th
 > $$
 > multiplied by the ==natural gradient== $F^{-1}g$. This is natural because it does not care about how $\theta$ parameterizes our policy $\pi$, since we are only bounding how the policy distribution itself changes.
 
+## Trust Region Policy Optimization (TRPO)
+
 There is one important question left: how do we choose $\varepsilon$? Well, we definitely want that
 $$
 J(\theta+d)-J(\theta)>0.
