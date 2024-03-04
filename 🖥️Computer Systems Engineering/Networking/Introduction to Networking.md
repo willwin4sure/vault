@@ -1,4 +1,4 @@
-	You have a client and a server that want to talk to each other. Of these two ==endpoints==, the client is the ==source==, and the server is the ==destination==. 
+You have a client and a server that want to talk to each other. Of these two ==endpoints==, the client is the ==source==, and the server is the ==destination==. 
 
 How is this possible?
 

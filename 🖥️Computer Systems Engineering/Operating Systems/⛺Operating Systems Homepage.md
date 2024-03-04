@@ -6,6 +6,13 @@ Operating systems **enforce modularity** on a single machine. A few things need 
 
 The primary technique that an OS uses to enforce modularity is called ==virtualization==. We want each program to *think* it has full access to the hardware, when it actually doesn't.
 
+## Main Sequence
+
 We investigate each of these topics in the following sections:
 
 1. [[Virtual Memory]]
+
+
+---
+
+**Next:** [[⛺Unix Homepage]]

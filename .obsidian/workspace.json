@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "81bda0680c8e42a9",
+        "id": "45900bcb7b0a7b3b",
         "type": "tabs",
         "children": [
           {
-            "id": "3a1b8ef735cd4399",
+            "id": "799df8e94937d540",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🤔Inference and Information/Estimation/Linear LSE Estimation.md",
+                "file": "🖥️Computer Systems Engineering/Unix/⛺Unix Homepage.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "1242364466db2e3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖥️Computer Systems Engineering/Unix/⛺Unix Homepage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1e56fe7242c883c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🤔Inference and Information/Estimation/Linear LSE Estimation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🤔Inference and Information/Estimation/Linear LSE Estimation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🤔Inference and Information/Estimation/Linear LSE Estimation.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,35 +164,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3a1b8ef735cd4399",
+  "active": "e1e56fe7242c883c",
   "lastOpenFiles": [
-    "🤔Inference and Information/Estimation/Properties of the BLS Estimator.md",
-    "🤔Inference and Information/Estimation/BLS Covariance Inequality.md",
-    "🤔Inference and Information/Estimation/Robust Bayesian Estimation.md",
-    "🤔Inference and Information/Estimation/Linear LSE Estimation.md",
-    "🤔Inference and Information/Estimation/Implementation of Bayesian Estimation.md",
-    "🤔Inference and Information/Estimation/Bayesian Parameter Estimation.md",
-    "🤔Inference and Information/Estimation/⛺Estimation Homepage.md",
-    "🤔Inference and Information/Decision Theory/⛺Decision Theory Homepage.md",
-    "🤔Inference and Information/Decision Theory/Minimax Hypothesis Testing.md",
-    "🤔Inference and Information/Decision Theory/Randomized Decision Rules.md",
-    "🤔Inference and Information/Decision Theory/Discontinuous OC-LRTs.md",
-    "🤔Inference and Information/Decision Theory/Neyman-Pearson Hypothesis Testing.md",
-    "🤔Inference and Information/Decision Theory/p-values.md",
-    "🤔Inference and Information/Decision Theory/OC-LRT.md",
-    "🤔Inference and Information/Decision Theory/The Likelihood Ratio Test.md",
-    "🤔Inference and Information/Decision Theory/Bayesian Hypothesis Testing.md",
-    "🤔Inference and Information/🤔Inference and Information Portal.md",
-    "🤔Inference and Information/Introductory Remarks.md",
-    "🚶Stochastic Calculus/Gaussian Variables and Processes/⛺Gaussian Variables and Processes Homepage.md",
-    "📏Measures and Probability/Lebesgue Spaces/L2 as a Hilbert Space.md",
-    "📏Measures and Probability/Lebesgue Spaces/Lp as a Banach Space.md",
-    "📏Measures and Probability/Lebesgue Spaces/Variance, Covariance, Conditional Expectation.md",
-    "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Spaces and Processes.md",
-    "Bias-Variance Decomposition.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/Advantage Actor-Critic Method.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/Policy Gradients and REINFORCE.md",
+    "📏Measures and Probability/📏Measures and Probability Portal.md",
+    "🏠Home.md",
+    "🖥️Computer Systems Engineering/🖥️Computer Systems Engineering Portal.md",
+    "🖥️Computer Systems Engineering/Miscellany/Domain Name System.md",
+    "🖥️Computer Systems Engineering/Networking/⛺Networking Homepage.md",
+    "🖥️Computer Systems Engineering/Unix/⛺Unix Homepage.md",
+    "🖥️Computer Systems Engineering/Operating Systems/⛺Operating Systems Homepage.md",
+    "🖥️Computer Systems Engineering/Networking/Introduction to Networking.md",
+    "🖥️Computer Systems Engineering/Networking/History of the Internet.md",
+    "🖥️Computer Systems Engineering/Networking/Ethernet.md",
     "Untitled",
+    "🤔Inference and Information/🤔Inference and Information Portal.md",
+    "🚶Stochastic Calculus/🚶Stochastic Calculus Portal.md",
+    "💻Programming/💻Programming Portal.md",
+    "🖥️Computer Systems Engineering/Unix/The Unix File System.md",
+    "🖥️Computer Systems Engineering/Unix/Unix Traps.md",
+    "🖥️Computer Systems Engineering/Unix/Implementation of the Unix Shell.md",
+    "🖥️Computer Systems Engineering/Unix/The Unix Shell.md",
+    "🖥️Computer Systems Engineering/Unix/Unix Processes in Action.md",
+    "🖥️Computer Systems Engineering/Unix/Unix Processes and Images.md",
+    "🖥️Computer Systems Engineering/Unix/Implementation of the Unix File System.md",
+    "README.md",
+    "🖥️Computer Systems Engineering/Operating Systems/Virtual Memory.md",
+    "🖥️Computer Systems Engineering/Operating Systems",
+    "🤔Inference and Information/Estimation/⛺Estimation Homepage.md",
+    "💻Programming/Typescript/Mutation and Reassignment.md",
+    "💻Programming/Typescript/Static Checking.md",
+    "🤔Inference and Information/Estimation/Linear LSE Estimation.md",
     "🤔Inference and Information/Techniques",
     "🖥️Computer Systems Engineering/Networking/img/moderninternet.png",
     "🖥️Computer Systems Engineering/Networking/img/voxinternet.png",
@@ -193,7 +211,6 @@
     "🦾Sensorimotor Learning/On-Policy Learning",
     "🤔Inference and Information/Decision Theory/img",
     "🤔Inference and Information/Decision Theory",
-    "🦾Sensorimotor Learning/Stochastic Bandits",
-    "📉Macroeconomics/img"
+    "🦾Sensorimotor Learning/Stochastic Bandits"
   ]
 }

@@ -2,6 +2,8 @@ When discussing the Unix file system, we mentioned that [[The Unix File System#^
 
 ## The I-List
 
+> Table containing i-nodes, which hold the location and metadata of files.
+
 The pointer to the file is an integer called the ==i-number== (index number) for the file. This is used as an index into a system table called the ==i-list==, which is a known part of the device. This returns an entry, called the file's ==i-node==. This contains a description of the file:
 
 1. The user and group IDs of the [[The Unix File System#^91459c|owner]].
@@ -12,11 +14,13 @@ The pointer to the file is an integer called the ==i-number== (index number) for
 6. Number of [[The Unix File System#^4b0f02|links]] to the file, i.e. number of times it appears in a directory.
 7. A code indicating if it is an ordinary file, a directory, or a special file.
 
-The [[The Unix File System#^499500|open and create syscalls]] convert the given path name into an i-number by searching the directories. Once the file is open, its device, i-number, and read/write pointer are stored in a system table indexed by the returned file descriptor. This allows the i-node to be easily retrieved.
+The [[The Unix File System#I/O Calls|open and create syscalls]] convert the given path name into an i-number by searching the directories. Once the file is open, its device, i-number, and read/write pointer are stored in a system table indexed by the returned file descriptor. This allows the i-node to be easily retrieved.
 
 Creating/linking/deleting files involves allocating/updating i-nodes. In particular, the link count must be updated. If the link count ever drops to 0, any disk blocks in the file are freed and the i-node is de-allocated.
 
 ## Hierarchical Blocking for Files
+
+> Like hierarchical page tables. I guess this is a rather common design pattern to allow for dynamic sizes at the cost of extra indirection.
 
 How are [[The Unix File System#^b0a8c7|ordinary files]] actually stored on the disk? Well, the disk is divided into a number of 512-byte blocks, each logically addressed from 0 to the number that can fit on the device.
 
@@ -36,6 +40,8 @@ bytes. Quite large for the 1970s! Of course, access through the higher levels of
 For [[The Unix File System#^16e0b3|special files]], the above does not apply: the last 12 device addresses are useless, while the first specifies an internal ==device name==, interpreted as a pair of integers representing a device type and a subdevice number. The ==device type== indicates which system routine deals with I/O on the device.
 
 ## Implementing Syscalls
+
+> Everything can be done with the i-list and other system tables.
 
 Recall [[The Unix File System#^9937dc|mounting]], which takes two arguments: the name of an existing ordinary file and the name of a special file whose associated storage volume has the structure of an independent file system with its own directory hierarchy.
 

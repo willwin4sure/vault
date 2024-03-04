@@ -8,3 +8,4 @@ Hungry for something? Try one of our portals.
 * [[🤔Inference and Information Portal]]
 * [[🦾Sensorimotor Learning Portal]]
 * [[💻Programming Portal]]
+* [[🖥️Computer Systems Engineering Portal]]
