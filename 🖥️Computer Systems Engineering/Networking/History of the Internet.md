@@ -54,3 +54,7 @@ Another example is mobilization: nobody expected us to have phones in our pocket
 Here is a picture of the modern internet. Each dot is not a single machine, but rather its own large network (e.g. the size of MIT's).
 
 ![[moderninternet.png|center|512]]
+
+---
+
+**Next:** [[The Network Layer]]
