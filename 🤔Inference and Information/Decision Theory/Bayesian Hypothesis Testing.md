@@ -26,7 +26,7 @@ $$
 > = \frac{p_{\boldsymbol{\mathsf{y}}|\mathsf{H}}(\mathbf{y}|H_{m})p_{\mathsf{H}}(H_{m})}
 > {\sum_{m'}^{}p_{\boldsymbol{\mathsf{y}}|\mathsf{H}}(\mathbf{y}|H_{m'})p_{\mathsf{H}}(H_{m'})}.
 > $$
-> This say what you think it does: scale the prior by the likelihoods, then renormalize.
+> This says what you think it does: scale the prior by the likelihoods, then renormalize.
 
 To actually make a decision requires a bit more, however: we also need a measure of how "good" any given decision is. We will do this by defining a cost function.
 
