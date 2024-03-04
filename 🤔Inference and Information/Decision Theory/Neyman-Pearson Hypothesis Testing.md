@@ -1,3 +1,5 @@
+> Put an upper bound on the false-alarm rate and maximize the detection rate.
+
 Sometimes it's hard to specify priors and costs to run the Bayesian approach.
 
 An alternative idea is to maximize $P_{D}$ subject to some constraint on $P_{F}$, i.e.

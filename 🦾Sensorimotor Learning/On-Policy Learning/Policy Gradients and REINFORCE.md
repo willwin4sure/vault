@@ -17,7 +17,7 @@ $$
 \end{align*}
 $$
 > [!idea]
-> This looks just like $\mathbb{E}[\nabla_{\theta}\log p_{\theta}(y|x)]$, which is the gradient for the MLE estimator in supervised learning: in this setting. However, we are reweighted each trajectory by its reward! We care more about increasing probabilities associated with high reward trajectories.
+> This looks just like $\mathbb{E}[\nabla_{\theta}\log p_{\theta}(y|x)]$, which is the gradient for the MLE estimator in supervised learning; in this setting, however, we are reweighted each trajectory by its reward! We care more about increasing probabilities associated with high reward trajectories.
 
 In particular, in the supervised learning expression, the measure for the expected value does not depend on $\theta$, so we can directly pull out the gradient to see that we would be maximizing the sum of the log probabilities.
 
@@ -28,7 +28,7 @@ $$
 &=\mathbb{E}\left[ \sum_{t}^{}(\nabla_{\theta}\log p_{\theta}(a_{t}|s_{1:t},a_{1:t-1}))R(\tau) \right],
 \end{align*}
 $$
-since determining the next action is all $\theta$ is involved in, not determining the next state (that falls under the dynamics of the system). Here, we can replace $p_{\theta}$ with $\pi_{\theta}$ since it only depends on the policy. Since there is no dependence on the dynamics of the system, this is ==model-free==.
+since determining the next action is all $\theta$ is involved in, not determining the next state (that falls under the dynamics of the system). Here, we can replace $p_{\theta}$ with $\pi_{\theta}$ since it only depends on the policy. Since there is no dependence on the dynamics of the system, this is called ==model-free==.
 
 We can further use the ==Markov assumption== to make the conditioning only on $s_{t}$, and not the entire history (alternatively, make the state also encode the history). 
 
@@ -45,6 +45,8 @@ We can further use the ==Markov assumption== to make the conditioning only on $s
 > $$
 > where $R^\gamma(\tau)=\sum_{t}^{}\gamma^{t}r_{t}$ is the sum of discounted rewards for the trajectory. We can then use this to gradient ascent update our parameters $\theta$, using an optimizer like Adam.
 
+^f6a597
+
 There is a bit more to specify: if our action space is discrete, we can use a multinomial policy (output a PMF); if our action space is continuous, we could output parameters of a distribution (e.g. a Gaussian, or a mixture/diffusion). 
 
 > [!idea]
@@ -54,4 +56,4 @@ Reinitialization is good if possible, since future states might not be useful if
 
 ---
 
-**Next:** [[The Credit Assignment Challenge]]
+**Next:** [[Variance Reduction]]

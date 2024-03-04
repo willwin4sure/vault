@@ -1,4 +1,7 @@
-Inference involves the problem of *extracting information from data*. When the data is modeled as a collection of random variables, we refer to this as ==statistical inference==.
+> [!idea]
+> Inference involves the problem of *extracting information from data*. 
+
+When the data is modeled as a collection of random variables, we refer to this as ==statistical inference==.
 
 As you can imagine, this has a wide variety of applications:
 

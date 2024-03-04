@@ -78,7 +78,7 @@
       }
     },
     {
-      "query": "",
+      "query": "path:\"🤔Inference and Information\"  ",
       "color": {
         "a": 1,
         "rgb": 11657298
@@ -137,6 +137,6 @@
   "repelStrength": 11.522491349481,
   "linkStrength": 1,
   "linkDistance": 255,
-  "scale": 0.2569553815043659,
+  "scale": 0.1787911782401617,
   "close": false
 }

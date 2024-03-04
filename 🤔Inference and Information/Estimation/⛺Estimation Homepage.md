@@ -7,3 +7,4 @@ Now, we turn our attention to problems of estimation, where the parameter(s) of 
 ## Main Sequence
 
 1. [[Bayesian Parameter Estimation]]
+2. [[Properties of the BLS Estimator]]

@@ -1,6 +1,6 @@
 #MIT #CS #stats #inference
 
-This first section of the course is focused on making categorical decisions based on data. 
+This first section of the course is focused on making categorical decisions based on data. We will mainly focus on binary classification problems.
 
 ## Main Sequence
 
