@@ -61,4 +61,4 @@ Some bonus reading:
 
 ---
 
-**Next:** [[Linear LSE Estimation]]
+**Next:** [[NonBayesian Parameter Estimation]]

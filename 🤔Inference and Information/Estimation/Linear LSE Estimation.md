@@ -1,2 +1,0 @@
-> Classic linear regression.
-

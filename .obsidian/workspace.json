@@ -19,7 +19,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +169,6 @@
     "🏠Home.md",
     "🖥️Computer Systems Engineering/🖥️Computer Systems Engineering Portal.md",
     "🖥️Computer Systems Engineering/Miscellany/Domain Name System.md",
-    "🖥️Computer Systems Engineering/Networking/⛺Networking Homepage.md",
     "🖥️Computer Systems Engineering/Operating Systems/⛺Operating Systems Homepage.md",
     "🖥️Computer Systems Engineering/Networking/Introduction to Networking.md",
     "🖥️Computer Systems Engineering/Networking/History of the Internet.md",
