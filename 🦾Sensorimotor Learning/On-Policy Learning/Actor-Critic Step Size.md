@@ -33,13 +33,13 @@ This results in:
 
 ## Natural Policy Gradients
 
-We are constraining each of the dimensions of $\theta$ equally, but this does not accurately represent how it affects $J(\theta)$. A much better distance metric is the KL divergence. We want to maximize $J(\theta+d)$ subject to $KL(\pi_{\theta+d}\parallel\pi_{\theta})<\varepsilon$. 
+We are constraining each of the dimensions of $\theta$ equally, but this does not accurately represent how it affects $J(\theta)$. A much better distance metric is the KL divergence. We want to maximize $J(\theta+d)$ subject to $KL(\pi_{\theta+d}(\bullet|s)\parallel\pi_{\theta}(\bullet|s))<\varepsilon$. 
 
 We can approximate
 $$
-KL(\pi_{\theta+d}\parallel \pi_{\theta})\approx \frac{1}{2}d^{T}F(\theta)d,
+KL(\pi_{\theta+d}(\bullet|s)\parallel \pi_{\theta}(\bullet|s))\approx \frac{1}{2}d^{T}F(\theta)d,
 $$
-where $F(\theta)=\mathbb{E}_{\pi}[\nabla_{\theta}\log \pi_{\theta}(x)\nabla_{\theta}\log \pi_{\theta}^{T}]$ is the Fisher information matrix. Solving in an analogous way gives
+where $F(\theta)=\mathbb{E}[\nabla_{\theta}\log \pi_{\theta}(a|s)\nabla_{\theta}\log \pi_{\theta}(a|s)^{T}]$ is the Fisher information matrix. Solving in an analogous way gives
 
 > [!claim] (Natural policy gradients)
 > Under the constraint $KL(\pi_{\theta+d}\parallel\pi_{\theta})<\varepsilon$ for $d=\alpha g$, the optimal step size is
@@ -48,10 +48,16 @@ where $F(\theta)=\mathbb{E}_{\pi}[\nabla_{\theta}\log \pi_{\theta}(x)\nabla_{\th
 > $$
 > multiplied by the ==natural gradient== $F^{-1}g$. This is natural because it does not care about how $\theta$ parameterizes our policy $\pi$, since we are only bounding how the policy distribution itself changes.
 
-## Trust Region Policy Optimization (TRPO)
-
 There is one important question left: how do we choose $\varepsilon$? Well, we definitely want that
 $$
 J(\theta+d)-J(\theta)>0.
 $$
+The idea is that we will line search for the largest $d$ such that this holds. We will investigate this problem in the next section.
+
+---
+
+**Next:** [[Trust Region Policy Optimization]]
+
+
+
 

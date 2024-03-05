@@ -58,7 +58,7 @@ Generically, you'd imagine that all the data should be collected, then a single 
 > $$
 >
 
-What if we already have an existing dataset run on an unknown policy $\pi_{\phi}(a|s)$. Can we use it well? Not really! The gradient cannot be computed correctly. This is why these algorithms are ==on-policy==. 
+What if we already have an existing dataset run on an unknown policy $\pi_{\psi}(a|s)$. Can we use it well? Not really! The gradient cannot be computed correctly. This is why these algorithms are ==on-policy==. 
 
 ---
 

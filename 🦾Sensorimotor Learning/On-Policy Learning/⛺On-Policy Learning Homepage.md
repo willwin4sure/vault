@@ -6,4 +6,5 @@
 2. [[Variance Reduction]]
 3. [[Advantage Actor-Critic Method]]
 4. [[Actor-Critic Step Size]]
-5. 
+5. [[Trust Region Policy Optimization]]
+6. [[Proximal Policy Optimization]]
