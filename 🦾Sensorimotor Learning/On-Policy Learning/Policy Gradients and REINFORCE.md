@@ -17,7 +17,7 @@ $$
 \end{align*}
 $$
 > [!idea]
-> This looks just like $\mathbb{E}[\nabla_{\theta}\log p_{\theta}(y|x)]$, which is the gradient for the MLE estimator in supervised learning; in this setting, however, we are reweighted each trajectory by its reward! We care more about increasing probabilities associated with high reward trajectories.
+> This looks just like $\mathbb{E}[\nabla_{\theta}\log p_{\theta}(y|x)]$, which is the gradient for the MLE estimator in supervised learning; in this setting, however, we are reweighted each trajectory by its reward, since we do not know the correct labels $y$! We care more about increasing probabilities associated with high reward trajectories.
 
 In particular, in the supervised learning expression, the measure for the expected value does not depend on $\theta$, so we can directly pull out the gradient to see that we would be maximizing the sum of the log probabilities.
 
