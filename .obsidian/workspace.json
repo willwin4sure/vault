@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🦾Sensorimotor Learning/On-Policy Learning/⛺On-Policy Learning Homepage.md",
+                "file": "🤔Inference and Information/Estimation/The Cramér–Rao Bound.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🦾Sensorimotor Learning/On-Policy Learning/⛺On-Policy Learning Homepage.md",
+                "file": "🤔Inference and Information/Estimation/The Cramér–Rao Bound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🦾Sensorimotor Learning/On-Policy Learning/⛺On-Policy Learning Homepage.md",
+                "file": "🤔Inference and Information/Estimation/The Cramér–Rao Bound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🦾Sensorimotor Learning/On-Policy Learning/⛺On-Policy Learning Homepage.md"
+                "file": "🤔Inference and Information/Estimation/The Cramér–Rao Bound.md"
               }
             }
           }
@@ -149,9 +149,14 @@
   },
   "active": "635bd8848426d051",
   "lastOpenFiles": [
+    "🤔Inference and Information/Estimation/Non-Bayesian Parameter Estimation.md",
+    "🤔Inference and Information/Estimation/Bayesian Parameter Estimation.md",
+    "🤔Inference and Information/Estimation/Properties of the BLS Estimator.md",
+    "🤔Inference and Information/Techniques/Exponential Families.md",
+    "🤔Inference and Information/🤔Inference and Information Portal.md",
+    "🦾Sensorimotor Learning/On-Policy Learning/⛺On-Policy Learning Homepage.md",
     "🦾Sensorimotor Learning/On-Policy Learning/Trust Region Policy Optimization.md",
     "🦾Sensorimotor Learning/On-Policy Learning/Actor-Critic Step Size.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/⛺On-Policy Learning Homepage.md",
     "🦾Sensorimotor Learning/On-Policy Learning/Proximal Policy Optimization.md",
     "🦾Sensorimotor Learning/On-Policy Learning/img/ppoalg.png",
     "🦾Sensorimotor Learning/On-Policy Learning/Advantage Actor-Critic Method.md",
@@ -173,10 +178,6 @@
     "🖥️Computer Systems Engineering/Networking/Introduction to Networking.md",
     "🖥️Computer Systems Engineering/Networking/History of the Internet.md",
     "🖥️Computer Systems Engineering/Networking/Ethernet.md",
-    "🤔Inference and Information/🤔Inference and Information Portal.md",
-    "🚶Stochastic Calculus/🚶Stochastic Calculus Portal.md",
-    "💻Programming/💻Programming Portal.md",
-    "🖥️Computer Systems Engineering/Unix/The Unix File System.md",
     "🖥️Computer Systems Engineering/Operating Systems",
     "🤔Inference and Information/Techniques",
     "🖥️Computer Systems Engineering/Networking/img/moderninternet.png",
