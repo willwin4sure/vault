@@ -1,11 +1,7 @@
-Hungry for something? Try one of our portals.
+Hungry for something? Try one of our regions, which can send you to one of several portals.
 
-* [[📏Measures and Probability Portal]]
-* [[🎲Advanced Probability Portal]]
-* [[🚶Stochastic Calculus Portal]]
-* [[📈Microeconomics Portal]]
-* [[📉Macroeconomics Portal]]
-* [[🤔Inference and Information Portal]]
-* [[🦾Sensorimotor Learning Portal]]
-* [[💻Programming Portal]]
-* [[🖥️Computer Systems Engineering Portal]]
+1. [[🗺️Mathematics Region]]
+2. [[🗺️Machine Learning Region]]
+3. [[🗺️Computer Science Region]]
+4. [[🗺️Economics Region]]
+

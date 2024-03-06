@@ -69,3 +69,7 @@ However, you can still have issues even if you implement **both** of the ideas a
 > Neither of the algorithms discussed above can scale to the size of the internet. They also cannot support policy routing!
 
 For example, INFINITY is rather small above. If any actual route has a cost above that value, then it will think it is disconnected.
+
+---
+
+**Next:** [[Border Gateway Protocol (BGP)]]

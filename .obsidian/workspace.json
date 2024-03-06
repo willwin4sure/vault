@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33fc7e8265dc1b33",
+        "id": "8c574b6765790925",
         "type": "tabs",
         "children": [
           {
-            "id": "635bd8848426d051",
+            "id": "e10239323cc02f5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🤔Inference and Information/Estimation/The Cramér–Rao Bound.md",
+                "file": "🖥️Computer Systems Engineering/Networking/Border Gateway Protocol (BGP).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🤔Inference and Information/Estimation/The Cramér–Rao Bound.md",
+                "file": "🖥️Computer Systems Engineering/Networking/Border Gateway Protocol (BGP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🤔Inference and Information/Estimation/The Cramér–Rao Bound.md",
+                "file": "🖥️Computer Systems Engineering/Networking/Border Gateway Protocol (BGP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🤔Inference and Information/Estimation/The Cramér–Rao Bound.md"
+                "file": "🖥️Computer Systems Engineering/Networking/Border Gateway Protocol (BGP).md"
               }
             }
           }
@@ -147,37 +147,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "635bd8848426d051",
+  "active": "e10239323cc02f5e",
   "lastOpenFiles": [
-    "🤔Inference and Information/Estimation/Non-Bayesian Parameter Estimation.md",
+    "🖥️Computer Systems Engineering/Networking/Border Gateway Protocol (BGP).md",
+    "🖥️Computer Systems Engineering/Networking/⛺Networking Homepage.md",
+    "🖥️Computer Systems Engineering/Networking/The Network Layer.md",
+    "🤔Inference and Information/Estimation/⛺Estimation Homepage.md",
+    "🤔Inference and Information/Decision Theory/Neyman-Pearson Hypothesis Testing.md",
+    "🤔Inference and Information/Decision Theory/⛺Decision Theory Homepage.md",
     "🤔Inference and Information/Estimation/Bayesian Parameter Estimation.md",
-    "🤔Inference and Information/Estimation/Properties of the BLS Estimator.md",
-    "🤔Inference and Information/Techniques/Exponential Families.md",
+    "🤔Inference and Information/Decision Theory/Minimax Hypothesis Testing.md",
+    "🤔Inference and Information/Decision Theory/Randomized Decision Rules.md",
+    "🤔Inference and Information/Decision Theory/Discontinuous OC-LRTs.md",
+    "🤔Inference and Information/Decision Theory/OC-LRT.md",
+    "🤔Inference and Information/Decision Theory/The Likelihood Ratio Test.md",
+    "🤔Inference and Information/Decision Theory/Bayesian Hypothesis Testing.md",
     "🤔Inference and Information/🤔Inference and Information Portal.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/⛺On-Policy Learning Homepage.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/Trust Region Policy Optimization.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/Actor-Critic Step Size.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/Proximal Policy Optimization.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/img/ppoalg.png",
-    "🦾Sensorimotor Learning/On-Policy Learning/Advantage Actor-Critic Method.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/Policy Gradients and REINFORCE.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/img/trpoalg.png",
-    "🦾Sensorimotor Learning/On-Policy Learning/img",
-    "🦾Sensorimotor Learning/On-Policy Learning/Variance Reduction.md",
+    "🗺️Machine Learning Region.md",
+    "🏠Home.md",
+    "🗺️Computer Science Region.md",
+    "🗺️Economics Region.md",
+    "🗺️Mathematics Region.md",
+    "🦾Sensorimotor Learning/Stochastic Bandits/Stochastic Bandits.md",
+    "🦾Sensorimotor Learning/Stochastic Bandits/Upper Confidence Bound Algorithm.md",
     "🦾Sensorimotor Learning/Stochastic Bandits/⛺Stochastic Bandits Homepage.md",
     "🦾Sensorimotor Learning/Stochastic Bandits/Contextual Bandits, LinUCB, and Square CB.md",
-    "🦾Sensorimotor Learning/Stochastic Bandits/Upper Confidence Bound Algorithm.md",
-    "🦾Sensorimotor Learning/Stochastic Bandits/Stochastic Bandits.md",
-    "🖥️Computer Systems Engineering/Unix/⛺Unix Homepage.md",
-    "📏Measures and Probability/📏Measures and Probability Portal.md",
-    "🏠Home.md",
-    "🖥️Computer Systems Engineering/🖥️Computer Systems Engineering Portal.md",
-    "🖥️Computer Systems Engineering/Miscellany/Domain Name System.md",
-    "🖥️Computer Systems Engineering/Networking/⛺Networking Homepage.md",
-    "🖥️Computer Systems Engineering/Operating Systems/⛺Operating Systems Homepage.md",
-    "🖥️Computer Systems Engineering/Networking/Introduction to Networking.md",
-    "🖥️Computer Systems Engineering/Networking/History of the Internet.md",
-    "🖥️Computer Systems Engineering/Networking/Ethernet.md",
+    "🤔Inference and Information/Estimation/The Cramér–Rao Bound.md",
+    "🤔Inference and Information/Estimation/Non-Bayesian Parameter Estimation.md",
+    "🤔Inference and Information/Estimation/Properties of the BLS Estimator.md",
+    "🦾Sensorimotor Learning/On-Policy Learning/img/ppoalg.png",
+    "🦾Sensorimotor Learning/On-Policy Learning/img/trpoalg.png",
+    "🦾Sensorimotor Learning/On-Policy Learning/img",
     "🖥️Computer Systems Engineering/Operating Systems",
     "🤔Inference and Information/Techniques",
     "🖥️Computer Systems Engineering/Networking/img/moderninternet.png",

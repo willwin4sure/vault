@@ -19,3 +19,6 @@
 > $$
 > is referred to as the ==score function== for $x$ based on $\mathbf{y}$.
 
+> [!idea]
+> The Fisher information is a measure of how much the distribution of the observation changes when the parameter does. 
+

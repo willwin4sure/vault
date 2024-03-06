@@ -20,7 +20,7 @@ Obviously we cannot compute the regret while we are learning, but we might be ab
 > [!idea]
 > For an algorithm to work across different bandit problems, we actually want to use ==minimax optimality==.
 
-This means that we want to find a policy $\pi$ that minimizes regret given an *adversarial* bandit problem setup.
+This means that we want to find a policy $\pi$ that minimizes regret given an *adversarial* bandit problem setup decided by nature. This is similar to [[Minimax Hypothesis Testing|minimax hypothesis testing]] from inference, but we are choosing a learning algorithm, not a hypothesis.
 
 > [!claim]
 > A lower bound on the minimax regret is $C\sqrt{ NT }$ for some constant $C>0$.

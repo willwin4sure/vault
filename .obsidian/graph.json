@@ -71,7 +71,7 @@
       }
     },
     {
-      "query": "path:📈Microeconomics  ",
+      "query": "path:\"📈Microeconomics\"",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -125,6 +125,20 @@
         "a": 1,
         "rgb": 5395121
       }
+    },
+    {
+      "query": "file:\"🗺️\"",
+      "color": {
+        "a": 1,
+        "rgb": 15861703
+      }
+    },
+    {
+      "query": "file:\"🏠\"",
+      "color": {
+        "a": 1,
+        "rgb": 15861703
+      }
     }
   ],
   "collapse-display": false,
@@ -133,10 +147,10 @@
   "nodeSizeMultiplier": 1.63442906574394,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
-  "centerStrength": 0.344290657439446,
-  "repelStrength": 11.522491349481,
+  "centerStrength": 0.188149688149688,
+  "repelStrength": 8.66943866943867,
   "linkStrength": 1,
-  "linkDistance": 255,
-  "scale": 0.1787911782401617,
+  "linkDistance": 244,
+  "scale": 0.25066217416594905,
   "close": false
 }
