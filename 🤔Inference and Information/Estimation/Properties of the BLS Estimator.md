@@ -61,4 +61,4 @@ Some bonus reading:
 
 ---
 
-**Next:** [[NonBayesian Parameter Estimation]]
+**Next:** [[Non-Bayesian Parameter Estimation]]

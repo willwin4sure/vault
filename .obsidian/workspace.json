@@ -4,23 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "33fc7e8265dc1b33",
+        "id": "3a080fd246ec6f9c",
         "type": "tabs",
         "children": [
           {
-            "id": "635bd8848426d051",
+            "id": "a2697be6e82c0c2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🦾Sensorimotor Learning/On-Policy Learning/⛺On-Policy Learning Homepage.md",
+                "file": "🖥️Computer Systems Engineering/Networking/The Network Layer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🦾Sensorimotor Learning/On-Policy Learning/⛺On-Policy Learning Homepage.md",
+                "file": "🖥️Computer Systems Engineering/Networking/The Network Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🦾Sensorimotor Learning/On-Policy Learning/⛺On-Policy Learning Homepage.md",
+                "file": "🖥️Computer Systems Engineering/Networking/The Network Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🦾Sensorimotor Learning/On-Policy Learning/⛺On-Policy Learning Homepage.md"
+                "file": "🖥️Computer Systems Engineering/Networking/The Network Layer.md"
               }
             }
           }
@@ -148,35 +147,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "635bd8848426d051",
+  "active": "a2697be6e82c0c2e",
   "lastOpenFiles": [
-    "🦾Sensorimotor Learning/On-Policy Learning/Trust Region Policy Optimization.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/Actor-Critic Step Size.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/⛺On-Policy Learning Homepage.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/Proximal Policy Optimization.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/img/ppoalg.png",
-    "🦾Sensorimotor Learning/On-Policy Learning/Advantage Actor-Critic Method.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/Policy Gradients and REINFORCE.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/img/trpoalg.png",
-    "🦾Sensorimotor Learning/On-Policy Learning/img",
-    "🦾Sensorimotor Learning/On-Policy Learning/Variance Reduction.md",
-    "🦾Sensorimotor Learning/Stochastic Bandits/⛺Stochastic Bandits Homepage.md",
-    "🦾Sensorimotor Learning/Stochastic Bandits/Contextual Bandits, LinUCB, and Square CB.md",
-    "🦾Sensorimotor Learning/Stochastic Bandits/Upper Confidence Bound Algorithm.md",
-    "🦾Sensorimotor Learning/Stochastic Bandits/Stochastic Bandits.md",
-    "🖥️Computer Systems Engineering/Unix/⛺Unix Homepage.md",
-    "📏Measures and Probability/📏Measures and Probability Portal.md",
-    "🏠Home.md",
-    "🖥️Computer Systems Engineering/🖥️Computer Systems Engineering Portal.md",
-    "🖥️Computer Systems Engineering/Miscellany/Domain Name System.md",
-    "🖥️Computer Systems Engineering/Operating Systems/⛺Operating Systems Homepage.md",
     "🖥️Computer Systems Engineering/Networking/Introduction to Networking.md",
     "🖥️Computer Systems Engineering/Networking/History of the Internet.md",
     "🖥️Computer Systems Engineering/Networking/Ethernet.md",
-    "🤔Inference and Information/🤔Inference and Information Portal.md",
-    "🚶Stochastic Calculus/🚶Stochastic Calculus Portal.md",
-    "💻Programming/💻Programming Portal.md",
+    "🖥️Computer Systems Engineering/Networking/⛺Networking Homepage.md",
+    "🖥️Computer Systems Engineering/Miscellany/Domain Name System.md",
+    "🤔Inference and Information/Estimation/Non-Bayesian Parameter Estimation.md",
+    "🤔Inference and Information/Estimation/Implementation of Bayesian Estimation.md",
+    "🤔Inference and Information/Estimation/The Cramér–Rao Bound.md",
+    "🤔Inference and Information/Estimation/Properties of the BLS Estimator.md",
+    "🤔Inference and Information/Estimation/Bayesian Parameter Estimation.md",
+    "🤔Inference and Information/Estimation/Robust Bayesian Estimation.md",
+    "🤔Inference and Information/Estimation/Bias and Error Covariance.md",
+    "🤔Inference and Information/Estimation/⛺Estimation Homepage.md",
+    "🦾Sensorimotor Learning/On-Policy Learning/Variance Reduction.md",
+    "🖥️Computer Systems Engineering/Networking/The Network Layer.md",
+    "🖥️Computer Systems Engineering/🖥️Computer Systems Engineering Portal.md",
+    "🦾Sensorimotor Learning/On-Policy Learning/Trust Region Policy Optimization.md",
+    "🦾Sensorimotor Learning/On-Policy Learning/Actor-Critic Step Size.md",
+    "🦾Sensorimotor Learning/On-Policy Learning/Advantage Actor-Critic Method.md",
+    "🦾Sensorimotor Learning/On-Policy Learning/Policy Gradients and REINFORCE.md",
+    "🦾Sensorimotor Learning/On-Policy Learning/⛺On-Policy Learning Homepage.md",
+    "🦾Sensorimotor Learning/Stochastic Bandits/Contextual Bandits, LinUCB, and Square CB.md",
+    "🦾Sensorimotor Learning/Learning Methods Overview.md",
+    "🦾Sensorimotor Learning/On-Policy Learning/Proximal Policy Optimization.md",
     "🖥️Computer Systems Engineering/Unix/The Unix File System.md",
+    "🖥️Computer Systems Engineering/Unix/⛺Unix Homepage.md",
+    "🦾Sensorimotor Learning/On-Policy Learning/img/ppoalg.png",
+    "🦾Sensorimotor Learning/On-Policy Learning/img/trpoalg.png",
+    "🦾Sensorimotor Learning/On-Policy Learning/img",
     "🖥️Computer Systems Engineering/Operating Systems",
     "🤔Inference and Information/Techniques",
     "🖥️Computer Systems Engineering/Networking/img/moderninternet.png",

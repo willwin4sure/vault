@@ -58,6 +58,8 @@ The ==mean-square error (MSE) criterion== is the square of the $L^{2}$ norm $C(\
 > [!claim]
 > The BLS estimate is the mean of the posterior belief $p_{\mathsf{x}|\boldsymbol{\mathsf{y}}}(\bullet|\mathbf{y})$.
 
+^4ebcd6
+
 > [!proof]- Obvious
 > Differentiate the convex loss function.
 
