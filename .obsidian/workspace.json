@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8c574b6765790925",
+        "id": "9f3faf25054d0902",
         "type": "tabs",
         "children": [
           {
-            "id": "e10239323cc02f5e",
+            "id": "27a08eb88c88ca49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🤔Inference and Information/Estimation/Maximum Likelihood Estimation.md",
+                "file": "📉Macroeconomics/The Financial Market.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🤔Inference and Information/Estimation/Maximum Likelihood Estimation.md",
+                "file": "📉Macroeconomics/The Financial Market.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🤔Inference and Information/Estimation/Maximum Likelihood Estimation.md",
+                "file": "📉Macroeconomics/The Financial Market.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🤔Inference and Information/Estimation/Maximum Likelihood Estimation.md"
+                "file": "📉Macroeconomics/The Financial Market.md"
               }
             }
           }
@@ -147,12 +147,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e10239323cc02f5e",
+  "active": "27a08eb88c88ca49",
   "lastOpenFiles": [
+    "📉Macroeconomics/The Goods Market.md",
+    "📉Macroeconomics/Economic Measurement.md",
+    "📉Macroeconomics/The Financial Market.md",
+    "📉Macroeconomics/img/money_supply_demand.png",
     "🤔Inference and Information/Estimation/Estimation of Nonrandom Vectors.md",
     "🤔Inference and Information/Estimation/Maximum Likelihood Estimation.md",
     "🤔Inference and Information/Estimation/Efficient Estimators.md",
+    "🤔Inference and Information/Decision Theory/⛺Decision Theory Homepage.md",
+    "📈Microeconomics/Miscellany/⛺Miscellany Homepage.md",
     "🤔Inference and Information/Estimation/The Cramér–Rao Bound.md",
+    "🤔Inference and Information/Estimation/Implementation of Bayesian Estimation.md",
     "🤔Inference and Information/Estimation/Non-Bayesian Parameter Estimation.md",
     "🤔Inference and Information/Estimation/Properties of the BLS Estimator.md",
     "🤔Inference and Information/Estimation/Bayesian Parameter Estimation.md",
@@ -164,17 +171,10 @@
     "🤔Inference and Information/Decision Theory/OC-LRT.md",
     "🤔Inference and Information/Decision Theory/The Likelihood Ratio Test.md",
     "🤔Inference and Information/Decision Theory/Bayesian Hypothesis Testing.md",
-    "🤔Inference and Information/Decision Theory/⛺Decision Theory Homepage.md",
     "📏Measures and Probability/Integration/Differentiation Under the Integral Sign.md",
     "🖥️Computer Systems Engineering/Networking/Border Gateway Protocol (BGP).md",
     "🖥️Computer Systems Engineering/Networking/⛺Networking Homepage.md",
     "🖥️Computer Systems Engineering/Networking/The Network Layer.md",
-    "🤔Inference and Information/Decision Theory/Minimax Hypothesis Testing.md",
-    "🤔Inference and Information/🤔Inference and Information Portal.md",
-    "🗺️Machine Learning Region.md",
-    "🏠Home.md",
-    "🗺️Computer Science Region.md",
-    "🗺️Economics Region.md",
     "🦾Sensorimotor Learning/On-Policy Learning/img/ppoalg.png",
     "🦾Sensorimotor Learning/On-Policy Learning/img/trpoalg.png",
     "🦾Sensorimotor Learning/On-Policy Learning/img",
@@ -187,7 +187,6 @@
     "🖥️Computer Systems Engineering/Networking/img/arpanet8.png",
     "🖥️Computer Systems Engineering/Networking/img/arpanetfirstmachine.png",
     "🖥️Computer Systems Engineering/Networking/img/arpanet2.png",
-    "🖥️Computer Systems Engineering/Networking/img/network.png",
     "🖥️Computer Systems Engineering/Networking/img",
     "🖥️Computer Systems Engineering/Networking",
     "🤔Inference and Information/Estimation",

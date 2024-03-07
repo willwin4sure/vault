@@ -8,6 +8,17 @@ The U.S. Central Bank consists of a board of 7 governors in DC appointed by the 
 
 ## Demand for Money
 
-For simplicity, we will reduce investors' portfolio problem to choosing between only two assets: ==money==, which is used for transactions but accrues no interest, and ==bonds==, which pay a positive interest rate $i$, but cannot be used for transactions.
+For simplicity, we will reduce investors' portfolio problem to choosing between only two assets:
 
+* ==money==, which is used for transactions but accrues no interest.
+* ==bonds==, which pay a positive interest rate $i$, but cannot be used for transactions.
 
+There is a trade-off here! Money allows you to do more transactions, but you give up earning the interest rate on it. At an aggregate level,
+$$
+M^{d} = \$Y\cdot L(i),
+$$
+where $L(i)$ is the liquidity, a decreasing function in $i$.
+
+In our simple model, the central bank decides to supply a certain amount of money $M^{s}$, and at equilibrium, this is set equal to $M^{d}$. Here's a picture:
+
+![[money_supply_demand.png|center|256]]

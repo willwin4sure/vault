@@ -64,10 +64,15 @@ since the expected value of the estimator is $x$ and the integral of the density
 ## Remarks on the Bound
 
 1. The Fisher information is one of many interrelated information measures we will encounter in the subject.
-2. The Fisher information cannot be computed in all problems, i.e. the regularity conditions may not be satisfied, in which case no Cramér–Rao bound exists. For example, the distributions need to be positive and differentiable in $x$.
+
+2. The Fisher information cannot be computed in all problems, i.e. the regularity conditions may not be satisfied, in which case no Cramér–Rao bound exists. For example, the distributions need to be positive and differentiable in $x$. Otherwise, the logarithm in the expression might not even exist.
+
 3. The Fisher information can be more generally interpreted as a measure of curvature: it measures how "peaky" $\ln p_{\boldsymbol{\mathsf{y}}}(\mathbf{y};x)$ is as a function of $x$. Later development of information geometry will shed additional light on this behavior.
+
 4. Any estimator that satisfies the Cramér–Rao bound with equality must be a MVU estimator. Sometimes, the converse is not true! The Cramér–Rao bound may not be tight: sometimes, no estimator can meet the bound for all $x \in \mathcal{X}$, or even any!
+
 5. The Cramér–Rao bound can be generalized in myriad ways, e.g. for *biased* estimates. There is an analogous bound for random parameters, referred to as the *Bayesian* Cramér–Rao bound. This is on our problem set.
+
 6. For problems in which the regularity condition is not satisfied, a closely related result called the ==Hammersley-Chapman-Robbin (HCR) bound== applies. It is less convenient to use but more general, and the Cramér–Rao bound can be naturally developed as a limiting case of HCR.
 
 ## Interpreting the Regularity Conditions

@@ -29,9 +29,8 @@ It turns out that when an efficient estimator exists, it is equivalent to the ML
 > $$
 > for all $\mathbf{y}$, as desired.
 
-## Examples
-
-TODO
+> [!idea]
+> The existence of an efficient estimator is a rather strong condition, since it must achieve the lower bound for *all* possible $x \in \mathcal{X}$. In general, however, the MLE is the best possible estimator.
 
 ---
 
