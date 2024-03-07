@@ -48,7 +48,8 @@ This is called the ==bias-variance decomposition==. Unfortunately, directly tryi
 > [!definition] (Unbiased estimator)
 > An estimator $\hat{\mathbf{x}}(\bullet)$ for a nonrandom parameter $\mathbf{x}\in \mathcal{X}$ is ==unbiased== if $\mathbf{b}_{\hat{\boldsymbol{\mathsf{x}}}}(\mathbf{x})=0$ for all $\mathbf{x} \in \mathcal{X}$. 
 
-Note that because the underlying parameter $\mathbf{x}$ is fixed, the error covariance is the same as the covariance of the estimator itself.
+> [!claim]
+> Because the underlying parameter $\mathbf{x}$ is fixed, the error covariance is the same as the covariance of the estimator itself.
 
 From now on, we restrict our discussion to scalar parameters $x$. The vector parameter case can be constructed in a component-wise manner, and further insights may be provided later.
 

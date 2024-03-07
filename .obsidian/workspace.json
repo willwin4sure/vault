@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖥️Computer Systems Engineering/Networking/Border Gateway Protocol (BGP).md",
+                "file": "🤔Inference and Information/Estimation/Maximum Likelihood Estimation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖥️Computer Systems Engineering/Networking/Border Gateway Protocol (BGP).md",
+                "file": "🤔Inference and Information/Estimation/Maximum Likelihood Estimation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖥️Computer Systems Engineering/Networking/Border Gateway Protocol (BGP).md",
+                "file": "🤔Inference and Information/Estimation/Maximum Likelihood Estimation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖥️Computer Systems Engineering/Networking/Border Gateway Protocol (BGP).md"
+                "file": "🤔Inference and Information/Estimation/Maximum Likelihood Estimation.md"
               }
             }
           }
@@ -149,32 +149,32 @@
   },
   "active": "e10239323cc02f5e",
   "lastOpenFiles": [
-    "🖥️Computer Systems Engineering/Networking/Border Gateway Protocol (BGP).md",
-    "🖥️Computer Systems Engineering/Networking/⛺Networking Homepage.md",
-    "🖥️Computer Systems Engineering/Networking/The Network Layer.md",
-    "🤔Inference and Information/Estimation/⛺Estimation Homepage.md",
-    "🤔Inference and Information/Decision Theory/Neyman-Pearson Hypothesis Testing.md",
-    "🤔Inference and Information/Decision Theory/⛺Decision Theory Homepage.md",
+    "🤔Inference and Information/Estimation/Estimation of Nonrandom Vectors.md",
+    "🤔Inference and Information/Estimation/Maximum Likelihood Estimation.md",
+    "🤔Inference and Information/Estimation/Efficient Estimators.md",
+    "🤔Inference and Information/Estimation/The Cramér–Rao Bound.md",
+    "🤔Inference and Information/Estimation/Non-Bayesian Parameter Estimation.md",
+    "🤔Inference and Information/Estimation/Properties of the BLS Estimator.md",
     "🤔Inference and Information/Estimation/Bayesian Parameter Estimation.md",
-    "🤔Inference and Information/Decision Theory/Minimax Hypothesis Testing.md",
+    "🤔Inference and Information/Estimation/BLS Covariance Inequality.md",
+    "🤔Inference and Information/Estimation/⛺Estimation Homepage.md",
     "🤔Inference and Information/Decision Theory/Randomized Decision Rules.md",
     "🤔Inference and Information/Decision Theory/Discontinuous OC-LRTs.md",
+    "🤔Inference and Information/Decision Theory/Neyman-Pearson Hypothesis Testing.md",
     "🤔Inference and Information/Decision Theory/OC-LRT.md",
     "🤔Inference and Information/Decision Theory/The Likelihood Ratio Test.md",
     "🤔Inference and Information/Decision Theory/Bayesian Hypothesis Testing.md",
+    "🤔Inference and Information/Decision Theory/⛺Decision Theory Homepage.md",
+    "📏Measures and Probability/Integration/Differentiation Under the Integral Sign.md",
+    "🖥️Computer Systems Engineering/Networking/Border Gateway Protocol (BGP).md",
+    "🖥️Computer Systems Engineering/Networking/⛺Networking Homepage.md",
+    "🖥️Computer Systems Engineering/Networking/The Network Layer.md",
+    "🤔Inference and Information/Decision Theory/Minimax Hypothesis Testing.md",
     "🤔Inference and Information/🤔Inference and Information Portal.md",
     "🗺️Machine Learning Region.md",
     "🏠Home.md",
     "🗺️Computer Science Region.md",
     "🗺️Economics Region.md",
-    "🗺️Mathematics Region.md",
-    "🦾Sensorimotor Learning/Stochastic Bandits/Stochastic Bandits.md",
-    "🦾Sensorimotor Learning/Stochastic Bandits/Upper Confidence Bound Algorithm.md",
-    "🦾Sensorimotor Learning/Stochastic Bandits/⛺Stochastic Bandits Homepage.md",
-    "🦾Sensorimotor Learning/Stochastic Bandits/Contextual Bandits, LinUCB, and Square CB.md",
-    "🤔Inference and Information/Estimation/The Cramér–Rao Bound.md",
-    "🤔Inference and Information/Estimation/Non-Bayesian Parameter Estimation.md",
-    "🤔Inference and Information/Estimation/Properties of the BLS Estimator.md",
     "🦾Sensorimotor Learning/On-Policy Learning/img/ppoalg.png",
     "🦾Sensorimotor Learning/On-Policy Learning/img/trpoalg.png",
     "🦾Sensorimotor Learning/On-Policy Learning/img",
