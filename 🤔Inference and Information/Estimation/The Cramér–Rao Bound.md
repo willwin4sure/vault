@@ -38,7 +38,7 @@ $$
 $$
 since the expected value of the estimator is $x$ and the integral of the density is $1$.
 
-> [!corollary]
+> [!claim]
 > Under sufficient regularity conditions, the Fisher information can be equivalently expressed in the form
 > $$
 > J_{\boldsymbol{\mathsf{y}}}(x)=-\mathbb{E}\left[ \frac{ \partial^{2} }{ \partial x^{2} } \ln p_{\boldsymbol{\mathsf{y}}}(\mathbf{y};x) \right].
