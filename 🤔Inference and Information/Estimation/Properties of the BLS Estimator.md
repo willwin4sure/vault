@@ -31,7 +31,7 @@ Therefore, the MSE performance of the estimator is the trace of the error covari
 > $$
 
 > [!proof]- Obvious
-> Conditional on some observation $\boldsymbol{\mathsf{y}}=\mathbf{y}$, the error is just the covariance of the posterior belief. Average over this.
+> Conditional on some observation $\boldsymbol{\mathsf{y}}=\mathbf{y}$, the error covariance is just the covariance of the posterior belief. Average over this.
 
 ## Orthogonality Characterization
 
@@ -54,7 +54,7 @@ Therefore, the MSE performance of the estimator is the trace of the error covari
 > [!idea]
 > Since the error $\mathbf{e}(\boldsymbol{\mathsf{x}},\boldsymbol{\mathsf{y}})$ is uncorrelated with *any* function of the data we might construct, there is no further processing that can be done on the data to further reduce the error covariance in the estimate.
 
-Some bonus reading:
+Some bonus reading: ^45fa60
 
 1. [[Implementation of Bayesian Estimation]]
 2. [[BLS Covariance Inequality]]

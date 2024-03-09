@@ -123,4 +123,4 @@ Generically, we know that $\varphi(p,r_{*})\geq \min_{r:\mathcal{Y}\to[0,1]}\var
 
 ---
 
-**Next:** [[⛺Decision Theory Homepage]]
+**Return:** [[⛺Decision Theory Homepage]]

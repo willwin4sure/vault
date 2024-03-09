@@ -15,4 +15,4 @@ This is saying that the lowest covariance estimator has to be the BLS, plus some
 
 ---
 
-**Next:** [[Properties of the BLS Estimator]]
+**Return:** [[Properties of the BLS Estimator#^45fa60]]

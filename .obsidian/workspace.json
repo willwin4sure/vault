@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🤔Inference and Information/Estimation/Logistic Regression.md",
+                "file": "🤔Inference and Information/Techniques/⛺Techniques Homepage.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🤔Inference and Information/Estimation/Logistic Regression.md",
+                "file": "🤔Inference and Information/Techniques/⛺Techniques Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🤔Inference and Information/Estimation/Logistic Regression.md",
+                "file": "🤔Inference and Information/Techniques/⛺Techniques Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🤔Inference and Information/Estimation/Logistic Regression.md"
+                "file": "🤔Inference and Information/Techniques/⛺Techniques Homepage.md"
               }
             }
           }
@@ -161,37 +161,37 @@
   },
   "active": "7c87edd32c09247f",
   "lastOpenFiles": [
+    "🤔Inference and Information/🤔Inference and Information Portal.md",
+    "🤔Inference and Information/Estimation/The Cramér–Rao Bound.md",
+    "🤔Inference and Information/Estimation/Logistic Regression.md",
+    "🤔Inference and Information/Techniques/⛺Techniques Homepage.md",
+    "🤔Inference and Information/Estimation/⛺Estimation Homepage.md",
     "🤔Inference and Information/Estimation/Linear Regression.md",
     "🤔Inference and Information/Estimation/Estimation of Nonrandom Vectors.md",
-    "🤔Inference and Information/Estimation/Efficient Estimators.md",
-    "🤔Inference and Information/Estimation/BLS Covariance Inequality.md",
-    "🤔Inference and Information/Estimation/Bayesian Parameter Estimation.md",
-    "🤔Inference and Information/Estimation/Logistic Regression.md",
-    "🤔Inference and Information/Estimation/⛺Estimation Homepage.md",
     "🤔Inference and Information/Estimation/The Gauss-Markov Theorem.md",
-    "🤔Inference and Information/Estimation/Non-Bayesian Parameter Estimation.md",
     "🤔Inference and Information/Estimation/Regularized and Constrained ML Estimation.md",
-    "🤔Inference and Information/Estimation/Maximum Likelihood Estimation.md",
-    "🤔Inference and Information/Estimation/The Cramér–Rao Bound.md",
-    "🤔Inference and Information/Estimation/Implementation of Bayesian Estimation.md",
     "🤔Inference and Information/Decision Theory/Minimax Hypothesis Testing.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/Actor-Critic Step Size.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/Trust Region Policy Optimization.md",
-    "🤔Inference and Information/🤔Inference and Information Portal.md",
+    "🤔Inference and Information/Estimation/Maximum Likelihood Estimation.md",
+    "🤔Inference and Information/Estimation/Efficient Estimators.md",
+    "🤔Inference and Information/Estimation/Non-Bayesian Parameter Estimation.md",
+    "🤔Inference and Information/Estimation/Properties of the BLS Estimator.md",
+    "🤔Inference and Information/Estimation/BLS Covariance Inequality.md",
+    "🤔Inference and Information/Estimation/Implementation of Bayesian Estimation.md",
+    "18.675.md",
+    "🤔Inference and Information/Estimation/Bayesian Parameter Estimation.md",
+    "🤔Inference and Information/Estimation/Robust Bayesian Estimation.md",
+    "🤔Inference and Information/Decision Theory/⛺Decision Theory Homepage.md",
+    "🤔Inference and Information/Decision Theory/Randomized Decision Rules.md",
+    "🤔Inference and Information/Decision Theory/Discontinuous OC-LRTs.md",
+    "🤔Inference and Information/Decision Theory/Neyman-Pearson Hypothesis Testing.md",
+    "🤔Inference and Information/Decision Theory/p-values.md",
+    "🤔Inference and Information/Decision Theory/OC-LRT.md",
+    "🤔Inference and Information/Decision Theory/The Likelihood Ratio Test.md",
     "📉Macroeconomics/img/labor_flow.png",
-    "📉Macroeconomics/IS-LM Model/The IS-LM Model.md",
-    "📉Macroeconomics/The Labor Market.md",
     "📉Macroeconomics/img/unemployment_larger_z.png",
     "📉Macroeconomics/img/natural_unemployment.png",
-    "📈Microeconomics/Factor Markets/Labor Markets.md",
     "📉Macroeconomics/img/labor_population.png",
     "📉Macroeconomics/img",
-    "📉Macroeconomics/📉Macroeconomics Portal.md",
-    "📉Macroeconomics/IS-LM Model/⛺IS-LM Homepage.md",
-    "📉Macroeconomics/IS-LM Model/An Extended IS-LM Model.md",
-    "🖥️Computer Systems Engineering/Networking/⛺Networking Homepage.md",
-    "📉Macroeconomics/IS-LM Model/Economic Measurement.md",
-    "📉Macroeconomics/IS-LM Model/The Financial Market.md",
     "📉Macroeconomics/IS-LM Model",
     "📉Macroeconomics/IS-LM Model/img/is_lm_counterbalance.png",
     "📉Macroeconomics/IS-LM Model/img/lm_curve_down.png",

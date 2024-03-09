@@ -29,4 +29,4 @@ To run significance testing, first assign the level $\alpha$ (e.g. 0.05 is a com
 
 ---
 
-**Next:** [[Neyman-Pearson Hypothesis Testing]]
+**Return:** [[Neyman-Pearson Hypothesis Testing#^6d1837]]

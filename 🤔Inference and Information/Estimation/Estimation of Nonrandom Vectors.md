@@ -1,4 +1,4 @@
-This section is dedicated to extending all the recent work on non-Bayesian parameter estimation to vectors. 
+This section is dedicated to extending all the recent work on non-Bayesian parameter estimation to vectors.
 
 > [!theorem] (Cramér-Rao Bound, vector version)
 > Suppose $p_{\boldsymbol{\mathsf{y}}}(\mathbf{y};\bullet)$ for each $\mathbf{y}\in \mathcal{Y}$ is positive and differentiable on $\mathcal{X}\subset \mathbb{R}^{K}$, and satisfies the regularity condition

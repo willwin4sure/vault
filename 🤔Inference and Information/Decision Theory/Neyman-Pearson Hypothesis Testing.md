@@ -48,7 +48,7 @@ This is called the ==Neyman-Pearson criterion==.
 
 There are a lot of practical scenarios where this is not useful. For example, if one of the distributions under a hypothesis is discrete. Further, simple LRTs are only optimal among deterministic rules, and randomized classifiers could do better. 
 
-Some extra related reading:
+Some extra related reading: ^6d1837
 
 1. [[p-values]]
 

@@ -1,5 +1,7 @@
 There is an unknown parameter $\boldsymbol{\mathsf{x}}\in \mathcal{X}$ that we are trying to estimate. To do so, we receive random observations $\boldsymbol{\mathsf{y}}\in \mathcal{Y}$. Both of these are modeled as random variables.
 
+> [!idea]
+> Take your prior over $\boldsymbol{\mathsf{x}}$ and rescale it by the likelihood of observing $\boldsymbol{\mathsf{y}}=\mathbf{y}$. Then use a cost function to extract a point estimate $\hat{\mathbf{x}}$ from the posterior.
 ## Bayesian Framework
 
 We have an *a priori* distribution $p_{\mathsf{x}}(\bullet)$ for the unknown parameter, which represents our belief about $\boldsymbol{\mathsf{x}}$ prior to any measurement $\boldsymbol{\mathsf{y}}$. Further, the observation is characterized entirely by our data model $p_{\boldsymbol{\mathsf{y}}|\boldsymbol{\mathsf{x}}}(\bullet|\bullet)$. 
@@ -35,7 +37,7 @@ C(a,\hat{a})=
 $$
 which corresponds to slicing the distribution with radius $\varepsilon$ around $\hat{a}$ and seeing how much lies outside. To minimize this, we want to pick the place in the distribution that is the highest.
 
-> [!claim]
+> [!example] (MUC gives mode)
 > In the limit as $\varepsilon\to 0$, the MUC estimate is the mode of the posterior belief $p_{\mathsf{x}|\boldsymbol{\mathsf{y}}}(\bullet|\mathbf{y})$, i.e. the ==maximum a posteriori (MAP) estimate==.
 
 > [!proof]- Obvious
@@ -45,7 +47,7 @@ which corresponds to slicing the distribution with radius $\varepsilon$ around $
 
 The ==minimum absolute-error (MAE) criterion== is the $L^{1}$ norm $C(a,\hat{a})=|a-\hat{a}|$.
 
-> [!claim]
+> [!example] (MAE gives median)
 > The MAE estimate is the median of the posterior belief $p_{\mathsf{x}|\boldsymbol{\mathsf{y}}}(\bullet|\mathbf{y})$.
 
 > [!proof]- Obvious
@@ -55,7 +57,7 @@ The ==minimum absolute-error (MAE) criterion== is the $L^{1}$ norm $C(a,\hat{a})
 
 The ==mean-square error (MSE) criterion== is the square of the $L^{2}$ norm $C(\mathbf{a},\hat{\mathbf{a}})=\| \mathbf{a}-\hat{\mathbf{a}} \|^{2}$. The resulting estimate is called the ==Bayes least-squares (BLS) estimator==.
 
-> [!claim]
+> [!example] (MSE gives mean)
 > The BLS estimate is the mean of the posterior belief $p_{\mathsf{x}|\boldsymbol{\mathsf{y}}}(\bullet|\mathbf{y})$.
 
 ^4ebcd6
@@ -63,7 +65,7 @@ The ==mean-square error (MSE) criterion== is the square of the $L^{2}$ norm $C(\
 > [!proof]- Obvious
 > Differentiate the convex loss function.
 
-For a bonus loss function, check out:
+For a bonus loss function, check out: ^775190
 
 1. [[Robust Bayesian Estimation]]
 

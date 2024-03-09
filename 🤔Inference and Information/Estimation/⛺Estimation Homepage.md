@@ -34,3 +34,7 @@ Finally, we discuss some linear regression topics, standard from statistics or i
 9. [[The Gauss-Markov Theorem]]
 10. [[Linear Regression]]
 11. [[Logistic Regression]]
+
+---
+
+**Next:** [[⛺Techniques Homepage]]

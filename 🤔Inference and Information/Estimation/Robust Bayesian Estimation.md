@@ -31,4 +31,4 @@ Here's yet another cost function with similar behavior:
 
 ---
 
-**Next:** [[Bayesian Parameter Estimation]]
+**Return:** [[Bayesian Parameter Estimation#^775190]]
