@@ -50,7 +50,7 @@ Here is a picture:
 
 ![[minimaxbayesrisk.png|center|384]]
 
-All curves are functions of $p$. The blue curve is the Bayes' assuming optimal design against a particular prior $p$. The red and green lines are what happens when you fix a $q_{1}$ or $q_{2}$ as a design for your decision rule, and then vary the true prior $p$ against it.
+All curves are functions of $p$. The blue curve is the Bayes' risk assuming optimal design against a particular prior $p$. The red and green lines are what happens when you fix a $q_{1}$ or $q_{2}$ as a design for your decision rule, and then vary the true prior $p$ against it.
 
 > [!idea]
 > Our exploitability for any decision rule is the maximum height of the line (e.g. red or green). This will always occur when $p=0$ or $p=1$. Basically, because nature moves second, it can respond deterministically.
@@ -112,6 +112,8 @@ The extra stuff at the end of the theorem just accounts for cases where the red 
 > $$
 > \min_{r:\mathcal{Y}\to[0,1]}\max_{p \in[0,1]}\varphi(p,r)=\max_{p \in[0,1]}\min_{r:\mathcal{Y}\to[0,1]}\varphi(p,r).
 > $$
+
+^48bd56
 
 Generically, the left hand side should be at least than the right hand side (the inner max/min always has dominance since it can depend on the outer one). 
 

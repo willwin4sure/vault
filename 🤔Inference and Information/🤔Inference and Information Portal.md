@@ -7,4 +7,5 @@ First, some [[Introductory Remarks|introductory remarks]] about inference.
 
 1. [[⛺Decision Theory Homepage]]
 2. [[⛺Estimation Homepage]]
+3. [[⛺Techniques Homepage]]
 

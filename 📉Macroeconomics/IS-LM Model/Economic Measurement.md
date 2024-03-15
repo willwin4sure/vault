@@ -1,9 +1,10 @@
 How would you measure the aggregate output of an economy?
 
 Measures to answer this question have only been developed quite recently.
+
 ## Gross Domestic Product (GDP)
 
-> [!definition] Definition (GDP)
+> [!definition] (GDP)
 > ==Gross domestic product== is a monetary measure of the total market value of all the final products produced by an economy in a specific time period.
 
 > [!idea]
@@ -15,7 +16,7 @@ We can compute this in a scalable way by summing the ==values added== by each co
 
 There are two slight variants of this concept, however:
 
-> [!definition] Definition (Nominal and Real GDP)
+> [!definition] (Nominal and Real GDP)
 > ==Nominal GDP== is the sum of quantities of final goods produced, weighted by their *current price*. ==Real GDP== is instead weighted by constant (not current) prices. We denote these respectively by $\$Y_{t}$ and $Y_{t}$.
 
 We want to use real GDP because an increase in nominal GDP does not necessarily signify a strengthened economy; for example, there could just be a lot of inflation.
@@ -26,16 +27,16 @@ In this class, we will analyze what causes large changes in real GDP across year
 
 ## Unemployment Rate
 
-> [!definition] Definition (Unemployment)
+> [!definition] (Unemployment)
 > ==Employment== is the number $N$ of people who have a job. ==Unemployment== is the number $U$ of people who do not have a job but *are looking for one*. The ==labor force== $L=N+U$ is the sum of the employed and unemployed. The ==unemployment rate== is the ratio $u=\frac{U}{L}$.
 
 The labor force is quite different from the population: some people are young/students, others are disabled or retired.
 
-Sometimes, the unemployment rate is misleading in deep recessions, due to ==discouraged workers==, who give up looking for a job, and therefore are no longer counted in $U$. This causes an underrepresentation of how bad the economy is doing. One way of accounting for this is the ==participation rate==, which is the ratio of the labor force to the total working age population.
+Sometimes, the unemployment rate is underrepresents how badly the economy is doing in deep recessions, due to ==discouraged workers==, who would like a job but have given up looking for one, and therefore are no longer counted in $U$. One way of accounting for this is the ==participation rate==, which is the ratio of the labor force to the total working age population.
 
 ## Inflation Rate
 
-> [!definition] Definition (Inflation)
+> [!definition] (Inflation)
 > ==Inflation== is a sustained rise in the general ==price level== $P_{t}$. The ==inflation rate== is the rate at which the price level increases:
 > $$
 > \pi_{t}=\frac{P_{t}-P_{t-1}}{P_{t-1}}.

@@ -1,0 +1,1 @@
+This is a design principle which says that the network itself should remain a series of "dumb pipes": anything smart (encryption, checksums, reliable delivery, in-order messages) should be implemented on the ends.

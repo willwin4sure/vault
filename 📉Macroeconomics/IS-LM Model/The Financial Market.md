@@ -34,7 +34,7 @@ On the balance sheet of the central bank, it has bonds in its assets and money (
 
 ## Bond Prices
 
-Suppose a bond promises to pay $100 a year from now. If the price of the bond today is $\$P_{B}$, then the interest rate is
+Suppose a bond promises to pay $\$100$ a year from now. If the price of the bond today is $\$P_{B}$, then the interest rate is
 $$
 i=\frac{100-P_{B}}{P_{B}},
 $$
@@ -55,7 +55,7 @@ This is why there are new techniques like ==quantitative easing==, where they st
 
 Our model above is massively simplified, since we have removed financial intermediaries, such as banks. 
 
-The liabilities of a bank consist of money, in the form of ==checkable deposits==. Banks keep some ==reserves== (deposits held at the central bank) as a proportion of the funds they receive. The liabilities of the central bank are the money in circulation plus the store d portion of commercial bank reserves within the central bank, called ==high power money==. 
+The liabilities of a bank consist of money, in the form of ==checkable deposits==. Banks keep some ==reserves== (deposits held at the central bank) as a proportion of the funds they receive. The liabilities of the central bank are the money in circulation plus the stored portion of commercial bank reserves within the central bank, called ==high power money==. 
 
 Here's a more realistic balance sheet:
 

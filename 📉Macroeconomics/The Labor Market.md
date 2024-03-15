@@ -2,7 +2,7 @@ The basic (and extended) [[⛺IS-LM Homepage|IS-LM model]] that we've been devel
 
 However, it is not a great model once the economy is close to its potential output, and we need to start worrying about the supply side of the economy as well (in the basic model, output is fully demand-determined).
 
-In the next few lectures, we will discuss the supply side of the economy and expand the IS-LM model to incorporate supply constraints an feedbacks. In particular, we will endogenize the inflation rate.
+In the next few lectures, we will discuss the supply side of the economy and expand the IS-LM model to incorporate supply constraints and feedbacks. In particular, we will endogenize the inflation rate.
 
 This will lead to a reason why contractionary policies exist: at some point, while getting more output, you actually get way more inflation, which is a bad trade-off.
 
@@ -39,6 +39,9 @@ The prices set by firms depend on their costs, which in turn depends on their ==
 $$
 Y=AN.
 $$
+
+^ab58e4
+
 We will simplify the worker productivity to $A=1$. Then, the cost of producing one more unit of output is literally the wage $W$. 
 
 Assume that firms set a price as a markup $m$ above the marginal cost, so $P=(1+m)W$.
@@ -70,7 +73,8 @@ $$
 > 
 > ![[unemployment_larger_z.png|center|384]]
 
-If the markup $m$ were to increase, then the price-setting relation falls, also leading to higher employment.
+If the markup $m$ were to increase, then the price-setting relation falls, also leading to higher unemployment.
 
 ---
 
+**Next:** [[The Phillips Curve and Inflation]]

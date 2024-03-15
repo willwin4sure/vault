@@ -21,6 +21,7 @@ which implies that
 $$
 1+r_{t}=\frac{1+i_{t}}{1+\pi_{t+1}^{e}}.
 $$
+Taking logarithms and using the Taylor expansion $\ln(1+x)\approx x$ for small $x$ gives:
 
 > [!claim] (Real interest rate approximation)
 > $$
@@ -56,10 +57,18 @@ All the key changes are in the IS curve:
 
 > [!claim] (Extended IS curve)
 > $$
-> Y=C(Y-T)+I(Y,i-\pi^{e}+x)
+> Y=C(Y-T)+I(Y,i-\pi^{e}+x)+G
 > $$
 
 where $\pi^{e}$ is the expected inflation and $x$ is the risk premium. The LM curve remains as
 $$
 i=\overline{i}.
 $$
+To summarize:
+
+> [!idea]
+> Low taxes, high government expenditure, high autonomous consumption, high marginal propensity to consume, and low interest rates all lead to increased economic output.
+
+---
+
+**Return:** [[⛺IS-LM Homepage]]

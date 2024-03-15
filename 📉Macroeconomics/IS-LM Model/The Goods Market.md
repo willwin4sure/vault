@@ -1,6 +1,8 @@
+We begin our journey into macroeconomics by discussing the goods market.
+
 ## Feedback Loop of Aggregate Demand
 
-In general, demand increases production, which leads to more income, which then leads to more demand! This holds in macroeconomics because we are investigating things in aggregate, but the feedback loop isn't there in microeconomics, since consumers will disperse their excess income across other goods.
+In general, demand increases production, which leads to more income, which then leads to more demand! This holds in macroeconomics because we are investigating things in aggregate. The feedback loop doesn't exist in any particular market we'd study in microeconomics, since consumers will disperse their excess income across other goods.
 
 ## Composition of Aggregate Demand
 
@@ -11,9 +13,9 @@ In general, demand increases production, which leads to more income, which then 
 5. **Imports** $IM$: purchases of foreign goods and services by U.S. consumers, firms, and government.
 6. **Inventory Investment**: the difference between production and sales.
 
-In this course, we will set inventory investment to 0, and for now, $X=IM=0$ (closed economy).
+In this course, we will set inventory investment to $0$.
 
-> [!definition] Definition (Aggregate demand)
+> [!definition] (Aggregate demand)
 > The ==aggregate demand== is
 > $$
 > Z = C + I + G + X - IM.
@@ -22,7 +24,7 @@ In this course, we will set inventory investment to 0, and for now, $X=IM=0$ (cl
 
 For now, we make the following behavioral assumptions:
 
-1. *Exogenous variables* (fixed) are $I=\overline{I}$ and $G,T$ (taxes). Note that $G,T$ define the ==fiscal policy==.
+1. *Exogenous variables* (fixed, taken as given) are $I=\overline{I}$ and $G,T$ (taxes). Note that $G,T$ define the ==fiscal policy==.
 2. The main *endogenous variable* is $C=C(Y_{D})$, an increasing function of ==disposable income== $Y_{D}=Y-T$.
 
 ## Consumption Function

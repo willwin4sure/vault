@@ -1,4 +1,4 @@
-We are given some parameterized policy $a_{t}=\pi_{\theta}(s_{1:t})$, which creates rollouts $\tau=(s_{i},a_{i},r_{i})$ with probability $p_{\theta}(\tau)$. Our goal is to maximize the expected reward by picking
+We are given some parameterized policy $a_{t}=\pi_{\theta}(s_{1:t})$, which creates rollouts $\tau=(s_{i},a_{i},r_{i})$ with probability $p_{\theta}(\tau)$. Our goal is to maximize the expected reward
 $$
 \mathbb{E}\left[ R(\tau) \right]=\int p_{\theta}(\tau)R(\tau)\, d\tau, 
 $$

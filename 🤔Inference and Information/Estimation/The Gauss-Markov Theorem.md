@@ -28,7 +28,7 @@ $$
 $$
 where $\varphi_{WLS}$ is the cost function of the weighted least squares problem as follows:
 $$
-\varphi_{WLS}(\mathbf{x})=(\mathbf{y}-\mathbf{H}\mathbf{x})^{T}\boldsymbol{\Lambda}_{\boldsymbol{\mathsf{w}}}^{-1}(\mathbf{y}-\mathbf{H}\mathbf{x})=\| \boldsymbol{\Lambda}_{\boldsymbol{\mathsf{w}}}^{-1/2}(\mathbf{y}-\mathbf{H}\mathbf{w}) \|_{2}^{2}.
+\varphi_{WLS}(\mathbf{x})=(\mathbf{y}-\mathbf{H}\mathbf{x})^{T}\boldsymbol{\Lambda}_{\boldsymbol{\mathsf{w}}}^{-1}(\mathbf{y}-\mathbf{H}\mathbf{x})=\| \boldsymbol{\Lambda}_{\boldsymbol{\mathsf{w}}}^{-1/2}(\mathbf{y}-\mathbf{H}\mathbf{x}) \|_{2}^{2}.
 $$
 Since this cost function is both convex and nonnegative, the MLE is the unique solution to whenever the gradient is zero, which occurs when
 $$

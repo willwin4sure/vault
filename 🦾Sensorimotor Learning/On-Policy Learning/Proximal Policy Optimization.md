@@ -24,3 +24,5 @@ is close to $1$, meaning that the policy is not changing by too much. We realize
 > The idea is that if the advantage $A$ is positive, $\pi_{\theta}(a_{t}|s_t)$ is incentivized to increase. However, the amount it can increase is clipped by $\varepsilon$ times the old policy $\pi_{\theta_{k}}(a_{t}|s_{t})$. Similarly, if $A$ is negative, then $\pi_{\theta}(a_{t}|s_{t})$ is incentivized to decrease, but it is also constrained.
 
 ---
+
+**Next:** [[]]

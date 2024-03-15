@@ -9,7 +9,7 @@ $$
 This is called the ==Neyman-Pearson criterion==.
 
 > [!theorem] (Neyman-Pearson Lemma, Deterministic Version)
-> Suppose the likelihood ratio $L(\boldsymbol{\mathsf{y}})$ is a purely continuous random variable (no discrete components) under each hypothesis. Then, a solution to the Neyman-Pearson criterion among deterministic rules is a [[The Likelihood Ratio Test|LRT]] of the form
+> Suppose the likelihood ratio $L(\boldsymbol{\mathsf{y}})$ is a purely continuous random variable (no discrete components) under each hypothesis. Then, a solution to the Neyman-Pearson criterion among deterministic rules is an [[The Likelihood Ratio Test|LRT]] of the form
 > $$
 > \hat{H}(y)=H_{\mathbf{1}_{L(\boldsymbol{\mathsf{y}})\geq \eta}},
 > $$
@@ -46,7 +46,7 @@ This is called the ==Neyman-Pearson criterion==.
 > [!idea]
 > Just cut $P_{F}=\alpha$, and then read off the maximal $P_{D}$ along the OC-LRT.
 
-There are a lot of practical scenarios where this is not useful. For example, if one of the distributions under a hypothesis is discrete. Further, simple LRTs are only optimal among deterministic rules, and randomized classifiers could do better. 
+There are a lot of practical scenarios where this is not useful. For example, if one of the distributions under a hypothesis is discrete. Further, simple LRTs are only optimal among deterministic rules, and randomized classifiers could do better. We will discuss this next.
 
 Some extra related reading: ^6d1837
 

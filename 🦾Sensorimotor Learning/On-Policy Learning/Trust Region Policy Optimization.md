@@ -43,7 +43,7 @@ Now, just approximate the $s_{t}\sim p_{\theta+d}$ with $s_{t}\sim p_{\theta}$, 
 > $$
 > K(\theta+d)\geq \tilde{K}(\theta+d)-C\cdot KL^{\max}(\pi_{\theta}\parallel\pi_{\theta+d}),
 > $$
-> where $KL^{\max}(\pi_{\theta}\parallel\pi_{\theta+d})=\max_{s}\left[KL(\pi_{\theta}(a|s)\parallel\pi_{\theta+d}(a|s))\right]$, for some constant $C$.
+> where $KL^{\max}(\pi_{\theta}\parallel\pi_{\theta+d})=\max_{s}\left[KL(\pi_{\theta}(a|s)\parallel\pi_{\theta+d}(a|s))\right]$, for a constant $C=\frac{4\varepsilon\gamma}{(1-\gamma)^{2}}$ where $\varepsilon=\max_{(s,a)}|A^{\pi_{\theta}}(s,a)|$.  
 
 This tells us that our true reward won't be that much worse than estimated. Therefore, we can write
 $$

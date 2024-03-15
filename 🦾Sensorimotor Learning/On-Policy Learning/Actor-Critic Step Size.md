@@ -12,6 +12,9 @@ $$
 $$
 If the constraint is satisfied, then the coefficient of $\lambda$ is positive so we want to set $\lambda=0$. Otherwise, we the coefficient of $\lambda$ is negative so we can take $\lambda\to \infty$ and make the objective go to $-\infty$. 
 
+> [!remark]
+> Oops, the professor swept something under the rug! The min and max should actually be flipped! In general, we are able to flip them under sufficiently nice conditions, as we learned in grad inference for [[Regularized and Constrained ML Estimation#Constraints|contrained maximum likelihood estimation]]. I'm not actually sure why we are allowed to here, but I guess if we can't, it's just an approximation...
+
 Taking the gradient of the inside term with respect to $d$ is just $g-\lambda d$. Optimizing should result in setting $d=\frac{g}{\lambda}$. Well, how do we solve for $\lambda$? We can plug our optimal value for $d$ back in to get
 $$
 \min_{\lambda \geq 0}\left( J(\theta)+\frac{g^{T}g}{\lambda}-\lambda \left( \frac{g^{T}g}{2\lambda^{2}} - \varepsilon \right)  \right)
@@ -33,16 +36,16 @@ This results in:
 
 ## Natural Policy Gradients
 
-We are constraining each of the dimensions of $\theta$ equally, but this does not accurately represent how it affects $J(\theta)$. A much better distance metric is the KL divergence. We want to maximize $J(\theta+d)$ subject to $KL(\pi_{\theta+d}(\bullet|s)\parallel\pi_{\theta}(\bullet|s))<\varepsilon$. 
+We are constraining each of the dimensions of $\theta$ equally, but this does not accurately represent how it affects $J(\theta)$. A much better distance metric is the KL divergence. We want to maximize $J(\theta+d)$ subject to $KL(\pi_{\theta}(\bullet|s)\parallel\pi_{\theta+d}(\bullet|s))<\varepsilon$. 
 
 We can approximate
 $$
-KL(\pi_{\theta+d}(\bullet|s)\parallel \pi_{\theta}(\bullet|s))\approx \frac{1}{2}d^{T}F(\theta)d,
+KL(\pi_{\theta}(\bullet|s)\parallel \pi_{\theta+d}(\bullet|s))\approx \frac{1}{2}d^{T}F(\theta)d,
 $$
 where $F(\theta)=\mathbb{E}[\nabla_{\theta}\log \pi_{\theta}(a|s)\nabla_{\theta}\log \pi_{\theta}(a|s)^{T}]$ is the Fisher information matrix. Solving in an analogous way gives
 
 > [!claim] (Natural policy gradients)
-> Under the constraint $KL(\pi_{\theta+d}\parallel\pi_{\theta})<\varepsilon$ for $d=\alpha g$, the optimal step size is
+> Under the constraint $KL(\pi_{\theta}\parallel\pi_{\theta+d})<\varepsilon$ for $d=\alpha g$, the optimal step size is
 > $$
 > \alpha=\sqrt{ \frac{2\varepsilon}{g^{T}F^{-1}g} },
 > $$
