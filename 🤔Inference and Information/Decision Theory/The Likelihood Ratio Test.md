@@ -74,7 +74,7 @@ Then, the optimal decision rule minimizes the expected cost.
 > $$
 > which rearranges to the desired.
 
-The left hand side $L(\mathbf{y})$ is referred to as the ==likelihood ratio==. In the case that one of the values in the fraction is $0$, decide in the obvious way. (If they're both zero, something went wrong.)
+The left hand side $L(\mathbf{y})$ is referred to as the ==likelihood ratio==. In the case that one of the values in the fraction is $0$, decide in the obvious way. (If they're both zero, something went wrong.) ^48ae30
 
 > [!idea]
 > If we use $0$-$1$ loss, then LRT corresponds to directly comparing a posteriori probabilities. Nontrivial losses just reweight the prior by how much it hurts to misclassify that thing (e.g. if false negatives really hurt, it is equivalent to $P_{1}$ being higher).
@@ -85,6 +85,8 @@ The decision rule is remarkably structured. The left hand side $L(\mathbf{y})$ i
 
 > [!definition] (Statistic)
 > A ==statistic== is a real-valued function of the data.
+
+^8317c7
 
 Other names are ==features== or ==embeddings==. More remarkably, $L(\mathbf{y})$ contains *all the information we need* from the models and data in order to make the optimal decision. This is what we refer to as a ==sufficient statistic==. We could forget everything else!
 

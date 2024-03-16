@@ -68,7 +68,7 @@ The relationship between the actual underlying parameter $\mathbf{x} \in \mathca
 
 2.  $\text{rank}(\partial \boldsymbol{\lambda}(\mathbf{x})/\partial \mathbf{x})=L=K$, in which case the family is ==full==. For example, $\boldsymbol{\lambda}(\mathbf{x})=\mathbf{x}$ or $\boldsymbol{\lambda}(\mathbf{x})=\begin{bmatrix}x_{1}+x_{2}^{2}\\ x_{1}^{2}+x_{2}\end{bmatrix}$.
 
-3. $\text{rank}(\partial \boldsymbol{\lambda}(\mathbf{x})/\partial \mathbf{x})=L<K$, in which case the family is ==curved==. For example, $\boldsymbol{\lambda}(x)=\begin{bmatrix}x & x^{2}\end{bmatrix}^{T}$.
+3. $\text{rank}(\partial \boldsymbol{\lambda}(\mathbf{x})/\partial \mathbf{x})=L<K$, in which case the family is ==curved==. For example, $\boldsymbol{\lambda}(x)=\begin{bmatrix}x & x^{2}\end{bmatrix}^{T}$. This is pulling out additional features.
 
 > [!idea]
 > Case 1 is when $\mathcal{X}$ gets stuffed into a tight space, overlapping itself. Case 2 is when $\mathcal{X}$ gets mapped cleanly into the natural parameter space of the same dimension. Case 3 is when $\mathcal{X}$ gets mapped cleanly into a lower-dimensional submanifold of the full natural parameter space.
@@ -111,4 +111,4 @@ There is also [[Efficient Estimators and Exponential Families|still]] a connecti
 
 ---
 
-**Next:** [[Markov Structure as an Exponential Family]]
+**Next:** [[Local Families of Distributions]]

@@ -12,7 +12,7 @@ An exponential family is a parameterized family of distribution. To build our in
 We have some names for these special functions:
 
 * $\lambda(\bullet):\mathcal{X}\to \mathbb{R}$ is called the ==natural parameter==. It converts $x$ into the parameter actually "used" by the distribution.
-* $t(\bullet):\mathcal{Y}\to \mathbb{R}$ is called the ==natural statistic==. It is the only part of the data that the parameters care about with regards to the value of the distribution.
+* $t(\bullet):\mathcal{Y}\to \mathbb{R}$ is called the ==natural statistic==. It is the only part of the data that the parameters care about with regards to the value of the distribution. ^2a98de
 * $\alpha(\bullet):\mathcal{X}\to \mathbb{R}$ is called the ==log-partition function==. It normalizes the distribution; if we set $Z(x)=e^{\alpha(x)}$, it is called the **partition function** and can be expressed as
 $$
 Z(x)=\int \exp \{ \lambda(x)t(\mathbf{y})+\beta(\mathbf{y}) \} \, \nu(d\mathbf{y}).

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🤔Inference and Information/Techniques/Single-Parameter Exponential Families.md",
+                "file": "🤔Inference and Information/Techniques/The Expectation Maximization (EM) Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🤔Inference and Information/Techniques/Single-Parameter Exponential Families.md",
+                "file": "🤔Inference and Information/Techniques/The Expectation Maximization (EM) Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🤔Inference and Information/Techniques/Single-Parameter Exponential Families.md",
+                "file": "🤔Inference and Information/Techniques/The Expectation Maximization (EM) Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🤔Inference and Information/Techniques/Single-Parameter Exponential Families.md"
+                "file": "🤔Inference and Information/Techniques/The Expectation Maximization (EM) Algorithm.md"
               }
             }
           }
@@ -149,6 +149,28 @@
   },
   "active": "80b717af8c2cd4cd",
   "lastOpenFiles": [
+    "🤔Inference and Information/Techniques/Some Useful Inequalities.md",
+    "🤔Inference and Information/Techniques/⛺Techniques Homepage.md",
+    "🤔Inference and Information/Techniques/The Expectation Maximization (EM) Algorithm.md",
+    "🤔Inference and Information/Techniques/Efficient Estimators and Exponential Families.md",
+    "🤔Inference and Information/Techniques/Sufficient Statistics.md",
+    "🤔Inference and Information/Techniques/Local Families of Distributions.md",
+    "🤔Inference and Information/Techniques/Multi-Parameter Exponential Families.md",
+    "🤔Inference and Information/Techniques/Single-Parameter Exponential Families.md",
+    "🤔Inference and Information/🤔Inference and Information Portal.md",
+    "🦾Sensorimotor Learning/Stochastic Bandits/Stochastic Bandits.md",
+    "🦾Sensorimotor Learning/Stochastic Bandits/Upper Confidence Bound Algorithm.md",
+    "🦾Sensorimotor Learning/Stochastic Bandits/Contextual Bandits, LinUCB, and Square CB.md",
+    "🦾Sensorimotor Learning/Stochastic Bandits/Exploration-Exploitation Tradeoff.md",
+    "🦾Sensorimotor Learning/On-Policy Learning/Trust Region Policy Optimization.md",
+    "🦾Sensorimotor Learning/On-Policy Learning/Actor-Critic Step Size.md",
+    "🦾Sensorimotor Learning/On-Policy Learning/Advantage Actor-Critic Method.md",
+    "🦾Sensorimotor Learning/Reward Function Design/Reward Functions.md",
+    "🤔Inference and Information/Information Geometry.md",
+    "M.md",
+    "🤔Inference and Information/Information",
+    "🤔Inference and Information/Decision Theory/Neyman-Pearson Hypothesis Testing.md",
+    "🤔Inference and Information/Decision Theory/Minimax Hypothesis Testing.md",
     "📉Macroeconomics/The IS-LM-PC Model.md",
     "📉Macroeconomics/The Labor Market.md",
     "📉Macroeconomics/img/unemployment_larger_z.png",
@@ -156,26 +178,6 @@
     "📉Macroeconomics/The Phillips Curve and Inflation.md",
     "📉Macroeconomics/IS-LM Model/An Extended IS-LM Model.md",
     "📉Macroeconomics/IS-LM Model/The IS-LM Model.md",
-    "📉Macroeconomics/IS-LM Model/Economic Measurement.md",
-    "📉Macroeconomics/IS-LM Model/The Goods Market.md",
-    "📉Macroeconomics/📉Macroeconomics Portal.md",
-    "📉Macroeconomics/IS-LM Model/⛺IS-LM Homepage.md",
-    "📉Macroeconomics/IS-LM Model/The Financial Market.md",
-    "M.md",
-    "README.md",
-    "🤔Inference and Information/Techniques/Markov Structure as an Exponential Family.md",
-    "🤔Inference and Information/Techniques/Multi-Parameter Exponential Families.md",
-    "🤔Inference and Information/Techniques/Single-Parameter Exponential Families.md",
-    "🤔Inference and Information/Techniques/Efficient Estimators and Exponential Families.md",
-    "🤔Inference and Information/Techniques/⛺Techniques Homepage.md",
-    "🤔Inference and Information/Estimation/⛺Estimation Homepage.md",
-    "🤔Inference and Information/Estimation/The Gauss-Markov Theorem.md",
-    "🤔Inference and Information/Estimation/Properties of the BLS Estimator.md",
-    "🖥️Computer Systems Engineering/Networking/The End-to-End Argument.md",
-    "🤔Inference and Information/Estimation/Efficient Estimators.md",
-    "🤔Inference and Information/Estimation/The Cramér–Rao Bound.md",
-    "🤔Inference and Information/Estimation/Estimation of Nonrandom Vectors.md",
-    "🤔Inference and Information/Estimation/Logistic Regression.md",
     "🦾Sensorimotor Learning/Reward Function Design",
     "📉Macroeconomics/img/labor_flow.png",
     "📉Macroeconomics/img/natural_unemployment.png",
@@ -192,7 +194,6 @@
     "🤔Inference and Information/Techniques",
     "🖥️Computer Systems Engineering/Networking/img",
     "🖥️Computer Systems Engineering/Networking",
-    "🤔Inference and Information/Estimation",
-    "🦾Sensorimotor Learning/On-Policy Learning"
+    "🤔Inference and Information/Estimation"
   ]
 }
