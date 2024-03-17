@@ -1,0 +1,18 @@
+The following memories are exposed by the GPU architecture:
+
+![[gpu_mem_hierarchy.png|center|512]]
+
+### Registers
+
+These are small and private to each thread. There are at most 1024 threads per block, so 256 KB makes sense.
+
+### L1/Shared Memory (SMEM)
+
+Every SM has a fast, on-chip scratchpad memory that can be used as an L1 cache and shared memory. All threads in a block can share shared memory, and all CUDA blocks running on a given SM can share the physical memory resource. This memory is why you should have threads working on localized data for efficiency. For example, if you take the [[Introduction#GPU Optimization|introduction example]] and flip the index in the kernel code to
+
+```cpp
+int index = threadIdx.x * gridDim.x + blockIdx.x;
+```
+
+the runtime quadruples.
+

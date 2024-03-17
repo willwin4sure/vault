@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f5264a0802007116",
+        "id": "5b32b32848dc9b5d",
         "type": "tabs",
         "children": [
           {
-            "id": "80b717af8c2cd4cd",
+            "id": "4907175afaae7354",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🤔Inference and Information/Techniques/The Expectation Maximization (EM) Algorithm.md",
+                "file": "💻Programming/CUDA/Memory Hierarchy of GPUs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🤔Inference and Information/Techniques/The Expectation Maximization (EM) Algorithm.md",
+                "file": "💻Programming/CUDA/Memory Hierarchy of GPUs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🤔Inference and Information/Techniques/The Expectation Maximization (EM) Algorithm.md",
+                "file": "💻Programming/CUDA/Memory Hierarchy of GPUs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🤔Inference and Information/Techniques/The Expectation Maximization (EM) Algorithm.md"
+                "file": "💻Programming/CUDA/Memory Hierarchy of GPUs.md"
               }
             }
           }
@@ -147,17 +147,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "80b717af8c2cd4cd",
+  "active": "4907175afaae7354",
   "lastOpenFiles": [
-    "🤔Inference and Information/Estimation/Maximum Likelihood Estimation.md",
-    "🤔Inference and Information/Techniques/The Expectation Maximization (EM) Algorithm.md",
+    "💻Programming/CUDA/Introduction.md",
+    "💻Programming/CUDA/Memory Hierarchy of GPUs.md",
+    "💻Programming/CUDA/img/gpu_mem_hierarchy.png",
+    "💻Programming/CUDA/img",
     "🤔Inference and Information/Techniques/Some Useful Inequalities.md",
-    "🤔Inference and Information/Techniques/⛺Techniques Homepage.md",
+    "💻Programming/CUDA",
+    "🤔Inference and Information/Information Geometry.md",
+    "🤔Inference and Information/Techniques/The Expectation Maximization (EM) Algorithm.md",
+    "🤔Inference and Information/Techniques/The EM Algorithm on Exponential Families.md",
+    "🤔Inference and Information/Techniques/Single-Parameter Exponential Families.md",
+    "🤔Inference and Information/Techniques/Multi-Parameter Exponential Families.md",
+    "🤔Inference and Information/Techniques/Local Families of Distributions.md",
     "🤔Inference and Information/Techniques/Efficient Estimators and Exponential Families.md",
     "🤔Inference and Information/Techniques/Sufficient Statistics.md",
-    "🤔Inference and Information/Techniques/Local Families of Distributions.md",
-    "🤔Inference and Information/Techniques/Multi-Parameter Exponential Families.md",
-    "🤔Inference and Information/Techniques/Single-Parameter Exponential Families.md",
+    "🤔Inference and Information/Estimation/Non-Bayesian Parameter Estimation.md",
+    "🤔Inference and Information/Techniques/⛺Techniques Homepage.md",
+    "🤔Inference and Information/Estimation/Maximum Likelihood Estimation.md",
     "🤔Inference and Information/🤔Inference and Information Portal.md",
     "🦾Sensorimotor Learning/Stochastic Bandits/Stochastic Bandits.md",
     "🦾Sensorimotor Learning/Stochastic Bandits/Upper Confidence Bound Algorithm.md",
@@ -167,17 +175,11 @@
     "🦾Sensorimotor Learning/On-Policy Learning/Actor-Critic Step Size.md",
     "🦾Sensorimotor Learning/On-Policy Learning/Advantage Actor-Critic Method.md",
     "🦾Sensorimotor Learning/Reward Function Design/Reward Functions.md",
-    "🤔Inference and Information/Information Geometry.md",
     "M.md",
     "🤔Inference and Information/Information",
     "🤔Inference and Information/Decision Theory/Neyman-Pearson Hypothesis Testing.md",
-    "🤔Inference and Information/Decision Theory/Minimax Hypothesis Testing.md",
-    "📉Macroeconomics/The IS-LM-PC Model.md",
-    "📉Macroeconomics/The Labor Market.md",
     "📉Macroeconomics/img/unemployment_larger_z.png",
     "📉Macroeconomics/img/is_lm_pc.png",
-    "📉Macroeconomics/The Phillips Curve and Inflation.md",
-    "📉Macroeconomics/IS-LM Model/An Extended IS-LM Model.md",
     "🦾Sensorimotor Learning/Reward Function Design",
     "📉Macroeconomics/img/labor_flow.png",
     "📉Macroeconomics/img/natural_unemployment.png",
@@ -188,12 +190,9 @@
     "📉Macroeconomics/IS-LM Model/img/lm_curve_down.png",
     "📉Macroeconomics/IS-LM Model/img/is_curve_left.png",
     "📉Macroeconomics/IS-LM Model/img/is_lm_model.png",
-    "📉Macroeconomics/IS-LM Model/img/is_curve_shift.png",
     "🦾Sensorimotor Learning/On-Policy Learning/img",
     "🖥️Computer Systems Engineering/Operating Systems",
     "🤔Inference and Information/Techniques",
-    "🖥️Computer Systems Engineering/Networking/img",
-    "🖥️Computer Systems Engineering/Networking",
-    "🤔Inference and Information/Estimation"
+    "🖥️Computer Systems Engineering/Networking/img"
   ]
 }

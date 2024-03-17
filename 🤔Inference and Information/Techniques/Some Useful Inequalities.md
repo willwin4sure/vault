@@ -29,6 +29,8 @@ This is exactly the discrete case of the following inequality. These both show u
 > \mathbb{E}_{p}\left[ \log p(\mathsf{v}) \right] \geq \mathbb{E}_{p}\left[ \log q(\mathsf{v}) \right].
 > $$
 
+^e52776
+
 > [!proof]-
 > By the concavity of the log function,
 > $$
