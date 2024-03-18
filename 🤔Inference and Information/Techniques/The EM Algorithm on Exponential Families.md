@@ -20,3 +20,7 @@ $$
 $$
 > [!question]
 > Check that any fixed point of this update is a stationary point of $\ell_{\boldsymbol{\mathsf{y}}}(\bullet;\mathbf{y})$.
+
+---
+
+**Return:** [[⛺Techniques Homepage]]

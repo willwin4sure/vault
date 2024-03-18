@@ -1,3 +1,6 @@
+> Ridge and lasso regression.
+
+There are two general ways of incorporating domain knowledge into your estimation to avoid degeneracy/instability.
 ## Regularization
 
 In practice, ML estimation is used with *regularization*, e.g. in the learning of the parameters of a neural network.
@@ -48,7 +51,7 @@ $$
 $$
 The conditions to do this are referred to as the [Karush-Kuhn-Tucker conditions](https://en.wikipedia.org/wiki/Karush%E2%80%93Kuhn%E2%80%93Tucker_conditions): generally, we want that both $\ln p_{\boldsymbol{\mathsf{y}}}(\mathbf{y};\bullet)$ and $\rho(\bullet)$ are concave. Then, we can follow a proof similar to the [[Minimax Hypothesis Testing#^48bd56|proof that Bayes' risk exhibits a saddle point]] in the minimax formulation of hypothesis testing.
 
-Suppose there is some optimal $\hat{\mathbf{x}}^{*}$ on the left. In the case where $\rho(\hat{\mathbf{x}}^{*})>0$, then we can just pick $\lambda=0$ on the other side and win. Otherwise, we have that $\rho(\hat{\mathbf{x}}^{*})=0$. At the optimum, by Lagrange multipliers, $\nabla_{\mathbf{x}}\ln p_{\boldsymbol{\mathsf{y}}}(\mathbf{y};\mathbf{x})=\lambda\nabla_{\mathbf{x}}\rho(\mathbf{x})$. In particular, this means that the gradient of $\ln p_{\boldsymbol{\mathsf{y}}}(\mathbf{y};\mathbf{x})+\lambda \rho(\mathbf{x})$ with respect to $\mathbf{x}$, evaluated at $\hat{\mathbf{x}}^{*}$, is $0$, so it is a local optimum. Concavity ensures that it is also the global optimum; therefore, we can just pick the necessary $\lambda$ to win.
+Suppose there is some optimal $\hat{\mathbf{x}}^{*}$ on the left. In the case where $\rho(\hat{\mathbf{x}}^{*})>0$, then we can just pick $\lambda=0$ on the other side and win. Otherwise, we have that $\rho(\hat{\mathbf{x}}^{*})=0$. At the optimum, by Lagrange multipliers, $\nabla_{\mathbf{x}}\ln p_{\boldsymbol{\mathsf{y}}}(\mathbf{y};\mathbf{x})=-\lambda\nabla_{\mathbf{x}}\rho(\mathbf{x})$. In particular, this means that the gradient of $\ln p_{\boldsymbol{\mathsf{y}}}(\mathbf{y};\mathbf{x})+\lambda \rho(\mathbf{x})$ with respect to $\mathbf{x}$, evaluated at $\hat{\mathbf{x}}^{*}$, is $0$, so it is a local optimum. Concavity ensures that it is also the global optimum; therefore, we can just pick the necessary $\lambda$ to win.
 
 > [!remark]
 > This shows up in the [[Actor-Critic Step Size|actor-critic step size derivation]] from Sensorimotor Learning. 

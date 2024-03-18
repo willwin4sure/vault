@@ -22,3 +22,8 @@ Then, a quick side-note on some useful inequalities:
 Finally, a discussion of the Expectation-Maximization (EM) algorithm.
 
 7. [[The Expectation Maximization (EM) Algorithm]]
+8. [[The EM Algorithm on Exponential Families]]
+
+---
+
+**Next:** [[⛺Information Homepage]]

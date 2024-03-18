@@ -1,5 +1,4 @@
-This section develops an important connection between least-squares and maximum likelihood estimation, which occurs for linear models with Gaussian data. 
-
+This section develops an important connection between least-squares and maximum likelihood estimation, which occurs for linear models with Gaussian data. You've seen this in the Berkeley intro ML course notes.
 ## Statement
 
 > [!theorem] (Gauss-Markov Theorem)

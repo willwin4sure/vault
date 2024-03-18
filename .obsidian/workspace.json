@@ -13,13 +13,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💻Programming/CUDA/Memory Hierarchy of GPUs.md",
+                "file": "🦾Sensorimotor Learning/Reward Function Design/Reward Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de50cf7dfce706bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🦾Sensorimotor Learning/Reward Function Design/Behavior Cloning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f03b4dbab2429cb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🦾Sensorimotor Learning/Reward Function Design/Causal Confusion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20055876174ab8b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🦾Sensorimotor Learning/Reward Function Design/Multimodality.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d48a81b9eacad24c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🦾Sensorimotor Learning/Sim2Real/Simulators.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "977f06bc8da44cf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🤔Inference and Information/Information/Information Measures.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻Programming/CUDA/Memory Hierarchy of GPUs.md",
+                "file": "🦾Sensorimotor Learning/Sim2Real/Simulators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💻Programming/CUDA/Memory Hierarchy of GPUs.md",
+                "file": "🦾Sensorimotor Learning/Sim2Real/Simulators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💻Programming/CUDA/Memory Hierarchy of GPUs.md"
+                "file": "🦾Sensorimotor Learning/Sim2Real/Simulators.md"
               }
             }
           }
@@ -147,37 +208,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4907175afaae7354",
+  "active": "d48a81b9eacad24c",
   "lastOpenFiles": [
-    "💻Programming/CUDA/Introduction.md",
+    "🦾Sensorimotor Learning/Reward Function Design/Multimodality.md",
+    "🦾Sensorimotor Learning/Sim2Real/Simulators.md",
+    "🦾Sensorimotor Learning/Sim2Real",
+    "🦾Sensorimotor Learning/Reward Function Design/Reward Functions.md",
+    "🦾Sensorimotor Learning/Reward Function Design/Causal Confusion.md",
+    "🦾Sensorimotor Learning/Reward Function Design/Behavior Cloning.md",
     "💻Programming/CUDA/Memory Hierarchy of GPUs.md",
-    "💻Programming/CUDA/img/gpu_mem_hierarchy.png",
-    "💻Programming/CUDA/img",
-    "🤔Inference and Information/Techniques/Some Useful Inequalities.md",
-    "💻Programming/CUDA",
-    "🤔Inference and Information/Information Geometry.md",
-    "🤔Inference and Information/Techniques/The Expectation Maximization (EM) Algorithm.md",
+    "🤔Inference and Information/Information/Information Measures.md",
+    "🤔Inference and Information/Information/⛺Information Homepage.md",
+    "🤔Inference and Information/Techniques/⛺Techniques Homepage.md",
+    "🤔Inference and Information/Techniques/Efficient Estimators and Exponential Families.md",
     "🤔Inference and Information/Techniques/The EM Algorithm on Exponential Families.md",
+    "🤔Inference and Information/Techniques/The Expectation Maximization (EM) Algorithm.md",
+    "🤔Inference and Information/Techniques/Some Useful Inequalities.md",
+    "🤔Inference and Information/Techniques/Sufficient Statistics.md",
     "🤔Inference and Information/Techniques/Single-Parameter Exponential Families.md",
     "🤔Inference and Information/Techniques/Multi-Parameter Exponential Families.md",
     "🤔Inference and Information/Techniques/Local Families of Distributions.md",
-    "🤔Inference and Information/Techniques/Efficient Estimators and Exponential Families.md",
-    "🤔Inference and Information/Techniques/Sufficient Statistics.md",
-    "🤔Inference and Information/Estimation/Non-Bayesian Parameter Estimation.md",
-    "🤔Inference and Information/Techniques/⛺Techniques Homepage.md",
+    "🤔Inference and Information/Estimation/⛺Estimation Homepage.md",
+    "🤔Inference and Information/Estimation/The Gauss-Markov Theorem.md",
+    "🤔Inference and Information/Estimation/Estimation of Nonrandom Vectors.md",
+    "🤔Inference and Information/Estimation/Regularized and Constrained ML Estimation.md",
+    "🤔Inference and Information/Estimation/Linear Regression.md",
+    "🤔Inference and Information/Estimation/Logistic Regression.md",
+    "🤔Inference and Information/Estimation/Efficient Estimators.md",
     "🤔Inference and Information/Estimation/Maximum Likelihood Estimation.md",
-    "🤔Inference and Information/🤔Inference and Information Portal.md",
-    "🦾Sensorimotor Learning/Stochastic Bandits/Stochastic Bandits.md",
-    "🦾Sensorimotor Learning/Stochastic Bandits/Upper Confidence Bound Algorithm.md",
-    "🦾Sensorimotor Learning/Stochastic Bandits/Contextual Bandits, LinUCB, and Square CB.md",
-    "🦾Sensorimotor Learning/Stochastic Bandits/Exploration-Exploitation Tradeoff.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/Trust Region Policy Optimization.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/Actor-Critic Step Size.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/Advantage Actor-Critic Method.md",
-    "🦾Sensorimotor Learning/Reward Function Design/Reward Functions.md",
-    "M.md",
+    "🤔Inference and Information/Estimation/The Cramér–Rao Bound.md",
+    "💻Programming/CUDA/img/gpu_mem_hierarchy.png",
+    "💻Programming/CUDA/img",
+    "💻Programming/CUDA",
     "🤔Inference and Information/Information",
-    "🤔Inference and Information/Decision Theory/Neyman-Pearson Hypothesis Testing.md",
     "📉Macroeconomics/img/unemployment_larger_z.png",
     "📉Macroeconomics/img/is_lm_pc.png",
     "🦾Sensorimotor Learning/Reward Function Design",
@@ -192,7 +255,6 @@
     "📉Macroeconomics/IS-LM Model/img/is_lm_model.png",
     "🦾Sensorimotor Learning/On-Policy Learning/img",
     "🖥️Computer Systems Engineering/Operating Systems",
-    "🤔Inference and Information/Techniques",
-    "🖥️Computer Systems Engineering/Networking/img"
+    "🤔Inference and Information/Techniques"
   ]
 }

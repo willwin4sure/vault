@@ -1,3 +1,4 @@
+> Unbiased with "minimal" covariance.
 ## Bias-Covariance Decomposition
 
 Recall that the error of any estimator can be decomposed into a bias and a variance:

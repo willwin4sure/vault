@@ -1,6 +1,8 @@
-Oftentimes, it is unnatural to assign a prior distribution to the latent variable of interest, as in the Bayesian framework. Another approach is to treat the variable as deterministic but unknown. 
+> Instead model the parameter as deterministic but unknown. We often seek the minimum variance unbiased estimator, which often is the MLE.
 
-Let $\mathbf{x}$ denote the vector of parameters that we seek to estimate.
+Oftentimes, it is unnatural to assign a prior distribution to the latent variable of interest, as in the Bayesian framework. 
+
+Let $\mathbf{x}$ denote the unknown, deterministic vector of parameters that we seek to estimate.
 
 > [!notation]
 > To make the parameterization explicit, we write the density for the vector of observations $\boldsymbol{\mathsf{y}}$ as $p_{\boldsymbol{\mathsf{y}}}(\mathbf{y};\mathbf{x})$. The mean vector of this distribution is $\boldsymbol{\mu}_{\boldsymbol{\mathsf{y}}}(\mathbf{x})$ and the covariance matrix is $\boldsymbol{\Lambda}_{\boldsymbol{\mathsf{y}}}(\mathbf{x})$.

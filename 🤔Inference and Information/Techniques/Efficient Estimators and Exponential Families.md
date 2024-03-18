@@ -11,6 +11,8 @@ There is a close connection between exponential families and the existence of [[
 > $$
 > for some constant $b$. This also must be the ML estimator $\hat{x}_{ML}(\mathbf{y})$.
 
+^aecfec
+
 > [!proof]- Forward Direction
 > If an efficient estimator exists, we know it [[Efficient Estimators#^783e21|takes the form]] of 
 > $$

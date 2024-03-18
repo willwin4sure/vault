@@ -1,3 +1,5 @@
+> From any introductory ML or statistics class.
+
 Now consider a binary classification setting where we are given some observations $\boldsymbol{\mathsf{y}}=(\boldsymbol{\mathsf{u}},\mathsf{v})$, where $\boldsymbol{\mathsf{u}}\in \mathcal{U}$ is our source variable, and $\mathsf{v}\in \{ 0,1 \}$ is our corresponding class label.
 
 A widely used forward model for their relationship is the following model:

@@ -1,3 +1,5 @@
+> From any intro ML or statistics class.
+
 You've seen all of this before, but I'll quickly summarize it.
 
 > [!definition] (Linear regression)

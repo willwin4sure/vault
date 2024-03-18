@@ -1,3 +1,4 @@
+> The lowest variance of an unbiased estimator is given by the inverse Fisher information.
 ## Statement
 
 > [!theorem] (Cramér–Rao Bound, scalar version)

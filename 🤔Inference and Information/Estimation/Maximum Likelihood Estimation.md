@@ -1,3 +1,5 @@
+> The "best possible" estimator.
+
 Perhaps the most widely used estimators in practice (including for learning the parameters of neural networks) are maximum likelihood estimators.
 
 > [!definition] (Maximum likelihood estimate)

@@ -1,3 +1,5 @@
+> Efficiency is a rather strong condition, and we can characterize the form of such an estimator well.
+
 > [!definition] (Efficient estimator)
 > A valid estimator is ==efficient== if it satisfies the [[The Cramér–Rao Bound|Cramér–Rao bound]] with equality for all $x \in \mathcal{X}$.
 
@@ -44,6 +46,9 @@ We then have the following:
 > \hat{x}(\mathsf{y})=x+\frac{1}{J_{\mathsf{y}}(x)}\frac{ \partial }{ \partial x } \ln p_{\mathsf{y}}(y;x)=x+\sigma^{2}\left( -\frac{1}{2\sigma^{2}}(2x-2y) \right)=y.
 > $$
 > Since this doesn't depend on $x$, it is a valid estimator and therefore efficient. This is unbiased and has variance $\sigma^{2}$, equal to the Cramér–Rao bound.
+
+> [!remark]
+> Later, we will see a connection to [[Efficient Estimators and Exponential Families#^aecfec|exponential families]].
 
 ---
 
