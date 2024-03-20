@@ -12,7 +12,9 @@ We have a name for this quantity.
 > D(p\parallel q)=\sum_{a}^{}p(a)\log \frac{p(a)}{q(a)}.
 > $$
 
-This is also called the ==relative entropy== of $q(\bullet)$ with respect to $p(\bullet)$. Note that it is nonnegative, and is only equal to $0$ when $p=q$.
+^ee603e
+
+This is also called the ==relative entropy== of $q(\bullet)$ with respect to $p(\bullet)$. Note that it is nonnegative and is only equal to $0$ when $p=q$.
 
 > [!idea]
 > You should think of $D(p\parallel q)$ as representing the *atypicality* of sampling $p$ if you believe that the distribution is $q$. 

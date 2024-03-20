@@ -38,6 +38,8 @@ A more sophisticated approach is the log-loss criterion, also from intro ML.
 > [!claim]
 > The log-loss cost criterion is proper.
 
+^eb0347
+
 > [!proof]- Gibbs'
 > The expected cost is
 > $$

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🤔Inference and Information/Information/Linear Families.md",
+                "file": "🤔Inference and Information/Information/Orthogonal Families.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🤔Inference and Information/Information/Linear Families.md",
+                "file": "🤔Inference and Information/Information/Orthogonal Families.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🤔Inference and Information/Information/Linear Families.md",
+                "file": "🤔Inference and Information/Information/Orthogonal Families.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🤔Inference and Information/Information/Linear Families.md"
+                "file": "🤔Inference and Information/Information/Orthogonal Families.md"
               }
             }
           }
@@ -147,19 +147,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b467bbd3caf18280",
+  "active": "7b8958fc77ca60a8",
   "lastOpenFiles": [
     "🤔Inference and Information/Information/Linear Families.md",
+    "🤔Inference and Information/Information/Orthogonal Families.md",
     "🤔Inference and Information/Information/Information Projection and Pythagoras' Theorem.md",
     "🤔Inference and Information/Information/The Probability Simplex.md",
-    "🤔Inference and Information/Information/Other Divergence Families.md",
-    "🤔Inference and Information/Information/KL Divergence.md",
     "🤔Inference and Information/Information/The Data Processing Inequality.md",
-    "🤔Inference and Information/Information/Information Measures.md",
+    "🤔Inference and Information/Techniques/Some Useful Inequalities.md",
     "🤔Inference and Information/Information/Generalized Bayesian Decision Theory.md",
+    "🤔Inference and Information/Techniques/Sufficient Statistics.md",
+    "🤔Inference and Information/Information/KL Divergence.md",
+    "🤔Inference and Information/Information/⛺Information Homepage.md",
+    "🤔Inference and Information/Techniques/⛺Techniques Homepage.md",
+    "🤔Inference and Information/Techniques/The EM Algorithm on Exponential Families.md",
+    "🤔Inference and Information/Techniques/The Expectation Maximization (EM) Algorithm.md",
+    "🤔Inference and Information/Techniques/Multi-Parameter Exponential Families.md",
+    "🤔Inference and Information/Techniques/Single-Parameter Exponential Families.md",
+    "🤔Inference and Information/Information/Information Measures.md",
+    "🤔Inference and Information/Information/Other Divergence Families.md",
     "🤔Inference and Information/Information/img/linear_family_simplex.png",
     "🤔Inference and Information/Information/img/exponential_family_simplex.png",
-    "🤔Inference and Information/Information/⛺Information Homepage.md",
     "🤔Inference and Information/Estimation/Estimation of Nonrandom Vectors.md",
     "🤔Inference and Information/Estimation/The Cramér–Rao Bound.md",
     "README.md",
@@ -172,15 +180,7 @@
     "🦾Sensorimotor Learning/Reward Function Design/Multimodality.md",
     "🤔Inference and Information/Decision Theory/Bayesian Hypothesis Testing.md",
     "🤔Inference and Information/Decision Theory/The Likelihood Ratio Test.md",
-    "🦾Sensorimotor Learning/Sim2Real/Simulators.md",
     "🦾Sensorimotor Learning/Sim2Real",
-    "💻Programming/CUDA/Memory Hierarchy of GPUs.md",
-    "🤔Inference and Information/Techniques/⛺Techniques Homepage.md",
-    "🤔Inference and Information/Techniques/Efficient Estimators and Exponential Families.md",
-    "🤔Inference and Information/Techniques/The EM Algorithm on Exponential Families.md",
-    "🤔Inference and Information/Techniques/The Expectation Maximization (EM) Algorithm.md",
-    "🤔Inference and Information/Techniques/Some Useful Inequalities.md",
-    "🤔Inference and Information/Techniques/Sufficient Statistics.md",
     "💻Programming/CUDA/img/gpu_mem_hierarchy.png",
     "💻Programming/CUDA/img",
     "💻Programming/CUDA",

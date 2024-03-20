@@ -21,7 +21,7 @@ We can apply this directly to $f(x)=x\log x$ to get:
 > $$
 > 
 
-This is exactly the discrete case of the following inequality. These both show up soon in information geometry, when we show that the [[KL divergence is positive]].
+This is the discrete case of the following inequality. These both show up soon in information geometry, when we show that the [[Generalized Bayesian Decision Theory#^eb0347|log-loss criterion is proper]]. This transfers directly to the fact that the [[KL Divergence#^ee603e|KL divergence]] is positive.
 
 > [!theorem] (Gibbs' inequality)
 > Let $\mathsf{v}$ be a random variable distributed according to the distribution $p(\bullet)$. Then, for any distribution $q(\bullet)$,
