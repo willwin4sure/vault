@@ -101,3 +101,18 @@ Note that this is symmetric in $\mathsf{x}$ and $\mathsf{y}$, and it is equal to
 > * Conditional entropy is optimal expected cost of $\mathsf{x}$ under observing $\mathsf{y}$.
 > * Mutual information is the expected cost reduction by observing $\mathsf{y}$.
 
+Here is a Venn diagram that suggests a set theoretic analogue for these concepts:
+
+![[entropy_venn_diagram.png|center|384]]
+
+> [!proposition] (Basic properties of mutual information)
+> 1. $I(\mathsf{x},\mathsf{y})\geq 0$.
+> 2. $I(\mathsf{x};\mathsf{y})=0$ if and only if $\mathsf{x}$ is independent of $\mathsf{y}$.
+> 3. $I(\mathsf{x};\mathsf{y})=I(\mathsf{y};\mathsf{x})$.
+> 4. $I(\mathsf{x};\mathsf{y},\mathsf{z})=I(\mathsf{x};z)+I(\mathsf{x};\mathsf{y}|\mathsf{z})$. 
+
+Note that $I(\mathsf{x};\mathsf{y}|\mathsf{z})=H(\mathsf{x}|\mathsf{z})-H(\mathsf{x}|\mathsf{y},\mathsf{z})$ is our definition of conditional mutual information.
+
+---
+
+**Next:** [[The Data Processing Inequality]]

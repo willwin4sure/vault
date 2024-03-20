@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🤔Inference and Information/Information/Information Measures.md",
+                "file": "🤔Inference and Information/Information/Linear Families.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🤔Inference and Information/Information/Information Measures.md",
+                "file": "🤔Inference and Information/Information/Linear Families.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🤔Inference and Information/Information/Information Measures.md",
+                "file": "🤔Inference and Information/Information/Linear Families.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🤔Inference and Information/Information/Information Measures.md"
+                "file": "🤔Inference and Information/Information/Linear Families.md"
               }
             }
           }
@@ -149,11 +149,23 @@
   },
   "active": "b467bbd3caf18280",
   "lastOpenFiles": [
-    "🤔Inference and Information/Information/img/entropy_bernoulli.png",
+    "🤔Inference and Information/Information/Linear Families.md",
+    "🤔Inference and Information/Information/Information Projection and Pythagoras' Theorem.md",
+    "🤔Inference and Information/Information/The Probability Simplex.md",
+    "🤔Inference and Information/Information/Other Divergence Families.md",
+    "🤔Inference and Information/Information/KL Divergence.md",
+    "🤔Inference and Information/Information/The Data Processing Inequality.md",
     "🤔Inference and Information/Information/Information Measures.md",
-    "🤔Inference and Information/Information/img",
     "🤔Inference and Information/Information/Generalized Bayesian Decision Theory.md",
+    "🤔Inference and Information/Information/img/linear_family_simplex.png",
+    "🤔Inference and Information/Information/img/exponential_family_simplex.png",
     "🤔Inference and Information/Information/⛺Information Homepage.md",
+    "🤔Inference and Information/Estimation/Estimation of Nonrandom Vectors.md",
+    "🤔Inference and Information/Estimation/The Cramér–Rao Bound.md",
+    "README.md",
+    "🤔Inference and Information/Information/img/entropy_venn_diagram.png",
+    "🤔Inference and Information/Information/img/entropy_bernoulli.png",
+    "🤔Inference and Information/Information/img",
     "🦾Sensorimotor Learning/Reward Function Design/Reward Functions.md",
     "🦾Sensorimotor Learning/Reward Function Design/Behavior Cloning.md",
     "🦾Sensorimotor Learning/Reward Function Design/Causal Confusion.md",
@@ -169,14 +181,6 @@
     "🤔Inference and Information/Techniques/The Expectation Maximization (EM) Algorithm.md",
     "🤔Inference and Information/Techniques/Some Useful Inequalities.md",
     "🤔Inference and Information/Techniques/Sufficient Statistics.md",
-    "🤔Inference and Information/Techniques/Single-Parameter Exponential Families.md",
-    "🤔Inference and Information/Techniques/Multi-Parameter Exponential Families.md",
-    "🤔Inference and Information/Techniques/Local Families of Distributions.md",
-    "🤔Inference and Information/Estimation/⛺Estimation Homepage.md",
-    "🤔Inference and Information/Estimation/The Gauss-Markov Theorem.md",
-    "🤔Inference and Information/Estimation/Estimation of Nonrandom Vectors.md",
-    "🤔Inference and Information/Estimation/Regularized and Constrained ML Estimation.md",
-    "🤔Inference and Information/Estimation/Linear Regression.md",
     "💻Programming/CUDA/img/gpu_mem_hierarchy.png",
     "💻Programming/CUDA/img",
     "💻Programming/CUDA",
@@ -189,9 +193,6 @@
     "📉Macroeconomics/img/labor_population.png",
     "📉Macroeconomics/img",
     "📉Macroeconomics/IS-LM Model",
-    "📉Macroeconomics/IS-LM Model/img/is_lm_counterbalance.png",
-    "📉Macroeconomics/IS-LM Model/img/lm_curve_down.png",
-    "📉Macroeconomics/IS-LM Model/img/is_curve_left.png",
     "🦾Sensorimotor Learning/On-Policy Learning/img",
     "🖥️Computer Systems Engineering/Operating Systems"
   ]

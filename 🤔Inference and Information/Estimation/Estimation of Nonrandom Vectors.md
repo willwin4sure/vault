@@ -19,6 +19,8 @@ This section is dedicated to extending all the recent work on non-Bayesian param
 > $$
 > is the ==score vector== (it is a row vector).
 
+^12d1e3
+
 > [!remark]
 > This is strictly stronger than the scalar version by looking at the diagonal elements.
 
@@ -52,6 +54,8 @@ The proof is essentially the same as the [[The Cramér–Rao Bound#Proof|scalar 
 > $$
 > \mathbf{J}_{\boldsymbol{\mathsf{y}}}(\mathbf{x})=-\mathbb{E}\left[ \frac{ \partial^{2} }{ \partial \mathbf{x}^{2} } \ln p_{\boldsymbol{\mathsf{y}}}(\mathbf{y};\mathbf{x}) \right] 
 > $$
+
+^0c941a
 
 We also have the vector analogue for the form of efficient estimators:
 

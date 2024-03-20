@@ -20,6 +20,8 @@
 > $$
 > is referred to as the ==score function== for $x$ based on $\mathbf{y}$.
 
+^bc7726
+
 > [!idea]
 > The Fisher information is a measure of how much the distribution of the observation changes when the parameter does. Therefore, the higher it is, the better we should be able to resolve $x$ from $\mathbf{y}$.
 
