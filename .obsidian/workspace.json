@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🤔Inference and Information/Information/Orthogonal Families.md",
+                "file": "📉Macroeconomics/The Labor Market.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🤔Inference and Information/Information/Orthogonal Families.md",
+                "file": "📉Macroeconomics/The Labor Market.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🤔Inference and Information/Information/Orthogonal Families.md",
+                "file": "📉Macroeconomics/The Labor Market.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🤔Inference and Information/Information/Orthogonal Families.md"
+                "file": "📉Macroeconomics/The Labor Market.md"
               }
             }
           }
@@ -147,10 +147,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7b8958fc77ca60a8",
+  "active": "b467bbd3caf18280",
   "lastOpenFiles": [
-    "🤔Inference and Information/Information/Linear Families.md",
+    "📉Macroeconomics/The Phillips Curve and Inflation.md",
+    "📉Macroeconomics/The Labor Market.md",
+    "📉Macroeconomics/The IS-LM-PC Model.md",
+    "📉Macroeconomics/📉Macroeconomics Portal.md",
     "🤔Inference and Information/Information/Orthogonal Families.md",
+    "🤔Inference and Information/Information/Linear Families.md",
     "🤔Inference and Information/Information/Information Projection and Pythagoras' Theorem.md",
     "🤔Inference and Information/Information/The Probability Simplex.md",
     "🤔Inference and Information/Information/The Data Processing Inequality.md",
@@ -176,10 +180,6 @@
     "🤔Inference and Information/Information/img",
     "🦾Sensorimotor Learning/Reward Function Design/Reward Functions.md",
     "🦾Sensorimotor Learning/Reward Function Design/Behavior Cloning.md",
-    "🦾Sensorimotor Learning/Reward Function Design/Causal Confusion.md",
-    "🦾Sensorimotor Learning/Reward Function Design/Multimodality.md",
-    "🤔Inference and Information/Decision Theory/Bayesian Hypothesis Testing.md",
-    "🤔Inference and Information/Decision Theory/The Likelihood Ratio Test.md",
     "🦾Sensorimotor Learning/Sim2Real",
     "💻Programming/CUDA/img/gpu_mem_hierarchy.png",
     "💻Programming/CUDA/img",

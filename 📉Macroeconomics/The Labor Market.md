@@ -35,7 +35,7 @@ Here, $\frac{ \partial F }{ \partial u }<0$ and $\frac{ \partial F }{ \partial z
 
 ## Price Determination
 
-The prices set by firms depend on their costs, which in turn depends on their ==production function==, which we will simply to 
+The prices set by firms depend on their costs, which in turn depends on their ==production function==, which we will simplify to 
 $$
 Y=AN.
 $$
