@@ -407,8 +407,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1709599309812,
-      "modifiedDate": 1709599309813,
+      "createdDate": 1709600124888,
+      "modifiedDate": 1709600124888,
       "sizeInBytes": 36675
     },
     "🦾Sensorimotor Learning/On-Policy Learning/img/trpoalg.png": {
@@ -483,7 +483,7 @@
       "modifiedDate": 1710799808309,
       "sizeInBytes": 382
     },
-    "🤔Inference and Information/Techniques/⛺Techniques Homepage.md": {
+    "🦾Sensorimotor Learning/Reward Function Design/Reward Functions.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -519,7 +519,7 @@
       "modifiedDate": 1710907257919,
       "sizeInBytes": 2042
     },
-    "🤔Inference and Information/Techniques/The EM Algorithm on Exponential Families.md": {
+    "🦾Sensorimotor Learning/Reward Function Design/Behavior Cloning.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -591,7 +591,7 @@
       "modifiedDate": 1710608677663,
       "sizeInBytes": 5627
     },
-    "🤔Inference and Information/Techniques/Multi-Parameter Exponential Families.md": {
+    "🤔Inference and Information/🤔Inference and Information Portal.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -717,7 +717,7 @@
       "modifiedDate": 1710901869253,
       "sizeInBytes": 2218
     },
-    "🤔Inference and Information/Information/The Data Processing Inequality.md": {
+    "🤔Inference and Information/Information/Other Divergence Families.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -754,6 +754,7 @@
       "sizeInBytes": 2150
     },
     "🤔Inference and Information/Information/Orthogonal Families.md": {
+    "🤔Inference and Information/Information/Orthogonal Families.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -771,7 +772,7 @@
       "modifiedDate": 1710907273180,
       "sizeInBytes": 0
     },
-    "🤔Inference and Information/Information/Linear Families.md": {
+    "🤔Inference and Information/Information/KL Divergence.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -825,7 +826,7 @@
       "modifiedDate": 1710891612528,
       "sizeInBytes": 5720
     },
-    "🤔Inference and Information/Information/img/exponential_family_simplex.png": {
+    "🤔Inference and Information/Information/img/entropy_bernoulli.png": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -839,9 +840,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1710897789362,
-      "modifiedDate": 1710897789363,
-      "sizeInBytes": 26699
+      "createdDate": 1710826982540,
+      "modifiedDate": 1710826982543,
+      "sizeInBytes": 30078
     },
     "🤔Inference and Information/Information/img/entropy_bernoulli.png": {
       "isCountable": false,
@@ -933,7 +934,7 @@
       "modifiedDate": 1710608677659,
       "sizeInBytes": 1344
     },
-    "🤔Inference and Information/Estimation/The Cramér–Rao Bound.md": {
+    "🤔Inference and Information/Techniques/The EM Algorithm on Exponential Families.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -1095,7 +1096,7 @@
       "modifiedDate": 1710799808301,
       "sizeInBytes": 2023
     },
-    "🤔Inference and Information/Estimation/Implementation of Bayesian Estimation.md": {
+    "🤔Inference and Information/Techniques/Local Families of Distributions.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -1113,7 +1114,7 @@
       "modifiedDate": 1709575773819,
       "sizeInBytes": 809
     },
-    "🤔Inference and Information/Estimation/Estimation of Nonrandom Vectors.md": {
+    "🤔Inference and Information/Techniques/Efficient Estimators and Exponential Families.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -1131,7 +1132,7 @@
       "modifiedDate": 1710896260942,
       "sizeInBytes": 5555
     },
-    "🤔Inference and Information/Estimation/Efficient Estimators.md": {
+    "🤔Inference and Information/Decision Theory/Randomized Decision Rules.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -1149,7 +1150,7 @@
       "modifiedDate": 1710799808301,
       "sizeInBytes": 2878
     },
-    "🤔Inference and Information/Estimation/BLS Covariance Inequality.md": {
+    "🤔Inference and Information/Decision Theory/The Likelihood Ratio Test.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -1293,7 +1294,7 @@
       "modifiedDate": 1710608677653,
       "sizeInBytes": 3290
     },
-    "🤔Inference and Information/Decision Theory/Minimax Hypothesis Testing.md": {
+    "🤔Inference and Information/Decision Theory/OC-LRT.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -1343,8 +1344,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1708636062772,
-      "modifiedDate": 1708636062772,
+      "createdDate": 1708581428830,
+      "modifiedDate": 1708581428831,
       "sizeInBytes": 32018
     },
     "🤔Inference and Information/Decision Theory/img/minimaxbayesrisk.png": {
@@ -1383,6 +1384,24 @@
       "modifiedDate": 1709136756574,
       "sizeInBytes": 19285
     },
+    "🤔Inference and Information/Decision Theory/img/minimaxbayesrisk.png": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1709077630653,
+      "modifiedDate": 1709077630653,
+      "sizeInBytes": 41284
+    },
     "🤔Inference and Information/Decision Theory/img/interpolatepoissonoclrt.png": {
       "isCountable": false,
       "isDirectory": false,
@@ -1397,8 +1416,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1709136756572,
-      "modifiedDate": 1709136756572,
+      "createdDate": 1709009417388,
+      "modifiedDate": 1709009417397,
       "sizeInBytes": 30433
     },
     "🤔Inference and Information/Decision Theory/img/gapoclrt.png": {
@@ -1415,27 +1434,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1709136756572,
-      "modifiedDate": 1709136756572,
+      "createdDate": 1709007556315,
+      "modifiedDate": 1709007556315,
       "sizeInBytes": 25090
-    },
-    "🤔Inference and Information/Decision Theory/img/binaryoclrt.png": {
-      "isCountable": false,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1709136756571,
-      "modifiedDate": 1709136756571,
-      "sizeInBytes": 17177
     },
     "🤔Inference and Information/Decision Theory/Bayesian Hypothesis Testing.md": {
       "isCountable": true,
@@ -1491,7 +1492,7 @@
       "modifiedDate": 1708636062770,
       "sizeInBytes": 676
     },
-    "🚶Stochastic Calculus/Informal Overview.md": {
+    "🤔Inference and Information/Estimation/Linear Regression.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -1509,7 +1510,7 @@
       "modifiedDate": 1708724138869,
       "sizeInBytes": 8250
     },
-    "🚶Stochastic Calculus/Gaussian Variables and Processes/⛺Gaussian Variables and Processes Homepage.md": {
+    "🤔Inference and Information/Estimation/Logistic Regression.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -1563,7 +1564,7 @@
       "modifiedDate": 1708724138868,
       "sizeInBytes": 3436
     },
-    "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Spaces and Processes.md": {
+    "🤔Inference and Information/Estimation/Bayesian Parameter Estimation.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -1671,7 +1672,7 @@
       "modifiedDate": 1708636062766,
       "sizeInBytes": 7734
     },
-    "🗺️Machine Learning Region.md": {
+    "🚶Stochastic Calculus/Gaussian Variables and Processes/⛺Gaussian Variables and Processes Homepage.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -1725,7 +1726,7 @@
       "modifiedDate": 1709575773816,
       "sizeInBytes": 443
     },
-    "🖥️Computer Systems Engineering/Operating Systems/⛺Operating Systems Homepage.md": {
+    "🗺️Machine Learning Region.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -1869,7 +1870,7 @@
       "modifiedDate": 1709575773814,
       "sizeInBytes": 2147
     },
-    "🖥️Computer Systems Engineering/Unix/The Unix File System.md": {
+    "🖥️Computer Systems Engineering/Unix/The Unix Shell.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -2013,7 +2014,7 @@
       "modifiedDate": 1710608677652,
       "sizeInBytes": 213
     },
-    "🖥️Computer Systems Engineering/Networking/img/countinginf2.png": {
+    "🖥️Computer Systems Engineering/Networking/img/network.png": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -2027,9 +2028,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1709599674071,
-      "modifiedDate": 1709599674071,
-      "sizeInBytes": 94822
+      "createdDate": 1709147677401,
+      "modifiedDate": 1709147677405,
+      "sizeInBytes": 31778
     },
     "🖥️Computer Systems Engineering/Networking/img/voxinternet.png": {
       "isCountable": false,
@@ -2081,9 +2082,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1709599674070,
-      "modifiedDate": 1709599674071,
-      "sizeInBytes": 156128
+      "createdDate": 1709148367553,
+      "modifiedDate": 1709148367553,
+      "sizeInBytes": 265186
     },
     "🖥️Computer Systems Engineering/Networking/img/moderninternet.png": {
       "isCountable": false,
@@ -2103,7 +2104,7 @@
       "modifiedDate": 1709575773808,
       "sizeInBytes": 534031
     },
-    "🖥️Computer Systems Engineering/Networking/img/arpanetgeo.png": {
+    "🖥️Computer Systems Engineering/Networking/img/countinginf.png": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -2117,9 +2118,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1709575773804,
-      "modifiedDate": 1709575773804,
-      "sizeInBytes": 149206
+      "createdDate": 1709581891476,
+      "modifiedDate": 1709581891478,
+      "sizeInBytes": 156128
     },
     "🖥️Computer Systems Engineering/Networking/img/arpanet8.png": {
       "isCountable": false,
@@ -2153,9 +2154,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1709575773803,
-      "modifiedDate": 1709575773803,
-      "sizeInBytes": 486854
+      "createdDate": 1709149442111,
+      "modifiedDate": 1709149442111,
+      "sizeInBytes": 149206
     },
     "🖥️Computer Systems Engineering/Networking/img/arpanetlarge.png": {
       "isCountable": false,
@@ -2175,7 +2176,7 @@
       "modifiedDate": 1709575773806,
       "sizeInBytes": 265186
     },
-    "🖥️Computer Systems Engineering/Networking/img/arpanet2.png": {
+    "🖥️Computer Systems Engineering/Networking/img/arpanetfirstmachine.png": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -2247,7 +2248,7 @@
       "modifiedDate": 1708280786442,
       "sizeInBytes": 2984
     },
-    "📏Measures and Probability/SLLN and CLT/⛺SLLN and CLT Homepage.md": {
+    "📉Macroeconomics/The Phillips Curve and Inflation.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -2751,7 +2752,7 @@
       "modifiedDate": 1707796644194,
       "sizeInBytes": 2835
     },
-    "📏Measures and Probability/Measurable Functions/⛺Measurable Functions Homepage.md": {
+    "📏Measures and Probability/Integration/u-Substitution.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -2769,7 +2770,7 @@
       "modifiedDate": 1707621050582,
       "sizeInBytes": 551
     },
-    "📏Measures and Probability/Measurable Functions/Tail Events.md": {
+    "📏Measures and Probability/Integration/Transformations of Integrals.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -2841,7 +2842,7 @@
       "modifiedDate": 1707590668516,
       "sizeInBytes": 4340
     },
-    "📏Measures and Probability/Measurable Functions/Rademacher Functions.md": {
+    "📏Measures and Probability/Integration/⛺Integration Homepage.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -2859,7 +2860,7 @@
       "modifiedDate": 1707339880240,
       "sizeInBytes": 2051
     },
-    "📏Measures and Probability/Measurable Functions/Measurable Functions.md": {
+    "📏Measures and Probability/Integration/The Fundamental Theorem of Calculus.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -2913,7 +2914,7 @@
       "modifiedDate": 1707796644192,
       "sizeInBytes": 3576
     },
-    "📏Measures and Probability/Lebesgue Spaces/Uniform Integrability.md": {
+    "📏Measures and Probability/Integration/Lebesgue Integrals Behave.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -3039,7 +3040,7 @@
       "modifiedDate": 1707592234793,
       "sizeInBytes": 1195
     },
-    "📏Measures and Probability/Integration/Transformations of Integrals.md": {
+    "📏Measures and Probability/Integration/Fubini-Tonelli Theorem.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -3057,7 +3058,7 @@
       "modifiedDate": 1707627775292,
       "sizeInBytes": 2752
     },
-    "📏Measures and Probability/Integration/The Fundamental Theorem of Calculus.md": {
+    "📏Measures and Probability/Integration/Fatou-Lebesgue Theorem.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -3093,7 +3094,7 @@
       "modifiedDate": 1707592341197,
       "sizeInBytes": 3810
     },
-    "📏Measures and Probability/Integration/Lebesgue Integration.md": {
+    "📏Measures and Probability/Measurable Functions/⛺Measurable Functions Homepage.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -3147,7 +3148,7 @@
       "modifiedDate": 1707592308519,
       "sizeInBytes": 1820
     },
-    "📏Measures and Probability/Integration/Integration Techniques.md": {
+    "📏Measures and Probability/Measurable Functions/Rademacher Functions.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -3453,7 +3454,7 @@
       "modifiedDate": 1708636062762,
       "sizeInBytes": 2270
     },
-    "📏Measures and Probability/Ergodic Theory/Bernoulli Shifts.md": {
+    "📏Measures and Probability/Ergodic Theory/Von Neumann's Lp Ergodic Theorem.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -4029,7 +4030,7 @@
       "modifiedDate": 1706940710285,
       "sizeInBytes": 4997
     },
-    "📈Microeconomics/Uncertainty and Insurance/⛺Uncertainty and Insurance Homepage.md": {
+    "📈Microeconomics/Uncertainty and Insurance/Asymmetric Information and Social Insurance.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -4192,6 +4193,7 @@
       "sizeInBytes": 82252
     },
     "📈Microeconomics/Supply and Demand/img/substitution_income_effects.png": {
+    "📈Microeconomics/Supply and Demand/img/substitution_income_effects.png": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -4209,7 +4211,7 @@
       "modifiedDate": 1703300021879,
       "sizeInBytes": 131722
     },
-    "📈Microeconomics/Supply and Demand/img/price_ceiling_dwl.png": {
+    "📈Microeconomics/Supply and Demand/img/SNAP.jpg": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -4223,9 +4225,27 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1703457095200,
-      "modifiedDate": 1703457095200,
-      "sizeInBytes": 135520
+      "createdDate": 1707686094677,
+      "modifiedDate": 1707686094677,
+      "sizeInBytes": 209633
+    },
+    "📈Microeconomics/Supply and Demand/img/flattening_supply_curve.jpg": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1707686094677,
+      "modifiedDate": 1707686094677,
+      "sizeInBytes": 216459
     },
     "📈Microeconomics/Supply and Demand/img/optimal_inputs.png": {
       "isCountable": false,
@@ -4241,27 +4261,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1703442365573,
-      "modifiedDate": 1703442365573,
+      "createdDate": 1707686094677,
+      "modifiedDate": 1707686094677,
       "sizeInBytes": 88437
-    },
-    "📈Microeconomics/Supply and Demand/img/optimal_bundle.png": {
-      "isCountable": false,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1703442305649,
-      "modifiedDate": 1703442305649,
-      "sizeInBytes": 119646
     },
     "📈Microeconomics/Supply and Demand/img/short_run_cost_curves.jpg": {
       "isCountable": false,
@@ -4295,11 +4297,11 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1703454241022,
-      "modifiedDate": 1703454241023,
-      "sizeInBytes": 216459
+      "createdDate": 1707686094677,
+      "modifiedDate": 1707686094677,
+      "sizeInBytes": 134019
     },
-    "📈Microeconomics/Supply and Demand/img/engel_curves.png": {
+    "📈Microeconomics/Supply and Demand/img/optimal_bundle.png": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -4313,9 +4315,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1703300021877,
-      "modifiedDate": 1703300021878,
-      "sizeInBytes": 134019
+      "createdDate": 1707686094677,
+      "modifiedDate": 1707686094677,
+      "sizeInBytes": 119646
     },
     "📈Microeconomics/Supply and Demand/img/deriving_demand_curves.png": {
       "isCountable": false,
@@ -4331,8 +4333,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1703300021876,
-      "modifiedDate": 1703300021877,
+      "createdDate": 1707686094677,
+      "modifiedDate": 1707686094677,
       "sizeInBytes": 140267
     },
     "📈Microeconomics/Supply and Demand/Surpluses and Welfare Economics.md": {
@@ -4425,7 +4427,7 @@
       "modifiedDate": 1704668278011,
       "sizeInBytes": 5122
     },
-    "📈Microeconomics/Monopoly and Oligopoly/⛺Monopoly and Oligopoly Homepage.md": {
+    "📈Microeconomics/Supply and Demand/Production and Costs.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -4493,11 +4495,11 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1703474297025,
-      "modifiedDate": 1703474297026,
-      "sizeInBytes": 244004
+      "createdDate": 1707686094662,
+      "modifiedDate": 1707686094662,
+      "sizeInBytes": 45662
     },
-    "📈Microeconomics/Monopoly and Oligopoly/img/airline_monopoly.png": {
+    "📈Microeconomics/International Trade/img/economies_of_scope.png": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -4511,11 +4513,11 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1703300021872,
-      "modifiedDate": 1703300021872,
-      "sizeInBytes": 64807
+      "createdDate": 1707686094662,
+      "modifiedDate": 1707686094662,
+      "sizeInBytes": 30807
     },
-    "📈Microeconomics/Monopoly and Oligopoly/img/airline_duopoly.png": {
+    "📈Microeconomics/International Trade/img/exports.png": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -4529,11 +4531,11 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1703300021872,
-      "modifiedDate": 1703300021872,
-      "sizeInBytes": 77797
+      "createdDate": 1707686094662,
+      "modifiedDate": 1707686094662,
+      "sizeInBytes": 151147
     },
-    "📈Microeconomics/Monopoly and Oligopoly/img/airline_cournot.png": {
+    "📈Microeconomics/International Trade/img/imports.png": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -4547,16 +4549,24 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1703300021871,
-      "modifiedDate": 1703300021871,
-      "sizeInBytes": 112732
+      "createdDate": 1707686094662,
+      "modifiedDate": 1707686094662,
+      "sizeInBytes": 171684
     },
-    "📈Microeconomics/Monopoly and Oligopoly/Cartels.md": {
-      "isCountable": true,
+    "📈Microeconomics/International Trade/img/consumption_sets_under_trade.png": {
+      "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
       "wordCount": 0,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
       "wordGoal": 0,
       "pageCount": 0,
       "characterCount": 0,
@@ -4641,7 +4651,7 @@
       "modifiedDate": 1704581381745,
       "sizeInBytes": 1898
     },
-    "📈Microeconomics/International Trade/⛺International Trade Homepage.md": {
+    "📈Microeconomics/Monopoly and Oligopoly/Oligopoly and Cournot Equilibrium.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -4659,7 +4669,7 @@
       "modifiedDate": 1706938477398,
       "sizeInBytes": 470
     },
-    "📈Microeconomics/International Trade/When and Why to Trade.md": {
+    "📈Microeconomics/Monopoly and Oligopoly/Monopoly.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -4677,7 +4687,7 @@
       "modifiedDate": 1706938555116,
       "sizeInBytes": 4198
     },
-    "📈Microeconomics/International Trade/img/imports.png": {
+    "📈Microeconomics/Monopoly and Oligopoly/img/airline_monopoly.png": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -4691,11 +4701,11 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1704583219830,
-      "modifiedDate": 1704583220453,
-      "sizeInBytes": 171684
+      "createdDate": 1707686094662,
+      "modifiedDate": 1707686094662,
+      "sizeInBytes": 64807
     },
-    "📈Microeconomics/International Trade/img/exports.png": {
+    "📈Microeconomics/Monopoly and Oligopoly/img/airline_cournot.png": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -4709,9 +4719,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1704583438414,
-      "modifiedDate": 1704583439044,
-      "sizeInBytes": 151147
+      "createdDate": 1707686094662,
+      "modifiedDate": 1707686094662,
+      "sizeInBytes": 112732
     },
     "📈Microeconomics/International Trade/img/joint_ppf.png": {
       "isCountable": false,
