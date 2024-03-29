@@ -39,5 +39,18 @@ The central bank is powerful over the short run.
 
 ## Deflationary Spiral
 
+Suppose the IS curve shift inward to the point where you cannot achieve the necessary real interest rate $r_{n}$ in order to hit the natural output $Y^{n}$.
 
+Then, your output is too low, and the inflation rate will begin to decrease. Eventually, this will begin to affect expected inflation rate $\pi^{e}$, which means that the real inflation rate you can achieve will start to *increase*, spiraling the problem out of control.
 
+## Stagflation
+
+TODO
+
+## Persistent Financial Panic
+
+TODO
+
+---
+
+**Next:** [[Financial Markets and Expectations]]
