@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "ca83c3a3c146291f",
+        "id": "f0ed172c337c31c1",
         "type": "tabs",
         "children": [
           {
-            "id": "b467bbd3caf18280",
+            "id": "5b2ce86688bb0176",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📉Macroeconomics/The Labor Market.md",
+                "file": "🤔Inference and Information/🤔Inference and Information Portal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd3e201d59d11bce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8823ed3a946ac15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🦾Sensorimotor Learning/SPRL/References for SPRL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📉Macroeconomics/The Labor Market.md",
+                "file": "🦾Sensorimotor Learning/SPRL/References for SPRL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📉Macroeconomics/The Labor Market.md",
+                "file": "🦾Sensorimotor Learning/SPRL/References for SPRL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📉Macroeconomics/The Labor Market.md"
+                "file": "🦾Sensorimotor Learning/SPRL/References for SPRL.md"
               }
             }
           }
@@ -147,10 +172,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b467bbd3caf18280",
+  "active": "d8823ed3a946ac15",
   "lastOpenFiles": [
-    "📉Macroeconomics/The Phillips Curve and Inflation.md",
+    "🦾Sensorimotor Learning/SPRL/The UCT Algorithm.md",
+    "🦾Sensorimotor Learning/SPRL/⛺SPRL Homepage.md",
+    "🦾Sensorimotor Learning/SPRL/References for SPRL.md",
+    "🤔Inference and Information/Decision Theory/⛺Decision Theory Homepage.md",
+    "🤔Inference and Information/🤔Inference and Information Portal.md",
+    "README.md",
+    "🦾Sensorimotor Learning/SPRL",
+    "🎲Advanced Probability/🎲Advanced Probability Portal.md",
+    "📏Measures and Probability/📏Measures and Probability Portal.md",
+    "🏠Home.md",
+    "🦾Sensorimotor Learning/Model-Based Learning/Models.md",
+    "🦾Sensorimotor Learning/Sim2Real/Simulators.md",
+    "🦾Sensorimotor Learning/Model-Based Learning",
+    "🦾Sensorimotor Learning/On-Policy Learning/Trust Region Policy Optimization.md",
+    "🦾Sensorimotor Learning/On-Policy Learning/Actor-Critic Step Size.md",
     "📉Macroeconomics/The Labor Market.md",
+    "📉Macroeconomics/The Phillips Curve and Inflation.md",
     "📉Macroeconomics/The IS-LM-PC Model.md",
     "📉Macroeconomics/📉Macroeconomics Portal.md",
     "🤔Inference and Information/Information/Orthogonal Families.md",
@@ -162,29 +202,11 @@
     "🤔Inference and Information/Information/Generalized Bayesian Decision Theory.md",
     "🤔Inference and Information/Information/⛺Information Homepage.md",
     "🤔Inference and Information/Information/Information Measures.md",
-    "🤔Inference and Information/Information/KL Divergence.md",
-    "🤔Inference and Information/Information/Other Divergence Families.md",
-    "📏Measures and Probability/Lebesgue Spaces/Uniform Integrability.md",
-    "📏Measures and Probability/Integration/Fubini-Tonelli Theorem.md",
-    "📏Measures and Probability/Integration/⛺Integration Homepage.md",
-    "📏Measures and Probability/Norms and Inequalities/⛺Norms and Inequalities Homepage.md",
-    "📏Measures and Probability/📏Measures and Probability Portal.md",
-    "📈Microeconomics/Factor Markets/Capital Markets.md",
-    "📈Microeconomics/Uncertainty and Insurance/Asymmetric Information and Social Insurance.md",
-    "📈Microeconomics/Uncertainty and Insurance/Decision Making Under Uncertainty.md",
-    "📉Macroeconomics/The IS-LM-PC Model.md",
-    "📉Macroeconomics/Financial Markets and Expectations.md",
-    "📉Macroeconomics/The Phillips Curve and Inflation.md",
-    "📉Macroeconomics/The Labor Market.md",
-    "📉Macroeconomics/IS-LM Model/The IS-LM Model.md",
-    "📉Macroeconomics/IS-LM Model/An Extended IS-LM Model.md",
     "🤔Inference and Information/Information/img/linear_family_simplex.png",
     "🤔Inference and Information/Information/img/exponential_family_simplex.png",
     "🤔Inference and Information/Information/img/entropy_venn_diagram.png",
     "🤔Inference and Information/Information/img/entropy_bernoulli.png",
     "🤔Inference and Information/Information/img",
-    "🦾Sensorimotor Learning/Reward Function Design/Reward Functions.md",
-    "🦾Sensorimotor Learning/Reward Function Design/Behavior Cloning.md",
     "🦾Sensorimotor Learning/Sim2Real",
     "💻Programming/CUDA/img/gpu_mem_hierarchy.png",
     "💻Programming/CUDA/img",
@@ -197,8 +219,6 @@
     "📉Macroeconomics/img/natural_unemployment.png",
     "📉Macroeconomics/img/labor_population.png",
     "📉Macroeconomics/img",
-    "📉Macroeconomics/IS-LM Model",
-    "🦾Sensorimotor Learning/On-Policy Learning/img",
-    "🖥️Computer Systems Engineering/Operating Systems"
+    "📉Macroeconomics/IS-LM Model"
   ]
 }

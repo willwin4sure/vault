@@ -1,0 +1,8 @@
+1. The [original AlphaGo paper](https://www.nature.com/articles/nature16961) for curiosity's sake. Many changes have been made since, so we do not actually use the techniques found there.
+	* We do not have two separate policy and value networks. Instead, we simply attach two heads to the same main body (consisting of residual blocks of convolutional layers).
+	* We do not perform Monte-Carlo rollouts with a fast and lightweight neural network. Instead, we use the UCT algorithm.
+	* We do not use any supervised learning from expert human data. 
+2. The [AlphaGo Zero paper](https://www.nature.com/articles/nature24270), our main reference for the project. We use their described UCT algorithm as well as various details about the implementation.
+3. The [AlphaZero paper](https://arxiv.org/abs/1712.01815). We use the idea of immediately taking the most recently trained neural network, and not waiting for an evaluator to deem the newest model 55% better than the last. We do not adopt all the techniques, however. For example, symmetry can still be used for all the games that we study.
+4. A [deep dive into the UCT algorithm](https://www.moderndescartes.com/essays/deep_dive_mcts/) from a talk by Brian Lee at PyCon 2018, which discusses the UCT algorithm in more detail (seeing actual code helps with understanding!) and how to speed up a basic Python implementation using `numpy`.
+5. A [replication of AlphaZero](https://openreview.net/pdf?id=H1eerhIpLV) by a team of Google researcher's, including the author of the previously mentioned article. Their [open source implementation](https://github.com/tensorflow/minigo) is also available publicly on GitHub.
