@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f0ed172c337c31c1",
+        "id": "88213722a726d256",
         "type": "tabs",
         "children": [
           {
-            "id": "5b2ce86688bb0176",
+            "id": "f8ab7fdbfee6e59e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🤔Inference and Information/🤔Inference and Information Portal.md",
+                "file": "🖥️Computer Systems Engineering/🖥️Computer Systems Engineering Portal.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bd3e201d59d11bce",
+            "id": "9865e2a3610ae92c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8823ed3a946ac15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🦾Sensorimotor Learning/SPRL/References for SPRL.md",
+                "file": "🖥️Computer Systems Engineering/Distributed Systems/Reliability.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🦾Sensorimotor Learning/SPRL/References for SPRL.md",
+                "file": "🖥️Computer Systems Engineering/Distributed Systems/Reliability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🦾Sensorimotor Learning/SPRL/References for SPRL.md",
+                "file": "🖥️Computer Systems Engineering/Distributed Systems/Reliability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🦾Sensorimotor Learning/SPRL/References for SPRL.md"
+                "file": "🖥️Computer Systems Engineering/Distributed Systems/Reliability.md"
               }
             }
           }
@@ -172,36 +160,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d8823ed3a946ac15",
+  "active": "9865e2a3610ae92c",
   "lastOpenFiles": [
-    "🦾Sensorimotor Learning/SPRL/The UCT Algorithm.md",
-    "🦾Sensorimotor Learning/SPRL/⛺SPRL Homepage.md",
+    "🖥️Computer Systems Engineering/🖥️Computer Systems Engineering Portal.md",
+    "🖥️Computer Systems Engineering/Distributed Systems/Reliability.md",
+    "🖥️Computer Systems Engineering/Distributed Systems",
+    "📏Measures and Probability/📏Measures and Probability Portal.md",
+    "🚶Stochastic Calculus/Informal Overview.md",
+    "🎲Advanced Probability/Conditional Expectation/Conditional Expectation Homepage.md",
+    "🎲Advanced Probability/Conditional Expectation",
+    "🎲Advanced Probability/🎲Advanced Probability Portal.md",
+    "📏Measures and Probability/SLLN and CLT/⛺SLLN and CLT Homepage.md",
+    "📏Measures and Probability/SLLN and CLT/Central Limit Theorem.md",
+    "📏Measures and Probability/SLLN and CLT/Strong Law of Large Numbers.md",
+    "📏Measures and Probability/SLLN and CLT/SLLN with Finite Fourth Moments.md",
+    "📏Measures and Probability/Ergodic Theory/⛺Ergodic Theory Homepage.md",
+    "📏Measures and Probability/Ergodic Theory/Von Neumann's Lp Ergodic Theorem.md",
+    "📏Measures and Probability/Ergodic Theory/Birkhoff's a.e. Ergodic Theorem.md",
+    "📏Measures and Probability/Ergodic Theory/Bernoulli Shifts.md",
+    "📏Measures and Probability/Ergodic Theory/Measure-Preserving Transformations.md",
+    "📏Measures and Probability/Fourier Transforms/⛺Fourier Transforms Homepage.md",
     "🦾Sensorimotor Learning/SPRL/References for SPRL.md",
-    "🤔Inference and Information/Decision Theory/⛺Decision Theory Homepage.md",
     "🤔Inference and Information/🤔Inference and Information Portal.md",
     "README.md",
+    "🦾Sensorimotor Learning/SPRL/The UCT Algorithm.md",
+    "🦾Sensorimotor Learning/SPRL/⛺SPRL Homepage.md",
+    "🤔Inference and Information/Decision Theory/⛺Decision Theory Homepage.md",
     "🦾Sensorimotor Learning/SPRL",
-    "🎲Advanced Probability/🎲Advanced Probability Portal.md",
-    "📏Measures and Probability/📏Measures and Probability Portal.md",
     "🏠Home.md",
     "🦾Sensorimotor Learning/Model-Based Learning/Models.md",
     "🦾Sensorimotor Learning/Sim2Real/Simulators.md",
     "🦾Sensorimotor Learning/Model-Based Learning",
     "🦾Sensorimotor Learning/On-Policy Learning/Trust Region Policy Optimization.md",
-    "🦾Sensorimotor Learning/On-Policy Learning/Actor-Critic Step Size.md",
-    "📉Macroeconomics/The Labor Market.md",
-    "📉Macroeconomics/The Phillips Curve and Inflation.md",
-    "📉Macroeconomics/The IS-LM-PC Model.md",
-    "📉Macroeconomics/📉Macroeconomics Portal.md",
-    "🤔Inference and Information/Information/Orthogonal Families.md",
-    "🤔Inference and Information/Information/Linear Families.md",
-    "🤔Inference and Information/Information/Information Projection and Pythagoras' Theorem.md",
-    "🤔Inference and Information/Information/The Probability Simplex.md",
-    "🤔Inference and Information/Information/The Data Processing Inequality.md",
-    "🤔Inference and Information/Techniques/Some Useful Inequalities.md",
-    "🤔Inference and Information/Information/Generalized Bayesian Decision Theory.md",
-    "🤔Inference and Information/Information/⛺Information Homepage.md",
-    "🤔Inference and Information/Information/Information Measures.md",
     "🤔Inference and Information/Information/img/linear_family_simplex.png",
     "🤔Inference and Information/Information/img/exponential_family_simplex.png",
     "🤔Inference and Information/Information/img/entropy_venn_diagram.png",
@@ -217,8 +207,6 @@
     "🦾Sensorimotor Learning/Reward Function Design",
     "📉Macroeconomics/img/labor_flow.png",
     "📉Macroeconomics/img/natural_unemployment.png",
-    "📉Macroeconomics/img/labor_population.png",
-    "📉Macroeconomics/img",
-    "📉Macroeconomics/IS-LM Model"
+    "📉Macroeconomics/img/labor_population.png"
   ]
 }
