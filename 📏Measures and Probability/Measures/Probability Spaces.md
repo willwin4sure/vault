@@ -8,7 +8,7 @@ It's about time to formalize the connection to probability.
 You can interpret $(\Omega,\mathcal{F},\mathbb{P})$ as a model for *experiment involving chance*:
 
 * $\Omega$ is the set of all possible outcomes, or worlds.
-* $\mathcal{F}$ is the set of observable subsets of outcomes, or <span style="color:#0088ff">events</span>.
+* $\mathcal{F}$ is the set of observable subsets of outcomes, or <span style="color:#0088ff">events</span>. ^8c79d4
 * $\mathbb{P}(A)$ is the probability of the event $A$ occurring.
 
 ---

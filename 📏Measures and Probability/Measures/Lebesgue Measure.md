@@ -1,6 +1,7 @@
 The goal of this section is to define a reasonable measure on $\mathbb{R}$. This is the culmination of our preparation in [[Carathéodory's Extension Theorem]] and [[Uniqueness of Extensions]].
 
 First, go learn why this is a nontrivial problem.
+
 1. [[Vitali Construction]]
 
 To define a measure, we first need to determine which subsets of $\mathbb{R}$ to include in our $\sigma$-algebra. The most basic and important thing we need to measure are intervals, and we can also handle them well. We will generate the $\sigma$-algebra from open sets.
@@ -19,6 +20,8 @@ To define a measure, we first need to determine which subsets of $\mathbb{R}$ to
 > \mu((a,b])=b-a
 > $$
 > for all $a<b$. This measure $\mu$ is called the <span style="color:#0088ff">Lebesgue measure</span> on $\mathbb{R}$.
+
+^e05763
 
 > [!remark]
 > Uniqueness is not obvious by [[Uniqueness of Extensions#^440ee1|uniqueness of extensions]], since the measure of the entire space $\mathbb{R}$ is not finite. There is a way to patch this, however.

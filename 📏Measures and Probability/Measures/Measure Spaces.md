@@ -60,6 +60,8 @@ Finally, an important fact about how we describe $\sigma$-algebras. This is anal
 >
 >In other words, this is the smallest $\sigma$-algebra containing $\mathcal{A}$, created by intersecting all such $\sigma$-algebras.
 
+^0025c3
+
 >[!question]
 >Show that the intersection of a set of $\sigma$-algebras on the same set $E$ is also a $\sigma$-algebra. On the other hand, show by example that the union of two $\sigma$-algebras on the same set need not be a $\sigma$-algebra.
 

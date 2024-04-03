@@ -88,7 +88,7 @@ The decision rule is remarkably structured. The left hand side $L(\mathbf{y})$ i
 
 ^8317c7
 
-Other names are ==features== or ==embeddings==. More remarkably, $L(\mathbf{y})$ contains *all the information we need* from the models and data in order to make the optimal decision. This is what we refer to as a ==sufficient statistic==. We could forget everything else!
+Other names are ==features== or ==embeddings==. More remarkably, $L(\mathbf{y})$ contains *all the information we need* from the models and data in order to make the optimal decision. This is what we refer to as a [[Sufficient Statistics|sufficient statistic]]. We could forget everything else!
 
 > [!remark]
 > Any invertible function of $L(\mathbf{y})$ would also be a sufficient statistic.

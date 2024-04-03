@@ -1,6 +1,6 @@
 In our initial formulation of [[Bayesian Hypothesis Testing|Bayesian hypothesis testing]], we took an observation model $p_{\mathsf{y}|\mathsf{x}}(\bullet|\bullet)$, some data $\mathsf{y}$, as well as a prior $p_{\mathsf{x}}(\bullet)$ and cost criterion $C(\bullet,\bullet)$ in order to produce a "hard" decision $\hat{x}(y)$.
 
-Now, we will consider the more general case where you are allowed to output a "soft" decision in the form of a probability distribution $q(\bullet)$ over $\mathcal{X}$. The "hard" decision case would correspond to $q(a)=\mathbf{1}_{x=a}$. This is analogous to your classification neural network outputting some softmax-ed value.
+Now, we will consider the more general case where you are allowed to output a "soft" decision in the form of a probability distribution $q(\bullet)$ over $\mathcal{X}$. This is analogous to your classification neural network outputting some softmax-ed value.
 
 Note that in this section, we restrict to cases where $\mathcal{X}$ and $\mathcal{Y}$ are both discrete alphabets.
 

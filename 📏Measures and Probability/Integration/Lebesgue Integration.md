@@ -41,6 +41,8 @@ Now, we will extend integrals to arbitrary measurable functions $f$. First, the 
 > \mu(f)=\sup \{ \mu(g) : g\text{ simple},\ g\leq f \}.
 > $$
 
+^6f8116
+
 How do we extend this to arbitrary $\mathbb{R}$-valued measurable functions? Well, decompose the function into its positive and negative components.
 
 > [!definition] Definition (Integrals of measurable functions)

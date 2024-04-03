@@ -6,8 +6,12 @@ Probability theory is enriched by the significance attached to the notion of ind
 > \mathbb{P}\left( \bigcap_{i\in J}^{}A_{i} \right) =\prod_{i\in J}^{}\mathbb{P}(A_{i}).
 > $$
 
+^634d97
+
 > [!definition] Definition (Independence of $\sigma$-algebras)
 > We say that a family $(\mathcal{A}_{i}:i\in I)$ of sub-$\sigma$-algebras of $\mathcal{F}$ indexed by a countable set $I$ is <span style="color:#0088ff">independent</span> if the family $(A_{i}:i\in I)$ of events is independent for all $A_{i}\in \mathcal{A}_{i}$ for all $i$.
+
+^fa0801
 
 > [!example] Example (Independent coin flips)
 > Consider the result of two independent fair coin flips: $\Omega=\{HH,HT,TH,TT\}$, all with equal probability. Then, $\mathcal{F}=\mathcal{P}(\Omega)$ with the obvious measure $\mathbb{P}$. Then, the events "the first coin lands heads" and "the second coin lands tails" are independent: $\mathbb{P}(\{HH, HT\})\cdot\mathbb{P}(\{HT,TT\})=\mathbb{P}(\{HT\})$. Further, the sub $\sigma$-algebras 

@@ -24,6 +24,8 @@ Here is another notion of [[Convergence of Measurable Functions|convergence of m
 > [!definition] Definition (Convergence in $L^{p}$)
 > For any $1\leq p\leq \infty$ and $f_{n},f\in L^{p}$, we say that $f_{n}$ ==converges in $L^p$== to $f$ if $\| f_{n}-f \|_{p}\to 0$.
 
+^86e9f4
+
 ---
 
 **Next:** [[Various Inequalities]]
