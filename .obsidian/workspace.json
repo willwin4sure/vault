@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "88213722a726d256",
+        "id": "a3d4ac532a232867",
         "type": "tabs",
         "children": [
           {
-            "id": "f8ab7fdbfee6e59e",
+            "id": "c10d8ad9eb8b668e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖥️Computer Systems Engineering/🖥️Computer Systems Engineering Portal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9865e2a3610ae92c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🖥️Computer Systems Engineering/Distributed Systems/Reliability.md",
+                "file": "🤔Inference and Information/Information/Information Measures for Gaussians.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "simple functions",
+                "query": "blumenthal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 412.5
   },
   "right": {
     "id": "b46068cbe9ea4341",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖥️Computer Systems Engineering/Distributed Systems/Reliability.md",
+                "file": "🤔Inference and Information/Information/Information Measures for Gaussians.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖥️Computer Systems Engineering/Distributed Systems/Reliability.md",
+                "file": "🤔Inference and Information/Information/Information Measures for Gaussians.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖥️Computer Systems Engineering/Distributed Systems/Reliability.md"
+                "file": "🤔Inference and Information/Information/Information Measures for Gaussians.md"
               }
             }
           }
@@ -160,38 +147,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9865e2a3610ae92c",
+  "active": "c10d8ad9eb8b668e",
   "lastOpenFiles": [
-    "🖥️Computer Systems Engineering/🖥️Computer Systems Engineering Portal.md",
-    "🖥️Computer Systems Engineering/Distributed Systems/Reliability.md",
-    "🖥️Computer Systems Engineering/Distributed Systems",
-    "📏Measures and Probability/📏Measures and Probability Portal.md",
-    "🚶Stochastic Calculus/Informal Overview.md",
-    "🎲Advanced Probability/Conditional Expectation/Conditional Expectation Homepage.md",
-    "🎲Advanced Probability/Conditional Expectation",
-    "🎲Advanced Probability/🎲Advanced Probability Portal.md",
-    "📏Measures and Probability/SLLN and CLT/⛺SLLN and CLT Homepage.md",
-    "📏Measures and Probability/SLLN and CLT/Central Limit Theorem.md",
-    "📏Measures and Probability/SLLN and CLT/Strong Law of Large Numbers.md",
-    "📏Measures and Probability/SLLN and CLT/SLLN with Finite Fourth Moments.md",
-    "📏Measures and Probability/Ergodic Theory/⛺Ergodic Theory Homepage.md",
-    "📏Measures and Probability/Ergodic Theory/Von Neumann's Lp Ergodic Theorem.md",
-    "📏Measures and Probability/Ergodic Theory/Birkhoff's a.e. Ergodic Theorem.md",
-    "📏Measures and Probability/Ergodic Theory/Bernoulli Shifts.md",
-    "📏Measures and Probability/Ergodic Theory/Measure-Preserving Transformations.md",
-    "📏Measures and Probability/Fourier Transforms/⛺Fourier Transforms Homepage.md",
-    "🦾Sensorimotor Learning/SPRL/References for SPRL.md",
+    "🤔Inference and Information/Information/Continuous Information Theory.md",
+    "🤔Inference and Information/Information/Information Measures for Gaussians.md",
+    "🤔Inference and Information/Information/Mixture Models.md",
+    "🤔Inference and Information/Techniques/Local Families of Distributions.md",
+    "🤔Inference and Information/Techniques/Some Useful Inequalities.md",
+    "🤔Inference and Information/Information/Information Projection and Pythagoras' Theorem.md",
+    "🤔Inference and Information/Information/Modeling as Inference.md",
+    "🤔Inference and Information/Information/⛺Information Homepage.md",
     "🤔Inference and Information/🤔Inference and Information Portal.md",
-    "README.md",
-    "🦾Sensorimotor Learning/SPRL/The UCT Algorithm.md",
-    "🦾Sensorimotor Learning/SPRL/⛺SPRL Homepage.md",
-    "🤔Inference and Information/Decision Theory/⛺Decision Theory Homepage.md",
-    "🦾Sensorimotor Learning/SPRL",
-    "🏠Home.md",
+    "🤔Inference and Information/Introductory Remarks.md",
+    "📏Measures and Probability/Lebesgue Spaces/L2 as a Hilbert Space.md",
+    "🚶Stochastic Calculus/Brownian Motion/Kolmogorov Continuity Lemma.md",
+    "📏Measures and Probability/Integration/Fatou-Lebesgue Theorem.md",
+    "🚶Stochastic Calculus/Brownian Motion/Continuous-time Martingales.md",
+    "🚶Stochastic Calculus/Brownian Motion/Constructing Brownian Motion.md",
+    "🚶Stochastic Calculus/Brownian Motion/Brownian Motion.md",
+    "📏Measures and Probability/Measurable Functions/Random Variables.md",
+    "📏Measures and Probability/Measurable Functions/Convergence of Measurable Functions.md",
     "🦾Sensorimotor Learning/Model-Based Learning/Models.md",
-    "🦾Sensorimotor Learning/Sim2Real/Simulators.md",
+    "🖥️Computer Systems Engineering/Networking/The Network Layer.md",
+    "🖥️Computer Systems Engineering/Networking/Ethernet.md",
+    "🖥️Computer Systems Engineering/Networking/⛺Networking Homepage.md",
+    "🖥️Computer Systems Engineering/Networking/History of the Internet.md",
+    "🖥️Computer Systems Engineering/Unix/Implementation of the Unix Shell.md",
+    "🖥️Computer Systems Engineering/Unix/Implementation of the Unix File System.md",
+    "🖥️Computer Systems Engineering/Unix/The Unix Shell.md",
+    "🖥️Computer Systems Engineering/Distributed Systems",
+    "🎲Advanced Probability/Conditional Expectation",
+    "🦾Sensorimotor Learning/SPRL",
     "🦾Sensorimotor Learning/Model-Based Learning",
-    "🦾Sensorimotor Learning/On-Policy Learning/Trust Region Policy Optimization.md",
     "🤔Inference and Information/Information/img/linear_family_simplex.png",
     "🤔Inference and Information/Information/img/exponential_family_simplex.png",
     "🤔Inference and Information/Information/img/entropy_venn_diagram.png",

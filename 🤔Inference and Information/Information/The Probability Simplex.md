@@ -19,7 +19,7 @@ The KL divergence is a warped measure of distance on this simplex (also, don't f
 > [!idea]
 > It turns out that KL divergence is analogous to the *square* of Euclidean distance. For example, recall that only the second order term in $\delta$ exists in its [[KL Divergence#Relationship to Fisher Information|Taylor expansion]].
 
-Near the boundary of the simplex, movements parallel to the boundary correspond to much smaller distances than movements towards/away from the boundary. Therefore, "circles" under KL divergence get squashed into ellipses near boundaries.
+Near the boundary of the simplex, movements parallel to the boundary correspond to much smaller "distances" than movements towards/away from the boundary. Therefore, "circles" under KL divergence get squashed into ellipses near boundaries.
 
 Also, don't forget that if you actually are on the boundary, your support changes. If $p$ is a distribution on the boundary and $q$ is a distribution in the interior, then $D(p\parallel q)$ is finite, but $D(q\parallel p)$ is infinite!
 

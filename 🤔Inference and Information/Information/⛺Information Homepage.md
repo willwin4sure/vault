@@ -11,3 +11,11 @@ Now, we turn to the study of information theory.
 5. [[Other Divergence Families]]
 
 6. [[The Probability Simplex]]
+7. [[Information Projection and Pythagoras' Theorem]]
+8. [[Linear Families]]
+9. [[Orthogonal Families]]
+
+10. [[Modeling as Inference]]
+11. 
+
+---
