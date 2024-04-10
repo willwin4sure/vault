@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f6492a6628995f28",
+        "id": "56763206f2b322ec",
         "type": "tabs",
         "children": [
           {
-            "id": "24e9e74c8f659a0c",
+            "id": "e8306136c76ba2d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🤔Inference and Information/Information/⛺Information Homepage.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🤔Inference and Information/Information/⛺Information Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🤔Inference and Information/Information/⛺Information Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🤔Inference and Information/Information/⛺Information Homepage.md"
+              }
             }
           }
         ]
@@ -139,6 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24e9e74c8f659a0c",
-  "lastOpenFiles": []
+  "active": "e8306136c76ba2d1",
+  "lastOpenFiles": [
+    "🤔Inference and Information/Techniques/⛺Techniques Homepage.md",
+    "🤔Inference and Information/Estimation/⛺Estimation Homepage.md",
+    "🤔Inference and Information/Decision Theory/⛺Decision Theory Homepage.md",
+    "🤔Inference and Information/Decision Theory/Minimax Hypothesis Testing.md",
+    "🤔Inference and Information/Decision Theory/Randomized Decision Rules.md",
+    "🤔Inference and Information/Decision Theory/Discontinuous OC-LRTs.md",
+    "🤔Inference and Information/Decision Theory/Neyman-Pearson Hypothesis Testing.md",
+    "🤔Inference and Information/Decision Theory/OC-LRT.md",
+    "🤔Inference and Information/Decision Theory/Bayesian Hypothesis Testing.md",
+    "🤔Inference and Information/Decision Theory/The Likelihood Ratio Test.md",
+    "🤔Inference and Information/Decision Theory/p-values.md"
+  ]
 }
