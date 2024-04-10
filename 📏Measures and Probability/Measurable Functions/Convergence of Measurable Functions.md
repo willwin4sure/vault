@@ -9,6 +9,8 @@ For the following definitions, consider a sequence of measurable functions $(f_{
 > $$
 > In the context of probability spaces, we write ==converges almost surely==. This means that in almost all worlds $\omega \in\Omega$, $f_{n}(\omega)$ converges to $f(\omega)$.
 
+^061df9
+
 > [!definition] Definition (Convergence in measure)
 > We say that $f_{n}$ ==converges in measure== to $f$ if
 > $$
@@ -16,10 +18,14 @@ For the following definitions, consider a sequence of measurable functions $(f_{
 > $$
 > for all $\varepsilon>0$. In the context of probability spaces, we write ==converges in probability==. This means that the probability that $f_{n}$ is $\varepsilon$-far from $f$ goes to $0$ as $n$ goes to $\infty$.
 
+^dfe486
+
 The last two definitions require that each of the $f_{n}$ are *jointly* defined on the same space. The following definition for convergence of random variables does not even impose such a condition.
 
 > [!definition] (Convergence in distribution)
 > For a sequence of $\mathbb{R}$-valued random variables $(X_{n}:n\in \mathbb{N})$, we say that $X_{n}$ ==converges in distribution== to $X$ if $F_{X_{n}}(x)\xrightarrow[n\to \infty]{}F_{X}(x)$ at all points $x \in \mathbb{R}$ where $F_{X}$ is continuous.
+
+^8b5c0e
 
 ## Implications
 

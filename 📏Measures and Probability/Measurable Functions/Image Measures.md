@@ -8,6 +8,8 @@ How do measures interact with [[Measurable Functions#^3c3914|measurable function
 > \nu(A)=\mu(f^{-1}(A)).
 > $$
 
+^94991f
+
 In other words, to measure anything in $\mathcal{G}$, we pull it back into $\mathcal{E}$ and use $\mu$.
 
 ## Constructing New Measures
@@ -38,6 +40,8 @@ This allows us to construct some new measures from our basic [[Lebesgue Measure|
 > dg((a,b])=g(b)-g(a).
 > $$
 > Moreover, we obtain in this way *all* non-zero Radon measures on $\mathbb{R}$. Such a measure $dg$ is called a <span style="color:#0088ff">Lebesgue-Stieltjes measure</span> associated with $g$.
+
+^a35ae2
 
 > [!proof]-
 > Define $I$ and $f$ as in the previous proof. The idea is that we can push the Lebesgue measure on $I$ through $f$ (which is Borel measurable by pulling back open sets) to get the measure $dg$ on $\mathbb{R}$. Then, we can check that

@@ -10,6 +10,8 @@ The first goal of this section is to define the product measure. This will allow
 > \mathcal{E}=\mathcal{E}_{1}\otimes \mathcal{E}_{2}=\sigma(\mathcal{A}).
 > $$
 
+^40b30e
+
 Let's prove some lemmas that ought to be true.
 
 > [!claim] Claim (Measurable functions are component-wise measurable)
@@ -38,6 +40,8 @@ Finally, we will define the product measure. We do this in the natural way: spec
 > \mu(A_{1}\times A_{2})=\mu_{1}(A_{1})\mu_{2}(A_{2})
 > $$
 > for all $A_{1}\in \mathcal{E}_{1}$ and $A_{2}\in \mathcal{E}_{2}$.
+
+^8d56b9
 
 > [!proof]-
 > Uniqueness holds because $\mathcal{A}$ is a $\pi$-system generating $\mathcal{E}$, so it is enough to [[Pi and Lambda Systems#^280456|specify the entire measure uniquely]]. For existence, by the lemmas, we can directly define

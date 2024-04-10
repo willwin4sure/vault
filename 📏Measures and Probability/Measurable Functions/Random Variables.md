@@ -20,6 +20,8 @@ If you've seen $\mathbb{R}$-valued random variables before, it is common to talk
 > $$
 > Any function satisfying such properties is called, generally, a distribution function.
 
+^f7e134
+
 It turns out that given any distribution function (i.e. a CDF), we can *construct* a random variable with that distribution function.
 
 > [!proposition] Proposition (Building a random variable from a CDF)

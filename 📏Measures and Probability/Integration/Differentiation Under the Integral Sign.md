@@ -17,6 +17,9 @@ Integration in one variable and differentiation in another can be interchanged s
 > $$
 > \frac{d}{dt}F(t)=\int _{E}\frac{ \partial f }{ \partial t } (t,x) \, \mu(dx). 
 > $$
+
+^df8870
+
 ## Proof
 
  Take any sequence $h_{n}\to 0$ and set
