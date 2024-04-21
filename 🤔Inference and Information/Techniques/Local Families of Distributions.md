@@ -1,4 +1,4 @@
-h> This is a bit more intuition: any sufficiently nice family of strictly positive distributions behaves locally like an exponential family.
+> This is a bit more intuition: any sufficiently nice family of strictly positive distributions behaves locally like an exponential family.
 
 First, consider the single parameter case. Given a family $\{ p_{\mathsf{y}}(y;x):x \in \mathcal{X}\subseteq \mathbb{R} \}$ whose members are smooth, then we can expand $\ln p_{\mathsf{y}}(y;x)$ using a Taylor expansion in $x$ (assume $0\in \mathcal{X}$):
 $$

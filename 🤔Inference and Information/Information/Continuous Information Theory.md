@@ -13,7 +13,7 @@ So far, we've been working in the case of discrete random variables. Let's exten
 
 Further, differential entropy is also not invariant to coordinate transformations. This might hint at the fact that it is not that fundamental of a quantity.
 
-> [!definition] (Continuous differential entropy)
+> [!definition] (Conditional differential entropy)
 > It's what you expect, i.e.
 > $$
 > h(\mathsf{x}|\mathsf{y})=\int_{-\infty}^{\infty} p_{\mathsf{y}}(y)h(\mathsf{x}|\mathsf{y}=y) \, dy,

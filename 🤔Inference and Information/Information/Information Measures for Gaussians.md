@@ -34,7 +34,7 @@ and the variance is given by the Pythagorean formula
 $$
 \lambda_{\mathsf{x}|\mathsf{y}}(y)=\lambda_{x}-\frac{\lambda_{\mathsf{xy}}^{2}}{\lambda_{\mathsf{y}}}.
 $$
-Putting these two claims together allows us to readily compute the mutual information.
+You've gotten to know this stuff very well from [[Gaussian Spaces and Processes|18.676]]. Putting these two claims together allows us to readily compute the mutual information.
 
 > [!claim] (Mutual information of joint Gaussians)
 > If $\mathsf{x}$ and $\mathsf{y}$ are jointly Gaussian, then their mutual information is
@@ -63,5 +63,6 @@ Finally, we can compute the information divergence between two Gaussians.
 
 A difference in means means a lot, but less so when the variance is large.
 
+---
 
-
+**Next:** [[]]

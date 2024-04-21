@@ -5,7 +5,7 @@ Now, we will extend our ideas to multiple parameters.
 > [!definition] ($K$-parameter exponential family)
 > A parameterized family of distributions $p(\bullet;\mathbf{x})$ is a $K$-parameter exponential family with ==natural parameter== $\boldsymbol{\lambda}(\bullet)=\begin{bmatrix}\lambda_{1}(\bullet) & \cdots & \lambda_{K}(\bullet)\end{bmatrix}:\mathcal{X}\to \mathbb{R}^{K}$, ==natural statistic== $\mathbf{t}(\bullet)=\begin{bmatrix}t_{1}(\bullet) & \cdots & t_{K}(\bullet)\end{bmatrix}:\mathcal{Y}\to \mathbb{R}^{K}$, and ==log-base function== $\beta(\bullet):\mathcal{Y}\to \mathbb{R}$ if each member of the family is of the form
 > $$
-> p_{\boldsymbol{\mathsf{y}}}(\mathbf{y};\mathbf{x})=\exp \left\{ \boldsymbol{\lambda}(\mathbf{x)})^{T}\mathbf{t}(\mathbf{y})-\alpha(\mathbf{x})+\beta(\mathbf{y}) \right\}.
+> p_{\boldsymbol{\mathsf{y}}}(\mathbf{y};\mathbf{x})=\exp \left\{ \boldsymbol{\lambda}(\mathbf{x})^{T}\mathbf{t}(\mathbf{y})-\alpha(\mathbf{x})+\beta(\mathbf{y}) \right\}.
 > $$
 
 > [!example] (Gaussian parameterized by mean and variance)

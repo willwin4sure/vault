@@ -11,6 +11,8 @@ It turns out that linear and exponential families are orthogonal to each other, 
 > $$
 > where $\mathcal{X}$ is the natural parameter space. We refer to this exponential family as the ==orthogonal family== to $\mathcal{L}_{\mathbf{t}}(p^{*})$ at $p^{*}$.
 
+^db7aaf
+
 We can prove this by just staring at the KL divergence $D(p\parallel q)$. 
 
 > [!idea]

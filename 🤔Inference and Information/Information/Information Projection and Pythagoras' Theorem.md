@@ -6,10 +6,14 @@ In this section, we introduce the notion of an information projection, which tel
 > p^{*}=\mathop{\arg\min}_{p \in \mathcal{P}}\ D(p\parallel q).
 > $$
 
+^936604
+
 This optimum exists since $D(p\parallel q)$ is nonnegative and continuous in $p$, and $\mathcal{P}$ is compact. The projection is not necessarily unique, but when $\mathcal{P}$ is a convex set, it is.
 
 > [!remark]
 > Suppose you are doing inference, and you observe $q$ and want to find the best model inside $\mathcal{P}$. The morally correct way to do this is with the ==M-projection== $p^{*}=\mathop{\arg\min}_{p \in \mathcal{P}}\ D(q\parallel p)$, notably different from the I-projection.
+
+^fafb8a
 
 I don't think Pythagoras came up with the next one. 
 

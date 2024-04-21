@@ -61,7 +61,7 @@ Let's examine the inner minimum in the definition of $R^{-}$. After expansion, [
 $$
 q^{*}(\bullet)=q_{w}(\bullet):=\sum_{x}^{}w(x)p_{\mathsf{y}}(\bullet;x).
 $$
-This is not very surprising. This allows us to rewrite
+This is not very surprising. It allows us to rewrite
 $$
 R^{-}=\max_{w \in \mathcal{P}^{\mathcal{X}}}\sum_{x}^{}w(x)D(p_{\mathsf{y}}(\bullet;x)\parallel q_{w})=\sum_{x}^{}\sum_{y}^{}w(x)p_{\mathsf{y}}(y;x)\log \frac{p_{\mathsf{y}}(y;x)}{\sum_{x'}^{}w(x')p_{\mathsf{y}}(y;x')}.
 $$
@@ -92,6 +92,11 @@ We have a word for this.
 > $$
 > C=\max_{p_{\mathsf{x}}} I(\mathsf{x};\mathsf{y}).
 > $$
+
+^1ed9df
+
+> [!idea] Least informative prior keeps us balanced
+> It is optimal in the minimax game, in the sense that mixing using it will minimize the amount we are surprised if nature presents us with the worst-case true model, in the sense of KL divergence.
 
 The model capacity is a fundamental measure of the richness of the model family. Do note that $0\leq C\leq \log|\mathcal{X}|$.
 

@@ -36,6 +36,8 @@ Another interpretation of the KL divergence is that it is the number of addition
 > I(\mathsf{x};\mathsf{y})=D(p_{\mathsf{x},\mathsf{y}}\parallel p_{\mathsf{x}}p_{\mathsf{y}}).
 > $$
 
+^7f5cbf
+
 The first property is intuitively true because distributions that are closer to uniform carry more entropy.
 
 The second property is intuitively true because $\mathsf{x}$ and $\mathsf{y}$ should carry more mutual information the further their joint law is from the product of their marginals; in particular, if $\mathsf{x}$ and $\mathsf{y}$ were just independent, they would have no mutual information at all.
