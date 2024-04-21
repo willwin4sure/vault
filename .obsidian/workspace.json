@@ -25,7 +25,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🤔Inference and Information/Approximative Inference/⛺Approximative Inference Homepage.md",
+                "file": "💻Programming/Typescript/Static Checking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "418c8d87b4ba7545",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🦾Sensorimotor Learning/SPRL/The UCT Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94298f944953f68f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🦾Sensorimotor Learning/SPRL/Results for Connect Four.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "917ff8d3c332e381",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🦾Sensorimotor Learning/SPRL/The Training Loop.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🤔Inference and Information/Approximative Inference/⛺Approximative Inference Homepage.md",
+                "file": "🦾Sensorimotor Learning/SPRL/The Training Loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🤔Inference and Information/Approximative Inference/⛺Approximative Inference Homepage.md",
+                "file": "🦾Sensorimotor Learning/SPRL/The Training Loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🤔Inference and Information/Approximative Inference/⛺Approximative Inference Homepage.md"
+                "file": "🦾Sensorimotor Learning/SPRL/The Training Loop.md"
               }
             }
           }
@@ -172,10 +208,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5847455d1dea5a75",
+  "active": "917ff8d3c332e381",
   "lastOpenFiles": [
-    "🤔Inference and Information/Decision Theory/⛺Decision Theory Homepage.md",
+    "🦾Sensorimotor Learning/SPRL/Results for Connect Four.md",
+    "🦾Sensorimotor Learning/SPRL/The Training Loop.md",
+    "🦾Sensorimotor Learning/SPRL/The UCT Algorithm.md",
+    "🦾Sensorimotor Learning/SPRL/⛺SPRL Homepage.md",
+    "🦾Sensorimotor Learning/SPRL/References for SPRL.md",
+    "💻Programming/Typescript/⛺Typescript Homepage.md",
+    "💻Programming/💻Programming Portal.md",
+    "💻Programming/Typescript/Static Checking.md",
+    "💻Programming/Typescript/Untitled",
+    "💻Programming/Typescript/Mutation and Reassignment.md",
     "🤔Inference and Information/Approximative Inference/⛺Approximative Inference Homepage.md",
+    "🤔Inference and Information/Decision Theory/⛺Decision Theory Homepage.md",
     "🤔Inference and Information/Information/Alternating Projections.md",
     "🤔Inference and Information/Approximative Inference",
     "🤔Inference and Information/Techniques/The Expectation Maximization (EM) Algorithm.md",
@@ -191,15 +237,6 @@
     "🤔Inference and Information/Information/The Data Processing Inequality.md",
     "🤔Inference and Information/Information/Information Measures.md",
     "🤔Inference and Information/Information/Information Measures for Gaussians.md",
-    "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Variables.md",
-    "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Spaces and Processes.md",
-    "🖥️Computer Systems Engineering/Distributed Systems/Reliability.md",
-    "🤔Inference and Information/Information/Continuous Information Theory.md",
-    "🖥️Computer Systems Engineering/Distributed Systems/Atomicity.md",
-    "🤔Inference and Information/Estimation/Maximum Likelihood Estimation.md",
-    "🤔Inference and Information/Information/Modeling as Inference.md",
-    "🤔Inference and Information/Information/Orthogonal Families.md",
-    "🤔Inference and Information/Information/The Probability Simplex.md",
-    "🤔Inference and Information/Information/Other Divergence Families.md"
+    "🚶Stochastic Calculus/Gaussian Variables and Processes/Gaussian Variables.md"
   ]
 }

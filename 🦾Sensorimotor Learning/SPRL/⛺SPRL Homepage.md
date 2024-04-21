@@ -12,7 +12,7 @@ We aimed to solve the following games, in order of increasing difficulty:
 * Chess
 * Go
 
-Of course, a hyperparameter we can tune on any of these games is the board size, which can greatly change the difficulty of the task.
+Of course, we can always adjust the board size of these games, which can greatly change the difficulty of the task.
 
 Our work is based primarily on the [AlphaGo Zero paper](https://www.nature.com/articles/nature24270), as well as the following [AlphaZero paper](https://arxiv.org/abs/1712.01815). I've compiled a useful list of resources [[References for SPRL|here]].
 
