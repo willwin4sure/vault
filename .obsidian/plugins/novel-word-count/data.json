@@ -245,8 +245,8 @@
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094709,
-      "modifiedDate": 1710118312127,
+      "createdDate": 1707339880249,
+      "modifiedDate": 1710608677669,
       "sizeInBytes": 717
     },
     "🦾Sensorimotor Learning/Stochastic Bandits/Upper Confidence Bound Algorithm.md": {
@@ -263,8 +263,8 @@
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1708325114673,
-      "modifiedDate": 1708566897820,
+      "createdDate": 1708636062776,
+      "modifiedDate": 1708636062776,
       "sizeInBytes": 1824
     },
     "🦾Sensorimotor Learning/Stochastic Bandits/Stochastic Bandits.md": {
@@ -281,8 +281,8 @@
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1708013361218,
-      "modifiedDate": 1709748178416,
+      "createdDate": 1708636062776,
+      "modifiedDate": 1709761238186,
       "sizeInBytes": 2642
     },
     "🦾Sensorimotor Learning/Stochastic Bandits/⛺Stochastic Bandits Homepage.md": {
@@ -317,8 +317,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094709,
-      "modifiedDate": 1708317987592,
+      "createdDate": 1708636062775,
+      "modifiedDate": 1708636062775,
       "sizeInBytes": 388
     },
     "🦾Sensorimotor Learning/Stochastic Bandits/Contextual Bandits, LinUCB, and Square CB.md": {
@@ -335,27 +335,27 @@
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1708360763535,
-      "modifiedDate": 1708976361463,
+      "createdDate": 1708636062775,
+      "modifiedDate": 1709136756578,
       "sizeInBytes": 4922
     },
     "🦾Sensorimotor Learning/SPRL/⛺SPRL Homepage.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 132,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.44,
-      "characterCount": 926,
-      "nonWhitespaceCharacterCount": 785,
-      "readingTimeInMinutes": 0.4981132075471698,
-      "linkCount": 2,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1711947481490,
-      "modifiedDate": 1713723633864,
-      "sizeInBytes": 926
+      "createdDate": 1713751545389,
+      "modifiedDate": 1713751545389,
+      "sizeInBytes": 0
     },
     "🦾Sensorimotor Learning/SPRL/References for SPRL.md": {
       "isCountable": true,
@@ -371,8 +371,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1711947940381,
-      "modifiedDate": 1713723772447,
+      "createdDate": 1712155318494,
+      "modifiedDate": 1713751545389,
       "sizeInBytes": 1930
     },
     "🦾Sensorimotor Learning/SPRL/The UCT Algorithm.md": {
@@ -443,8 +443,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094709,
-      "modifiedDate": 1708316800835,
+      "createdDate": 1707339880249,
+      "modifiedDate": 1707339880249,
       "sizeInBytes": 572
     },
     "🦾Sensorimotor Learning/Sim2Real/Simulators.md": {
@@ -537,6 +537,24 @@
       "modifiedDate": 1710788173523,
       "sizeInBytes": 1894
     },
+    "🦾Sensorimotor Learning/On-Policy Learning/Variance Reduction.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 481,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.6033333333333333,
+      "characterCount": 3319,
+      "nonWhitespaceCharacterCount": 2816,
+      "readingTimeInMinutes": 1.8150943396226416,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1709575773824,
+      "modifiedDate": 1709575773824,
+      "sizeInBytes": 3319
+    },
     "🦾Sensorimotor Learning/On-Policy Learning/Trust Region Policy Optimization.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -551,8 +569,8 @@
       "linkCount": 2,
       "embedCount": 1,
       "aliases": null,
-      "createdDate": 1709600124887,
-      "modifiedDate": 1710120711082,
+      "createdDate": 1709597770831,
+      "modifiedDate": 1710608677668,
       "sizeInBytes": 4919
     },
     "🦾Sensorimotor Learning/On-Policy Learning/⛺On-Policy Learning Homepage.md": {
@@ -591,42 +609,6 @@
       "modifiedDate": 1709436060492,
       "sizeInBytes": 3319
     },
-    "🦾Sensorimotor Learning/On-Policy Learning/Proximal Policy Optimization.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 169,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.5633333333333334,
-      "characterCount": 1363,
-      "nonWhitespaceCharacterCount": 1189,
-      "readingTimeInMinutes": 0.6377358490566037,
-      "linkCount": 0,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1709436824340,
-      "modifiedDate": 1710121074205,
-      "sizeInBytes": 1363
-    },
-    "🦾Sensorimotor Learning/On-Policy Learning/Policy Gradients and REINFORCE.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 491,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.6366666666666667,
-      "characterCount": 3591,
-      "nonWhitespaceCharacterCount": 3084,
-      "readingTimeInMinutes": 1.8528301886792453,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1708964712787,
-      "modifiedDate": 1710195328390,
-      "sizeInBytes": 3591
-    },
     "🦾Sensorimotor Learning/On-Policy Learning/Advantage Actor-Critic Method.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -641,9 +623,81 @@
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1709420047917,
-      "modifiedDate": 1709609670306,
+      "createdDate": 1709575773823,
+      "modifiedDate": 1709597765305,
       "sizeInBytes": 4191
+    },
+    "🦾Sensorimotor Learning/On-Policy Learning/Actor-Critic Step Size.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 484,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.6133333333333333,
+      "characterCount": 3655,
+      "nonWhitespaceCharacterCount": 3151,
+      "readingTimeInMinutes": 1.8264150943396227,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1709575773822,
+      "modifiedDate": 1710608677666,
+      "sizeInBytes": 3655
+    },
+    "🦾Sensorimotor Learning/Model-Based Learning/Models.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 363,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.21,
+      "characterCount": 2294,
+      "nonWhitespaceCharacterCount": 1921,
+      "readingTimeInMinutes": 1.369811320754717,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1712155318493,
+      "modifiedDate": 1712155318493,
+      "sizeInBytes": 2294
+    },
+    "🦾Sensorimotor Learning/Learning Methods Overview.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 863,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.8766666666666665,
+      "characterCount": 5460,
+      "nonWhitespaceCharacterCount": 4555,
+      "readingTimeInMinutes": 3.2566037735849056,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1708636062774,
+      "modifiedDate": 1708636062774,
+      "sizeInBytes": 5462
+    },
+    "🦾Sensorimotor Learning/On-Policy Learning/Advantage Actor-Critic Method.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1151,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.8366666666666664,
+      "characterCount": 8244,
+      "nonWhitespaceCharacterCount": 7055,
+      "readingTimeInMinutes": 4.343396226415094,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1707339880247,
+      "modifiedDate": 1708724138869,
+      "sizeInBytes": 8250
     },
     "🦾Sensorimotor Learning/On-Policy Learning/img/trpoalg.png": {
       "isCountable": false,
@@ -717,35 +771,53 @@
       "modifiedDate": 1708318563783,
       "sizeInBytes": 5462
     },
-    "🦾Sensorimotor Learning/Model-Based Learning/Models.md": {
+    "🚶Stochastic Calculus/Brownian Motion/⛺Brownian Motion Homepage.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 363,
+      "wordCount": 22,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.21,
-      "characterCount": 2294,
-      "nonWhitespaceCharacterCount": 1921,
-      "readingTimeInMinutes": 1.369811320754717,
-      "linkCount": 0,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 186,
+      "nonWhitespaceCharacterCount": 159,
+      "readingTimeInMinutes": 0.0830188679245283,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1711941952818,
-      "modifiedDate": 1712363763029,
-      "sizeInBytes": 2294
+      "createdDate": 1708135838565,
+      "modifiedDate": 1708636062767,
+      "sizeInBytes": 188
     },
     "🗺️Mathematics Region.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 13,
+      "wordCount": 1111,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.043333333333333335,
-      "characterCount": 113,
-      "nonWhitespaceCharacterCount": 101,
-      "readingTimeInMinutes": 0.04905660377358491,
+      "pageCount": 3.703333333333333,
+      "characterCount": 7733,
+      "nonWhitespaceCharacterCount": 6574,
+      "readingTimeInMinutes": 4.192452830188679,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1708636062766,
+      "modifiedDate": 1708636062766,
+      "sizeInBytes": 7734
+    },
+    "🚶Stochastic Calculus/Brownian Motion/Constructing Brownian Motion.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 355,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.1833333333333333,
+      "characterCount": 2678,
+      "nonWhitespaceCharacterCount": 2310,
+      "readingTimeInMinutes": 1.3396226415094339,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
@@ -785,8 +857,8 @@
       "linkCount": 9,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1709320096969,
-      "modifiedDate": 1710705259987,
+      "createdDate": 1709575773822,
+      "modifiedDate": 1710799808309,
       "sizeInBytes": 949
     },
     "🤔Inference and Information/Techniques/The EM Algorithm on Exponential Families.md": {
@@ -821,8 +893,8 @@
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1710564717593,
-      "modifiedDate": 1710705227102,
+      "createdDate": 1710608677663,
+      "modifiedDate": 1710617292137,
       "sizeInBytes": 7086
     },
     "🤔Inference and Information/Techniques/Single-Parameter Exponential Families.md": {
@@ -857,8 +929,8 @@
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1710525097895,
-      "modifiedDate": 1710564693121,
+      "createdDate": 1710608677663,
+      "modifiedDate": 1710608677663,
       "sizeInBytes": 5627
     },
     "🤔Inference and Information/Techniques/Multi-Parameter Exponential Families.md": {
@@ -893,8 +965,8 @@
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1710561742846,
-      "modifiedDate": 1712722707333,
+      "createdDate": 1710608677663,
+      "modifiedDate": 1710907257919,
       "sizeInBytes": 2042
     },
     "🤔Inference and Information/Techniques/Efficient Estimators and Exponential Families.md": {
@@ -929,8 +1001,8 @@
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1710445872323,
-      "modifiedDate": 1712773491659,
+      "createdDate": 1710608677661,
+      "modifiedDate": 1710799808308,
       "sizeInBytes": 1141
     },
     "🤔Inference and Information/Estimation/⛺Estimation Homepage.md": {
@@ -1235,8 +1307,8 @@
       "linkCount": 2,
       "embedCount": 2,
       "aliases": null,
-      "createdDate": 1710911827513,
-      "modifiedDate": 1712078281034,
+      "createdDate": 1710608677660,
+      "modifiedDate": 1713751545387,
       "sizeInBytes": 2152
     },
     "🤔Inference and Information/Information/⛺Information Homepage.md": {
@@ -1261,6 +1333,24 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
+      "wordCount": 247,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8233333333333334,
+      "characterCount": 1787,
+      "nonWhitespaceCharacterCount": 1522,
+      "readingTimeInMinutes": 0.9320754716981132,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1710799808306,
+      "modifiedDate": 1713751545387,
+      "sizeInBytes": 1787
+    },
+    "🤔Inference and Information/Information/The Data Processing Inequality.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
       "wordCount": 120,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
@@ -1271,27 +1361,9 @@
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1710911827513,
-      "modifiedDate": 1712106496170,
+      "createdDate": 1710891614162,
+      "modifiedDate": 1710892170880,
       "sizeInBytes": 985
-    },
-    "🤔Inference and Information/Information/Other Divergence Families.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 10,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 89,
-      "nonWhitespaceCharacterCount": 78,
-      "readingTimeInMinutes": 0.03773584905660377,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1710911827513,
-      "modifiedDate": 1712106517363,
-      "sizeInBytes": 89
     },
     "🤔Inference and Information/Information/Orthogonal Families.md": {
       "isCountable": true,
@@ -1307,8 +1379,8 @@
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1710911827513,
-      "modifiedDate": 1713327628827,
+      "createdDate": 1710907273180,
+      "modifiedDate": 1713751545386,
       "sizeInBytes": 1249
     },
     "🤔Inference and Information/Information/Modeling as Inference.md": {
@@ -1325,8 +1397,8 @@
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1712106433359,
-      "modifiedDate": 1712625086792,
+      "createdDate": 1713751545385,
+      "modifiedDate": 1713751545386,
       "sizeInBytes": 831
     },
     "🤔Inference and Information/Information/Mixture Models.md": {
@@ -1343,8 +1415,8 @@
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1712625087570,
-      "modifiedDate": 1713325490006,
+      "createdDate": 1713751545385,
+      "modifiedDate": 1713751545385,
       "sizeInBytes": 6236
     },
     "🤔Inference and Information/Information/Maximally Ignorant Priors.md": {
@@ -1361,8 +1433,8 @@
       "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1713325471729,
-      "modifiedDate": 1713330731144,
+      "createdDate": 1713751545384,
+      "modifiedDate": 1713751545385,
       "sizeInBytes": 3535
     },
     "🤔Inference and Information/Information/Linear Families.md": {
@@ -1379,27 +1451,27 @@
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1710911827512,
-      "modifiedDate": 1713330074637,
+      "createdDate": 1710900911179,
+      "modifiedDate": 1713751545384,
       "sizeInBytes": 2156
     },
-    "🤔Inference and Information/Information/KL Divergence.md": {
+    "🤔Inference and Information/Information/Information Measures.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 580,
+      "wordCount": 627,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.9333333333333333,
-      "characterCount": 4617,
-      "nonWhitespaceCharacterCount": 4007,
-      "readingTimeInMinutes": 2.188679245283019,
-      "linkCount": 3,
-      "embedCount": 0,
+      "pageCount": 2.09,
+      "characterCount": 5720,
+      "nonWhitespaceCharacterCount": 5062,
+      "readingTimeInMinutes": 2.3660377358490567,
+      "linkCount": 2,
+      "embedCount": 2,
       "aliases": null,
-      "createdDate": 1710911827512,
-      "modifiedDate": 1713326790184,
-      "sizeInBytes": 4621
+      "createdDate": 1710799808306,
+      "modifiedDate": 1710891612528,
+      "sizeInBytes": 5720
     },
     "🤔Inference and Information/Information/Information Projection and Pythagoras' Theorem.md": {
       "isCountable": true,
@@ -1415,8 +1487,8 @@
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1710911827512,
-      "modifiedDate": 1713496926441,
+      "createdDate": 1710900739627,
+      "modifiedDate": 1713751545383,
       "sizeInBytes": 2233
     },
     "🤔Inference and Information/Information/Information Measures.md": {
@@ -1563,6 +1635,24 @@
       "modifiedDate": 1713495840722,
       "sizeInBytes": 2886
     },
+    "🤔Inference and Information/Information/Generalized Bayesian Decision Theory.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 472,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.5733333333333333,
+      "characterCount": 3560,
+      "nonWhitespaceCharacterCount": 3066,
+      "readingTimeInMinutes": 1.7811320754716982,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1710890894968,
+      "modifiedDate": 1711689649848,
+      "sizeInBytes": 3560
+    },
     "🤔Inference and Information/Information/Continuous Information Theory.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -1577,8 +1667,8 @@
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1712726982322,
-      "modifiedDate": 1712783235824,
+      "createdDate": 1713751545381,
+      "modifiedDate": 1713751545382,
       "sizeInBytes": 2779
     },
     "🤔Inference and Information/Information/Conjugate Priors.md": {
@@ -1595,8 +1685,8 @@
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1713330733045,
-      "modifiedDate": 1713485329537,
+      "createdDate": 1713751545381,
+      "modifiedDate": 1713751545381,
       "sizeInBytes": 5477
     },
     "🤔Inference and Information/Information/Conjugate Prior Families for Exponential Families.md": {
@@ -1613,8 +1703,8 @@
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1713495217043,
-      "modifiedDate": 1713496610946,
+      "createdDate": 1713751545380,
+      "modifiedDate": 1713751545380,
       "sizeInBytes": 2256
     },
     "🤔Inference and Information/Information/Alternating Projections.md": {
@@ -1631,8 +1721,8 @@
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1713496701194,
-      "modifiedDate": 1713498093965,
+      "createdDate": 1713751545380,
+      "modifiedDate": 1713751545380,
       "sizeInBytes": 3089
     },
     "🤔Inference and Information/Decision Theory/The Likelihood Ratio Test.md": {
@@ -1685,8 +1775,8 @@
       "linkCount": 8,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1708456944881,
-      "modifiedDate": 1709496552350,
+      "createdDate": 1708636062772,
+      "modifiedDate": 1709575773818,
       "sizeInBytes": 1071
     },
     "🤔Inference and Information/Decision Theory/Randomized Decision Rules.md": {
@@ -1703,8 +1793,8 @@
       "linkCount": 3,
       "embedCount": 1,
       "aliases": null,
-      "createdDate": 1709008032230,
-      "modifiedDate": 1709497568439,
+      "createdDate": 1709136756570,
+      "modifiedDate": 1709575773817,
       "sizeInBytes": 4133
     },
     "🤔Inference and Information/Decision Theory/p-values.md": {
@@ -1721,8 +1811,8 @@
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1708722122486,
-      "modifiedDate": 1709964688895,
+      "createdDate": 1708637072043,
+      "modifiedDate": 1710608677655,
       "sizeInBytes": 1727
     },
     "🤔Inference and Information/Decision Theory/Minimax Hypothesis Testing.md": {
@@ -1757,9 +1847,27 @@
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1708583651270,
-      "modifiedDate": 1710374785199,
+      "createdDate": 1708636062770,
+      "modifiedDate": 1710608677653,
       "sizeInBytes": 3290
+    },
+    "🤔Inference and Information/Decision Theory/Minimax Hypothesis Testing.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 852,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.84,
+      "characterCount": 6645,
+      "nonWhitespaceCharacterCount": 5761,
+      "readingTimeInMinutes": 3.2150943396226417,
+      "linkCount": 2,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1709136756568,
+      "modifiedDate": 1710608677653,
+      "sizeInBytes": 6647
     },
     "🤔Inference and Information/Decision Theory/img/poissonoclrt.png": {
       "isCountable": false,
@@ -1775,10 +1883,11 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1709007557152,
-      "modifiedDate": 1709007557153,
+      "createdDate": 1709136756574,
+      "modifiedDate": 1709136756574,
       "sizeInBytes": 19285
     },
+    "🤔Inference and Information/Decision Theory/img/oclrt.png": {
     "🤔Inference and Information/Decision Theory/img/oclrt.png": {
       "isCountable": false,
       "isDirectory": false,
@@ -1865,8 +1974,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1709007556315,
-      "modifiedDate": 1709007556315,
+      "createdDate": 1709136756572,
+      "modifiedDate": 1709136756572,
       "sizeInBytes": 25090
     },
     "🤔Inference and Information/Decision Theory/img/interpolatepoissonoclrt.png": {
@@ -1919,8 +2028,8 @@
       "linkCount": 1,
       "embedCount": 3,
       "aliases": null,
-      "createdDate": 1709005242425,
-      "modifiedDate": 1709009485331,
+      "createdDate": 1708724438738,
+      "modifiedDate": 1709136756568,
       "sizeInBytes": 3527
     },
     "🤔Inference and Information/Approximative Inference/⛺Approximative Inference Homepage.md": {
@@ -1937,8 +2046,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1713498684682,
-      "modifiedDate": 1713498924045,
+      "createdDate": 1713751545379,
+      "modifiedDate": 1713751545379,
       "sizeInBytes": 563
     },
     "📉Macroeconomics/📉Macroeconomics Portal.md": {
@@ -2405,8 +2514,8 @@
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1709748272540,
-      "modifiedDate": 1709748336714,
+      "createdDate": 1709761238184,
+      "modifiedDate": 1709761238184,
       "sizeInBytes": 83
     },
     "🗺️Computer Science Region.md": {
@@ -2423,8 +2532,8 @@
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1709748278821,
-      "modifiedDate": 1709748346361,
+      "createdDate": 1709761238183,
+      "modifiedDate": 1709761238183,
       "sizeInBytes": 79
     },
     "🗺️Economics Region.md": {
@@ -2459,8 +2568,8 @@
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1709524813510,
-      "modifiedDate": 1709525064932,
+      "createdDate": 1709575773815,
+      "modifiedDate": 1709575773816,
       "sizeInBytes": 443
     },
     "🖥️Computer Systems Engineering/Unix/⛺Unix Homepage.md": {
@@ -2477,8 +2586,8 @@
       "linkCount": 8,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707863578683,
-      "modifiedDate": 1709524996909,
+      "createdDate": 1709575773815,
+      "modifiedDate": 1709575773815,
       "sizeInBytes": 863
     },
     "🖥️Computer Systems Engineering/Unix/Unix Traps.md": {
@@ -2495,8 +2604,8 @@
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1709524312742,
-      "modifiedDate": 1709524779706,
+      "createdDate": 1709575773814,
+      "modifiedDate": 1709575773815,
       "sizeInBytes": 1035
     },
     "🖥️Computer Systems Engineering/Unix/Unix Processes in Action.md": {
@@ -2513,9 +2622,27 @@
       "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1709507589195,
-      "modifiedDate": 1709513820030,
+      "createdDate": 1709575773814,
+      "modifiedDate": 1709575773814,
       "sizeInBytes": 2147
+    },
+    "🖥️Computer Systems Engineering/Unix/Unix Processes and Images.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 587,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.9566666666666668,
+      "characterCount": 3663,
+      "nonWhitespaceCharacterCount": 3037,
+      "readingTimeInMinutes": 2.2150943396226417,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1709575773814,
+      "modifiedDate": 1709575773814,
+      "sizeInBytes": 3663
     },
     "🖥️Computer Systems Engineering/Unix/The Unix Shell.md": {
       "isCountable": true,
@@ -2531,22 +2658,22 @@
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1709047189161,
-      "modifiedDate": 1709520328780,
+      "createdDate": 1709575773813,
+      "modifiedDate": 1709575773813,
       "sizeInBytes": 3055
     },
     "🖥️Computer Systems Engineering/Unix/Unix Processes and Images.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 587,
+      "wordCount": 345,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.9566666666666668,
-      "characterCount": 3663,
-      "nonWhitespaceCharacterCount": 3037,
-      "readingTimeInMinutes": 2.2150943396226417,
-      "linkCount": 3,
+      "pageCount": 1.15,
+      "characterCount": 2117,
+      "nonWhitespaceCharacterCount": 1758,
+      "readingTimeInMinutes": 1.3018867924528301,
+      "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1707877624860,
@@ -2585,8 +2712,8 @@
       "linkCount": 9,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707871629967,
-      "modifiedDate": 1709520043621,
+      "createdDate": 1709575773811,
+      "modifiedDate": 1709575773812,
       "sizeInBytes": 5321
     },
     "🖥️Computer Systems Engineering/Unix/Implementation of the Unix Shell.md": {
@@ -2639,8 +2766,8 @@
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1709524946993,
-      "modifiedDate": 1709752182716,
+      "createdDate": 1709575773810,
+      "modifiedDate": 1709761238183,
       "sizeInBytes": 161
     },
     "🖥️Computer Systems Engineering/Networking/The End-to-End Argument.md": {
@@ -2729,11 +2856,11 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1709149442120,
-      "modifiedDate": 1709149442127,
+      "createdDate": 1709575773809,
+      "modifiedDate": 1709575773810,
       "sizeInBytes": 166267
     },
-    "🖥️Computer Systems Engineering/Networking/img/moderninternet.png": {
+    "🖥️Computer Systems Engineering/Networking/img/network.png": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -2747,9 +2874,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1709150115393,
-      "modifiedDate": 1709150115401,
-      "sizeInBytes": 534031
+      "createdDate": 1709575773809,
+      "modifiedDate": 1709575773809,
+      "sizeInBytes": 31778
     },
     "🖥️Computer Systems Engineering/Networking/img/countinginf2.png": {
       "isCountable": false,
@@ -2878,6 +3005,7 @@
       "sizeInBytes": 77869
     },
     "🖥️Computer Systems Engineering/Networking/img/arpanet8.png": {
+    "🖥️Computer Systems Engineering/Networking/img/arpanet8.png": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -2949,6 +3077,24 @@
       "modifiedDate": 1709524936817,
       "sizeInBytes": 661
     },
+    "🖥️Computer Systems Engineering/Networking/Border Gateway Protocol (BGP).md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 156,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.52,
+      "characterCount": 1122,
+      "nonWhitespaceCharacterCount": 957,
+      "readingTimeInMinutes": 0.5886792452830188,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1709761238182,
+      "modifiedDate": 1709761238182,
+      "sizeInBytes": 1122
+    },
     "🖥️Computer Systems Engineering/Miscellany/Domain Name System.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -2963,8 +3109,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094693,
-      "modifiedDate": 1707765763600,
+      "createdDate": 1709575773799,
+      "modifiedDate": 1709575773799,
       "sizeInBytes": 1835
     },
     "🖥️Computer Systems Engineering/Distributed Systems/Reliability.md": {
@@ -2981,8 +3127,8 @@
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1711995102528,
-      "modifiedDate": 1713149400842,
+      "createdDate": 1712155318493,
+      "modifiedDate": 1713751545379,
       "sizeInBytes": 964
     },
     "🖥️Computer Systems Engineering/Distributed Systems/Atomicity.md": {
@@ -2999,8 +3145,8 @@
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1713149378995,
-      "modifiedDate": 1713150097197,
+      "createdDate": 1713751545377,
+      "modifiedDate": 1713751545378,
       "sizeInBytes": 351
     },
     "📏Measures and Probability/📏Measures and Probability Portal.md": {
@@ -3143,8 +3289,8 @@
       "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094693,
-      "modifiedDate": 1708291553702,
+      "createdDate": 1701628022379,
+      "modifiedDate": 1708636062766,
       "sizeInBytes": 692
     },
     "📏Measures and Probability/SLLN and CLT/Strong Law of Large Numbers.md": {
@@ -3161,8 +3307,8 @@
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1708286463453,
-      "modifiedDate": 1708315589469,
+      "createdDate": 1708284184223,
+      "modifiedDate": 1708636062765,
       "sizeInBytes": 784
     },
     "📏Measures and Probability/SLLN and CLT/SLLN with Finite Fourth Moments.md": {
@@ -3179,8 +3325,8 @@
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1708286463453,
-      "modifiedDate": 1708315027256,
+      "createdDate": 1708284825051,
+      "modifiedDate": 1708636062765,
       "sizeInBytes": 530
     },
     "📏Measures and Probability/SLLN and CLT/Central Limit Theorem.md": {
@@ -3197,14 +3343,16 @@
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1708286463453,
-      "modifiedDate": 1708315760771,
+      "createdDate": 1708284172703,
+      "modifiedDate": 1708636062765,
       "sizeInBytes": 423
     },
+    "📏Measures and Probability/Norms and Inequalities/⛺Norms and Inequalities Homepage.md": {
     "📏Measures and Probability/Norms and Inequalities/⛺Norms and Inequalities Homepage.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
+      "wordCount": 59,
       "wordCount": 59,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
@@ -3809,8 +3957,8 @@
       "linkCount": 11,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094693,
-      "modifiedDate": 1707929847664,
+      "createdDate": 1701628022373,
+      "modifiedDate": 1707621057818,
       "sizeInBytes": 1462
     },
     "📏Measures and Probability/Integration/u-Substitution.md": {
@@ -3827,8 +3975,8 @@
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094693,
-      "modifiedDate": 1707689450194,
+      "createdDate": 1707590286368,
+      "modifiedDate": 1707592234793,
       "sizeInBytes": 1195
     },
     "📏Measures and Probability/Integration/Transformations of Integrals.md": {
@@ -3845,8 +3993,8 @@
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094693,
-      "modifiedDate": 1707689451885,
+      "createdDate": 1707590286367,
+      "modifiedDate": 1707627775292,
       "sizeInBytes": 2752
     },
     "📏Measures and Probability/Integration/The Fundamental Theorem of Calculus.md": {
@@ -3863,14 +4011,16 @@
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094693,
-      "modifiedDate": 1707689454784,
+      "createdDate": 1707590286367,
+      "modifiedDate": 1707592167977,
       "sizeInBytes": 1458
     },
+    "📏Measures and Probability/Integration/Product Measure.md": {
     "📏Measures and Probability/Integration/Product Measure.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
+      "wordCount": 501,
       "wordCount": 501,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
@@ -3899,14 +4049,16 @@
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094693,
-      "modifiedDate": 1708031158118,
+      "createdDate": 1707493472011,
+      "modifiedDate": 1707592341197,
       "sizeInBytes": 3810
     },
+    "📏Measures and Probability/Integration/Lebesgue Integration.md": {
     "📏Measures and Probability/Integration/Lebesgue Integration.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
+      "wordCount": 384,
       "wordCount": 384,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
@@ -3935,8 +4087,8 @@
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094693,
-      "modifiedDate": 1707754031956,
+      "createdDate": 1707493472010,
+      "modifiedDate": 1707592308519,
       "sizeInBytes": 1820
     },
     "📏Measures and Probability/Integration/Laws of Independent Random Variables.md": {
@@ -3947,15 +4099,33 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.7633333333333333,
-      "characterCount": 2215,
+      "characterCount": 2181,
       "nonWhitespaceCharacterCount": 1938,
       "readingTimeInMinutes": 0.8641509433962264,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094693,
-      "modifiedDate": 1707686094693,
-      "sizeInBytes": 2217
+      "createdDate": 1707590286364,
+      "modifiedDate": 1707595811461,
+      "sizeInBytes": 2183
+    },
+    "📏Measures and Probability/Integration/Integration Techniques.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 33,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.11,
+      "characterCount": 224,
+      "nonWhitespaceCharacterCount": 189,
+      "readingTimeInMinutes": 0.12452830188679245,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1707592157973,
+      "modifiedDate": 1707592216281,
+      "sizeInBytes": 224
     },
     "📏Measures and Probability/Integration/Fubini-Tonelli Theorem.md": {
       "isCountable": true,
@@ -3965,15 +4135,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.8966666666666666,
-      "characterCount": 1985,
+      "characterCount": 1948,
       "nonWhitespaceCharacterCount": 1663,
       "readingTimeInMinutes": 1.0150943396226415,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094693,
-      "modifiedDate": 1707686094693,
-      "sizeInBytes": 1985
+      "createdDate": 1707590286364,
+      "modifiedDate": 1707595462171,
+      "sizeInBytes": 1948
     },
     "📏Measures and Probability/Integration/Fatou-Lebesgue Theorem.md": {
       "isCountable": true,
@@ -3989,8 +4159,8 @@
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094693,
-      "modifiedDate": 1712523062325,
+      "createdDate": 1707591095572,
+      "modifiedDate": 1707591879011,
       "sizeInBytes": 1959
     },
     "📏Measures and Probability/Integration/Dominated Convergence Theorem.md": {
@@ -4007,8 +4177,8 @@
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094693,
-      "modifiedDate": 1707687896059,
+      "createdDate": 1707590286363,
+      "modifiedDate": 1707592380962,
       "sizeInBytes": 916
     },
     "📏Measures and Probability/Integration/Differentiation Under the Integral Sign.md": {
@@ -4019,15 +4189,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.82,
-      "characterCount": 1629,
+      "characterCount": 1592,
       "nonWhitespaceCharacterCount": 1337,
       "readingTimeInMinutes": 0.9283018867924528,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094693,
-      "modifiedDate": 1712729478737,
-      "sizeInBytes": 1629
+      "createdDate": 1707590286363,
+      "modifiedDate": 1712034756968,
+      "sizeInBytes": 1592
     },
     "📏Measures and Probability/Fourier Transforms/⛺Fourier Transforms Homepage.md": {
       "isCountable": true,
@@ -4043,8 +4213,8 @@
       "linkCount": 10,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094693,
-      "modifiedDate": 1708304431610,
+      "createdDate": 1701628022372,
+      "modifiedDate": 1708284345314,
       "sizeInBytes": 1734
     },
     "📏Measures and Probability/Fourier Transforms/Gaussian Convolutions.md": {
@@ -4097,8 +4267,8 @@
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1708233553584,
-      "modifiedDate": 1708236167135,
+      "createdDate": 1708280786440,
+      "modifiedDate": 1708280786440,
       "sizeInBytes": 1280
     },
     "📏Measures and Probability/Fourier Transforms/Gaussian Fourier Transforms.md": {
@@ -4115,8 +4285,8 @@
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1708210329883,
-      "modifiedDate": 1708231027070,
+      "createdDate": 1708280786440,
+      "modifiedDate": 1708280786440,
       "sizeInBytes": 1600
     },
     "📏Measures and Probability/Fourier Transforms/Fourier Transform in L2.md": {
@@ -4169,8 +4339,8 @@
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1708198917517,
-      "modifiedDate": 1708233063154,
+      "createdDate": 1708137087844,
+      "modifiedDate": 1708280786438,
       "sizeInBytes": 2206
     },
     "📏Measures and Probability/Ergodic Theory/⛺Ergodic Theory Homepage.md": {
@@ -4187,8 +4357,8 @@
       "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094677,
-      "modifiedDate": 1708286487508,
+      "createdDate": 1701628022371,
+      "modifiedDate": 1708284449298,
       "sizeInBytes": 597
     },
     "📏Measures and Probability/Ergodic Theory/Von Neumann's Lp Ergodic Theorem.md": {
@@ -4205,8 +4375,8 @@
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1708286463451,
-      "modifiedDate": 1708314418239,
+      "createdDate": 1708284436842,
+      "modifiedDate": 1708636062763,
       "sizeInBytes": 243
     },
     "📏Measures and Probability/Ergodic Theory/Measure-Preserving Transformations.md": {
@@ -4259,8 +4429,8 @@
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1708286463444,
-      "modifiedDate": 1708290328017,
+      "createdDate": 1708284434519,
+      "modifiedDate": 1708636062762,
       "sizeInBytes": 3131
     },
     "📈Microeconomics/📈Microeconomics Portal.md": {
@@ -4335,23 +4505,23 @@
       "modifiedDate": 1708674053090,
       "sizeInBytes": 1926
     },
-    "📈Microeconomics/tariff.png": {
-      "isCountable": false,
+    "📉Macroeconomics/Financial Markets and Expectations.md": {
+      "isCountable": true,
       "isDirectory": false,
-      "noteCount": 0,
+      "noteCount": 1,
       "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
+      "wordGoal": null,
       "pageCount": 0,
       "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1707686094677,
-      "modifiedDate": 1707686094677,
-      "sizeInBytes": 130351
+      "aliases": null,
+      "createdDate": 1711077705195,
+      "modifiedDate": 1711077705195,
+      "sizeInBytes": 0
     },
     "📈Microeconomics/Supply and Demand/⛺Supply and Demand Homepage.md": {
       "isCountable": true,
@@ -4389,11 +4559,11 @@
       "modifiedDate": 1709256980757,
       "sizeInBytes": 5632
     },
-    "📈Microeconomics/Supply and Demand/Real-World Examples.md": {
-      "isCountable": true,
+    "📈Microeconomics/tariff.png": {
+      "isCountable": false,
       "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 682,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 2.2733333333333334,
@@ -4415,15 +4585,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.76,
-      "characterCount": 3459,
+      "characterCount": 3406,
       "nonWhitespaceCharacterCount": 2854,
       "readingTimeInMinutes": 1.9924528301886792,
       "linkCount": 3,
       "embedCount": 2,
       "aliases": null,
-      "createdDate": 1707686094662,
-      "modifiedDate": 1707686094662,
-      "sizeInBytes": 3461
+      "createdDate": 1703451421992,
+      "modifiedDate": 1706940807313,
+      "sizeInBytes": 3408
     },
     "📈Microeconomics/Supply and Demand/Properties of Demand Curves.md": {
       "isCountable": true,
@@ -4439,8 +4609,8 @@
       "linkCount": 6,
       "embedCount": 3,
       "aliases": null,
-      "createdDate": 1707686094662,
-      "modifiedDate": 1707765674523,
+      "createdDate": 1703300021875,
+      "modifiedDate": 1706892136956,
       "sizeInBytes": 7255
     },
     "📈Microeconomics/Supply and Demand/Supply and Demand Curves.md": {
@@ -4515,7 +4685,7 @@
       "modifiedDate": 1707686094677,
       "sizeInBytes": 174626
     },
-    "📈Microeconomics/Supply and Demand/img/substitution_income_effects.png": {
+    "📈Microeconomics/Supply and Demand/img/supply_demand_curves.png": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -4529,9 +4699,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1707686094677,
-      "modifiedDate": 1707686094677,
-      "sizeInBytes": 131722
+      "createdDate": 1703300021879,
+      "modifiedDate": 1703300021880,
+      "sizeInBytes": 82252
     },
     "📈Microeconomics/Supply and Demand/img/price_ceiling_dwl.png": {
       "isCountable": false,
@@ -4551,7 +4721,7 @@
       "modifiedDate": 1707686094677,
       "sizeInBytes": 135520
     },
-    "📈Microeconomics/Supply and Demand/img/supply_demand_curves.png": {
+    "📈Microeconomics/Supply and Demand/img/SNAP.jpg": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -4565,10 +4735,11 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1707686094677,
-      "modifiedDate": 1707686094677,
-      "sizeInBytes": 82252
+      "createdDate": 1703304903286,
+      "modifiedDate": 1703304903287,
+      "sizeInBytes": 209633
     },
+    "📈Microeconomics/Supply and Demand/img/short_run_cost_curves.jpg": {
     "📈Microeconomics/Supply and Demand/img/short_run_cost_curves.jpg": {
       "isCountable": false,
       "isDirectory": false,
@@ -4606,6 +4777,7 @@
       "sizeInBytes": 209633
     },
     "📈Microeconomics/Supply and Demand/img/optimal_inputs.png": {
+    "📈Microeconomics/Supply and Demand/img/optimal_inputs.png": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -4623,6 +4795,7 @@
       "modifiedDate": 1707686094677,
       "sizeInBytes": 88437
     },
+    "📈Microeconomics/Supply and Demand/img/optimal_bundle.png": {
     "📈Microeconomics/Supply and Demand/img/optimal_bundle.png": {
       "isCountable": false,
       "isDirectory": false,
@@ -4659,7 +4832,7 @@
       "modifiedDate": 1707686094677,
       "sizeInBytes": 134019
     },
-    "📈Microeconomics/Supply and Demand/img/flattening_supply_curve.jpg": {
+    "📈Microeconomics/Supply and Demand/img/engel_curves.png": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -4673,9 +4846,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1707686094677,
-      "modifiedDate": 1707686094677,
-      "sizeInBytes": 216459
+      "createdDate": 1703300021877,
+      "modifiedDate": 1703300021878,
+      "sizeInBytes": 134019
     },
     "📈Microeconomics/Supply and Demand/img/deriving_demand_curves.png": {
       "isCountable": false,
@@ -4691,9 +4864,27 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1707686094677,
-      "modifiedDate": 1707686094677,
+      "createdDate": 1703300021876,
+      "modifiedDate": 1703300021877,
       "sizeInBytes": 140267
+    },
+    "📈Microeconomics/Supply and Demand/Firms in Competition.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 827,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.756666666666667,
+      "characterCount": 5116,
+      "nonWhitespaceCharacterCount": 4256,
+      "readingTimeInMinutes": 3.120754716981132,
+      "linkCount": 4,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1703450769659,
+      "modifiedDate": 1704668278011,
+      "sizeInBytes": 5122
     },
     "📈Microeconomics/Monopoly and Oligopoly/⛺Monopoly and Oligopoly Homepage.md": {
       "isCountable": true,
@@ -4703,15 +4894,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.3,
-      "characterCount": 643,
+      "characterCount": 625,
       "nonWhitespaceCharacterCount": 527,
       "readingTimeInMinutes": 0.33962264150943394,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094662,
-      "modifiedDate": 1707686094662,
-      "sizeInBytes": 647
+      "createdDate": 1703300021874,
+      "modifiedDate": 1704668278022,
+      "sizeInBytes": 629
     },
     "📈Microeconomics/Monopoly and Oligopoly/Oligopoly and Cournot Equilibrium.md": {
       "isCountable": true,
@@ -4721,15 +4912,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 2.4966666666666666,
-      "characterCount": 5101,
+      "characterCount": 5018,
       "nonWhitespaceCharacterCount": 4233,
       "readingTimeInMinutes": 2.8264150943396227,
       "linkCount": 2,
       "embedCount": 3,
       "aliases": null,
-      "createdDate": 1707686094662,
-      "modifiedDate": 1707686094662,
-      "sizeInBytes": 5102
+      "createdDate": 1703300021870,
+      "modifiedDate": 1704581320197,
+      "sizeInBytes": 5019
     },
     "📈Microeconomics/Monopoly and Oligopoly/Monopoly.md": {
       "isCountable": true,
@@ -4739,15 +4930,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 2.46,
-      "characterCount": 4867,
+      "characterCount": 4794,
       "nonWhitespaceCharacterCount": 4031,
       "readingTimeInMinutes": 2.7849056603773583,
       "linkCount": 3,
       "embedCount": 1,
       "aliases": null,
-      "createdDate": 1707686094662,
-      "modifiedDate": 1707686094662,
-      "sizeInBytes": 4867
+      "createdDate": 1703458014736,
+      "modifiedDate": 1706938310676,
+      "sizeInBytes": 4794
     },
     "📈Microeconomics/Monopoly and Oligopoly/img/airline_monopoly.png": {
       "isCountable": false,
@@ -4763,11 +4954,11 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1707686094662,
-      "modifiedDate": 1707686094662,
-      "sizeInBytes": 64807
+      "createdDate": 1703474297025,
+      "modifiedDate": 1703474297026,
+      "sizeInBytes": 244004
     },
-    "📈Microeconomics/Monopoly and Oligopoly/img/monopoly_equilibrium.jpg": {
+    "📈Microeconomics/Monopoly and Oligopoly/img/airline_monopoly.png": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -4781,9 +4972,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1707686094662,
-      "modifiedDate": 1707686094662,
-      "sizeInBytes": 244004
+      "createdDate": 1703300021872,
+      "modifiedDate": 1703300021872,
+      "sizeInBytes": 64807
     },
     "📈Microeconomics/Monopoly and Oligopoly/img/airline_duopoly.png": {
       "isCountable": false,
@@ -4799,8 +4990,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1707686094662,
-      "modifiedDate": 1707686094662,
+      "createdDate": 1703300021872,
+      "modifiedDate": 1703300021872,
       "sizeInBytes": 77797
     },
     "📈Microeconomics/Monopoly and Oligopoly/img/airline_cournot.png": {
@@ -4817,8 +5008,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1707686094662,
-      "modifiedDate": 1707686094662,
+      "createdDate": 1703300021871,
+      "modifiedDate": 1703300021871,
       "sizeInBytes": 112732
     },
     "📈Microeconomics/Monopoly and Oligopoly/Cartels.md": {
@@ -4843,37 +5034,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 254,
+      "wordCount": 302,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.8466666666666667,
-      "characterCount": 1615,
-      "nonWhitespaceCharacterCount": 1344,
-      "readingTimeInMinutes": 0.9584905660377359,
-      "linkCount": 8,
+      "pageCount": 1.0066666666666666,
+      "characterCount": 2015,
+      "nonWhitespaceCharacterCount": 1694,
+      "readingTimeInMinutes": 1.139622641509434,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094662,
-      "modifiedDate": 1709793905294,
-      "sizeInBytes": 1619
-    },
-    "📈Microeconomics/Miscellany/Efficiency and Equity.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1707686094662,
-      "modifiedDate": 1707686094662,
-      "sizeInBytes": 0
+      "createdDate": 1703300021870,
+      "modifiedDate": 1706938310676,
+      "sizeInBytes": 2019
     },
     "📈Microeconomics/International Trade/⛺International Trade Homepage.md": {
       "isCountable": true,
@@ -4883,20 +5056,22 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.24,
-      "characterCount": 485,
+      "characterCount": 466,
       "nonWhitespaceCharacterCount": 385,
       "readingTimeInMinutes": 0.27169811320754716,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094662,
-      "modifiedDate": 1707686094662,
-      "sizeInBytes": 489
+      "createdDate": 1703541793074,
+      "modifiedDate": 1706938477398,
+      "sizeInBytes": 470
     },
+    "📈Microeconomics/International Trade/When and Why to Trade.md": {
     "📈Microeconomics/International Trade/When and Why to Trade.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
+      "wordCount": 641,
       "wordCount": 641,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
@@ -4912,9 +5087,11 @@
       "sizeInBytes": 4268
     },
     "📈Microeconomics/International Trade/Trade Welfare and Policies.md": {
+    "📈Microeconomics/International Trade/Trade Welfare and Policies.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
+      "wordCount": 423,
       "wordCount": 423,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
@@ -4929,6 +5106,7 @@
       "modifiedDate": 1707686094662,
       "sizeInBytes": 2855
     },
+    "📈Microeconomics/International Trade/img/joint_ppf.png": {
     "📈Microeconomics/International Trade/img/joint_ppf.png": {
       "isCountable": false,
       "isDirectory": false,
@@ -4948,6 +5126,7 @@
       "sizeInBytes": 45662
     },
     "📈Microeconomics/International Trade/img/imports.png": {
+    "📈Microeconomics/International Trade/img/imports.png": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -4965,6 +5144,7 @@
       "modifiedDate": 1707686094662,
       "sizeInBytes": 171684
     },
+    "📈Microeconomics/International Trade/img/exports.png": {
     "📈Microeconomics/International Trade/img/exports.png": {
       "isCountable": false,
       "isDirectory": false,
@@ -4984,6 +5164,7 @@
       "sizeInBytes": 151147
     },
     "📈Microeconomics/International Trade/img/economies_of_scope.png": {
+    "📈Microeconomics/International Trade/img/economies_of_scope.png": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -5001,6 +5182,7 @@
       "modifiedDate": 1707686094662,
       "sizeInBytes": 30807
     },
+    "📈Microeconomics/International Trade/img/consumption_sets_under_trade.png": {
     "📈Microeconomics/International Trade/img/consumption_sets_under_trade.png": {
       "isCountable": false,
       "isDirectory": false,
@@ -5037,23 +5219,23 @@
       "modifiedDate": 1713746358848,
       "sizeInBytes": 2945
     },
-    "📈Microeconomics/Factor Markets/⛺Factor Markets Homepage.md": {
+    "📈Microeconomics/Miscellany/⛺Miscellany Homepage.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 130,
+      "wordCount": 254,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.43333333333333335,
-      "characterCount": 876,
-      "nonWhitespaceCharacterCount": 717,
-      "readingTimeInMinutes": 0.49056603773584906,
-      "linkCount": 6,
+      "pageCount": 0.8466666666666667,
+      "characterCount": 1615,
+      "nonWhitespaceCharacterCount": 1344,
+      "readingTimeInMinutes": 0.9584905660377359,
+      "linkCount": 8,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094662,
-      "modifiedDate": 1707686094662,
-      "sizeInBytes": 880
+      "createdDate": 1703541793074,
+      "modifiedDate": 1706940722215,
+      "sizeInBytes": 1619
     },
     "📈Microeconomics/Factor Markets/Labor Markets.md": {
       "isCountable": true,
@@ -5063,15 +5245,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.9866666666666667,
-      "characterCount": 1931,
+      "characterCount": 1898,
       "nonWhitespaceCharacterCount": 1589,
       "readingTimeInMinutes": 1.1169811320754717,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094662,
-      "modifiedDate": 1707686094662,
-      "sizeInBytes": 1931
+      "createdDate": 1703307760499,
+      "modifiedDate": 1704581381745,
+      "sizeInBytes": 1898
     },
     "📈Microeconomics/Factor Markets/Factor Demand.md": {
       "isCountable": true,
@@ -5081,15 +5263,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.6966666666666667,
-      "characterCount": 1485,
+      "characterCount": 1459,
       "nonWhitespaceCharacterCount": 1240,
       "readingTimeInMinutes": 0.7886792452830189,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094662,
-      "modifiedDate": 1707686094662,
-      "sizeInBytes": 1485
+      "createdDate": 1703300021867,
+      "modifiedDate": 1703532558741,
+      "sizeInBytes": 1459
     },
     "💻Programming/💻Programming Portal.md": {
       "isCountable": true,
@@ -5105,8 +5287,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094662,
-      "modifiedDate": 1709524824807,
+      "createdDate": 1704668361096,
+      "modifiedDate": 1704689744414,
       "sizeInBytes": 117
     },
     "💻Programming/Rust/⛺Rust Homepage.md": {
@@ -5117,15 +5299,33 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.2633333333333333,
-      "characterCount": 558,
+      "characterCount": 551,
       "nonWhitespaceCharacterCount": 468,
       "readingTimeInMinutes": 0.2981132075471698,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094646,
-      "modifiedDate": 1707686094646,
-      "sizeInBytes": 562
+      "createdDate": 1704689886207,
+      "modifiedDate": 1706681451911,
+      "sizeInBytes": 555
+    },
+    "💻Programming/Rust/Rust Setup and Cargo.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 241,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8033333333333333,
+      "characterCount": 1645,
+      "nonWhitespaceCharacterCount": 1383,
+      "readingTimeInMinutes": 0.909433962264151,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1706679125129,
+      "modifiedDate": 1706909040063,
+      "sizeInBytes": 1645
     },
     "💻Programming/Rust/Rust Macros.md": {
       "isCountable": true,
@@ -5141,8 +5341,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094646,
-      "modifiedDate": 1707686094646,
+      "createdDate": 1706679757803,
+      "modifiedDate": 1706679757803,
       "sizeInBytes": 0
     },
     "💻Programming/Rust/Rust Setup and Cargo.md": {
@@ -5225,11 +5425,29 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 2.39,
-      "characterCount": 4689,
+      "characterCount": 4559,
       "nonWhitespaceCharacterCount": 3578,
       "readingTimeInMinutes": 2.7056603773584906,
       "linkCount": 1,
       "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1710650532774,
+      "modifiedDate": 1710690210043,
+      "sizeInBytes": 4671
+    },
+    "💻Programming/CUDA/Memory Hierarchy of GPUs.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 190,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6333333333333333,
+      "characterCount": 1172,
+      "nonWhitespaceCharacterCount": 969,
+      "readingTimeInMinutes": 0.7169811320754716,
+      "linkCount": 1,
+      "embedCount": 1,
       "aliases": null,
       "createdDate": 1710701461615,
       "modifiedDate": 1710701461615,
@@ -5267,8 +5485,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1710701461615,
-      "modifiedDate": 1710701461615,
+      "createdDate": 1710689893777,
+      "modifiedDate": 1710689893778,
       "sizeInBytes": 74297
     },
     "💻Programming/C++/⛺C++ Homepage.md": {
@@ -5279,9 +5497,45 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.3566666666666667,
-      "characterCount": 689,
+      "characterCount": 671,
       "nonWhitespaceCharacterCount": 555,
       "readingTimeInMinutes": 0.4037735849056604,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704689680191,
+      "modifiedDate": 1704690079366,
+      "sizeInBytes": 675
+    },
+    "🏠Home.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 31,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.10333333333333333,
+      "characterCount": 218,
+      "nonWhitespaceCharacterCount": 185,
+      "readingTimeInMinutes": 0.1169811320754717,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1703300021868,
+      "modifiedDate": 1709761238181,
+      "sizeInBytes": 234
+    },
+    "🏠Home.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 31,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.10333333333333333,
+      "characterCount": 218,
+      "nonWhitespaceCharacterCount": 185,
+      "readingTimeInMinutes": 0.1169811320754717,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
@@ -5321,8 +5575,8 @@
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094646,
-      "modifiedDate": 1711950180157,
+      "createdDate": 1703300021867,
+      "modifiedDate": 1712155318492,
       "sizeInBytes": 601
     },
     "🎲Advanced Probability/Conditional Expectation/Conditional Expectation Homepage.md": {
@@ -5339,8 +5593,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1711950182884,
-      "modifiedDate": 1711950182884,
+      "createdDate": 1712155318492,
+      "modifiedDate": 1712155318492,
       "sizeInBytes": 0
     },
     "README.md": {
@@ -5357,8 +5611,8 @@
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1707686094646,
-      "modifiedDate": 1709748594394,
+      "createdDate": 1701479705203,
+      "modifiedDate": 1709575773798,
       "sizeInBytes": 357
     },
     "desktop.ini": {
