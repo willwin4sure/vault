@@ -45,11 +45,11 @@ Then, your output is too low, and the inflation rate will begin to decrease. Eve
 
 ## Stagflation
 
-TODO
+Consider the shock to a market comprising an increase to the price of oil. We can interpret this as an increase in markup, lowering the [[The Labor Market#^059ce5|PS curve]], causing an intersection with the [[The Labor Market#^08448d|WS curve]] at a point with higher natural rate of unemployment (companies pay a lower real wage, so more people stay unemployed). 
 
-## Persistent Financial Panic
+This causes the Phillips curve to shift upwards, since the natural rate of output $Y^{n}$ must decrease. This also leads to a higher interest rate if the central bank wants to reduce inflation.
 
-TODO
+This is called ==stagflation==: it is characterized by high inflation, low economic growth, and high unemployment. This is contrary to aggregate demand shocks, where if consumers get more optimistic, there is more inflation due to more output; we have a negative relationship instead.
 
 ---
 

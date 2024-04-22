@@ -31,6 +31,8 @@ Wages typically depend on labor market conditions. In particular, the higher tha
 > W=P^{e}F(u,z)
 > $$
 
+^08448d
+
 Here, $\frac{ \partial F }{ \partial u }<0$ and $\frac{ \partial F }{ \partial z }>0$, and $z$ accounts for the rest of strength of workers' bargaining power. We multiply by $P^{e}$ to account for inflation: you care about how many goods you can buy, not the number of dollars you receive.
 
 ## Price Determination
@@ -50,6 +52,8 @@ Assume that firms set a price as a markup $m$ above the marginal cost, so $P=(1+
 > $$
 > \frac{W}{P}=\frac{1}{1+m}.
 > $$
+
+^059ce5
 
 The higher the markup, the lower real wage firms are willing to pay. 
 
