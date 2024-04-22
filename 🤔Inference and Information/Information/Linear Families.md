@@ -34,6 +34,8 @@ Further, the [[Information Projection and Pythagoras' Theorem#^e9babb|Pythagorea
 > $$
 > for all $p \in \mathcal{L}$.
 
+^747e82
+
 This is a statement about when an I-projection is orthogonal in an information theoretic sense (recall that information divergence is analogous to squared Euclidean distance).
 
 ---

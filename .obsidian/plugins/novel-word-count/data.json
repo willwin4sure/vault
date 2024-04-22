@@ -308,7 +308,15 @@
       "isDirectory": false,
       "noteCount": 0,
       "wordCount": 0,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
       "wordGoal": 0,
       "pageCount": 0,
       "characterCount": 0,
@@ -326,7 +334,15 @@
       "isDirectory": false,
       "noteCount": 0,
       "wordCount": 0,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
       "wordGoal": 0,
       "pageCount": 0,
       "characterCount": 0,
@@ -669,6 +685,12 @@
       "noteCount": 0,
       "wordCount": 0,
       "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.0833333333333333,
+      "characterCount": 2233,
+      "nonWhitespaceCharacterCount": 1895,
+      "readingTimeInMinutes": 1.2264150943396226,
+      "linkCount": 1,
       "wordGoal": 0,
       "pageCount": 0,
       "characterCount": 0,
@@ -969,6 +991,7 @@
       "modifiedDate": 1710799808301,
       "sizeInBytes": 2023
     },
+    "🤔Inference and Information/Estimation/Estimation of Nonrandom Vectors.md": {
     "🤔Inference and Information/Estimation/Estimation of Nonrandom Vectors.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -1365,7 +1388,7 @@
       "modifiedDate": 1709136942330,
       "sizeInBytes": 1706
     },
-    "🤔Inference and Information/Decision Theory/img/minimaxdecision.png": {
+    "🤔Inference and Information/Decision Theory/img/oclrt.png": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -1528,11 +1551,20 @@
       "sizeInBytes": 676
     },
     "🚶Stochastic Calculus/Informal Overview.md": {
+    "🚶Stochastic Calculus/Informal Overview.md": {
       "isCountable": true,
       "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1151,
       "noteCount": 0,
       "wordCount": 0,
       "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.8366666666666664,
+      "characterCount": 8244,
+      "nonWhitespaceCharacterCount": 7055,
+      "readingTimeInMinutes": 4.343396226415094,
+      "linkCount": 2,
       "wordGoal": 0,
       "pageCount": 0,
       "characterCount": 0,
@@ -1798,6 +1830,7 @@
       "sizeInBytes": 863
     },
     "🖥️Computer Systems Engineering/Unix/Unix Traps.md": {
+    "🖥️Computer Systems Engineering/Unix/Unix Traps.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -2050,6 +2083,7 @@
       "sizeInBytes": 166267
     },
     "🖥️Computer Systems Engineering/Networking/img/moderninternet.png": {
+    "🖥️Computer Systems Engineering/Networking/img/moderninternet.png": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -2158,6 +2192,7 @@
       "sizeInBytes": 149206
     },
     "🖥️Computer Systems Engineering/Networking/img/arpanet8.png": {
+    "🖥️Computer Systems Engineering/Networking/img/arpanet8.png": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -2175,6 +2210,7 @@
       "modifiedDate": 1709575773802,
       "sizeInBytes": 47852
     },
+    "🖥️Computer Systems Engineering/Networking/img/arpanetfirstmachine.png": {
     "🖥️Computer Systems Engineering/Networking/img/arpanetfirstmachine.png": {
       "isCountable": false,
       "isDirectory": false,
@@ -2304,9 +2340,17 @@
     "🖥️Computer Systems Engineering/Distributed Systems/Reliability.md": {
       "isCountable": true,
       "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 150,
       "noteCount": 0,
       "wordCount": 0,
       "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5,
+      "characterCount": 964,
+      "nonWhitespaceCharacterCount": 805,
+      "readingTimeInMinutes": 0.5660377358490566,
+      "linkCount": 1,
       "wordGoal": 0,
       "pageCount": 0,
       "characterCount": 0,
@@ -4245,6 +4289,7 @@
       "modifiedDate": 1703300021879,
       "sizeInBytes": 131722
     },
+    "📈Microeconomics/Supply and Demand/img/supply_demand_curves.png": {
     "📈Microeconomics/Supply and Demand/img/optimal_bundle.png": {
       "isCountable": false,
       "isDirectory": false,

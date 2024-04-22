@@ -6,10 +6,14 @@ In this section, we introduce the notion of an information projection, which tel
 > p^{*}=\mathop{\arg\min}_{p \in \mathcal{P}}\ D(p\parallel q).
 > $$
 
+^936604
+
 This optimum exists since $D(p\parallel q)$ is nonnegative and continuous in $p$, and $\mathcal{P}$ is compact. The projection is not necessarily unique, but when $\mathcal{P}$ is a convex set, it is.
 
 > [!remark]
-> Suppose you are doing inference, and you observe $q$ and want to find the best model inside $\mathcal{P}$. The correct way to do this is with the ==M-projection== $p^{*}=\mathop{\arg\min}_{p \in \mathcal{P}}\ D(q\parallel p)$. However, the I-projection is often easier to compute, and has some other nice properties.
+> Suppose you are doing inference, and you observe $q$ and want to find the best model inside $\mathcal{P}$. The morally correct way to do this is with the ==M-projection== $p^{*}=\mathop{\arg\min}_{p \in \mathcal{P}}\ D(q\parallel p)$, notably different from the I-projection.
+
+^fafb8a
 
 I don't think Pythagoras came up with the next one. 
 
@@ -27,7 +31,7 @@ I don't think Pythagoras came up with the next one.
 > $$
 > \frac{d}{d\lambda}D(p_{\lambda}\parallel q)
 > $$
-> is positive when evaluated at $\lambda=0$, otherwise $p^{*}$ would not be the projection. Expanding this fact finishes.
+> is positive when evaluated at $\lambda=0$, otherwise $p^{*}$ would not be the projection. Expanding this fact using the definition of KL divergence finishes.
 
 > [!claim] (Pythagoras' Corollary)
 > The I-projection $p^{*}$ of any $q$ not on the boundary of $\mathcal{P}^{\mathcal{Y}}$ onto a family $\mathcal{P}$ cannot lie on a boundary component of $\mathcal{P}^{\mathcal{Y}}$ unless all of $\mathcal{P}$ is confined to that particular boundary component.
