@@ -1,3 +1,5 @@
+> Explicitly constructing the conjugate prior family of an exponential family. It's another exponential family.
+
 We [[Conjugate Priors and Sufficient Statistics|just showed]] that conjugate prior families can only exist for exponential families. We can show by construction that they actually exist for *all* exponential families.
 
 > [!claim] (Construction of conjugate prior families)
@@ -30,7 +32,7 @@ $$
 > [!example]
 > For a Gaussian data model, its conjugate prior is Gaussian.
 
-Check this yourself, I guess. Gaussians are beautiful.
+Check this yourself, I guess. Gaussians are nice.
 
 ---
 

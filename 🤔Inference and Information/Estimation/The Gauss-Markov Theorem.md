@@ -1,3 +1,5 @@
+> OLS is MLE. Ridge is MAP with a Gaussian prior.
+
 This section develops an important connection between least-squares and maximum likelihood estimation, which occurs for linear models with Gaussian data. You've seen this in the Berkeley intro ML course notes.
 ## Statement
 

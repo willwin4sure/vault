@@ -9,4 +9,5 @@ First, some [[Introductory Remarks|introductory remarks]] about inference.
 2. [[⛺Estimation Homepage]]
 3. [[⛺Techniques Homepage]]
 4. [[⛺Information Homepage]]
+5. [[⛺Approximative Inference Homepage]]
 

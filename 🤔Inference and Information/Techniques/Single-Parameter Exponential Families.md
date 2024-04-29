@@ -1,5 +1,6 @@
-An exponential family is a parameterized family of distribution. To build our intuition, we start with the simplest case of a single scalar parameter $x$.
+> Pretty much every named, parameterized distribution you know (other than uniform) is an exponential family.
 
+An exponential family is a parameterized family of distributions. To build our intuition, we start with the simplest case of a single scalar parameter $x$.
 ## Definitions
 
 > [!definition] (Single-parameter exponential family)

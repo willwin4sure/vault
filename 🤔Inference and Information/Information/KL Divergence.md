@@ -1,3 +1,5 @@
+> "Distance" between two distributions, analogous to squared Euclidean distance.
+
 In practice, it is not computationally feasible to implement true beliefs, so they need to be approximated. If $p(\bullet)$ represents the true belief, but we must approximate it with some distribution $q(\bullet)$, then the approximation loss can be expressed as
 $$
 \Delta \mathbb{E}[C(x,q)]=-\mathbb{E}_{p}[\log q(x)]+\mathbb{E}_{p}[\log p(x)]=\mathbb{E}_{p}\left[ \log \frac{p(x)}{q(x)} \right].

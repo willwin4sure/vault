@@ -1,5 +1,6 @@
-This is one method of implementing [[Maximum Likelihood Estimation|maximum likelihood estimation]]. 
+> Alternate between updating your best guess for hidden data and parameters.
 
+This is one method of implementing [[Maximum Likelihood Estimation|maximum likelihood estimation]]. 
 ## Motivation
 
 Suppose we have a mixture of two Gaussians $\mathtt{N}(\mu_{0},\sigma_{0}^{2})$ and $\mathtt{N}(\mu_{1},\sigma_{1}^{2})$. Every observation $y_{n}$ that we see is internally labeled with an extra label $w_{n}\in \{ 0,1 \}$ sampled from a Bernoulli random variable which indicates which distribution it was generated from, but this is unknown to us. 

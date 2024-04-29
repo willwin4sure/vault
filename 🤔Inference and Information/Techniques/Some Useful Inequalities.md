@@ -1,3 +1,5 @@
+> Log-sum and Gibbs'.
+
 > [!theorem] (Csiszár's inequality)
 > Given positive finite-length sequences $a_{1},\dots,a_{N}$ and $b_{1},\dots,b_{N}$ and a strictly convex function $f(\bullet)$, we have
 > $$

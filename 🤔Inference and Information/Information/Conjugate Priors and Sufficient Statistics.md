@@ -1,3 +1,5 @@
+> Conjugate priors only exist for exponential families... one characterization is through sufficient statistics.
+
 In this section, we investigate when conjugate prior families exist.
 
 When $\mathcal{X}$ is finite, it turns out that a conjugate prior family always exists. You can just take the entire simplex $\mathcal{P}^{\mathcal{X}}$ as a $|\mathcal{X}|-1$ parameter family! Continuous alphabets $\mathcal{X}$ are more interesting. One of these is special:

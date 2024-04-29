@@ -65,4 +65,4 @@ A difference in means means a lot, but less so when the variance is large.
 
 ---
 
-**Next:** [[]]
+**Next:** [[Maximally Ignorant Priors]]

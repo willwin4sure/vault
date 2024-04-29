@@ -1,3 +1,5 @@
+> Processing data cannot increase information.
+
 This is a useful information-theoretic interpretation of sufficient statistics.
 
 > [!theorem] (Data Processing Inequality)

@@ -1,3 +1,5 @@
+> Linear subspace of distributions. We'll see that they are orthogonal to exponential families.
+
 The evil twin of [[Single-Parameter Exponential Families|exponential families]]. These are hyperplanes in distribution space.
 
 > [!definition] (Linear family)

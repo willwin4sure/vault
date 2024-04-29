@@ -22,3 +22,12 @@ But what should we do to generate these actions? Some techniques include random 
 ## Cross-Entropy Method
 
 We want to sample from a distribution that shifts towards distributions that generate higher rewards. Suppose we have some parameterized sampling distribution. First, generate $N$ sequences of actions from this distribution, and then pick the top-$J$ that produce the highest sum of rewards (called ==elites==). Then, we fit a new distribution to these elites to gradually shift the sampling distribution to higher rewards.
+
+This is a lot more data efficient than model-free methods.
+
+> [!idea]
+> In standard RL, you also perform rollouts, but if you don't actually receive a good reward, you waste that data. Here, you're at least using it to train a good model of the world.
+
+---
+
+**Next:** [[Inverse Models]]

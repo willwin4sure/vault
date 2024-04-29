@@ -1,3 +1,5 @@
+> Entropy, conditional entropy, and mutual information.
+
 In the [[Generalized Bayesian Decision Theory|last section]], we defined a cost function for generalized Bayesian decision theory. We will focus on the log-loss criterion $C(x,q)=-\log q(x)$: we took $A=1$ and $B(\bullet)=0$. This logarithm can either be taken base $2$ or base $e$, depending on if we want to measure the cost in bits or nats.
 
 ## Entropy

@@ -1,5 +1,6 @@
-Recall the definition of a [[The Likelihood Ratio Test#^8317c7|statistic]] $\boldsymbol{\mathsf{t}}=\mathbf{t}(\boldsymbol{\mathsf{y}})$, which is a random variable that is a deterministic function of the random observation $\boldsymbol{\mathsf{y}}$.
+> Distilling the data without loss.
 
+Recall the definition of a [[The Likelihood Ratio Test#^8317c7|statistic]] $\boldsymbol{\mathsf{t}}=\mathbf{t}(\boldsymbol{\mathsf{y}})$, which is a random variable that is a deterministic function of the random observation $\boldsymbol{\mathsf{y}}$.
 ## Sufficiency
 
 > [!definition] (Sufficient statistic)

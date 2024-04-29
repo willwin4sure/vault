@@ -1,4 +1,4 @@
-We just developed [[Maximally Ignorant Priors|maximally ignorant priors]], which are more easily computable than least informative priors. These are still challenging computationally since they do not support efficient belief updates, e.g. if as more data is gradually acquired.
+We just developed [[Maximally Ignorant Priors|maximally ignorant priors]], which are more easily computable than least informative priors. These are still challenging computationally since they do not support efficient belief updates, e.g. if more data is gradually acquired.
 
 In this section, we develop ==conjugate prior families==, which are particularly amenable to both design and implementation. 
 

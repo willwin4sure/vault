@@ -1,3 +1,5 @@
+> The EM algorithm consists of alternating I- and M-projections.
+
 Here, we provide an information geometric viewpoint on the [[The Expectation Maximization (EM) Algorithm|EM algorithm]]. In particular, it is equivalent to an alternating projections algorithm on the probability simplex.
 
 ## Maximum Likelihood as a Reverse I-Projection
@@ -40,6 +42,8 @@ However, in inference, we see some data $q$ and want to attribute it to some ele
 > $$
 > which we call a reverse I-projection, or a ==M-projection==.
 
+^c8c715
+
 ## Expectation-Maximization as Alternating Projections
 
 Recall that the EM algorithm has the following steps for $\ell=1,2,\dots$
@@ -52,4 +56,14 @@ $$
 $$
 \hat{x}^{(\ell)}=\arg\max_{x}U(x,\hat{x}^{(\ell-1)}).
 $$
+> [!idea]
+> The E-step is saying: use our best guess for the parameters $x$, and take the distribution of $\boldsymbol{\mathsf{z}}$ conditioned on the observation $\boldsymbol{\mathsf{y}}=\mathbf{y}$. Then, compute the log-likelihood of the distribution of $\boldsymbol{\mathsf{z}}$ for some $x$.
+> 
+> The M-step is just saying to pick an $x$ that maximizes this log-likelihood. 
+
+We will assume our complete data is also i.i.d. and discrete-valued, i.e.
+$$
+\boldsymbol{\mathsf{z}}=(\mathsf{z}_{1},\mathsf{z}_{2},\dots,\mathsf{z}_{N})
+$$
+has elements that are drawn from the alphabet $\mathcal{Z}$ according to $p_{\mathsf{z}}(\bullet;x)$. Then, the actual observed data is obtained from the complete data via some deterministic mapping $y_{n}=g(z_{n})$.
 

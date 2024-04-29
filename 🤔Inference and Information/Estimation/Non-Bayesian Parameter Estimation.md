@@ -1,6 +1,6 @@
-> Instead model the parameter as deterministic but unknown. We often seek the minimum variance unbiased estimator, which often is the MLE.
+> Instead model the parameter as deterministic but unknown. We seek the minimum variance unbiased estimator, which often is the MLE.
 
-Oftentimes, it is unnatural to assign a prior distribution to the latent variable of interest, as in the Bayesian framework. 
+It is sometimes unnatural to assign a prior distribution to the latent variable of interest, as in the Bayesian framework. 
 
 Let $\mathbf{x}$ denote the unknown, deterministic vector of parameters that we seek to estimate.
 
@@ -69,6 +69,8 @@ From now on, we restrict our discussion to scalar parameters $x$. The vector par
 > \lambda_{\hat{x}}(x)\geq \lambda_{\hat{x}_{*}}(x),\quad \text{for all }x \in \mathcal{X}.
 > $$
 > Then $\hat{x}_{*}(\bullet)$ is the ==MVU estimator==, denoted $\hat{x}_{MVU}(\bullet)$.
+
+^f76567
 
 > [!warning] (MVU might not exist!)
 > Sometimes, the set $\mathcal{A}$ is empty—there are no valid unbiased estimators. Other times, $\mathcal{A}$ is not empty, but no estimator has a uniformly smaller variance than all others. Some may be better for some $x \in \mathcal{X}$ yet worse for others. 

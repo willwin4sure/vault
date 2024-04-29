@@ -1,3 +1,5 @@
+> Finding the most likely distribution in a family, given a certain model. Also a "triangle inequality" for KL divergence.
+
 In this section, we introduce the notion of an information projection, which tells us which distribution in $\mathcal{P}$ we are least surprised to observe given that our model of the world is $q$.
 
 > [!definition] (I-projection)
@@ -15,7 +17,7 @@ This optimum exists since $D(p\parallel q)$ is nonnegative and continuous in $p$
 
 ^fafb8a
 
-I don't think Pythagoras came up with the next one. 
+I don't think Pythagoras came up with the next one. It builds on the analogy of KL divergence as squared Euclidean distance.
 
 > [!theorem] (Pythagoras' Theorem, Information Version)
 > Let $q$ be any distribution and suppose $p^{*}$ is its I-projection onto a nonempty, closed, convex set $\mathcal{P}$. Then,
