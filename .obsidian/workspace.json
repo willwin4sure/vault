@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🦾Sensorimotor Learning/Off-Policy Methods/Forward and Reverse KL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d15c8ebe684fe02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🤔Inference and Information/Information/Alternating Projections.md",
+                "file": "🤔Inference and Information/Approximative Inference/Monte Carlo Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🦾Sensorimotor Learning/Off-Policy Methods/Forward and Reverse KL.md",
+                "file": "🤔Inference and Information/Approximative Inference/Monte Carlo Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🦾Sensorimotor Learning/Off-Policy Methods/Forward and Reverse KL.md",
+                "file": "🤔Inference and Information/Approximative Inference/Monte Carlo Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🦾Sensorimotor Learning/Off-Policy Methods/Forward and Reverse KL.md"
+                "file": "🤔Inference and Information/Approximative Inference/Monte Carlo Methods.md"
               }
             }
           }
@@ -161,6 +149,20 @@
   },
   "active": "b0415d6cb67a6ab2",
   "lastOpenFiles": [
+    "🤔Inference and Information/Approximative Inference/Markov Chain Monte Carlo (MCMC).md",
+    "🖥️Computer Systems Engineering/Security/Meltdown.md",
+    "🖥️Computer Systems Engineering/Security",
+    "🤔Inference and Information/Approximative Inference/Monte Carlo Methods.md",
+    "🦾Sensorimotor Learning/On-Policy Learning/Proximal Policy Optimization.md",
+    "🦾Sensorimotor Learning/On-Policy Learning/Variance Reduction.md",
+    "🦾Sensorimotor Learning/On-Policy Learning/Trust Region Policy Optimization.md",
+    "🤔Inference and Information/Approximative Inference/⛺Approximative Inference Homepage.md",
+    "🤔Inference and Information/Information/⛺Information Homepage.md",
+    "🤔Inference and Information/Information/Moment Matching.md",
+    "🤔Inference and Information/Techniques/Single-Parameter Exponential Families.md",
+    "🤔Inference and Information/Techniques/Local Families of Distributions.md",
+    "🤔Inference and Information/Techniques/Multi-Parameter Exponential Families.md",
+    "🤔Inference and Information/🤔Inference and Information Portal.md",
     "🤔Inference and Information/Information/Alternating Projections.md",
     "🦾Sensorimotor Learning/Off-Policy Methods/Forward and Reverse KL.md",
     "🦾Sensorimotor Learning/Off-Policy Methods/Deep Q-learning.md",
@@ -176,19 +178,6 @@
     "🦾Sensorimotor Learning/Off-Policy Methods/Value Iteration.md",
     "🤔Inference and Information/Information/Conjugate Prior Families for Exponential Families.md",
     "🤔Inference and Information/Information/Conjugate Priors and Sufficient Statistics.md",
-    "🤔Inference and Information/Information/Conjugate Priors.md",
-    "🤔Inference and Information/Information/Maximally Ignorant Priors.md",
-    "🤔Inference and Information/Information/Information Measures for Gaussians.md",
-    "🤔Inference and Information/Information/Continuous Information Theory.md",
-    "🤔Inference and Information/Information/Mixture Models.md",
-    "🤔Inference and Information/Information/Modeling as Inference.md",
-    "🤔Inference and Information/Information/Orthogonal Families.md",
-    "🤔Inference and Information/Information/Linear Families.md",
-    "🤔Inference and Information/Information/The Probability Simplex.md",
-    "🤔Inference and Information/Information/Other Divergence Families.md",
-    "🤔Inference and Information/Information/KL Divergence.md",
-    "🤔Inference and Information/Information/The Data Processing Inequality.md",
-    "🤔Inference and Information/Information/Information Measures.md",
     "Pasted image 20240421235932.png",
     "🦾Sensorimotor Learning/Off-Policy Methods",
     "📉Macroeconomics/img/output_capital_dynamics_growth.png",

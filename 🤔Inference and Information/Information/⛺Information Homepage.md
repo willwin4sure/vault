@@ -39,5 +39,8 @@ Then, we return to a discussion of modeling. We talk more about priors and how t
 Finally, we return to the technique of the [[The Expectation Maximization (EM) Algorithm|EM algorithm]] and provide an information-geometric viewpoint of it.
 
 18. [[Alternating Projections]]
+19. [[Moment Matching]]
 
 ---
+
+**Next:** [[⛺Approximative Inference Homepage]]
