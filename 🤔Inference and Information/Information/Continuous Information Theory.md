@@ -8,6 +8,8 @@ So far, we've been working in the case of discrete random variables. Let's exten
 > h(\mathsf{x})=-\int_{-\infty}^{\infty} p_{\mathsf{x}}(x)\log p_{\mathsf{x}}(x) \, dx.
 > $$
 
+^94ad12
+
 > [!warning]
 > Differential entropy is no longer nonnegative in general! For example, consider a uniform distribution on $(0,\Delta)$. The entropy is $\log\Delta$, which is negative when $\Delta<1$.
 

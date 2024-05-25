@@ -22,6 +22,8 @@ The evil twin of [[Single-Parameter Exponential Families|exponential families]].
 > =\mathbf{0}.
 > $$
 
+^cdaf8f
+
 Therefore, $\mathcal{P}$ is just the intersection of the null space of the matrix $\tilde{\mathbf{T}}$ with the simplex $\mathcal{P}^{\mathcal{Y}}$. By convention, we will assume that this is always nonempty.
 
 > [!claim] (Linear families form convex sets)

@@ -6,4 +6,23 @@ In this section of the course, we explore approximation tools to handle this com
 
 ## Main Sequence
 
+Stochastic approximation techniques.
+
 1. [[Monte Carlo Methods]]
+2. [[Markov Chain Monte Carlo (MCMC)]]
+
+Asymptotic approximation framework.
+
+4. [[Typicality]]
+5. [[Large Deviations and Cramér's Theorem]]
+6. [[Method of Types]]
+7. [[Sanov's Theorem]]
+
+Asymptotic approximation analysis.
+
+8. [[Asymptotics of Hypothesis Testing]]
+9. [[Convergence of Random Sequences]]
+10. [[Asymptotics of Non-Bayesian Parameter Estimation]]
+11. [[Asymptotics of Bayesian Parameter Estimation]]
+12. [[Universal Inference]]
+13. [[Variational Inference]]

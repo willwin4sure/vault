@@ -25,6 +25,8 @@ Now, in such i.i.d. models, the *ordering* of our data carries no information ab
 > $$
 > This is just writing $\hat{p}_{\boldsymbol{\mathsf{y}}}(b;\mathbf{y})$ as the fraction of times the symbol $b$ appears in the sequence $\mathbf{y}$.
 
+^3b50bd
+
 This is a sufficient statistic for our data.
 
 Remember when we introduced the [[Information Projection and Pythagoras' Theorem#^936604|I-projection]] we [[Information Projection and Pythagoras' Theorem#^fafb8a|remarked]] that it was the "morally incorrect" thing to do for inference. In particular, it took a distribution $q$ and projected it to $p^{*}\in \mathcal{P}$ by considering $p^{*}=\arg\min_{p \in \mathcal{P}}D(p\parallel q)$, which is **treating $q$ as our model and seeing which $p$ we'd be least surprised to see**.

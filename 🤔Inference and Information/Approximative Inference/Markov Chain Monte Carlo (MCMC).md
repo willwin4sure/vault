@@ -31,6 +31,5 @@ Clearly M-H is optimal: theoretically you could scale each pair of acceptances d
 
 ---
 
-
-
+**Next:** [[Typicality]]
 

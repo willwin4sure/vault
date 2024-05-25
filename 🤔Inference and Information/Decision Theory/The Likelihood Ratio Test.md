@@ -42,6 +42,8 @@ Then, the optimal decision rule minimizes the expected cost.
 > $$
 > i.e. the decision is $H_{1}$ if $L(\mathbf{y})>\eta$ and $H_{0}$ if $L(\mathbf{y})<\eta$, and arbitrary if equal.
 
+^ae30e6
+
 > [!proof]-
 > In order to minimize $\varphi(f)$, we should just minimize pointwise by $\mathbf{y}$, i.e. given any observation, figure out what to predict that minimizes the expected cost
 > $$

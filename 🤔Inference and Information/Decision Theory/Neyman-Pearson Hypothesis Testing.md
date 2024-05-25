@@ -6,6 +6,9 @@ An alternative idea is to maximize $P_{D}$ subject to some constraint on $P_{F}$
 $$
 \text{argmax}_{\hat{H}(\bullet)}P_{D}\quad\text{subject to }P_{F}\leq \alpha.
 $$
+
+^d61b40
+
 This is called the ==Neyman-Pearson criterion==.
 
 > [!theorem] (Neyman-Pearson Lemma, Deterministic Version)
