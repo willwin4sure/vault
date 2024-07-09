@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5497dbb6a20c04b0",
+        "id": "aa40d026a02db4b5",
         "type": "tabs",
         "children": [
           {
-            "id": "6ec2a4e1658fe5cc",
+            "id": "46c1f0299e36674a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🤔Inference and Information/Approximative Inference/Variational Inference.md",
+                "file": "🖥️Computer Systems Engineering/Distributed Systems/MapReduce.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🤔Inference and Information/Approximative Inference/Variational Inference.md",
+                "file": "🖥️Computer Systems Engineering/Distributed Systems/MapReduce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🤔Inference and Information/Approximative Inference/Variational Inference.md",
+                "file": "🖥️Computer Systems Engineering/Distributed Systems/MapReduce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🤔Inference and Information/Approximative Inference/Variational Inference.md"
+                "file": "🖥️Computer Systems Engineering/Distributed Systems/MapReduce.md"
               }
             }
           }
@@ -147,9 +147,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6ec2a4e1658fe5cc",
+  "active": "46c1f0299e36674a",
   "lastOpenFiles": [
+    "🖥️Computer Systems Engineering/Distributed Systems/img/mapreduce.png",
+    "🖥️Computer Systems Engineering/Distributed Systems/MapReduce.md",
+    "🖥️Computer Systems Engineering/Distributed Systems/img",
     "🤔Inference and Information/Approximative Inference/Universal Inference.md",
+    "📏Measures and Probability/Measures/Independence.md",
+    "🤔Inference and Information/Approximative Inference/Variational Inference.md",
     "🤔Inference and Information/Approximative Inference/Asymptotics of Bayesian Parameter Estimation.md",
     "🤔Inference and Information/Approximative Inference/Asymptotics of Non-Bayesian Parameter Estimation.md",
     "🤔Inference and Information/Approximative Inference/Convergence of Random Sequences.md",
@@ -162,7 +167,6 @@
     "🤔Inference and Information/Approximative Inference/Monte Carlo Methods.md",
     "🦾Sensorimotor Learning/On-Policy Learning/Trust Region Policy Optimization.md",
     "🤔Inference and Information/Approximative Inference/⛺Approximative Inference Homepage.md",
-    "🤔Inference and Information/Approximative Inference/Variational Inference.md",
     "🤔Inference and Information/Information/⛺Information Homepage.md",
     "🤔Inference and Information/Information/Moment Matching.md",
     "🤔Inference and Information/Information/Alternating Projections.md",
@@ -172,9 +176,6 @@
     "🤔Inference and Information/Information/Maximally Ignorant Priors.md",
     "🤔Inference and Information/Information/Generalized Bayesian Decision Theory.md",
     "🤔Inference and Information/Techniques/Multi-Parameter Exponential Families.md",
-    "🤔Inference and Information/Decision Theory/Minimax Hypothesis Testing.md",
-    "🤔Inference and Information/Information/KL Divergence.md",
-    "🤔Inference and Information/Information/The Data Processing Inequality.md",
     "🤔Inference and Information/Approximative Inference/img/npdivergences.png",
     "🤔Inference and Information/Approximative Inference/img/bayesdivergences.png",
     "🤔Inference and Information/Approximative Inference/img/hypothesisdivergences.png",
@@ -188,7 +189,6 @@
     "📉Macroeconomics/img/output_capital_dynamics_growth.png",
     "📉Macroeconomics/img/unemployment_larger_z.png",
     "📉Macroeconomics/img/output_capital_dynamics.png",
-    "📉Macroeconomics/img/is_lm_expectations.png",
     "💻Programming/Typescript/Untitled",
     "🤔Inference and Information/Approximative Inference"
   ]
