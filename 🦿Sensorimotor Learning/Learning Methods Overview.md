@@ -83,5 +83,5 @@ Finally, we there are concerns with **safety during training and deployment**. F
 
 ---
 
-**Next:** [[🦾Sensorimotor Learning Portal]]
+**Next:** [[🦿Sensorimotor Learning Portal]]
 
