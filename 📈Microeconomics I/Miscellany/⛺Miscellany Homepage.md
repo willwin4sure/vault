@@ -1,6 +1,6 @@
 #MIT #economics 
 
-*From the [[📈Microeconomics Portal]].*
+*From the [[📈Microeconomics I Portal]].*
 
 A few remaining topics from the class that were hard to classify, and each were only devoted a single lecture to. Not to say that they aren't important: **many of these topics are very cool!** I just couldn't find a good section to place them into.
 ## Main Sequence
@@ -27,4 +27,4 @@ Our professor Jonathan Gruber was a key architect in Romneycare and Obamacare (t
 
 ---
 
-**Next:** [[📈Microeconomics Portal]]
+**Next:** [[📈Microeconomics I Portal]]

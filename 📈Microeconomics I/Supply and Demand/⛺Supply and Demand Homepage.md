@@ -3,7 +3,7 @@
 > All models are wrong but some are useful.
 > — George Box
 
-*From the [[📈Microeconomics Portal]].*
+*From the [[📈Microeconomics I Portal]].*
 
 Microeconomics is the study of how individuals and firms make themselves as well off as possible in a world of **scarcity**.
 

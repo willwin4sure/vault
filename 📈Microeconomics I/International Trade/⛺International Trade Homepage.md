@@ -1,6 +1,6 @@
 #MIT #economics 
 
-*From the [[📈Microeconomics Portal]].*
+*From the [[📈Microeconomics I Portal]].*
 
 In this section, we discuss the topic of international trade. This is a rather important topic for the state of global politics.
 ## Main Sequence

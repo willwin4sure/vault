@@ -1,6 +1,6 @@
 #MIT #economics 
 
-*From the [[📈Microeconomics Portal]].*
+*From the [[📈Microeconomics I Portal]].*
 
 Where do the wage $w$ and the rental rate $r$ come from in [[Production and Costs#^d16137|producer theory]]? Answering these questions leads to two new subfields of economics: labor economics (the study of labor markets) and finance (the study of capital markets).
 

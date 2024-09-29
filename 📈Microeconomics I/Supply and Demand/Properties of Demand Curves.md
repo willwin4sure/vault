@@ -10,7 +10,7 @@ On the left, we see how the [[Utility and Budget#^c6e391|budget constraint]] var
 
 * The further out the red line, the cheaper $X$ is.
 * The green lines indicate the [[Utility and Budget#^b7bdc2|indifference curves]] that are tangent to each budget constraint.
-* The blue dots indicate the optimal bundles for each price of $X$. Their locus forms the <span style="color:#0088ff">price-consumption curve</span>.
+* The blue dots indicate the optimal bundles for each price of $X$. Their locus forms the <span style="color:#0088ff">price-consumption curve</span>. ^006e5a
 
 In this example, we have a flat price-consumption curve, in light of a [[Utility and Budget#^5f0f0d|remark from the previous section]], where we noted that for utility functions of the type $\mathcal{U}(x,y)=x^\alpha y^\beta$, the price of goods does not affect the proportion of budget spent on each good (hence the same is spent on $y$ regardless of $p_{X}$).
 
@@ -58,6 +58,8 @@ This one measures how much income changes impact the quantity demanded.
 > [!definition] Definition (Normal and inferior goods; luxuries and necessities)
 > If $\gamma$ is positive, then we call the good <span style="color:#0088ff">normal</span>; otherwise, we call it <span style="color:#0088ff">inferior</span>. Further, if $\gamma<1$, then we call the good a <span style="color:#0088ff">necessity</span>; otherwise, we call it a <span style="color:#0088ff">luxury</span>.
 
+^4b3618
+
 > [!example]
 > Most goods are normal. One example of an inferior good is potatoes: you substitute away from them so much as your income goes up that consumption falls.
 
@@ -95,7 +97,7 @@ The income effect is computed by considering the change from this imaginary budg
 | Inferior     | <font style="color:lime">Price Rises</font>  | <font style="color:red">Negative</font>            | <font style="color:lime">Positive</font>      | <font style="color:yellow">Unknown</font>     |
 | Inferior     | <font style="color:red">Price Falls</font>  | <font style="color:lime">Positive</font>            | <font style="color:red">Negative</font>      | <font style="color:yellow">Unknown</font>     |
 
-In the case of an inferior good where the income effect overcomes the substitution effect, we get a <span style="color:#0088ff">Giffen good</span>, which has an upwards-sloping demand curve! These used to be a myth, but now there is some convincing evidence that these may actually exist in specific circumstances.
+In the case of an inferior good where the income effect overcomes the substitution effect, we get a <span style="color:#0088ff">Giffen good</span>, which has an upwards-sloping demand curve! These used to be a myth, but now there is some convincing evidence that these may actually exist in specific circumstances. ^f07f2e
 
 ---
 
