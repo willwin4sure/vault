@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Theory/Dominance.md",
+                "file": "🎮Game Theory/Dominance.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b46068cbe9ea4341",
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Theory/Dominance.md",
+                "file": "🎮Game Theory/Dominance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Theory/Dominance.md",
+                "file": "🎮Game Theory/Dominance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Theory/Dominance.md"
+                "file": "🎮Game Theory/Dominance.md"
               }
             }
           }
@@ -149,13 +147,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9e5121f33cfb0080",
+  "active": "7b8958fc77ca60a8",
   "lastOpenFiles": [
-    "Game Theory/Rationalizability.md",
-    "Game Theory/Dominance.md",
-    "Game Theory/Representation of Games.md",
-    "Game Theory/img/tmb_lr.png",
-    "Game Theory/img/stag_hunt.png",
+    "🎮Game Theory/Rationalizability.md",
+    "🎮Game Theory/Dominance.md",
+    "🎮Game Theory/Representation of Games.md",
+    "🎮Game Theory/img/tmb_lr.png",
+    "🎮Game Theory/img/stag_hunt.png",
     "🤔Inference and Information/Decision Theory/Minimax Hypothesis Testing.md",
     "🤔Inference and Information/Decision Theory/Randomized Decision Rules.md",
     "🤔Inference and Information/Decision Theory/⛺Decision Theory Homepage.md",
@@ -182,12 +180,12 @@
     "🖥️Computer Systems Engineering/Operating Systems/⛺Operating Systems Homepage.md",
     "📈Microeconomics II",
     "Deep Learning/img/supervised_learning.png",
-    "Game Theory/img/battle_sexes_norm.png",
-    "Game Theory/img/battle_sexes_ext.png",
-    "Game Theory/img",
-    "Game Theory",
-    "Deep Learning/img",
-    "Deep Learning",
+    "🎮Game Theory/img/battle_sexes_norm.png",
+    "🎮Game Theory/img/battle_sexes_ext.png",
+    "🎮Game Theory/img",
+    "🎮Game Theory",
+    "🧠Deep Learning/img",
+    "🧠Deep Learning",
     "🗃️Database Systems/img/database_internals.png",
     "🗃️Database Systems/img",
     "🚀Performance Engineering",
