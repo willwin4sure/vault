@@ -1,2 +1,2 @@
-1. [[📈Microeconomics Portal]]
-2. [[📉Macroeconomics Portal]]
+1. [[📈Microeconomics I Portal]]
+2. [[📉Macroeconomics I Portal]]

@@ -21,7 +21,7 @@ Then, in order to prove several important theorems, we will need to specialize t
 4. [[Gaussian Convolutions]]
 5. [[Uniqueness and Inversion]]
 
-Afterwards, we define the leveled up Fourier transform that gives us a Hilbert automorphism on all of $\mathcal{L}^{2}$ (it's a unitary operator!).
+Afterwards, we define the leveled-up Fourier transform that gives us a Hilbert automorphism on all of $\mathcal{L}^{2}$ (it's a unitary operator!).
 
 6. [[Fourier Transform in L2]]
 

@@ -3,7 +3,7 @@
 > For a function $f:\mathbb{R}\to \mathbb{R}$, we say that it is ==$\alpha$-Hölder continuous== if there exists some global constant $C$ such that $|f(x)-f(y)|\leq C|x-y|^{\alpha}$ for all $x,y\in \mathbb{R}$. 
 
 > [!remark]
-> The case of $\alpha=1$ is the Lipschitz condition. If $\alpha>1$, then the only such functions are constant.
+> The case of $\alpha=1$ is the [[Universal Approximation#^bb2604|Lipschitz condition]]. If $\alpha>1$, then the only such functions are constant.
 
 ## Statement
 

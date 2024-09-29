@@ -8,7 +8,7 @@ These are small and private to each thread. There are at most 1024 threads per b
 
 ### L1/Shared Memory (SMEM)
 
-Every SM has a fast, on-chip scratchpad memory that can be used as an L1 cache and shared memory. All threads in a block can share shared memory, and all CUDA blocks running on a given SM can share the physical memory resource. This memory is why you should have threads in the same block working on localized data for efficiency. For example, if you take the [[Introduction#GPU Optimization|introduction example]] and flip the indexing in the kernel code to
+Every SM has a fast, on-chip scratchpad memory that can be used as an L1 cache and shared memory. All threads in a block can share shared memory, and all CUDA blocks running on a given SM can share the physical memory resource. This memory is why you should have threads in the same block working on localized data for efficiency. For example, if you take the [[💻Programming/CUDA/Introduction#GPU Optimization|introduction example]] and flip the indexing in the kernel code to
 
 ```cpp
 int index = threadIdx.x * gridDim.x + blockIdx.x;
