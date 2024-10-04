@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🎮Game Theory/Dominance.md",
+                "file": "🚀Performance Engineering/Vectorization.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "best response",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🎮Game Theory/Dominance.md",
+                "file": "🚀Performance Engineering/Vectorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🎮Game Theory/Dominance.md",
+                "file": "🚀Performance Engineering/Vectorization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🎮Game Theory/Dominance.md"
+                "file": "🚀Performance Engineering/Vectorization.md"
               }
             }
           }
@@ -147,13 +147,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7b8958fc77ca60a8",
+  "active": "9e5121f33cfb0080",
   "lastOpenFiles": [
-    "🎮Game Theory/Rationalizability.md",
+    "🚀Performance Engineering/img/vector_register_aliases.png",
+    "🚀Performance Engineering/Bentley Rules.md",
+    "🚀Performance Engineering/Vectorization.md",
+    "🚀Performance Engineering/img/vectorization_history.png",
+    "🚀Performance Engineering/New folder",
+    "🚀Performance Engineering/Computer Architecture.md",
+    "🚀Performance Engineering/x86-64 Primer.md",
+    "🚀Performance Engineering/History of Performance.md",
+    "🗃️Database Systems/Databases.md",
+    "🗃️Database Systems/img/er_zoo.png",
+    "🗃️Database Systems/Database Internals.md",
+    "📏Measures and Probability/Norms and Inequalities/Lp Norms.md",
+    "📏Measures and Probability/Norms and Inequalities/⛺Norms and Inequalities Homepage.md",
+    "📏Measures and Probability/Norms and Inequalities/Chebyshev's Inequality.md",
+    "🚀Performance Engineering/Tooling.md",
+    "🚀Performance Engineering/img/haswell.png",
+    "🚀Performance Engineering/img/5stage.png",
+    "Pasted image 20240930014225.png",
+    "🚀Performance Engineering/img/opcodes.png",
+    "🚀Performance Engineering/img/register_aliasing.png",
+    "🚀Performance Engineering/img/registers.png",
+    "🚀Performance Engineering/img/x86.png",
+    "🚀Performance Engineering/Bit Hacks.md",
+    "🚀Performance Engineering/Matrix Multiplication.md",
+    "🚀Performance Engineering/Rotating a Bit Matrix.md",
+    "🚀Performance Engineering/img/specs.png",
+    "🚀Performance Engineering/img",
+    "🚀Performance Engineering/Introduction.md",
     "🎮Game Theory/Dominance.md",
+    "🎮Game Theory/Rationalizability.md",
     "🎮Game Theory/Representation of Games.md",
-    "🎮Game Theory/img/tmb_lr.png",
-    "🎮Game Theory/img/stag_hunt.png",
     "🤔Inference and Information/Decision Theory/Minimax Hypothesis Testing.md",
     "🤔Inference and Information/Decision Theory/Randomized Decision Rules.md",
     "🤔Inference and Information/Decision Theory/⛺Decision Theory Homepage.md",
@@ -161,38 +187,13 @@
     "📈Microeconomics I/Factor Markets/Capital Markets.md",
     "🏠Home.md",
     "📈Microeconomics I/International Trade/⛺International Trade Homepage.md",
-    "📈Microeconomics I/International Trade/When and Why to Trade.md",
-    "📈Microeconomics II/Indirect Utility and Expenditure.md",
-    "📈Microeconomics II/Consumer Choice and Demand.md",
-    "📈Microeconomics II/Optimization.md",
-    "📈Microeconomics I/Supply and Demand/Properties of Demand Curves.md",
-    "📈Microeconomics I/Supply and Demand/Firms in Competition.md",
-    "📈Microeconomics I/Monopoly and Oligopoly/Monopoly.md",
-    "📈Microeconomics I/Supply and Demand/Utility and Budget.md",
-    "📈Microeconomics I/Supply and Demand/Surpluses and Welfare Economics.md",
-    "📈Microeconomics II/📈Microeconomics II Portal.md",
-    "📈Microeconomics I/Supply and Demand/Supply and Demand Curves.md",
-    "📈Microeconomics I/Supply and Demand/⛺Supply and Demand Homepage.md",
-    "📈Microeconomics II/img/envelope.jpg",
     "📈Microeconomics II/img",
-    "🖥️Computer Systems Engineering/Operating Systems/Virtual Memory.md",
-    "🖥️Computer Systems Engineering/Security/Meltdown.md",
-    "🖥️Computer Systems Engineering/Operating Systems/⛺Operating Systems Homepage.md",
     "📈Microeconomics II",
-    "Deep Learning/img/supervised_learning.png",
-    "🎮Game Theory/img/battle_sexes_norm.png",
-    "🎮Game Theory/img/battle_sexes_ext.png",
     "🎮Game Theory/img",
     "🎮Game Theory",
     "🧠Deep Learning/img",
     "🧠Deep Learning",
-    "🗃️Database Systems/img/database_internals.png",
     "🗃️Database Systems/img",
-    "🚀Performance Engineering",
-    "🗃️Database Systems",
-    "🔄Fourier Analysis on Finite Groups",
-    "🖥️Computer Systems Engineering/Distributed Systems/img/mapreduce.png",
-    "🤔Inference and Information/Approximative Inference/img/npdivergences.png",
-    "🤔Inference and Information/Approximative Inference/img/bayesdivergences.png"
+    "🚀Performance Engineering"
   ]
 }

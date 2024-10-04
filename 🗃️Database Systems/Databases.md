@@ -1,13 +1,13 @@
-A ==database== is a structured data collection holding records and their relationships.
-
-This class is about database management systems.
+A ==database== is a structured data collection holding records and their relationships. This class is about database management systems.
 
 > [!example]
 > AWS Aurora is a cloud-managed OLTP DBMS. 
 
-## Zoo Data Model
+## Case Study: Zoo Data Model
 
-Entity relationship diagram for a database about a zoo.
+Suppose you are a database engineer for a zoo. 
+
+![[er_zoo.png|center|512]]
 
 Three core ==entities== will be animals, cages, and keepers. These have properties:
 
