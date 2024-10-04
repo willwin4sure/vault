@@ -1,3 +1,5 @@
+> Notes on various tooling we use for 6.106.
+
 ## Compilation
 
 We use `clang` for compilation of C files. For example:
@@ -33,7 +35,7 @@ telerun gdb -ex run -ex bt -batch ./matrix_multiply
 
 `tbassert` is a useful package for assert statements.
 
-## Sanitizers and Valgrind
+## Sanitizers and Valgrind Leak Check
 
 Look for memory leaks and other bugs.
 
@@ -65,6 +67,24 @@ python clint.py path-to-directory/*
 
 ## Perf
 
+Performance profiler for Linux systems. First compile with `DEBUG=1` and then run
 
+```bash
+make isort DEBUG=1
+telerun perf record ./isort 10000 10
+perf report
+```
+
+You will need a local `perf` to read the report.
 
 ## Cachegrind
+
+Cache and branch-prediction profiler within the Valgrind tool suite.
+
+```bash
+make sum LOCAL=1
+valgrind --tool=cachegrind --cache-sim=yes --branch-sim=yes ./sum
+```
+
+This may depend on the size of the cache of your virtual machine.
+

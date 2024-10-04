@@ -1,3 +1,5 @@
+> Case study on matrix multiplication.
+
 Suppose we are interested in multiply two $n$-by-$n$ matrices $A$ and $B$ to get a result $C$. This amounts to
 $$
 c_{ij}=\sum_{k=1}^{n}a_{ik}b_{kj},
@@ -6,7 +8,7 @@ which naively takes $\mathcal{O}(n^3)$ operations. This is the foundation of all
 
 ## Hardware Constraints
 
-TODO: insert image
+![[specs.png|center|512]]
 
 The peak performance can be calculated as
 $$

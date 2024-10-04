@@ -1,3 +1,4 @@
+> Tricks to manipulate bits. Less relevant in the days of good compilers.
 ## Problems
 
 Signed integers are represented in two's complement (in particular, `~x + x = -1`). This allows the hardware to treat them identically to unsigned integers for various operations.
@@ -152,11 +153,9 @@ This also gives an efficient way to check if `x` is a power of `2` (see if it is
 
 > [!example]
 > Compute the population count of `x`, i.e. the number of set bits.
-
-[!proof]- Solution
-There is a compiler built-in nowadays.
-
-Parallel divide-and-conquer.
+	
+> [!proof]- Solution
+> There is a compiler built-in nowadays. There is a fast divide-and-conquer technique though.
 
 > [!question]
 > How can you use the built-in pop count to determine the `lg` of a power of `2`?
@@ -168,3 +167,9 @@ Parallel divide-and-conquer.
 The basic algorithm uses recursive backtracking search by attempting to place a queen on each row. This is a simple recursive procedure, but how should we represent the board to facilitate Queen placement?
 
 Let's make our algorithm generalizable for arbitrary board sizes up to `32`. The basic idea is to just have a bitmask of length `n` for the columns and two bitmasks of length `2 * n - 1` for the diagonals.
+
+TODO
+
+---
+
+**Next:** [[Bentley Rules]]

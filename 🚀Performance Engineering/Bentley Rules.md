@@ -116,11 +116,11 @@ over some other order.
 
 > Replace a sequence of tests with one test or switch.
 
-This avoids having multiple branches in sequence. For example, if you have three boolean values `a`, `b`, and `c` and need to bifurcate on each in sequence, you can instead compute a single value `(a << 2) | (b << 1) | c` and then running a `switch` statement on it.
+This avoids having multiple branches in sequence. For example, if you have three boolean values `a`, `b`, and `c` and need to bifurcate on each in sequence, you can instead compute a single value `(a << 2) | (b << 1) | c` and then run a `switch` statement on it.
 
 ## Loops
 
-Loops are very important since usually the hot path runs through them. Most of the work happens in loops! If we didn't have loops, huge programs would only run for seconds!
+Loops are very important since usually the hot path runs through them. Most of the work happens in loops! If we didn't have loops, even huge programs would only run for seconds!
 
 ### Loop Unrolling
 
@@ -169,3 +169,7 @@ If the last thing you do is call yourself, instead just go back to the top and r
 ### Coarsening Recursion
 
 > Increase the size of the base case and handle it with more efficient code!
+
+---
+
+**Next:** [[x86-64 Primer]]

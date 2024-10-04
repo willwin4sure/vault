@@ -8,7 +8,7 @@ In the past, machines were extremely slow so performance was vital. However, a l
 > Premature optimization is the root of all evil.
 > — Donald Knuth
 
-Knuth was actually *defending* software performance optimization, but only doing so *late* in the process of development, so you know where the hot paths are.
+Knuth was actually *defending* software performance optimization, but only doing the practice of doing so *late* in the process of development, so you know where the hot paths are.
 
 ## Multicore Computing
 

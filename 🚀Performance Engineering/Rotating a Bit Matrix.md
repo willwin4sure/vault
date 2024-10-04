@@ -1,1 +1,0 @@
-Row-column-row theorem.
