@@ -1,6 +1,6 @@
-You should remember how to solve single-variable constrained optimization problems using first and second order methods.
+> Lagrange multipliers and the envelope theorem.
 
-We will handle some more advanced cases.
+You should remember how to solve single-variable constrained optimization problems using first and second order methods. We will handle some more advanced cases.
 
 ## Lagrange's Method
 
@@ -27,7 +27,7 @@ Note that if $c\neq g(\mathbf{x})$, then you could set $\lambda\to \pm \infty$ t
 
 This ratio of marginal benefit per marginal cost is precisely $\lambda ^{*}$, which we call the ==shadow value==: it's how much extra benefit $f$ you get per incurred cost $g$ (imagine $f$ was utility and $g$ budget). Again, all variables must have the same shadow value.
 
-Suppose you solved the optimization problem for various values of $c$ and got optimal values
+In other words: suppose you solved the optimization problem for various values of $c$ and got optimal values
 $$
 V(c)=f(\mathbf{x}^{*}(c)),
 $$
@@ -66,7 +66,7 @@ but the first term is zero at the optimum $x^{*}$.
 > 
 > ![[envelope.jpg|center|512]]
 > 
-> Now, the upper envelope of these curves is the value function $V(a)$. Now at any $a$, the derivative of the blue curve matches the derivative of the highest corresponding green curve!
+> Now, the upper envelope of these curves is the value function $V(a)$. At any $a$, the derivative of the blue curve matches the derivative of the highest corresponding green curve!
 
 > [!example]
 > Suppose $f(x;a)=-x^{2}+ax$ and $x^{*}(a)$ is the $x$ that maximizes $f(x;a)$ given an $a$. Then, write $V(a)=f(x^{*}(a);a)$. Compute $\frac{dV(a)}{da}$.
@@ -93,8 +93,6 @@ $$
 > \frac{df(x^{*},y^{*};a)}{da}=\frac{ \partial \mathcal{L}(x^{*},y^{*},\lambda ^{*};a) }{ \partial a }.
 > $$
 
-Unfortunately I don't have an intuitively pleasing explanation of this. However it's rather simple and can be derived using Lagrange's method.
-
 > [!proof]-
 > The total derivative on the left hand side can be expanded as
 > $$
@@ -114,8 +112,8 @@ Unfortunately I don't have an intuitively pleasing explanation of this. However 
 > $$
 > as desired.
 
-One thing to note is that the replacement of $f$ with the Lagrangian $\mathcal{L}$ only does something if the constraint $g$ varies with $a$; this is what accounts for the difference, and we need to multiply by the shadow value $\lambda ^{*}$ to transition from constraint space to value space.
+The replacement of $f$ with the Lagrangian $\mathcal{L}$ only does something if the constraint $g$ varies with $a$. This is what accounts for the difference, and we need to multiply by the shadow value $\lambda ^{*}$ to transition from units of constraint to units of value.
 
 ---
 
-**Next:** [[Consumer Choice and Demand]]
+**Next:** [[Marshallian Demand and Indirect Utility]]

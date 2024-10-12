@@ -49,6 +49,8 @@ This allows us to write down several key definitions.
 > [!definition] Definition (Total/marginal costs)
 > <span style="color:#0088ff">Total costs</span> $C(q)$ are the sum of fixed and variable costs. <span style="color:#0088ff">Marginal cost</span> is the change in cost for the next unit of output, i.e. $\frac{ dC(q) }{ dq }$.
 
+^ff9db8
+
 We also have the terms <span style="color:#0088ff">average costs</span>, <span style="color:#0088ff">average fixed costs</span>, and <span style="color:#0088ff">average variable costs</span>, which are exactly what they sound like (divide by units produced).
 
 Let's graph some of these quantities from the previous example.

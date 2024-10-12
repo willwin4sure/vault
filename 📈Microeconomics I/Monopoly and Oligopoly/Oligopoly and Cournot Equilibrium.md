@@ -10,6 +10,8 @@ Prisoner's dilemma literally appears in economics in the example of advertising 
 How do we solve this problem? Well, we make it a *repeated game*. Blah blah, you've heard this.
 ## Cournot Model
 
+^3d012e
+
 This is one model of noncooperative oligopolistic equilibria based off of Nash equilibria. We will consider two competing firms in the market, and each firm can decide what quantity to produce. 
 
 > [!definition] Definition (Cournot equilibrium)
@@ -71,9 +73,11 @@ Note that in aggregate, they are producing $128$ flights, which is greater than 
 
 ## Bertrand Model
 
+^d5d3f1
+
 This is an alternative to the Cournot model, where instead of firms competing on quantity, they compete on price. In this case, even two firms is enough for the equilibrium to become perfectly competitive (they can keep undercutting each other marginally above marginal cost), unlike above where we need $n\to \infty$ firms.
 
-Which model should we use? Depends on the market. Price competition is more likely when you can instantaneously meet demand (like in the cereal market). Quantity competition is more likely when there are lags (like in the automobile market).
+Which model should we use? Depends on the market. Price competition is more likely when you can instantaneously meet demand (like in the cereal market). Quantity competition is more likely when there are lags (like in the automobile market). ^3b81d5
 
 ## Product Differentiation
 

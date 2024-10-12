@@ -3,6 +3,8 @@ A market is a place where buyers and sellers come together to negotiate transact
 > [!definition] Definition (Supply curve)
 > The <span style="color:#0088ff">quantity supplied</span> $Q_{s}(P)$ specifies the amount of quantity producers, in aggregate, are willing to supply, given a certain price. 
 
+^9dfd5e
+
 > [!definition] Definition (Demand curve)
 > The <span style="color:#0088ff">quantity demanded</span> $Q_{d}(P)$ specifies the amount of quantity consumers, in aggregate, are willing to pay for, given a certain price.
 
@@ -28,6 +30,8 @@ Generally, we plot these on the same graph, with axes $P$ and $Q$:
 
 > [!definition] Definition (Equilibrium)
 > We call the point where $Q_{s}(P)=Q_{d}(P)$ the <span style="color:#0088ff">market equilibrium</span>. This is the point at which both producers and consumers are happy to engage in the market transaction.
+
+^7a4c9d
 
 > [!idea]
 > Perfectly competitive open markets converge to the equilibrium price and quantity.
