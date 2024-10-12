@@ -79,6 +79,8 @@ Denote $s_{-i}$ as the strategy profile of all players other than player $i$. Pl
 > 
 > We also define $s_{i}$ to be a ==best response== to $\beta_{-i}$ if it is a strategy that maximizes expected payoff against $\beta_{-i}$.
 
+^6bee0b
+
 Often, in order to stay adversarially optimal, you have to play a randomized strategy.
 
 > [!definition] (Mixed strategy)

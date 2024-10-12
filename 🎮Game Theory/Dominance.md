@@ -20,9 +20,9 @@ Consider some player $i \in N$ and a [[Representation of Games#Normal-Form Repre
 > for all $s_{-i}\in S_{-i}$.
 
 > [!theorem]
-> Assume there are finitely many strategies. A strategy $s_{i}$ is a best response to some belief if and only if $s_{i}$ is not strictly dominated by any strategy, mixed or pure.
+> Assume there are finitely many strategies. A strategy $s_{i}$ is a [[Representation of Games#^6bee0b|best response]] to some belief if and only if $s_{i}$ is not strictly dominated by any strategy, mixed or pure.
 
-A strategy is called ==strictly dominant== if it strictly dominates all other strategies; it is ==weakly dominant== if it weakly dominates all other strategies, but at least one domination is strict.
+A strategy is called ==strictly dominant== if it strictly dominates all other strategies; it is ==weakly dominant== if it weakly dominates all other strategies and it is strictly better in some cases.
 
 > [!definition]
 > A strategy profile $s^{*}=(s_{1}^{*},\dots,s_{n}^{*})$ is said to be a ==dominant-strategy equilibrium== if $s_{i}^{*}$ is weakly dominant for all $i$.
