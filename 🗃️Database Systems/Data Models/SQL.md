@@ -1,4 +1,4 @@
-
+Structured Query Language (SQL) is the standard for accessing data from relational models.
 
 ```sql
 SELECT [DISTINCT] selectExpression
