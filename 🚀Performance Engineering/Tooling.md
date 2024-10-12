@@ -88,3 +88,7 @@ valgrind --tool=cachegrind --cache-sim=yes --branch-sim=yes ./sum
 
 This may depend on the size of the cache of your virtual machine.
 
+## Cilksan and Cilkscale
+
+^83d6c9
+

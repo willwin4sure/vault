@@ -64,4 +64,4 @@ Haswell has 16 distinct integer registers but 168 physical registers it can pick
 
 ---
 
-**Next:** [[Vectorization]]
+**Next:** [[Vectorized Instructions]]
