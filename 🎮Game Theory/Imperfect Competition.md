@@ -93,3 +93,13 @@ In general, you can only pick this minimal price (which we assume to be positive
 
 One important assumption of Bertrand's model is that the lower price will be selected. However, in practice, it may be difficult for consumers to locate the lowest offer for a good.
 
+Now there is a third player called the buyer that can choose whether or not to incur a cost to search for the cheapest good.
+
+> [!claim]
+> The unique pure strategy Nash here is for both firms to set the price high and for the buyer not to check. This is notably different from the previous game, where firms set their prices low.
+
+You can also compute a symmetric Nash by giving the firms a probability $q$ of selecting the high price and the buyer a probability $r$ of checking. 
+
+---
+
+**Next:** [[Zero-Sum Games]]

@@ -42,6 +42,8 @@ There are two pure Nashes, both of which are unfair (always pick A or always pic
 > [!definition] (Strategies)
 > A ==pure strategy== of a player is a complete contingent-plan that determines an action at every infoset. A ==strategy profile== is a set of strategies, one per player.
 
+^75700c
+
 ## Normal-Form Representation
 
 > [!definition] (Normal-form)
@@ -54,6 +56,8 @@ There are two pure Nashes, both of which are unfair (always pick A or always pic
 > u_{i}: S_{1}\times \cdots \times S_{n} \to \mathbb{R}
 > $$
 > is player $i$'s utility function. We will often write $G=(N,S,u)$, where $S=S_{1}\times \cdots \times S_{n}$ and $u=(u_{1},\dots,u_{n})$, a mapping from $S$ to $\mathbb{R}^{n}$.
+
+^d35807
 
 In a game with two players, you can express the game using two matrices:
 
@@ -85,6 +89,8 @@ Often, in order to stay adversarially optimal, you have to play a randomized str
 
 > [!definition] (Mixed strategy)
 > A ==mixed strategy== is just a probability distribution over the so-called ==pure strategies== $s_{i}\in S_{i}$.
+
+^31daa5
 
 > [!claim]
 > You only randomize if the expected utility of each strategy is the same.
