@@ -4,3 +4,6 @@ From the MIT course [14.04 Intermediate Microeconomic Theory](http://student.mit
 
 ## Homepages
 
+
+
+1. [[Optimization]]

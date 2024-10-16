@@ -7,7 +7,7 @@ This section of the course discusses two alternative market structures to perfec
 
 First, a discussion of monopoly, where one firm controls the entire production of a product.
 
-1. [[Monopoly]]
+1. [[📈Microeconomics 1/Monopoly and Oligopoly/Monopoly]]
 
 After, a discussion of oligopoly, where a small number of firms control the entire production of a product. In this case, they can either compete (reaching a Nash equilibrium) or cooperate (acting as a large monopoly and splitting profits).
 

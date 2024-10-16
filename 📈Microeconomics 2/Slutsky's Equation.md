@@ -1,4 +1,4 @@
-Recall the definitions of [[Hicksian Demand and Expenditures#Income and Substitution Effects|income and substitution effects]]. The total change in uncompensated demand per change in price is their sum:
+> The total price change effect on uncompensated demand is the sum of [[Hicksian Demand and Expenditures#Income and Substitution Effects|income and substitution effects]].
 
 > [!theorem] (Slutsky's equation)
 > The own-price version states that
@@ -15,4 +15,4 @@ Recall the definitions of [[Hicksian Demand and Expenditures#Income and Substitu
 
 ---
 
-
+**Next:** [[Welfare]]

@@ -10,7 +10,12 @@ Expenditure is the dual to [[Marshallian Demand and Indirect Utility#^d1a8b5|ind
 > [!definition] (Hicksian demand)
 > The optimal quantities for this dual optimization problem are called the ==Hicksian demands== $\mathbf{x}^{c}(\mathbf{p}, u)$. These are also called ==compensated demands==, since you are compensated for a change in price by keeping your utility constant (your expenditure changes).
 
+> [!idea]
+> One way to solve for Hicksian demand is via $\mathbf{x}^{c}(\mathbf{p},u)=\mathbf{x}^{*}(\mathbf{p},E(\mathbf{p},u))$, where $\mathbf{x}^{*}$ is the [[Marshallian Demand and Indirect Utility#^6d28b9|Marshallian demand]].
+
 ## Income and Substitution Effects
+
+^ebb728
 
 Recall from [[Properties of Demand Curves#Substitution and Income Effects|14.01]] that when the price of a good changes, the effect that has on the quantity demanded (for a person with fixed income) can be decomposed into a sum of an income and substitution effect.
 
@@ -33,7 +38,9 @@ There are also cross-price variants:
 > 2. ==Shepherd's lemma==: $x^{c}(\mathbf{p},u)=\partial E / \partial p_x$.
 > 3. $E$ is concave in $(p_{x},p_{y})$.
 
-The latter two have pretty much identical proofs to the latter two [[Marshallian Demand and Indirect Utility#^af6f94|properties of indirect utility]].
+^b2f21c
+
+The latter two have very similar proofs to the latter two [[Marshallian Demand and Indirect Utility#^af6f94|properties of indirect utility]].
 
 > [!claim] (Properties of Hicksian demand)
 > 1. The own-price substitution effect is negative:

@@ -21,7 +21,7 @@ Now, we have both the supply and demand side of labor markets, which will result
 
 ## Monopsony
 
-This is what happens when only a single firm supplies labor. Similar to [[Monopoly|monopolies]], but this time the demand side is manipulated, not the supply side. Labor and wages will be artificially lowered (along the given supply curve) in order to optimize for profits: the <span style="color:#0088ff">marginal expenditure</span> on labor is now 
+This is what happens when only a single firm supplies labor. Similar to [[📈Microeconomics 1/Monopoly and Oligopoly/Monopoly|monopolies]], but this time the demand side is manipulated, not the supply side. Labor and wages will be artificially lowered (along the given supply curve) in order to optimize for profits: the <span style="color:#0088ff">marginal expenditure</span> on labor is now 
 $$
 \frac{d}{dL}(L\cdot w(L))=w+\frac{dw}{dL}\cdot L,
 $$

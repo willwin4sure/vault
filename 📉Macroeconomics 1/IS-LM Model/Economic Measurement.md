@@ -45,7 +45,7 @@ Sometimes, the unemployment rate is underrepresents how badly the economy is doi
 
 The ==GDP deflator== is one measure of $P$, i.e. $P_{t}=\frac{\$Y_{t}}{Y_{t}}$.
 
-Another measure is the ==Consumer Price Index (CPI)==, which is a measure of *cost of living*. This is published monthly by the Bureau of Labor Statistics (BLS), which collects price data for 211 items in 38 cities.
+Another measure is the ==Consumer Price Index (CPI)==, which is a measure of *cost of living*. This is published monthly by the Bureau of Labor Statistics (BLS), which collects price data for 211 items in 38 cities. ^2e5f38
 
 Headline CPI is rather noisy, but we can remove the most volatile items to get the core CPI, which is much more stable.
 

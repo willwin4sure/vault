@@ -90,12 +90,13 @@ The substitution effect is computed by considering an imaginary budget constrain
 
 The income effect is computed by considering the change from this imaginary budget constraint to the true new budget constraint, which just corresponds to a decrease in income. This effect is in the same direction as the substitution effect for normal goods, and the opposite for inferior goods.
 
-| Type of Good | Price Change | Substitution Effect | Income Effect | Total Effect |
-| ------------ | ------------ | ------------------- | ------------- | ------------ |
-| Normal       | <font style="color:lime">Price Rises</font>  | <font style="color:red">Negative</font>            | <font style="color:red">Negative</font>      | <font style="color:red">Negative</font>    |
-| Normal       | <font style="color:red">Price Falls</font>  | <font style="color:lime">Positive</font>            | <font style="color:lime">Positive</font>      | <font style="color:lime">Positive</font>    |
-| Inferior     | <font style="color:lime">Price Rises</font>  | <font style="color:red">Negative</font>            | <font style="color:lime">Positive</font>      | <font style="color:yellow">Unknown</font>     |
-| Inferior     | <font style="color:red">Price Falls</font>  | <font style="color:lime">Positive</font>            | <font style="color:red">Negative</font>      | <font style="color:yellow">Unknown</font>     |
+| Type of Good | Price Change                                | Substitution Effect                      | Income Effect                            | Total Effect                              |
+| ------------ | ------------------------------------------- | ---------------------------------------- | ---------------------------------------- | ----------------------------------------- |
+| Normal       | <font style="color:lime">Price Rises</font> | <font style="color:red">Negative</font>  | <font style="color:red">Negative</font>  | <font style="color:red">Negative</font>   |
+| Normal       | <font style="color:red">Price Falls</font>  | <font style="color:lime">Positive</font> | <font style="color:lime">Positive</font> | <font style="color:lime">Positive</font>  |
+| Inferior     | <font style="color:lime">Price Rises</font> | <font style="color:red">Negative</font>  | <font style="color:lime">Positive</font> | <font style="color:yellow">Unknown</font> |
+| Inferior     | <font style="color:red">Price Falls</font>  | <font style="color:lime">Positive</font> | <font style="color:red">Negative</font>  | <font style="color:yellow">Unknown</font> |
+|              |                                             |                                          |                                          |                                           |
 
 In the case of an inferior good where the income effect overcomes the substitution effect, we get a <span style="color:#0088ff">Giffen good</span>, which has an upwards-sloping demand curve! These used to be a myth, but now there is some convincing evidence that these may actually exist in specific circumstances. ^f07f2e
 
