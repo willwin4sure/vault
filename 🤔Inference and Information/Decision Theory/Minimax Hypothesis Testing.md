@@ -1,6 +1,6 @@
 > Assume that nature is adversarial, and responds to your selected decision rule with the worst-case prior. You want your decision rule to be unexploitable/balanced. This is often a bit too conservative in practice.
 
-You have the costs, but not the prior (as we've mentioned, it might be hard to specify). For any decision rule, we will evaluate it by the **worst-case** prior that it could face.
+You have the costs, but not the prior (as we've mentioned, it might be hard to specify). For any decision rule, we will evaluate it by the **worst-case** prior that it could face. See also [[Zero-Sum Games]].
 
 ## The Minimax Criterion
 

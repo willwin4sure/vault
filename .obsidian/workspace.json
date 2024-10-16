@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "74dd0dfa4a627d59",
+        "id": "a500049d7f11ff2c",
         "type": "tabs",
         "children": [
           {
-            "id": "9e5121f33cfb0080",
+            "id": "c80b4c691ccc2de8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🚀Performance Engineering/Vectorization.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "profit maximization",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🚀Performance Engineering/Vectorization.md",
+                "file": "📈Microeconomics 2/Partial Equilibrium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🚀Performance Engineering/Vectorization.md",
+                "file": "📈Microeconomics 2/Partial Equilibrium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🚀Performance Engineering/Vectorization.md"
+                "file": "📈Microeconomics 2/Partial Equilibrium.md"
               }
             }
           }
@@ -147,53 +143,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9e5121f33cfb0080",
+  "active": "7b8958fc77ca60a8",
   "lastOpenFiles": [
-    "🚀Performance Engineering/img/vector_register_aliases.png",
-    "🚀Performance Engineering/Bentley Rules.md",
-    "🚀Performance Engineering/Vectorization.md",
-    "🚀Performance Engineering/img/vectorization_history.png",
-    "🚀Performance Engineering/New folder",
-    "🚀Performance Engineering/Computer Architecture.md",
-    "🚀Performance Engineering/x86-64 Primer.md",
-    "🚀Performance Engineering/History of Performance.md",
-    "🗃️Database Systems/Databases.md",
+    "📈Microeconomics 2/Profit Maximization.md",
+    "📈Microeconomics 1/Supply and Demand/Firms in Competition.md",
+    "📈Microeconomics 2/Cost Minimization.md",
+    "📈Microeconomics 2/Production Functions.md",
+    "📈Microeconomics 2/Consumer Preferences.md",
+    "📈Microeconomics 2/Welfare.md",
+    "📈Microeconomics 2/Slutsky's Equation.md",
+    "📈Microeconomics 2/Hicksian Demand and Expenditures.md",
+    "📈Microeconomics 2/Marshallian Demand and Indirect Utility.md",
+    "📈Microeconomics 2/Optimization.md",
+    "📈Microeconomics 2/📈Microeconomics II Portal.md",
+    "📈Microeconomics 2/Edgeworth Box.md",
+    "📈Microeconomics 2/Monopoly.md",
+    "📈Microeconomics 1/Supply and Demand/Utility and Budget.md",
+    "📈Microeconomics 2/General Equilibrium with Production.md",
+    "📈Microeconomics 2/Consumption Equilibrium.md",
+    "📈Microeconomics 1/Factor Markets/Labor Markets.md",
+    "📈Microeconomics 2/img/edgeworth_competitive_equilibrium.png",
+    "📈Microeconomics 2/img/edgeworth_excess_demand.png",
+    "📈Microeconomics 2/img/edgeworth_contract_curve.png",
+    "📈Microeconomics 2/img/envelope.jpg",
+    "📈Microeconomics 2/img/edgeworth_efficiency.png",
+    "📈Microeconomics 2/img/edgeworth_pareto_improving.png",
+    "📈Microeconomics 2/Partial Equilibrium.md",
+    "📈Microeconomics 1/Monopoly and Oligopoly/Monopoly.md",
+    "📈Microeconomics 1/Supply and Demand/Production and Costs.md",
+    "📉Macroeconomics 1/IS-LM Model/Economic Measurement.md",
+    "README.md",
+    "📈Microeconomics 2/img/consumer_surplus.png",
+    "📈Microeconomics 1/Supply and Demand/Properties of Demand Curves.md",
+    "🎮Game Theory/Backward Induction.md",
+    "🦿Sensorimotor Learning/On-Policy Learning/Actor-Critic Step Size.md",
+    "🎮Game Theory/Zero-Sum Games.md",
+    "🗃️Database Systems/Database Internals",
     "🗃️Database Systems/img/er_zoo.png",
-    "🗃️Database Systems/Database Internals.md",
-    "📏Measures and Probability/Norms and Inequalities/Lp Norms.md",
-    "📏Measures and Probability/Norms and Inequalities/⛺Norms and Inequalities Homepage.md",
-    "📏Measures and Probability/Norms and Inequalities/Chebyshev's Inequality.md",
-    "🚀Performance Engineering/Tooling.md",
-    "🚀Performance Engineering/img/haswell.png",
-    "🚀Performance Engineering/img/5stage.png",
-    "Pasted image 20240930014225.png",
-    "🚀Performance Engineering/img/opcodes.png",
-    "🚀Performance Engineering/img/register_aliasing.png",
-    "🚀Performance Engineering/img/registers.png",
-    "🚀Performance Engineering/img/x86.png",
-    "🚀Performance Engineering/Bit Hacks.md",
-    "🚀Performance Engineering/Matrix Multiplication.md",
-    "🚀Performance Engineering/Rotating a Bit Matrix.md",
-    "🚀Performance Engineering/img/specs.png",
+    "🗃️Database Systems/Data Models",
+    "🚀Performance Engineering/img/chip_multiprocessor.png",
+    "🎮Game Theory/img/hawk_dove.png",
+    "🚀Performance Engineering/New folder",
     "🚀Performance Engineering/img",
-    "🚀Performance Engineering/Introduction.md",
-    "🎮Game Theory/Dominance.md",
-    "🎮Game Theory/Rationalizability.md",
-    "🎮Game Theory/Representation of Games.md",
-    "🤔Inference and Information/Decision Theory/Minimax Hypothesis Testing.md",
-    "🤔Inference and Information/Decision Theory/Randomized Decision Rules.md",
-    "🤔Inference and Information/Decision Theory/⛺Decision Theory Homepage.md",
-    "🤔Inference and Information/Estimation/⛺Estimation Homepage.md",
-    "📈Microeconomics I/Factor Markets/Capital Markets.md",
-    "🏠Home.md",
-    "📈Microeconomics I/International Trade/⛺International Trade Homepage.md",
-    "📈Microeconomics II/img",
-    "📈Microeconomics II",
+    "📈Microeconomics 2/img",
+    "📈Microeconomics 2",
     "🎮Game Theory/img",
     "🎮Game Theory",
     "🧠Deep Learning/img",
-    "🧠Deep Learning",
-    "🗃️Database Systems/img",
-    "🚀Performance Engineering"
+    "🧠Deep Learning"
   ]
 }

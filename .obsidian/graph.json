@@ -71,7 +71,7 @@
       }
     },
     {
-      "query": "path:\"📈Microeconomics\"",
+      "query": "path:\"📈Microeconomics 1\"  ",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -82,13 +82,6 @@
       "color": {
         "a": 1,
         "rgb": 11657298
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
       }
     },
     {
@@ -151,6 +144,6 @@
   "repelStrength": 8.66943866943867,
   "linkStrength": 1,
   "linkDistance": 244,
-  "scale": 0.2867043210342785,
-  "close": true
+  "scale": 0.07174458095508639,
+  "close": false
 }
