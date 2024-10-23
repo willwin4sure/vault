@@ -12,6 +12,8 @@ $$
 > [!definition] ($p$-value, significance level)
 > The feature $p_{*}(\mathbf{y})\in[0,1]$ is referred to as the ==$p$-value== of the data, while $\alpha$ is referred to as the ==significance level== of the test.
 
+^05c058
+
 > [!idea]
 > The $p$-value is just the probability under the null hypothesis that the likelihood ratio is at least as extreme as observed, i.e. $\mathbb{P}(L(\boldsymbol{\mathsf{y}})\geq L(\mathbf{y})|\mathsf{H}=H_{0})$.
 
