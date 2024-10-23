@@ -20,6 +20,7 @@ Every data model requires an associated query language to interact with it. The 
 
 3. [[The Relational Data Model and Relational Algebra]]
 4. [[SQL]]
+5. [[Fancy SQL]]
 
 Now let's dive a bit more into database design. We'll also discuss normalization techniques to keep a database redundancy free; this is vital for transactional databases but less so for analytical ones.
 

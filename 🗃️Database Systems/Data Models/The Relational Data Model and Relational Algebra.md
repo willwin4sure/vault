@@ -13,7 +13,7 @@ The simple data structure allows easier support for [[IMS#^8b1c2b|logical data i
 
 In this model:
 
-* All data is represented as tables of records, which are unordered sets with *no duplicates*. These are also called ==relations==. 
+* All data is represented as tables of records, which are unordered sets with *no duplicates*. These are also called ==relations==, from math.
 * A database is one or more tables.
 * Each relation has a ==schema== that describes the types of the columns/fields.
 
@@ -34,7 +34,7 @@ Despite its simplicity, this model is also flexible enough to represent basicall
 These are purely logical, while the actual implementation can be made more efficient. For example, there are nice identities which can be used for optimization, e.g. ==predicate push-downs==, where we move selection operations before joins.
 
 > [!idea]
-> Nothing about queries prescribe anything about how the database actually stores or accesses things.
+> Nothing about queries prescribe anything about how the database actually stores or accesses things; they are purely logical.
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## The Zoo Data Model
 
-You are a database engineer at a zoo. The internal website needs to display various data, described in the following abstract model called an [[Entity Relationship Diagrams|entity relationship diagram]]. 
+You are a database engineer at a zoo. The internal website needs to display and update various data, described in the following abstract model called an [[Entity Relationship Diagrams|entity relationship diagram]]. 
 
 ![[er_zoo.png|center|512]]
 
@@ -17,8 +17,8 @@ The three core ==entities== are animals, cages, and keepers. Entities may be ass
 
 These entities will also have ==relationships== with each other.
 
-* Cages contain animals. Animals are in exactly one cage, while cages may have multiple animals. This is called a N-to-1 relationship with total participation from animals.
-* Keepers manage cages. Keepers may manage multiple cages, and cages may be managed by multiple keepers. This is called an N-to-N relationship. ^3237f0
+* Cages contain animals. Animals are in exactly one cage, while cages may have multiple animals. This is called a ==N-to-1 relationship== with ==total participation== from animals.
+* Keepers manage cages. Keepers may manage multiple cages, and cages may be managed by multiple keepers. This is called an ==N-to-N relationship==. ^3237f0
 
 We will go over these definitions in more detail when we discuss [[Entity Relationship Diagrams|entity relationship diagrams]] in more detail.
 
@@ -32,7 +32,7 @@ Entities can be easily stored inside tables, along with their respective propert
 | 2             | Mike   | 3     | Moose     | 2         |
 | 3             | Sally  | 1     | Student   | 1         |
 
-Since *`animal_id`* is a primary key, it uniquely defines each row of the table. Therefore, we never see two animals with the same ID. ^03aa62
+Since *`animal_id`* is a primary key, it uniquely defines each row of the table. We never see two animals with the same ID. ^03aa62
 
 > [!idea]
 > Entities can be stored in a table with columns as their attributes. It is often useful to include an ID column.
@@ -44,10 +44,10 @@ We have captured the N-to-1 relationship with cages by including a ==foreign key
 | 1           | 1:30        | 1          |
 | 2           | 2:30        | 2          |
 
-If marked as a foreign key, the relational database will maintain the guarantee that the cage ID assigned to an animal is the ID of an existing cage. It should also give warnings if you, say, try to delete a cage that animals are in.
+If marked as a foreign key, the relational database will maintain the guarantee that the cage ID assigned to an animal is indeed a valid cage ID. It will also give warnings if you, say, try to delete a cage that animals are in.
 
 > [!idea]
-> N-to-1 relationships can be modeled by including the primary key of the 1 side of the relationship as a foreign key in the N side of the relationship.
+> N-to-1 relationships can be modeled by including the primary key of the 1 side of the relationship (the cage) as a foreign key in the N side of the relationship (the animals).
 
 ## Relationship Storage
 
