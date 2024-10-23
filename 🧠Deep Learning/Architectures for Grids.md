@@ -1,10 +1,15 @@
+> Convolutional neural networks!
+
+^ac3acb
+
 MLPs are nice for various reasons: they're universal, simple, and embarrassingly parallel. However, they have weak inductive biases and are therefore sample inefficient. The dense layers also require a lot of time to compute.
 
 This lecture begins to introduce different neural architectures. These add priors by restricting our hypothesis space, hopefully allowing us to find better solutions.
 
 ## Convolutions
 
-CNNs are great for grids. They spawned out of image classification problems, and have similarities to the way our visual cortex works.
+> [!idea]
+> CNNs are great for grids. They spawned out of image classification problems, and have similarities to the way our visual cortex works.
 
 One of the main inductive biases introduced by CNNs is *translational invariance*.
 
