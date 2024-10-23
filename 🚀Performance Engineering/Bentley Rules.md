@@ -27,7 +27,7 @@ typedef struct {
 
 > Adding information to a data structure to make common operations do less work.
 
-For example, adding a pointer to the last element of a singly linked-list.
+For example, adding a pointer to the last element of a singly linked-list. This does lead to more state to keep track of.
 ### Caching
 
 > Store recent results.
@@ -112,6 +112,7 @@ c == ' ' || c == '\n' || c == '\t' || c == '\r'
 ```
 
 over some other order.
+
 ### Combining Tests
 
 > Replace a sequence of tests with one test or switch.

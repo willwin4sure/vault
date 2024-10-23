@@ -39,7 +39,7 @@ The general format for such instructions is `_mm<vec-width>_<op>_<scalar-ty>`. T
 Addition is just done lane-wise:
 
 ```c
-__m128i _mm_add_epi32(__mm128i a, __mm128i b) {
+__m128i _mm_add_epi32(__m128i a, __m128i b) {
 	for j := 0 to 3 {
 		i := j * 32
 		dst[i+31:i] := a[i+31:i] + b[i+31:i]
@@ -108,8 +108,8 @@ Another is a pack/unpack instruction where you take the top half of the lanes of
 
 Consider [`_mm_maddubs`](https://www.felixcloutier.com/x86/pmaddubsw), a rather complicated operation like a dot product.
 
-Or [`_mm_addsub`](https://www.felixcloutier.com/x86/addsubps), which adds the even lanes and subtracts the odd lanes (used for complex numbers?)
+Or [`_mm_addsub`](https://www.felixcloutier.com/x86/addsubps), which adds the even lanes and subtracts the odd lanes (used for complex numbers?).
 
 ---
 
-**Next:** [[Vectorizing Compilers]]
+**Next:** [[Compiler Vectorization]]

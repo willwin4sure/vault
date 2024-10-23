@@ -1,4 +1,4 @@
-Last, we discussed compiler vectorization techniques and some of the difficulties. We also noted that compilers don't always vectorize code optimally, so manual work may help. 
+[[Compiler Vectorization|Last]], we discussed compiler vectorization techniques and some of the difficulties. We also noted that compilers don't always vectorize code optimally, so manual work may help. 
 
 Another reason why manual vectorization may perform better is because compilers are often not up-to-date with the latest intrinsic instructions for Intel, or may not be well tuned for the specifics of your architecture.
 
@@ -39,7 +39,7 @@ For this particular piece of code, the compiler should be able to do this. Some 
 1. Vectorized (256-bit): 494 cycles.
 2. Scalar: 3309 cycles.
 
-So about 6.7x faster. That's a large order of magnitude.
+So about 6.7x faster. That's a large constant factor.
 
 > [!example] (Vectorizing reduction)
 > Vectorize this program:

@@ -73,7 +73,7 @@ This also gives an efficient way to check if `x` is a power of `2` (see if it is
 > x = x ^ y;
 > ```
 > 
-> This actually performs badly since it can't exploit instruction-level parallelism as it introduces a dependency.
+> This actually performs badly since it can't exploit instruction-level parallelism as it introduces a dependency. However, this idea often reappears when swapping larger groups of bits between words.
 
 > [!example]
 > Find the minimum `r` of two integers `x` and `y`.
@@ -96,11 +96,10 @@ This also gives an efficient way to check if `x` is a power of `2` (see if it is
 > Here is some code.
 > 
 > ```c
-> static void merge(int64_t* __restrict C,
-> 				  int64_t* __restrict A,
-> 				  int64_t* __restrict B,
-> 				  size_t na,
-> 				  size_t nb) {
+> static void merge(int64_t* restrict C,
+> 				  int64_t* restrict A,
+> 				  int64_t* restrict B,
+> 				  size_t na, size_t nb) {
 > 
 > 	while (na > 0 && nb > 0) {  // (1)
 > 		if (*A <= *B) {         // (2)
@@ -122,7 +121,7 @@ This also gives an efficient way to check if `x` is a power of `2` (see if it is
 > }
 > ```
 > 
-> The `__restrict` keywords say that the pointers don't alias, meaning they don't overlap in memory. This allows further compiler optimization.
+> The `restrict` keywords say that the pointers don't alias, meaning they don't overlap in memory. This allows further compiler optimization.
 > 
 > A few labels have been placed on lines of code with branches. Note that `(1)`, `(3)`, and `(4)` are predictable branches, so they don't need to be eliminated. Yet `(2)` can be optimized out using a branchless minimum, i.e.
 > 
@@ -153,7 +152,7 @@ This also gives an efficient way to check if `x` is a power of `2` (see if it is
 
 > [!example]
 > Compute the population count of `x`, i.e. the number of set bits.
-	
+
 > [!proof]- Solution
 > There is a compiler built-in nowadays. There is a fast divide-and-conquer technique though.
 

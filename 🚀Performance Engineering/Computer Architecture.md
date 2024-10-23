@@ -43,7 +43,7 @@ The Intel Haswell architecture actually splits up x86-64 instructions into simpl
 
 You only know the result of a branch after the execute stage. But rather than stall, we can ==speculatively execute== more instructions into the pipeline. If we predict the branch correctly, we continue as usual; else, we undo the operation (haven't yet hit the commit point for these operations).
 
-Mispredicting branches is rather expensive; on Haswell, it wastes around 15-20 cycles. Modern processors have very strong ==branch predictors== that are accurate over 95% of the time. A basic idea is for each instruction address where you see a branch, you keep a rough ==saturating counter== for how often it gets taken. Evidence suggests Haswell uses some variant of the [TAGE branch predictor](https://jilp.org/vol8/v8paper1.pdf).
+Mis-predicting branches is rather expensive; on Haswell, it wastes around 15-20 cycles. Modern processors have very strong ==branch predictors== that are accurate over 95% of the time. A basic idea is for each instruction address where you see a branch, you keep a rough ==saturating counter== for how often it gets taken. Evidence suggests Haswell uses some variant of the [TAGE branch predictor](https://jilp.org/vol8/v8paper1.pdf).
 
 ## Handling Data Hazards
 
@@ -52,9 +52,9 @@ Mispredicting branches is rather expensive; on Haswell, it wastes around 15-20 c
 > 
 > * ==True dependence (RAW)==. `j` reads what `i` writes.
 > * ==Anti dependence (WAR)==. `j` writes over what `i` reads.
-> * ==Output dependence (WAW==; `j` writes over what `i` writes.
+> * ==Output dependence (WAW)==; `j` writes over what `i` writes.
 
-The data dependencies between instructions in a program. can be modeled with a ==data-flow graph==. This is exactly what you expect, with three types of directed edges, one per type of dependence.
+The data dependencies between instructions in a program can be modeled with a ==data-flow graph==. This is exactly what you expect, with three types of directed edges, one per type of dependence.
 
 RAW can be solved by ==bypassing==, which allows you not to wait until the end of the writeback stage.
 

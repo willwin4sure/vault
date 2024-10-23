@@ -109,11 +109,42 @@ void bar(float* A, float* restrict B) {
 }
 ```
 
-Based on different architectures, this gets different levels of vector parallelism.
+Based on different target architectures (chosen by compiler flags), this gets different levels of vector parallelism.
 
-> [!remark]
-> Two skipped topics are **cost model failures** and **vectorization of function calls**.
+### Cost Model Failures
+
+```c
+void matmul(float a[restrict N][N],
+			float b[restrict N][N],
+			float c[restrict N][N],
+			int N) {
+
+	for (int i = 0; i < N; ++i) {
+		for (int j = 0; j < N; ++j) {
+			for (int k = 0; k < N; ++k) {
+				c[i][j] += a[i][k] * b[k][j];
+			}
+		}
+	}
+}
+```
+
+Clang v13 is capable of vectorizing this code but thinks it's not profitable. Clang v14 has an updated cost model and does think it's profitable, achieving ~30% speedup.
+
+### Vectorization of Function Calls
+
+```c
+#include <math.h>
+
+void bar(float* restrict A, float* restrict B) {
+	for (int i = 0; i < 1024; ++i) {
+		B[i] = sinf(A[i]);
+	}
+}
+```
+
+This works for a few built-in functions, such as `sinf` above. 
 
 ---
 
-**Next:** [[Manual Vectorization Examples]]
+**Next:** [[Manual Vectorization]]
