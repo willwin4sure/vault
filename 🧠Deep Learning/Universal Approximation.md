@@ -1,4 +1,4 @@
-There are three main puzzle pieces to machine learning:
+There are three main puzzle pieces to machine learning: ^c04c40
 
 1. **Approximation**: does there *exist* a neural network in my model family that fits the training data?
 2. **Optimization**: if it exists, can I *find* it?
@@ -26,7 +26,7 @@ To extend to $d$-dimensional functions $g:\mathbb{R}^{d}\to \mathbb{R}$, we inst
 $$
 |g(x+\Delta x)-g(x)|\leq L\| \Delta x \|_{\text{RMS}},
 $$
-where the RMS norm is $\frac{1}{\sqrt{ d }}$ times the Euclidean norm.
+where the RMS norm is $\frac{1}{\sqrt{ d }}$ times the Euclidean norm. ^45dea4
 
 ## Main Theorem
 

@@ -13,12 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧠Deep Learning/Neural Network Generalization.md",
+                "file": "🧠Deep Learning/Scaling Rules for Optimization.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Neural Network Generalization"
+              }
             }
           }
         ]
@@ -41,9 +39,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              }
             }
           },
           {
@@ -52,15 +48,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"information projection\"",
+                "query": "\"RMS norm\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -68,12 +62,11 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🎮Game Theory/Representation of Games.md",
+                "file": "🧠Deep Learning/Scaling Rules for Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +94,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Representation of Games"
+              }
             }
           },
           {
@@ -112,12 +103,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🎮Game Theory/Representation of Games.md",
+                "file": "🧠Deep Learning/Scaling Rules for Optimization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Representation of Games"
+              }
             }
           },
           {
@@ -128,9 +117,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
@@ -139,10 +126,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🎮Game Theory/Representation of Games.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Representation of Games"
+                "file": "🧠Deep Learning/Scaling Rules for Optimization.md"
+              }
             }
           }
         ]
@@ -159,20 +144,27 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "3cd92fedecd3b791",
   "lastOpenFiles": [
-    "Pasted image 20241020135918.png",
+    "🧠Deep Learning/Universal Approximation.md",
+    "🧠Deep Learning/Scaling Rules for Optimization.md",
+    "🧠Deep Learning/img/scaling_woes.png",
     "🧠Deep Learning/Neural Network Generalization.md",
-    "🧠Deep Learning/img/many_eye_cat.png",
-    "🧠Deep Learning/img/cat_generalization.png",
-    "🧠Deep Learning/img/filing_v_mlp.png",
+    "🧠Deep Learning/Width or Depth.md",
+    "Untitled.md",
+    "🧠Deep Learning/img/low_rank_similarity.png",
+    "🧠Deep Learning/img/simplicity_bias.png",
+    "🧠Deep Learning/img/norm_features.png",
+    "🧠Deep Learning/img/mnist_dd.png",
+    "🧠Deep Learning/img/double_descent.png",
+    "🧠Deep Learning/img/20poly.png",
+    "🧠Deep Learning/img/3poly.png",
+    "🧠Deep Learning/img/1000poly.png",
+    "🧠Deep Learning/img/classical_overfitting.png",
     "🧠Deep Learning/Architectures for Graphs.md",
-    "🧠Deep Learning/img/aggregation_setups.png",
-    "🧠Deep Learning/img/indistinguishable_graphs.png",
     "🧠Deep Learning/Architectures for Grids.md",
     "🤔Inference and Information/Information/Information Projection and Pythagoras' Theorem.md",
     "🤔Inference and Information/Techniques/Single-Parameter Exponential Families.md",
@@ -191,15 +183,7 @@
     "🤔Inference and Information/Techniques/Multi-Parameter Exponential Families.md",
     "🤔Inference and Information/Information/Maximally Ignorant Priors.md",
     "🤔Inference and Information/Approximative Inference/Large Deviations and Cramér's Theorem.md",
-    "🧠Deep Learning/Width or Depth.md",
-    "🧠Deep Learning/Universal Approximation.md",
     "🚀Performance Engineering/Bentley Rules.md",
-    "🚀Performance Engineering/Storage Allocation.md",
-    "🚀Performance Engineering/Measurement and Timing.md",
-    "🚀Performance Engineering/img/sorting_measured_times.png",
-    "🚀Performance Engineering/img/practical_parallel_algos.png",
-    "🚀Performance Engineering/img/trace_dag.png",
-    "🚀Performance Engineering/img/cilk_cactus_stack.png",
     "🗃️Database Systems/Transactions",
     "🗃️Database Systems/Database Internals",
     "🗃️Database Systems/Data Models",
