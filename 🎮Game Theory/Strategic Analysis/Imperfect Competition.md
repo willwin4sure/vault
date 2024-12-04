@@ -1,6 +1,8 @@
 This is the first economic section of the class, and should be familiar from [[Oligopoly and Cournot Equilibrium|14.01]]. 
 
-As some review: monopolists artificially raise prices to capture more profit from those high up on the demand curve, but this causes needless deadweight loss from forgone trade opportunities. As more firms join in production, the social inefficiency decreases (though the firms suffer).
+## Competition
+
+As some review: [[📈Microeconomics 1/Monopoly and Oligopoly/Monopoly|monopolists]] artificially raise prices to capture more profit from those high up on the demand curve, but this causes needless deadweight loss from forgone trade opportunities. As more firms join in production, the social inefficiency decreases (though the firms capture less surplus).
 
 Recall there are two main models for firm competition: [[Oligopoly and Cournot Equilibrium#^3d012e|Cournot's model]] and [[Oligopoly and Cournot Equilibrium#^d5d3f1|Bertrand's model]]. In the former, firms compete on quantity, while in the latter, firms compete on price.
 
@@ -17,7 +19,7 @@ From 14.01:
 
 The [[Supply and Demand Curves#^f766a5|demand curve]] $Q_{d}(P)$ specifies how much quantity is demanded by consumers when the good is at a fixed price $P$ (people optimize [[Utility and Budget|utility under budget]]).
 
-The [[Supply and Demand Curves#^9dfd5e|supply curve]] $Q_{s}(P)$ specifies how much quantity is produced when the good is at a fixed price $P$ (firms optimize [[Production and Costs|production under costs]]). Recall also that the price will equal the [[Production and Costs#^ff9db8|marginal cost]] $P=C_{i}'(q_{i})$ for each firm $i$.
+The [[Supply and Demand Curves#^9dfd5e|supply curve]] $Q_{s}(P)$ specifies how much quantity is produced when the good is at a fixed price $P$ (firms optimize [[Production and Costs|production under costs]]). Recall also that the price will equal the [[Production and Costs#^ff9db8|marginal cost]] $P=C_{i}'(q_{i})$ for each firm $i$ when they are price takers.
 
 The economy is in a [[Supply and Demand Curves#^7a4c9d|competitive equilibrium]] when supply meets demand, i.e. where supply and demand curves intersect.
 
@@ -43,7 +45,8 @@ obtained by maximizing $\pi_{i}(p_{i})=q_{i}(1-q_{i}-Q_{-i}-c)$.
 > $$
 >
 
-You can show that this is the unique rationalizable strategy using an iterative approach.
+> [!question]
+> Show that this is the unique rationalizable strategy using an iterative approach.
 
 Unfortunately, when there are three or more firms, you cannot eliminate any strategies except for the ones over the monopoly quantity $\frac{1-c}{2}$. However, the unique Nash is still where
 $$

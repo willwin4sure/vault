@@ -2,7 +2,7 @@
 
 ## Payoffs
 
-Every player also forms beliefs, likelihood assessments about the unknown. These beliefs leads to a probability distribution on the set of all outcomes $Z$; we refer to such distributions as a ==lottery==.
+Every player forms ==beliefs==, likelihood assessments about the unknown. These beliefs leads to a probability distribution on the set of all outcomes $Z$; we refer to such distributions as a ==lottery==.
 
 > [!definition] (Preferability)
 > We say that a player ==strictly prefers== a lottery $p$ to a lottery $q$ if she always picks $p$ over $q$; and that she ==weakly prefers== a lottery $p$ to a lottery $q$ if she may choose $p$ when $q$ is also available.
@@ -24,9 +24,11 @@ You've already seen this stuff from reading papers on CFR.
 > An ==extensive-form== game consists of
 > * A set of players $N$. Can include nature/chance, which have known probabilities.
 > * A game tree with nodes $H$, also referred to as histories. 
-> * An allocation of non-terminal nodes of the tree to the players. For each $h\in H\setminus Z$, $A(h)$ denotes the set of available actions to the assigned player.
+> * An allocation of players-to-move to each non-terminal node in the tree. For each $h\in H\setminus Z$, $A(h)$ denotes the set of available actions to the assigned player.
 > * An informational partition of the non-terminal nodes into ==information sets==, which are subsets of decision nodes that the player-to-move cannot distinguish between.
 > * Payoffs $u_{i}:Z\to \mathbb{R}$ for each player $i$ at the terminal nodes.
+
+^85a4dc
 
 The actual structure of the game is always assumed to be common knowledge, i.e. everyone knows it; everyone knows everyone knows it; everyone knows everyone knows everyone knots it; etc.
 
@@ -59,7 +61,7 @@ There are two pure Nashes, both of which are unfair (always pick A or always pic
 
 ^d35807
 
-In a game with two players, you can express the game using two matrices:
+Every extensive form game can be represented in normal form, but this loses some information since you're assuming that all players fix their strategy at the beginning and never adapt based on what they see from their opponent: we'll see this idea again with [[Subgame Perfect Nash Equilibria|SPNEs]]. In a game with two players, you can express the game using two matrices:
 
 > [!example] (Battle of the Sexes, normal form)
 > This is the common bimatrix representation you might be used to for various games:
@@ -85,7 +87,7 @@ Denote $s_{-i}$ as the strategy profile of all players other than player $i$. Pl
 
 ^6bee0b
 
-Often, in order to stay adversarially optimal, you have to play a randomized strategy.
+Often, in order to stay adversarially optimal, you have to play a randomized strategy (think rock-paper-scissors).
 
 > [!definition] (Mixed strategy)
 > A ==mixed strategy== is just a probability distribution over the so-called ==pure strategies== $s_{i}\in S_{i}$.

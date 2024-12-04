@@ -1,12 +1,14 @@
-[[Rationalizability#^2d4244|Rationalizability]] often has weak predictive power because it requires you to cope with the entire range of strategy possibilities of all your opponents, and your own behavior may be easily swayed as your beliefs about other peoples' strategies changes.
+[[Rationalizability#^2d4244|Rationalizability]] often has weak predictive power because it requires you to cope with the entire range of strategic possibilities of all your opponents, and your own behavior may be easily swayed as your beliefs about other peoples' strategies changes.
 
 In real life, however, games are played in context, and you can often assume conventions about people's behavior. Nash equilibria are plausible solution concepts in stable environments where you can reasonably guess what your opponents will do, and they correspond to the steady-states of adjustment processes where players adjust their behavior according to others' behavior.
 
 > [!definition] (Nash equilibrium)
-> A strategy profile $s^{*}=(s_{1}^{*},\dots,s_{n}^{*})$ is said to be a ==Nash equilibrium== if $s_{i}^{*}$ is a [[Representation of Games#^6bee0b|best response]] to $s_{-i}^{*}$ for each $i$. That is, no player has any (strict) incentive to deviate, holding all other strategies fixed.
+> A [[Representation of Games#^75700c|strategy profile]] $s^{*}=(s_{1}^{*},\dots,s_{n}^{*})$ is said to be a ==Nash equilibrium== if $s_{i}^{*}$ is a [[Representation of Games#^6bee0b|best response]] to $s_{-i}^{*}$ for each $i$. That is, no player has any (strict) incentive to deviate, holding all other strategies fixed.
+
+^f43b46
 
 > [!idea]
-> One quick way to identify Nash equilibria is to just intersect best responses for both players.
+> One quick way to identify pure Nash equilibria is to just intersect best responses for both players.
 
 ## Relationship to Dominance and Rationalizability
 
@@ -33,7 +35,7 @@ It turns out that Nash equilibria are weaker than [[Dominance#^f690d2|dominant-s
 ## Mixed Nash Equilibria
 
 > [!definition] (Mixed Nash equilibrium)
-> A mixed-strategy profile $\sigma^{*}=(\sigma_{1}^{*},\dots,\sigma_{n}^{*})$ is said to be a Nash equilibrium if for every player $i$, $\sigma_{i}^{*}$ is a best response to $\sigma_{-i}^{*}$, i.e. $u_{i}(\sigma_{i}^{*},\sigma_{-i}^{*})\geq u_{i}(\sigma_{i},\sigma_{-i}^{*})$ for every mixed strategy $\sigma_{i}$.
+> A mixed-strategy profile $\sigma^{*}=(\sigma_{1}^{*},\dots,\sigma_{n}^{*})$ is said to be a ==Nash equilibrium== if for every player $i$, $\sigma_{i}^{*}$ is a best response to $\sigma_{-i}^{*}$, i.e. $u_{i}(\sigma_{i}^{*},\sigma_{-i}^{*})\geq u_{i}(\sigma_{i},\sigma_{-i}^{*})$ for every mixed strategy $\sigma_{i}$.
 
 > [!example] (Matching-penny game)
 > In the matching-penny game, both players pick heads or tails. Player one wins if they match and Player two wins if they don't. Here is the payoff matrix:
@@ -44,12 +46,12 @@ It turns out that Nash equilibria are weaker than [[Dominance#^f690d2|dominant-s
 > $$
 > 	u_{1}(p_{1},p_{2})=p_{1}p_{2}+(1-p_{1})(1-p_{2})-p_{1}(1-p_{2})-p_{2}(1-p_{1})=(2p_{1}-1)(2p_{2}-1).
 > $$
-> Note that this game is zero-sum so it suffices to minimize/maximize this quantity. The best responses have a unique intersection at $\left( \frac{1}{2}, \frac{1}{2} \right)$ (if either player has more or less than $\frac{1}{2}$, the best response is to pick $0$ or $1$).
+> Note that this game is [[Zero-Sum Games#^ac7f67|zero-sum]] so it suffices to minimize/maximize this quantity. The best responses have a unique intersection at $\left( \frac{1}{2}, \frac{1}{2} \right)$ (if either player has more or less than $\frac{1}{2}$, the best response is to pick $0$ or $1$).
 
 Note that in a mixed Nash, you must be indifferent between all the pure strategies with positive probability, and these must have maximal expected payoff, fixing every other player's strategy as constant.
 
 > [!idea]
-> One powerful way to determine Nashes is to first eliminate all non-rationalizable strategies. 
+> There is no general way to find all mixed Nashes, but one powerful method is to first eliminate all non-rationalizable strategies. 
 
 ## Application: The Investment Game
 
@@ -58,11 +60,11 @@ Note that in a mixed Nash, you must be indifferent between all the pure strategi
 > 
 > ![[investment_game.png|center|256]]
 > 
-> where $\theta$ and $c>0$ are known parameters.
+> where $\theta$ and $c>0$ are known parameters, e.g. whether to collaborate on a project.
 
 If $\theta<0$, then stay out strictly dominates. If $\theta>c$, then invest strictly dominates.
 
-So the only interesting case is where $0<\theta<c$. Coordinating to both invest or both stay out are both Nashes.
+So the only interesting case is where $0<\theta<c$. Coordinating to both invest or both stay out are both pure Nashes.
 
 > [!idea]
 > To compute mixed Nash equillibria, make the other player indifferent.
@@ -86,7 +88,7 @@ It corresponds to so-called ==poverty traps==, where workers don't invest in the
 > 
 > where $V,c>0$ are known parameters.
 
-When $V>c$, this is a Prisoner's dilemma. When $V<c$, this is a game of chicken. The former case has a strictly dominant strategy, while the latter case has three Nashes: two asymmetric ones at $(\text{Hawk},\text{Dove})$ and $(\text{Dove},\text{Hawk})$, and a mixed symmetric Nash.
+When $V>c$, this is a Prisoner's dilemma. When $V<c$, this is a game of chicken. The former case has a strictly dominant strategy, while the latter case has three Nashes: two asymmetric ones at $(\text{Hawk},\text{Dove})$ and $(\text{Dove},\text{Hawk})$, and a symmetric mixed Nash.
 
 To compute the mixed Nash, we assert indifference. If there is a probability $q$ of picking Hawk, then the other player is indifferent if
 $$
@@ -104,4 +106,4 @@ We can now imagine an evolution model based on this game. Initially there are $H
 
 ---
 
-**Next:** [[Imperfect Competition]]
+**Next:** [[🎮Game Theory/Strategic Analysis/Imperfect Competition|Imperfect Competition]]

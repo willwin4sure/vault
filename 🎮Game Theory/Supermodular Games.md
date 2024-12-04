@@ -1,5 +1,0 @@
-TODO
-
----
-
-**Next:** [[Backward Induction]]

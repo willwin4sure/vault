@@ -7,6 +7,8 @@ for players $i=1,2$, where $S_{i}$ is the set of [[Representation of Games#^7570
 > [!definition]
 > A two-player game is called ==zero-sum== if $u_{1}(s)+u_{2}(s)=0$ for any [[Representation of Games#^75700c|strategy profile]] $s$.
 
+^ac7f67
+
 This allows us to simply keep track of the first player's utility $u$. Player 1 tries to maximize this value while Player 2 minimizes it.
 
 ## Security Strategies
