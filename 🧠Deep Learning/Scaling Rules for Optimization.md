@@ -99,6 +99,8 @@ Note that $\frac{ \partial f }{ \partial w }$ is not the gradient $g$, which inv
 > $$
 > This is because when we are constrained in a cube, to maximize the dot product with $g$ we just pick the sign of $g$ in each dimension.
 
+^8409b1
+
 > [!claim] (A homework problem)
 > Minimizing the expression above admits the "dual formulation"
 > $$
@@ -109,6 +111,11 @@ Note that $\frac{ \partial f }{ \partial w }$ is not the gradient $g$, which inv
 > \| a \|^{\dagger}=\max_{b \in \mathbb{R}^{n}: \| b \|=1}a^{T}b.
 > $$
 
+> [!question] (Adam optimizer)
+> As an exercise, show that the Adam update step without any momentum is in the same direction as steepest descent under the $L^{\infty}$ norm. See also [[Muon Optimizer]].
+
+^386145
+
 ## Heuristics for Scaling
 
 > [!question]
@@ -116,7 +123,7 @@ Note that $\frac{ \partial f }{ \partial w }$ is not the gradient $g$, which inv
 
 We could try various matrix norms: the Frobenius norm, the spectral norm, the nuclear norm, or a Schatten-$p$ norm.
 
-Here are some perspective on neural computation:
+Here are some perspective on neural computation: ^d7feaf
 
 1. **Neural** perspective: you have neurons connected by edges.
 2. **Tensor** perspective: you work with weight matrices that act on vectors.
@@ -206,5 +213,5 @@ Then, we will have module composition. For example, if `M(*) = M2(M1(*))`, then 
 * `M.norm` is a bit of an open question... is there an automatic way to compose the norms?
 
 ---
-\
-**Next:** [[]]
+
+**Next:** [[Transformers]]

@@ -31,6 +31,8 @@ Obviously if you're trying to train a cat dog classifier and your training data 
 > [!example] (The filing cabinet)
 > This terrible model just memorizes its inputs: store all training data points in a mapping $x \mapsto y$. At inference, if we see a repeated $x$, output the corresponding $y$. Otherwise, output $0$.
 
+^c653d0
+
 The approximation error will be zero, since we interpolate the training set perfectly. But the generalization error will (probably) be huge!
 
 An actual MLP generalizes much better in the gaps between the training points:
@@ -63,6 +65,8 @@ Classical generalization theory follows the adage of Occam:
 
 > [!idea] (Occam's razor)
 > The *simplest* model that *fits the data* will generalize best.
+
+^0e38a5
 
 > [!question]
 > How do we measure *simplest*?

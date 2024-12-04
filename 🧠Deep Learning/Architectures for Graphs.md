@@ -99,7 +99,7 @@ A [[multilayer perceptron]] can be thought of as a graph neural network on a sin
 
 A [[Architectures for Grids|convolutional neural network]] can be thought of as a graph neural network on the image graph, where adjacent pixels are connected.
 
-A [[transformer]] can be thought of as a graph neural network on the fully connected graph on the tokens within the attention window. The attention mechanism is a special aggregation operation with a particularly useful parameterization.
+A [[Transformers|transfomer]] can be thought of as a graph neural network on the fully connected graph on the tokens within the attention window. The attention mechanism is a special aggregation operation with a particularly useful parameterization.
 
 ---
 
