@@ -59,6 +59,13 @@ ORDER BY order
 LIMIT number
 ```
 
+## Logical Updates
+
+> [!example]
+> Suppose your database stored a single feeding time per cage, but now you want to upgrade it to have several feeding times per cage.
+
+You used to have a table called `animals`, but it got upgraded to `animals2` (all the feeding times got moved to a `feedtime` table). We can maintain backwards-compatibility by creating a ==view== `animals`, a query that pretends to be a table.
+
 ---
 
 **Next:** [[Fancy SQL]]

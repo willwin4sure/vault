@@ -1,3 +1,5 @@
+The second step of query processing: simplify queries.
+
 ## View Substitution
 
 A ==view== is a virtual table. These are useful primitives that can also be prepopulated before queries actually arrive. These need to actually be substituted in with queries.
@@ -9,3 +11,7 @@ Remove and simplify expressions. Constant simplifications, exploiting of constra
 ## Subquery Flattening
 
 Might be able to remove subqueries entirely. This is not always possible.
+
+---
+
+**Next:** [[Query Optimization]]

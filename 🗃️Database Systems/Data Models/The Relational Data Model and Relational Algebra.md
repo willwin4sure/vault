@@ -31,7 +31,7 @@ Despite its simplicity, this model is also flexible enough to represent basicall
 > * **Set operations**. For example, unions allow concatenation of tables.
 > * **Aggregate operations**. For example, cumulative sums or averages.
 
-These are purely logical, while the actual implementation can be made more efficient. For example, there are nice identities which can be used for optimization, e.g. ==predicate push-downs==, where we move selection operations before joins.
+These are purely logical, while the actual implementation can be made more efficient. For example, there are nice identities which can be used for optimization, e.g. ==predicate push-downs==, where we move selection operations before joins. ^d64f56
 
 > [!idea]
 > Nothing about queries prescribe anything about how the database actually stores or accesses things; they are purely logical.

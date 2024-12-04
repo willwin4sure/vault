@@ -6,7 +6,7 @@ You are a database engineer at a zoo. The internal website needs to display and 
 
 ![[er_zoo.png|center|512]]
 
-The three core ==entities== are animals, cages, and keepers. Entities may be assigned properties:
+The three core ==entities== are animals, cages, and keepers. Entities may be assigned properties: ^ebd668
 
 * Animals have names, ages, and species.
 * Cages have feeding times and buildings.
@@ -15,7 +15,7 @@ The three core ==entities== are animals, cages, and keepers. Entities may be ass
 > [!warning]
 > One design decision expressed by the diagram is that feeding times are associated with cages rather than animals. This could depend on the requirements of the zoo.
 
-These entities will also have ==relationships== with each other.
+These entities will also have ==relationships== with each other. ^ccb952
 
 * Cages contain animals. Animals are in exactly one cage, while cages may have multiple animals. This is called a ==N-to-1 relationship== with ==total participation== from animals.
 * Keepers manage cages. Keepers may manage multiple cages, and cages may be managed by multiple keepers. This is called an ==N-to-N relationship==. ^3237f0
@@ -36,6 +36,8 @@ Since *`animal_id`* is a primary key, it uniquely defines each row of the table.
 
 > [!idea]
 > Entities can be stored in a table with columns as their attributes. It is often useful to include an ID column.
+
+^778ef6
 
 We have captured the N-to-1 relationship with cages by including a ==foreign key== `cage_id`, which points to the corresponding field in the cages table, shown below.
 

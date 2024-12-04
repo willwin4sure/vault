@@ -1,19 +1,14 @@
-
-
-> [!example]
-> Suppose your database stored a single feeding time per cage, but now you want to upgrade it to have several feeding times per cage.
-
-You used to have a table called `animals`, but it got upgraded to `animals2` (all the feedtimes got moved to a `feedtime` table). We can maintain backwards-compatibility by creating a ==view== `animals`, a query that pretends to be a table.
-
-
-
-## Fancy SQL
-
 > Correlated subqueries, recursion, self-joins.
 
-==Correlated subqueries== exist.
+## Correlated Subqueries
 
-Aliases and ambiguity. You can have ambiguity if two tables have the same column name; one fix is just qualifying it with the table name. Or you can give the table name an alias and use that to qualify instead. These aliases are what you end up using in self-joins.
+A ==correlated subquery== is a subquery that is executed once for each row of the outer query. This is different from a ==nested subquery==, where the inner request just runs a single time.
+
+## Aliases and Ambiguity
+
+You can have ==ambiguity== if two tables have the same column name; one fix is just qualifying it with the table name. Or you can give the table name an ==alias== and use that to qualify instead. These aliases are what you end up using in ==self-joins==.
+
+## Left Joins
 
 ==Left joins== keep all the records on the left side, appending NULLs if nothing matches. Right joins and full outer joins are analogous.
 
@@ -29,10 +24,12 @@ You must use `cageno` instead of `*` (which would just count the number of recor
 > [!example]
 > Find all keepers that keep both bears and giraffes.
 
+## Common Table Expressions
+
 > [!idea]
 > Anywhere you use a table, you can use a query instead! (Queries just gives tables.)
 
-This is called a common table expression (?)
+This is called a ==common table expression==.
 
 ```sql
 WITH giraffe_keeper_ids AS (
@@ -45,25 +42,23 @@ WITH giraffe_keeper_ids AS (
 	WHERE id = kid AND cageno = acageno AND species != "Giraffe"
 ```
 
-Recursive queries... e.g. to perform a graph search.
+## Recursive SQL
+
+You can write ==recursive queries== in SQL. These can be used, e.g. to perform a graph search. Here's a basic example.
 
 ```sql
-WITH RECURSIVE t(n) AS
+WITH RECURSIVE t(n) AS  %% t has a single column with name n. %%
 (
-	SELECT 1 as n  %% base case?? %%
+	SELECT 1 as n  %% Base case. %%
 UNION
-	SELECT n + 1  %% recursive step?? %%
+	SELECT n + 1  %% Recursive step. %%
 	FROM t WHERE n < 100
 )
 SELECT sum(n) FROM t;
 ```
 
-??????????????????????????????????????????????????????????????????????????????????????????????????????????????????
-# ????????
-
 > [!idea]
-> Now SQL is Turing complete. You can make a Sudoku solver.
-
+> Now SQL is Turing complete. You could make a Sudoku solver in SQL. You shouldn't make a Sudoku solver in SQL.
 
 ```sql
 WITH recursive_sick_keepers(kid) as (
@@ -79,7 +74,9 @@ UNION
 )
 ```
 
-Window functions... allow you to compute cumulative sums. These also make SQL Turing complete.
+## Window Functions
+
+==Window functions== allow you to compute things like counts, cumulative sums, and lagged quantities. For example:
 
 ```sql
 SELECT hour, min, cume_dist()
@@ -91,11 +88,14 @@ SELECT hour, min, qty, lag(qty, 1)
 OVER (ORDER BY hour, min) as lag FROM times
 ```
 
-The lag/cumsums have to be over some order!
-
+In particular, lag and cumulative window functions have to be performed `OVER` some `ORDER BY`. Here's another example:
 
 ```sql
 SELECT day, (sales - (lag(sales, 7)
 OVER (ORDER BY day)) as sales_difference)
 FROM sales_table
 ```
+
+---
+
+**Next:** [[Entity Relationship Diagrams]]

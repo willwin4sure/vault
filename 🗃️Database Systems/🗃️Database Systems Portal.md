@@ -10,4 +10,4 @@ Another common type of database is online analytical processing (OLAP). You will
 ## Homepages
 
 1. [[⛺Data Models Homepage]]
-2. [[⛺Database Internals Homepage]]
+2. [[⛺Query Processing Homepage]]

@@ -29,4 +29,4 @@ Now let's dive a bit more into database design. We'll also discuss normalization
 
 ---
 
-**Next:** [[⛺Database Internals Homepage]]
+**Next:** [[⛺Query Processing Homepage]]
