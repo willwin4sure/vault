@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5b3c95a053c89a42",
+        "id": "225a444e47437b89",
         "type": "tabs",
         "children": [
           {
-            "id": "ddba00607b779d41",
+            "id": "200db23a059fbad9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "🧠Deep Learning/Generative Models/Structured Prediction and Unpaired Translation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Structured Prediction and Unpaired Translation"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bent",
+                "query": "minimax",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,8 +163,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ddba00607b779d41",
+  "active": "200db23a059fbad9",
   "lastOpenFiles": [
+    "🧠Deep Learning/Generative Models/Deep Generative Models.md",
+    "🧠Deep Learning/Generative Models/Structured Prediction and Unpaired Translation.md",
+    "🤔Inference and Information/Decision Theory/Minimax Hypothesis Testing.md",
+    "🤔Inference and Information/Information/Mixture Models.md",
+    "🦿Sensorimotor Learning/Stochastic Bandits/Upper Confidence Bound Algorithm.md",
+    "🤔Inference and Information/Decision Theory/⛺Decision Theory Homepage.md",
+    "🎮Game Theory/Backward Induction.md",
+    "🦿Sensorimotor Learning/On-Policy Learning/Advantage Actor-Critic Method.md",
+    "🧠Deep Learning/img/sat2map.png",
+    "🧠Deep Learning/img/fake_colorized.png",
+    "🧠Deep Learning/Generative Models/Variational Autoencoders.md",
+    "🧠Deep Learning/Width or Depth.md",
     "🎮Game Theory/Strategic Analysis/⛺Strategic Analysis Homepage.md",
     "🚀Performance Engineering/Low-Level Optimizations/Bentley Rules.md",
     "🚀Performance Engineering/Low-Level Optimizations/Bit Hacks.md",
@@ -178,16 +195,6 @@
     "📈Microeconomics 1/Monopoly and Oligopoly/Oligopoly and Cournot Equilibrium.md",
     "📈Microeconomics 1/Monopoly and Oligopoly/Cartels.md",
     "📈Microeconomics 2/Miscellany/Imperfect Competition.md",
-    "📈Microeconomics 2/Miscellany/Asymmetric Information.md",
-    "📈Microeconomics 2/Miscellany/Game Theory.md",
-    "📈Microeconomics 2/Miscellany/Uncertainty.md",
-    "📈Microeconomics 2/Miscellany/Monopoly.md",
-    "📈Microeconomics 2/Miscellany/⛺Miscellany Homepage.md",
-    "📈Microeconomics 1/Monopoly and Oligopoly/Monopoly.md",
-    "📈Microeconomics 1/Supply and Demand/Surpluses and Welfare Economics.md",
-    "📈Microeconomics 2/Producer Theory/⛺Producer Theory Homepage.md",
-    "📈Microeconomics 2/Equilibria/⛺Equilibria Homepage.md",
-    "🗺️Mathematics Region.md",
     "📈Microeconomics 2/Miscellany",
     "🚀Performance Engineering/img/energy_of_data_movement.png",
     "🚀Performance Engineering/img/interleaving_tasks.png",
@@ -196,8 +203,6 @@
     "🚀Performance Engineering/img/scaling_single_core_silicon.png",
     "🚀Performance Engineering/img/matrix_multiply_apple_m2.png",
     "🚀Performance Engineering/img/annotated_apple_m2.png",
-    "🚀Performance Engineering/img/apple_m2.png",
-    "🚀Performance Engineering/img/store_buffer.png",
     "🗃️Database Systems/Parallel and Distributed Databases",
     "🎮Game Theory/Imperfect Information",
     "📈Microeconomics 2/Equilibria",

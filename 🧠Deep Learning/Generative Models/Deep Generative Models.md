@@ -86,7 +86,7 @@ Note that the model is given the current timestep $t$ so it can condition on the
 
 Now you have two competing networks: a generative model $g_{\theta}$ that attempts to synthesize images and a discriminator model $d_{\phi}$ that attempts to identify whether the image is real or synthetic.
 
-By training these two networks in tandem, we end up with a strong generative model.
+By training these two networks in tandem, we end up with a strong generative model. The math is given in more detail when we discuss [[Structured Prediction and Unpaired Translation#Conditional GANs|conditional GANs]].
 
 ---
 

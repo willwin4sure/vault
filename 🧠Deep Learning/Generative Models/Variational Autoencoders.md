@@ -147,4 +147,4 @@ Note that when encoding into the Gaussian, you will end up with unfilled "seams"
 
 ---
 
-**Next:** [[Structured Objectives]]
+**Next:** [[Structured Prediction and Unpaired Translation]]
