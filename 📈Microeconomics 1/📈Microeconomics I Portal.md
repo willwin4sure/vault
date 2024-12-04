@@ -10,4 +10,4 @@ From the MIT introductory course [14.01 Principles of Microeconomics](http://stu
 3. [[⛺Factor Markets Homepage]]
 4. [[⛺International Trade Homepage]]
 5. [[⛺Uncertainty and Insurance Homepage]]
-6. [[⛺Miscellany Homepage]]
+6. [[📈Microeconomics 1/Miscellany/⛺Miscellany Homepage]]

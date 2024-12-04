@@ -32,6 +32,8 @@ This is just the sum of the quantities demanded given the endowed incomes, minus
 > $$
 > i.e. all markets are clear!
 
+^e5784e
+
 This is a problem with $n$ equations (no excess demand per good) and $n$ variables (the price points).
 
 > [!claim] (Properties of excess demand)
@@ -40,8 +42,23 @@ This is a problem with $n$ equations (no excess demand per good) and $n$ variabl
 
 The first is clear since only the relative prices matters. The second is clear because the total incomes are the same for demanded quantity and endowed quantity.
 
-> [!theorem]
+> [!theorem] (Existence of competitive equilibria)
 > A competitive equilibrium always exists.
+
+Consider the set
+$$
+X=\left\{ \mathbf{p}\in \mathbb{R}_{+}^{n} \bigg| \sum_{k=1}^{n}p_{k}=1 \right\} 
+$$
+of possible price vectors. Then, take the function $\mathbf{f}(\mathbf{p})$ with components
+$$
+f_{k}(\mathbf{p})=\frac{\max\left\{ 0,p_{k}+z_{k}(\mathbf{p}) \right\} }{\sum_{i=1}^{n}\max\left\{ 0,p_{\ell}+z_{\ell}(\mathbf{p}) \right\} }.
+$$
+Now, the set $X$ is closed, bounded, and convex and if the utility functions are strictly quasi-concave, then each $z_{k}$ is continuous and so $\mathbf{f}:X\to X$ is as well.
+
+> [!idea]
+> Applying $\mathbf{p}'=\mathbf{f}(\mathbf{p})$ results in a price vector where you increase the price of goods with excess demand.
+
+In particular, any fixed point $\mathbf{p}=\mathbf{f}(\mathbf{p})$ has $\mathbf{z}(\mathbf{p})=0$, i.e. all markets clear. However, this exists by [[Brouwer's fixed point theorem]]. 
 
 ## Efficient Allocations
 
@@ -58,7 +75,7 @@ The first is clear since only the relative prices matters. The second is clear b
 > [!claim]
 > An interior allocation is efficient if and only if marginal rates of substitution between any two goods are equalized between any two consumers.
 
-In the Edgeworth box picture, this corresponds to the red and green isoutility curves having the same slope.
+In the Edgeworth box picture, this corresponds to the red and green isoutility curves having the same slope. If they weren't the same slope, you could trade goods while increasing the total utility.
 
 ## First Welfare Theorem
 
@@ -73,4 +90,4 @@ Further, if you have any efficient allocation, you can make it a competitive equ
 
 ---
 
-**Next:** [[General Equilibrium with Production]]
+**Next:** [[Production Edgeworth Box]]

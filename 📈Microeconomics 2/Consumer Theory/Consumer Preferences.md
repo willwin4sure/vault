@@ -41,4 +41,4 @@ The strong version states that there are no cycles in revealed preference.
 
 ---
 
-**Next:** [[Production Functions]]
+**Return:** [[⛺Consumer Theory Homepage]]

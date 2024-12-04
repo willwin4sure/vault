@@ -17,4 +17,4 @@ Then, how this leads to insurance programs. Insurance is not so simple because o
 
 ---
 
-**Next:** [[⛺Miscellany Homepage]]
+**Next:** [[📈Microeconomics 1/Miscellany/⛺Miscellany Homepage]]

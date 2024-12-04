@@ -2,6 +2,8 @@
 
 ## Efficient Allocation
 
+Consider the following image.
+
 ![[edgeworth_efficiency.png|center|512]]
 
 The black dot represents the current state of affairs:
@@ -17,7 +19,8 @@ Meanwhile, the red curves are the isoutilities for Ann, and the green curves are
 > [!idea]
 > Efficient allocations occur at points where the red and green curves are tangent. This is drawn in blue above.
 
- 
+Here's another picture:
+
 ![[edgeworth_pareto_improving.png|center|512]]
 
 
@@ -26,6 +29,8 @@ Meanwhile, the red curves are the isoutilities for Ann, and the green curves are
 
 > [!idea]
 > Pareto improving allocations are sandwiched between the two isoutilities passing through the current allocation.
+
+And another picture:
 
 ![[edgeworth_contract_curve.png|center|512]]
 
@@ -36,7 +41,7 @@ So Ann and Bob would be happy if we could just teleport them to a spot on the co
 
 ## Price Exchange
 
-Another way of modeling is to suppose they agree on some price ratio for the goods and exchange by it. If this ratio is off, there will be excess demand for a particular good.
+Now instead suppose that Alice and Bob need to exchange goods based on some agreed price ratio. If this ratio is off, there will be excess demand for a particular good:
 
 ![[edgeworth_excess_demand.png|center|512]]
 
@@ -44,7 +49,7 @@ For example, with the price ratio above, there is excess demand for the good X, 
 
 ![[edgeworth_competitive_equilibrium.png|center|512]]
 
-> [!idea]
+> [!idea] (Competitive equilibria are stable)
 > Note that market forces actually push us to the second picture: there is excess demand for X, so its price goes up, driving us *towards* the competitive equilibrium!
 
 In general, efficiency requires that we equate the marginal rate of substitution between any two goods across any two customers, and competitive equilibrium ensures this.

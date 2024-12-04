@@ -65,9 +65,9 @@ This is a form of insurance against longevity. You don't know how long you'll li
 
 Unfortunately, it also leads to increased retirement (removing producing older workers and causing higher tax burden). This is not such a problem in the U.S., but it is terrible in Europe.
 
-In the Netherlands, you can retire at 55 with a SS benefit of 90% of your pre-retirement wage. This is an <span style="color:#0088ff">implicit tax</span> of 90% on working: the opportunity cost of leisure is only 10% of your initial wage! Yet to fund this program, your income is already taxed at 40%! So you lose money by working... of course then, nobody works!
+In the Netherlands, you can retire at 55 with a SS benefit of 90% of your pre-retirement wage. This is an ==implicit tax== of 90% on working: the opportunity cost of leisure is only 10% of your initial wage! Yet to fund this program, your income is already taxed at 40%! So you lose money by working... of course then, nobody works!
 
-The U.S. solves this problem by <span style="color:#0088ff">actuarial adjustment</span>: for every year past 62 that you work, your benefits post-retirement go up by 6.7%.
+The U.S. solves this problem by ==actuarial adjustment==: for every year past 62 that you work, your benefits post-retirement go up by 6.7%.
 
 ---
 

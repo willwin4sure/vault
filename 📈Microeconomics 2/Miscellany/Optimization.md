@@ -116,4 +116,4 @@ The replacement of $f$ with the Lagrangian $\mathcal{L}$ only does something if 
 
 ---
 
-**Next:** [[Marshallian Demand and Indirect Utility]]
+**Next:** [[⛺Consumer Theory Homepage]]

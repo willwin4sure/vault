@@ -36,6 +36,8 @@ Since the monopolist equates $MC$ to $MR$ (which is lower than demand), the quan
 > [!definition] Definition (Markup)
 > We define the <span style="color:#0088ff">markup</span> as the percentage under the monopolistic price the actual marginal cost is, i.e. $\theta=\frac{P-MC}{P}$.
 
+^ce9808
+
 It turns out that the markup is related to the elasticity of demand:
 
 > [!question]
@@ -50,7 +52,7 @@ For example, if you are the only firm producing insulin, consumers will have to 
 
 It is clear from the image above that the monopolist introduces [[Surpluses and Welfare Economics#^43802d|deadweight loss]] (marked in black) versus the perfectly competitive case.
 
-However, a monopolist that can perform perfect <span style="color:#0088ff">price discrimination</span> can actually recapture the entire social welfare, it just all comes in the form of producer surplus! All such a monopolist would have to do is sell to each person at exactly the price they are willing to pay, unlike in our current model where the monopolist must charge the same price for every customer.
+However, a monopolist that can perform perfect <span style="color:#0088ff">price discrimination</span> can actually recapture the entire social welfare, it just all comes in the form of producer surplus! All such a monopolist would have to do is sell to each person at exactly the price they are willing to pay, unlike in our current model where the monopolist must charge the same price for every customer. ^189fad
 
 In this case, the monopolist will keep selling until $P=MC(Q)$, once again the perfectly competitive equilibrium, maximizing social welfare.
 

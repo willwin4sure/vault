@@ -96,7 +96,6 @@ The income effect is computed by considering the change from this imaginary budg
 | Normal       | <font style="color:red">Price Falls</font>  | <font style="color:lime">Positive</font> | <font style="color:lime">Positive</font> | <font style="color:lime">Positive</font>  |
 | Inferior     | <font style="color:lime">Price Rises</font> | <font style="color:red">Negative</font>  | <font style="color:lime">Positive</font> | <font style="color:yellow">Unknown</font> |
 | Inferior     | <font style="color:red">Price Falls</font>  | <font style="color:lime">Positive</font> | <font style="color:red">Negative</font>  | <font style="color:yellow">Unknown</font> |
-|              |                                             |                                          |                                          |                                           |
 
 In the case of an inferior good where the income effect overcomes the substitution effect, we get a <span style="color:#0088ff">Giffen good</span>, which has an upwards-sloping demand curve! These used to be a myth, but now there is some convincing evidence that these may actually exist in specific circumstances. ^f07f2e
 

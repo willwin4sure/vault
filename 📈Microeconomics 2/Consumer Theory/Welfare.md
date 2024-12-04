@@ -1,3 +1,4 @@
+> Lump-sum taxes are better than ad valorem taxes.
 ## Taxation
 
 > [!question]
