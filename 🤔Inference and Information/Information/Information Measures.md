@@ -94,6 +94,8 @@ $$
 > I(\mathsf{x};\mathsf{y})=\sum_{a,b}^{}p_{\mathsf{x},\mathsf{y}}(a,b)\log \frac{p_{\mathsf{x},\mathsf{y}}(a,b)}{p_{\mathsf{x}}(a)p_{\mathsf{y}}(b)}.
 > $$
 
+^cd28ea
+
 Note that this is symmetric in $\mathsf{x}$ and $\mathsf{y}$, and it is equal to the quantity above.
 
 > [!idea]

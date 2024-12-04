@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d9944e106a8396e8",
+        "id": "5b3c95a053c89a42",
         "type": "tabs",
         "children": [
           {
-            "id": "3cd92fedecd3b791",
+            "id": "ddba00607b779d41",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🧠Deep Learning/Scaling Rules for Optimization.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +48,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"RMS norm\"",
+                "query": "bent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,11 +64,12 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧠Deep Learning/Scaling Rules for Optimization.md",
+                "file": "🎮Game Theory/Representation of Games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Representation of Games"
             }
           },
           {
@@ -103,10 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🧠Deep Learning/Scaling Rules for Optimization.md",
+                "file": "🎮Game Theory/Representation of Games.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Representation of Games"
             }
           },
           {
@@ -117,7 +124,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,8 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🧠Deep Learning/Scaling Rules for Optimization.md"
-              }
+                "file": "🎮Game Theory/Representation of Games.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Representation of Games"
             }
           }
         ]
@@ -147,52 +158,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3cd92fedecd3b791",
+  "active": "ddba00607b779d41",
   "lastOpenFiles": [
-    "🧠Deep Learning/Universal Approximation.md",
-    "🧠Deep Learning/Scaling Rules for Optimization.md",
-    "🧠Deep Learning/img/scaling_woes.png",
-    "🧠Deep Learning/Neural Network Generalization.md",
-    "🧠Deep Learning/Width or Depth.md",
-    "Untitled.md",
-    "🧠Deep Learning/img/low_rank_similarity.png",
-    "🧠Deep Learning/img/simplicity_bias.png",
-    "🧠Deep Learning/img/norm_features.png",
-    "🧠Deep Learning/img/mnist_dd.png",
-    "🧠Deep Learning/img/double_descent.png",
-    "🧠Deep Learning/img/20poly.png",
-    "🧠Deep Learning/img/3poly.png",
-    "🧠Deep Learning/img/1000poly.png",
-    "🧠Deep Learning/img/classical_overfitting.png",
-    "🧠Deep Learning/Architectures for Graphs.md",
-    "🧠Deep Learning/Architectures for Grids.md",
-    "🤔Inference and Information/Information/Information Projection and Pythagoras' Theorem.md",
-    "🤔Inference and Information/Techniques/Single-Parameter Exponential Families.md",
-    "🤔Inference and Information/Techniques/Local Families of Distributions.md",
-    "🤔Inference and Information/Information/Conjugate Prior Families for Exponential Families.md",
-    "🤔Inference and Information/Information/Linear Families.md",
-    "🤔Inference and Information/Information/Moment Matching.md",
-    "🤔Inference and Information/Information/Orthogonal Families.md",
-    "🤔Inference and Information/Information/⛺Information Homepage.md",
-    "🤔Inference and Information/Techniques/⛺Techniques Homepage.md",
-    "🤔Inference and Information/Information/KL Divergence.md",
-    "🦿Sensorimotor Learning/On-Policy Learning/Trust Region Policy Optimization.md",
-    "🤔Inference and Information/Approximative Inference/Monte Carlo Methods.md",
-    "🦿Sensorimotor Learning/On-Policy Learning/Proximal Policy Optimization.md",
-    "🤔Inference and Information/Information/Modeling as Inference.md",
-    "🤔Inference and Information/Techniques/Multi-Parameter Exponential Families.md",
-    "🤔Inference and Information/Information/Maximally Ignorant Priors.md",
-    "🤔Inference and Information/Approximative Inference/Large Deviations and Cramér's Theorem.md",
-    "🚀Performance Engineering/Bentley Rules.md",
-    "🗃️Database Systems/Transactions",
-    "🗃️Database Systems/Database Internals",
-    "🗃️Database Systems/Data Models",
-    "🚀Performance Engineering/New folder",
-    "🚀Performance Engineering/img",
-    "📈Microeconomics 2/img",
-    "📈Microeconomics 2",
-    "🎮Game Theory/img",
-    "🎮Game Theory",
-    "🧠Deep Learning/img"
+    "🎮Game Theory/Strategic Analysis/⛺Strategic Analysis Homepage.md",
+    "🚀Performance Engineering/Low-Level Optimizations/Bentley Rules.md",
+    "🚀Performance Engineering/Low-Level Optimizations/Bit Hacks.md",
+    "🎮Game Theory/Strategic Analysis/Supermodular Games.md",
+    "🎮Game Theory/img/advertisement_rnd.png",
+    "🎮Game Theory/Strategic Analysis/Zero-Sum Games.md",
+    "🎮Game Theory/Strategic Analysis/Imperfect Competition.md",
+    "🎮Game Theory/Strategic Analysis/Nash Equilibria.md",
+    "🎮Game Theory/Strategic Analysis/Rationalizability.md",
+    "🎮Game Theory/Strategic Analysis/Dominance.md",
+    "🎮Game Theory/Strategic Analysis/Representation of Games.md",
+    "🦿Sensorimotor Learning/On-Policy Learning/⛺On-Policy Learning Homepage.md",
+    "🎮Game Theory/Strategic Analysis",
+    "🎮Game Theory/🎮Game Theory Portal.md",
+    "📈Microeconomics 1/Uncertainty and Insurance/Asymmetric Information and Social Insurance.md",
+    "📈Microeconomics 1/Monopoly and Oligopoly/Oligopoly and Cournot Equilibrium.md",
+    "📈Microeconomics 1/Monopoly and Oligopoly/Cartels.md",
+    "📈Microeconomics 2/Miscellany/Imperfect Competition.md",
+    "📈Microeconomics 2/Miscellany/Asymmetric Information.md",
+    "📈Microeconomics 2/Miscellany/Game Theory.md",
+    "📈Microeconomics 2/Miscellany/Uncertainty.md",
+    "📈Microeconomics 2/Miscellany/Monopoly.md",
+    "📈Microeconomics 2/Miscellany/⛺Miscellany Homepage.md",
+    "📈Microeconomics 1/Monopoly and Oligopoly/Monopoly.md",
+    "📈Microeconomics 1/Supply and Demand/Surpluses and Welfare Economics.md",
+    "📈Microeconomics 2/Producer Theory/⛺Producer Theory Homepage.md",
+    "📈Microeconomics 2/Equilibria/⛺Equilibria Homepage.md",
+    "🗺️Mathematics Region.md",
+    "📈Microeconomics 2/Miscellany",
+    "🚀Performance Engineering/img/energy_of_data_movement.png",
+    "🚀Performance Engineering/img/interleaving_tasks.png",
+    "🚀Performance Engineering/img/fancy_core.png",
+    "🚀Performance Engineering/img/simd_masking.png",
+    "🚀Performance Engineering/img/scaling_single_core_silicon.png",
+    "🚀Performance Engineering/img/matrix_multiply_apple_m2.png",
+    "🚀Performance Engineering/img/annotated_apple_m2.png",
+    "🚀Performance Engineering/img/apple_m2.png",
+    "🚀Performance Engineering/img/store_buffer.png",
+    "🗃️Database Systems/Parallel and Distributed Databases",
+    "🎮Game Theory/Imperfect Information",
+    "📈Microeconomics 2/Equilibria",
+    "📈Microeconomics 2/Producer Theory",
+    "📈Microeconomics 2/Consumer Theory",
+    "🚀Performance Engineering/Caching 1",
+    "🚀Performance Engineering/Miscellany",
+    "🚀Performance Engineering/Memory and Caching"
   ]
 }

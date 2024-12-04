@@ -33,4 +33,4 @@ Here is another occasionally useful result:
 
 ---
 
-**Next:** [[Monotone Convergence Theorem]]
+**Return:** [[Monotone Convergence Theorem]]
