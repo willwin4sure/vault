@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "225a444e47437b89",
+        "id": "061d1e6120a38d2f",
         "type": "tabs",
         "children": [
           {
-            "id": "200db23a059fbad9",
+            "id": "29b39032c2a0a103",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧠Deep Learning/Generative Models/Structured Prediction and Unpaired Translation.md",
+                "file": "🚀Performance Engineering/Miscellany/The Travelling Salesrep Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Structured Prediction and Unpaired Translation"
+              "title": "The Travelling Salesrep Problem"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "minimax",
+                "query": "structured and unst",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,53 +162,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "200db23a059fbad9",
+  "active": "29b39032c2a0a103",
   "lastOpenFiles": [
-    "🧠Deep Learning/Generative Models/Deep Generative Models.md",
-    "🧠Deep Learning/Generative Models/Structured Prediction and Unpaired Translation.md",
-    "🤔Inference and Information/Decision Theory/Minimax Hypothesis Testing.md",
-    "🤔Inference and Information/Information/Mixture Models.md",
-    "🦿Sensorimotor Learning/Stochastic Bandits/Upper Confidence Bound Algorithm.md",
-    "🤔Inference and Information/Decision Theory/⛺Decision Theory Homepage.md",
-    "🎮Game Theory/Backward Induction.md",
-    "🦿Sensorimotor Learning/On-Policy Learning/Advantage Actor-Critic Method.md",
-    "🧠Deep Learning/img/sat2map.png",
-    "🧠Deep Learning/img/fake_colorized.png",
-    "🧠Deep Learning/Generative Models/Variational Autoencoders.md",
-    "🧠Deep Learning/Width or Depth.md",
-    "🎮Game Theory/Strategic Analysis/⛺Strategic Analysis Homepage.md",
-    "🚀Performance Engineering/Low-Level Optimizations/Bentley Rules.md",
-    "🚀Performance Engineering/Low-Level Optimizations/Bit Hacks.md",
-    "🎮Game Theory/Strategic Analysis/Supermodular Games.md",
-    "🎮Game Theory/img/advertisement_rnd.png",
-    "🎮Game Theory/Strategic Analysis/Zero-Sum Games.md",
-    "🎮Game Theory/Strategic Analysis/Imperfect Competition.md",
-    "🎮Game Theory/Strategic Analysis/Nash Equilibria.md",
-    "🎮Game Theory/Strategic Analysis/Rationalizability.md",
-    "🎮Game Theory/Strategic Analysis/Dominance.md",
-    "🎮Game Theory/Strategic Analysis/Representation of Games.md",
-    "🦿Sensorimotor Learning/On-Policy Learning/⛺On-Policy Learning Homepage.md",
-    "🎮Game Theory/Strategic Analysis",
-    "🎮Game Theory/🎮Game Theory Portal.md",
-    "📈Microeconomics 1/Uncertainty and Insurance/Asymmetric Information and Social Insurance.md",
-    "📈Microeconomics 1/Monopoly and Oligopoly/Oligopoly and Cournot Equilibrium.md",
-    "📈Microeconomics 1/Monopoly and Oligopoly/Cartels.md",
+    "🚀Performance Engineering/Miscellany/What Compilers Can and Cannot Do.md",
+    "🚀Performance Engineering/Miscellany/Structured and Unstructured Data.md",
+    "🚀Performance Engineering/Parallelization/⛺Parallelization Homepage.md",
+    "🚀Performance Engineering/Parallelization/Speculative Parallelism.md",
+    "🚀Performance Engineering/Parallelization/Synchronization Without Locks.md",
+    "🚀Performance Engineering/Parallelization/Nondeterministic Parallel Programming.md",
+    "🚀Performance Engineering/Parallelization/Races and Parallelism.md",
+    "🚀Performance Engineering/Parallelization/Multicore Programming.md",
+    "🚀Performance Engineering/Memory and Caching/Cache-Oblivious Algorithms.md",
+    "🚀Performance Engineering/Memory and Caching/⛺Memory and Caching Homepage.md",
+    "🚀Performance Engineering/Memory and Caching/Cache-Efficient Algorithms.md",
+    "🚀Performance Engineering/🚀Performance Engineering Portal.md",
+    "🚀Performance Engineering/Miscellany/⛺Miscellany Homepage.md",
+    "📈Microeconomics 2/Miscellany/Uncertainty.md",
+    "📈Microeconomics 2/Miscellany/Monopoly.md",
     "📈Microeconomics 2/Miscellany/Imperfect Competition.md",
+    "📈Microeconomics 2/Miscellany/Game Theory.md",
+    "📈Microeconomics 2/Miscellany/Asymmetric Information.md",
+    "📈Microeconomics 2/Miscellany/⛺Miscellany Homepage.md",
+    "📈Microeconomics 2/Producer Theory/Profit Maximization.md",
+    "📈Microeconomics 2/Miscellany/Optimization.md",
+    "🚀Performance Engineering/Memory and Caching/Cache Associativity.md",
+    "🚀Performance Engineering/Memory and Caching/Memory-Level Parallelism.md",
+    "🚀Performance Engineering/Memory and Caching/Bulk Prefetch.md",
+    "🚀Performance Engineering/Memory and Caching/Jane Street's OCaml Garbage Collector.md",
+    "🚀Performance Engineering/Memory and Caching/Storage Allocation.md",
+    "🚀Performance Engineering/img/compiler_optimization.png",
+    "🧠Deep Learning/Guest Lectures",
+    "🧠Deep Learning/img/batch_size_scaling.png",
+    "🧠Deep Learning/img/roberta_pruning.png",
+    "🧠Deep Learning/img/bair_compress_training.png",
+    "🧠Deep Learning/img/scaling_sample_efficiency.png",
+    "🧠Deep Learning/img/model_shape_dependence.png",
+    "🧠Deep Learning/img/tandem_scaling.png",
+    "🧠Deep Learning/img/power_scaling_laws.png",
+    "🧠Deep Learning/img/gpt4_scaling_law.png",
+    "🧠Deep Learning/img/scaling_laws.png",
+    "🎮Game Theory/Strategic Analysis",
     "📈Microeconomics 2/Miscellany",
-    "🚀Performance Engineering/img/energy_of_data_movement.png",
-    "🚀Performance Engineering/img/interleaving_tasks.png",
-    "🚀Performance Engineering/img/fancy_core.png",
-    "🚀Performance Engineering/img/simd_masking.png",
-    "🚀Performance Engineering/img/scaling_single_core_silicon.png",
-    "🚀Performance Engineering/img/matrix_multiply_apple_m2.png",
-    "🚀Performance Engineering/img/annotated_apple_m2.png",
     "🗃️Database Systems/Parallel and Distributed Databases",
     "🎮Game Theory/Imperfect Information",
     "📈Microeconomics 2/Equilibria",
     "📈Microeconomics 2/Producer Theory",
     "📈Microeconomics 2/Consumer Theory",
     "🚀Performance Engineering/Caching 1",
-    "🚀Performance Engineering/Miscellany",
-    "🚀Performance Engineering/Memory and Caching"
+    "🚀Performance Engineering/Miscellany"
   ]
 }

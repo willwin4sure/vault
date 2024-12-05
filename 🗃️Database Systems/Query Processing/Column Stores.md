@@ -34,7 +34,7 @@ Another cool optimization is called ==late materialization==, where you have to 
 
 This is another very nice benefit of column stores. Here are some ideas:
 
-* **Run-length encoding (RLE):** if values are repeated a lot in runs, store the value and its run length. Work well for mostly-sorted, few-valued columns.
+* **Run-length encoding (RLE):** if values are repeated a lot in runs, store the value and its run length. Work well for mostly-sorted, few-valued columns. ^736daa
 * **Delta encoding:** store the difference from the last entry. 
 * **Lempel-Ziv encoding (LZ):** general-purpose lossless compression.
 * **Bit packing:** each value becomes a length in bits followed by the value.

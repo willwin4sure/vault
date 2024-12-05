@@ -29,3 +29,7 @@ Quorums still favor consistency too heavily. The solution is ==sloppy quorums==,
 You can easily have divergence on any key $k$ if you have a network partition, since one side might believe its some value while the other side believes it's another. Can fix with ==vector clocks==, where each node stores a monotonic version counter.
 
 If you see two incompatible clock vectors, consolidate with some strategy (e.g. if they are commutative just sum up and change to max counters).
+
+---
+
+**Return:** [[⛺Parallel and Distributed Databases Homepage]]
