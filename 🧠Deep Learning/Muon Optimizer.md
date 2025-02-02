@@ -17,5 +17,5 @@ In fact, this is the principle behind the Muon optimizer, shown below. It also a
 
 ![[muon_optimizer.png|center|512]]
 
-This is currently the best method for quickly training a NanoGPT model; see [Keller Jordan's repository](https://github.com/KellerJordan/modded-nanogpt).
+This is currently the best method for quickly training a nanoGPT model; see [Keller Jordan's repository](https://github.com/KellerJordan/modded-nanogpt).
 

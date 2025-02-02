@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "061d1e6120a38d2f",
+        "id": "c614c3db6cf603d3",
         "type": "tabs",
         "children": [
           {
-            "id": "29b39032c2a0a103",
+            "id": "c8d0f262b1ca5fc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🚀Performance Engineering/Miscellany/The Travelling Salesrep Problem.md",
+                "file": "🚀Performance Engineering/Parallelization/Races and Parallelism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Travelling Salesrep Problem"
+              "title": "Races and Parallelism"
+            }
+          },
+          {
+            "id": "fd2578dc4908ab9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🚀Performance Engineering/Memory and Caching/Storage Allocation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Storage Allocation"
             }
           }
         ]
@@ -52,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "structured and unst",
+                "query": "cactus stack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +87,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,53 +177,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29b39032c2a0a103",
+  "active": "c8d0f262b1ca5fc5",
   "lastOpenFiles": [
-    "🚀Performance Engineering/Miscellany/What Compilers Can and Cannot Do.md",
-    "🚀Performance Engineering/Miscellany/Structured and Unstructured Data.md",
-    "🚀Performance Engineering/Parallelization/⛺Parallelization Homepage.md",
-    "🚀Performance Engineering/Parallelization/Speculative Parallelism.md",
-    "🚀Performance Engineering/Parallelization/Synchronization Without Locks.md",
-    "🚀Performance Engineering/Parallelization/Nondeterministic Parallel Programming.md",
-    "🚀Performance Engineering/Parallelization/Races and Parallelism.md",
-    "🚀Performance Engineering/Parallelization/Multicore Programming.md",
-    "🚀Performance Engineering/Memory and Caching/Cache-Oblivious Algorithms.md",
-    "🚀Performance Engineering/Memory and Caching/⛺Memory and Caching Homepage.md",
-    "🚀Performance Engineering/Memory and Caching/Cache-Efficient Algorithms.md",
-    "🚀Performance Engineering/🚀Performance Engineering Portal.md",
-    "🚀Performance Engineering/Miscellany/⛺Miscellany Homepage.md",
-    "📈Microeconomics 2/Miscellany/Uncertainty.md",
-    "📈Microeconomics 2/Miscellany/Monopoly.md",
-    "📈Microeconomics 2/Miscellany/Imperfect Competition.md",
-    "📈Microeconomics 2/Miscellany/Game Theory.md",
-    "📈Microeconomics 2/Miscellany/Asymmetric Information.md",
-    "📈Microeconomics 2/Miscellany/⛺Miscellany Homepage.md",
-    "📈Microeconomics 2/Producer Theory/Profit Maximization.md",
-    "📈Microeconomics 2/Miscellany/Optimization.md",
-    "🚀Performance Engineering/Memory and Caching/Cache Associativity.md",
-    "🚀Performance Engineering/Memory and Caching/Memory-Level Parallelism.md",
-    "🚀Performance Engineering/Memory and Caching/Bulk Prefetch.md",
-    "🚀Performance Engineering/Memory and Caching/Jane Street's OCaml Garbage Collector.md",
+    "🛸Accelerated Computing/Memory.md",
     "🚀Performance Engineering/Memory and Caching/Storage Allocation.md",
+    "🚀Performance Engineering/Memory and Caching/Cache-Efficient Algorithms.md",
+    "🚀Performance Engineering/Memory and Caching/Memory-Level Parallelism.md",
+    "🚀Performance Engineering/Memory and Caching/Cache Associativity.md",
+    "🛸Accelerated Computing/Labs/Lab 1.md",
+    "🛸Accelerated Computing/Labs",
+    "🗃️Database Systems/Data Models/⛺Data Models Homepage.md",
+    "🗃️Database Systems/Data Models/Tables, Tables, Tables.md",
+    "🛸Accelerated Computing/img/streaming_multiprocessor.png",
+    "🚀Performance Engineering/🚀Performance Engineering Portal.md",
+    "🛸Accelerated Computing/img/warp_scheduler.png",
+    "🛸Accelerated Computing/img",
+    "🛸Accelerated Computing/New folder",
+    "🗺️Mathematics Region.md",
+    "🚀Performance Engineering/Miscellany/GPUs and Accelerated Programming.md",
+    "🛸Accelerated Computing",
+    "📈Microeconomics 2/Miscellany/Game Theory.md",
+    "📈Microeconomics 2/Equilibria/Consumption Equilibrium.md",
+    "🚀Performance Engineering/Low-Level Optimizations/Vectorized Instructions.md",
+    "🚀Performance Engineering/Parallelization/Synchronization Without Locks.md",
+    "🦿Sensorimotor Learning/Model-Based Learning/Models.md",
+    "🧠Deep Learning/Inference Methods for Deep Learning.md",
+    "🧠Deep Learning/Metrized Deep Learning.md",
+    "🦿Sensorimotor Learning/On-Policy Learning/Actor-Critic Step Size.md",
+    "🧠Deep Learning/img/scaling_laws_board_games.png",
+    "🧠Deep Learning/img/o1_aime_scaling.png",
+    "🧠Deep Learning/Scaling Laws.md",
+    "🧠Deep Learning/DL Readings.md",
+    "🧠Deep Learning/img/training_inference.png",
+    "🧠Deep Learning/Muon Optimizer.md",
+    "🧠Deep Learning/Scaling Rules for Optimization.md",
+    "🚀Performance Engineering/Miscellany/The Travelling Salesrep Problem.md",
+    "🧠Deep Learning/Universal Approximation.md",
+    "🚀Performance Engineering/Miscellany/What Compilers Can and Cannot Do.md",
     "🚀Performance Engineering/img/compiler_optimization.png",
     "🧠Deep Learning/Guest Lectures",
     "🧠Deep Learning/img/batch_size_scaling.png",
     "🧠Deep Learning/img/roberta_pruning.png",
     "🧠Deep Learning/img/bair_compress_training.png",
     "🧠Deep Learning/img/scaling_sample_efficiency.png",
-    "🧠Deep Learning/img/model_shape_dependence.png",
-    "🧠Deep Learning/img/tandem_scaling.png",
-    "🧠Deep Learning/img/power_scaling_laws.png",
-    "🧠Deep Learning/img/gpt4_scaling_law.png",
-    "🧠Deep Learning/img/scaling_laws.png",
     "🎮Game Theory/Strategic Analysis",
     "📈Microeconomics 2/Miscellany",
     "🗃️Database Systems/Parallel and Distributed Databases",
     "🎮Game Theory/Imperfect Information",
-    "📈Microeconomics 2/Equilibria",
-    "📈Microeconomics 2/Producer Theory",
-    "📈Microeconomics 2/Consumer Theory",
-    "🚀Performance Engineering/Caching 1",
-    "🚀Performance Engineering/Miscellany"
+    "📈Microeconomics 2/Equilibria"
   ]
 }

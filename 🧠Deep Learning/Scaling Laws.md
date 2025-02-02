@@ -5,6 +5,8 @@ One recent insight in deep learning is that scaling up data, compute, and model 
 > [!idea] (The bitter lesson)
 > Rich Sutton states that most of our clever ideas and algorithms don't really pan out, when they try trickery via human knowledge. Instead, simple methods that scale well have performed better: your resources will increase over time.
 
+^989179
+
 Here is the fundamental question we want to answer:
 
 > [!question]
@@ -135,4 +137,4 @@ The topic of [The Platonic Representation Hypothesis](https://arxiv.org/abs/2405
 
 ---
 
-**Next:** [[Language Models]]
+**Next:** [[Metrized Deep Learning]]

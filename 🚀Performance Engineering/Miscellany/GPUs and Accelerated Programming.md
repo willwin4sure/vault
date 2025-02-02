@@ -127,6 +127,6 @@ In particular:
 > [!claim]
 > Data supply dwarfs computation for primitive ALU operations.
 
-Just moving the data *from the register file* totally dominates the energy consumption of performing the operation. To be efficient, we need to reduce data supply cost
+Just moving the data *from the register file* totally dominates the energy consumption of performing the operation. To be efficient, we need to reduce data supply cost.
 
 By using complex instructions, the energy overhead of moving data is amortized. In general, we want to seek this kind of arithmetic intensity.

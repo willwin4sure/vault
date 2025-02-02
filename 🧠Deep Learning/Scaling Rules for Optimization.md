@@ -79,6 +79,8 @@ There are some big issues with Newton's method though:
 > \Delta w = -\tilde{H}^{-1}g=-\left[ \frac{ \partial f }{ \partial w } \frac{ \partial f }{ \partial w }  \right]^{-1}g.
 > $$
 
+^10183f
+
 Note that $\frac{ \partial f }{ \partial w }$ is not the gradient $g$, which involves the full loss $\mathcal{L}$. This one only involves the model $f$. This also has issues:
 
 1. You still need to make this big matrix and invert it.
@@ -110,6 +112,8 @@ Note that $\frac{ \partial f }{ \partial w }$ is not the gradient $g$, which inv
 > $$
 > \| a \|^{\dagger}=\max_{b \in \mathbb{R}^{n}: \| b \|=1}a^{T}b.
 > $$
+
+^817bd4
 
 > [!question] (Adam optimizer)
 > As an exercise, show that the Adam update step without any momentum is in the same direction as steepest descent under the $L^{\infty}$ norm. See also [[Muon Optimizer]].

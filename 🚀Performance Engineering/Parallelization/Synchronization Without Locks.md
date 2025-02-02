@@ -116,7 +116,8 @@ In general, stores are buffered before sent to the memory system. Loads bypass t
 
 Essentially, TSO allows `LOAD` operations to flow up backwards in time to earlier locations.
 
-Unfortunately, this means that in the [[Synchronization Without Locks#^bb8a14|initial example]] you can have an order of execution where `a = b = 0` at the end! These instruction reorders may violate sequential consistency. This also breaks [[Synchronization Without Locks#^909aa2|Peterson's algorithm]].
+> [!warning]
+> Unfortunately, this means that in the [[Synchronization Without Locks#^bb8a14|initial example]] you can have an order of execution where `a = b = 0` at the end! These instruction reorders may violate sequential consistency. This also breaks [[Synchronization Without Locks#^909aa2|Peterson's algorithm]].
 
 > [!definition] (Memory barrier)
 > A ==memory fence== or ==memory barrier== is a hardware action that enforces an *ordering* constraint between the instructions before and after the fence.
