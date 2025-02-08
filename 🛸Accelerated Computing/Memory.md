@@ -18,7 +18,7 @@ It has a bunch of execution units that perform calculations, i.e. 32 x 32-bit ex
 In particular, note that only 1 warp instruction can be issued across all 32 lanes in a single clock cycle. They all execute in lock-step.
 
 > [!warning]
-> Similarly, when writing CUDA, there is a notion of ==CUDA threads== (e.g. when you write `threadIdx.x`. From the software perspective, your minimal unit of parallelism is 32 consecutive CUDA threads that run on your 32 CUDA cores in a ==CUDA warp==.
+> Similarly, when writing CUDA, there is a notion of ==CUDA threads== (e.g. when you write `threadIdx.x`). From the software perspective, your minimal unit of parallelism is 32 consecutive CUDA threads that run on your 32 CUDA cores in a ==CUDA warp==.
 > 
 > But maybe you should think of the entire warp as a "thread" in the conventional sense, since they operate in lock-step on a single instruction stream.
 
@@ -34,7 +34,7 @@ Here is a summary of the somewhat confusing terminology:
 > 
 > The warp scheduler can hold 12 warps at a time that it swaps between to hide latency. Note however that there can only be 32 warps in a single block, so unless you have multiple blocks on the same SM (see the next section) you're actually limited to 8. 
 
-On the memory side, there are 512 x 32 x 32-bit registers in one of these warp schedulers. This is basically 512 wide vector registers.
+On the memory side, there are 512 x 32 x 32-bit registers in one of these warp schedulers. This is basically 512 many wide vector registers.
 
 ### Streaming Multiprocessors
 

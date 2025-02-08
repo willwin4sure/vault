@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c614c3db6cf603d3",
+        "id": "aaa5dfa2ffbe2906",
         "type": "tabs",
         "children": [
           {
-            "id": "c8d0f262b1ca5fc5",
+            "id": "d13f34d055b2a8db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🚀Performance Engineering/Parallelization/Races and Parallelism.md",
+                "file": "💻Programming/Rust/Reference and Borrowing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Races and Parallelism"
+              "title": "Reference and Borrowing"
             }
           },
           {
-            "id": "fd2578dc4908ab9e",
+            "id": "4d76aa4d495f9d74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🚀Performance Engineering/Memory and Caching/Storage Allocation.md",
+                "file": "Compilers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Storage Allocation"
+              "title": "Compilers"
             }
           }
         ]
@@ -54,7 +54,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -66,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cactus stack",
+                "query": "garbage coll",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,43 +177,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8d0f262b1ca5fc5",
+  "active": "d13f34d055b2a8db",
   "lastOpenFiles": [
-    "🛸Accelerated Computing/Memory.md",
+    "Compilers.md",
+    "💻Programming/Rust/Reference and Borrowing.md",
+    "💻Programming/Rust/Ownership.md",
+    "💻Programming/Rust/Common Programming Concepts.md",
+    "💻Programming/Rust/Setup and Cargo.md",
     "🚀Performance Engineering/Memory and Caching/Storage Allocation.md",
-    "🚀Performance Engineering/Memory and Caching/Cache-Efficient Algorithms.md",
-    "🚀Performance Engineering/Memory and Caching/Memory-Level Parallelism.md",
-    "🚀Performance Engineering/Memory and Caching/Cache Associativity.md",
-    "🛸Accelerated Computing/Labs/Lab 1.md",
-    "🛸Accelerated Computing/Labs",
-    "🗃️Database Systems/Data Models/⛺Data Models Homepage.md",
+    "💻Programming/Rust/Macros.md",
+    "💻Programming/Rust/Basic Syntax.md",
+    "Linguistics.md",
+    "Quotes from Martin Rinard.md",
     "🗃️Database Systems/Data Models/Tables, Tables, Tables.md",
+    "🗃️Database Systems/Data Models/⛺Data Models Homepage.md",
+    "💻Programming/Rust/⛺Rust Homepage.md",
+    "💻Programming/Software Construction/The Power of Immutability.md",
+    "Linguistic Fieldwork.md",
+    "Interactive Music Systems.md",
+    "👁️Computer Vision/Tracking, Optical Flow, and Correspondence.md",
+    "🚀Performance Engineering/Memory and Caching/Memory-Level Parallelism.md",
+    "🚀Performance Engineering/Miscellany/GPUs and Accelerated Programming.md",
+    "🦿Sensorimotor Learning/Sim2Real/Simulators.md",
+    "👁️Computer Vision/History of Computer Vision.md",
+    "🧠Deep Learning/Generative Models/Structured Prediction and Unpaired Translation.md",
+    "🖥️Computer Systems Engineering/Distributed Systems/MapReduce.md",
+    "🚣Distributed Systems/Distributed Systems.md",
+    "🛸Accelerated Computing/Memory.md",
+    "🧠Deep Learning/Generative Models/Variational Autoencoders.md",
+    "👁️Computer Vision",
+    "🚣Distributed Systems",
+    "Hardware Architecture for Deep Learning",
+    "🛸Accelerated Computing/Labs",
     "🛸Accelerated Computing/img/streaming_multiprocessor.png",
-    "🚀Performance Engineering/🚀Performance Engineering Portal.md",
     "🛸Accelerated Computing/img/warp_scheduler.png",
     "🛸Accelerated Computing/img",
     "🛸Accelerated Computing/New folder",
-    "🗺️Mathematics Region.md",
-    "🚀Performance Engineering/Miscellany/GPUs and Accelerated Programming.md",
     "🛸Accelerated Computing",
-    "📈Microeconomics 2/Miscellany/Game Theory.md",
-    "📈Microeconomics 2/Equilibria/Consumption Equilibrium.md",
-    "🚀Performance Engineering/Low-Level Optimizations/Vectorized Instructions.md",
-    "🚀Performance Engineering/Parallelization/Synchronization Without Locks.md",
-    "🦿Sensorimotor Learning/Model-Based Learning/Models.md",
-    "🧠Deep Learning/Inference Methods for Deep Learning.md",
-    "🧠Deep Learning/Metrized Deep Learning.md",
-    "🦿Sensorimotor Learning/On-Policy Learning/Actor-Critic Step Size.md",
     "🧠Deep Learning/img/scaling_laws_board_games.png",
     "🧠Deep Learning/img/o1_aime_scaling.png",
-    "🧠Deep Learning/Scaling Laws.md",
-    "🧠Deep Learning/DL Readings.md",
     "🧠Deep Learning/img/training_inference.png",
-    "🧠Deep Learning/Muon Optimizer.md",
-    "🧠Deep Learning/Scaling Rules for Optimization.md",
-    "🚀Performance Engineering/Miscellany/The Travelling Salesrep Problem.md",
-    "🧠Deep Learning/Universal Approximation.md",
-    "🚀Performance Engineering/Miscellany/What Compilers Can and Cannot Do.md",
     "🚀Performance Engineering/img/compiler_optimization.png",
     "🧠Deep Learning/Guest Lectures",
     "🧠Deep Learning/img/batch_size_scaling.png",
@@ -221,9 +224,6 @@
     "🧠Deep Learning/img/bair_compress_training.png",
     "🧠Deep Learning/img/scaling_sample_efficiency.png",
     "🎮Game Theory/Strategic Analysis",
-    "📈Microeconomics 2/Miscellany",
-    "🗃️Database Systems/Parallel and Distributed Databases",
-    "🎮Game Theory/Imperfect Information",
-    "📈Microeconomics 2/Equilibria"
+    "📈Microeconomics 2/Miscellany"
   ]
 }

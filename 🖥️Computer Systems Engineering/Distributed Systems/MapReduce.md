@@ -52,5 +52,5 @@ One main issue is stragglers: some machines, for various reasons, can take order
 
 You can specify your own `groupby` function so that the partitioning into reduce tasks follows `hash(groupby(key)) % R`. This way you can ensure certain entries end up in the same output file.
 
-You can also specify an optional combiner function to run at the end of each map task to do partial reduction of the intermediate key/value pairs. For example, for the [[MapReduce#^46d2ae|word count task]], you probably want the map task to sum up the counts for each word before passing it off to reduce.
+You can also specify an optional combiner function to run at the end of each map task to do partial reduction of the intermediate key/value pairs. For example, for the [[🖥️Computer Systems Engineering/Distributed Systems/MapReduce#^46d2ae|word count task]], you probably want the map task to sum up the counts for each word before passing it off to reduce.
 

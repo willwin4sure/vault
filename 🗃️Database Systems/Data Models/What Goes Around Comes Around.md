@@ -7,7 +7,7 @@ Learn from history, lest you suffer the same mistakes!
 
 XML died because hierarchical data formats are bad, a lesson learned all too well by [[IMS|IMS]]. JSON may suffer the same fate, though it is more well-positioned as an alternate *data type* for representing *sparse data*, to be included in existing relational databases.
 
-[[MapReduce]] has also failed as a data model since it fails to have any broad-scale applicability.
+[[🖥️Computer Systems Engineering/Distributed Systems/MapReduce]] has also failed as a data model since it fails to have any broad-scale applicability.
 
 ## Data Model Proposals
 
