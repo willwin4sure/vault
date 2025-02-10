@@ -80,6 +80,9 @@ Eventually, we will implement behavior for this type that makes it so that every
 > [!warning]
 > So far, we've only seen structs that own all of their data. It is possible for structs to store references to data owned by something else, but to do so requires the use of [[Lifetimes|lifetimes]], which we haven't discussed yet.
 
+^9ead01
+
+
 ## Derived Traits
 
 Think dunder methods in Python that enable useful functionality. In Rust, suppose you want to print some struct, e.g.

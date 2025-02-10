@@ -27,16 +27,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💻Programming/Rust/Lifetimes.md",
+                "file": "💻Programming/Rust/Structs and Methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lifetimes"
+              "title": "Structs and Methods"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "37b578d65e9c30f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca9d17a24efee214",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💻Programming/Rust/Automated Tests.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Automated Tests"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lifetimes",
+                "query": "derive(Debug)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,12 +198,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d13f34d055b2a8db",
+  "active": "ca9d17a24efee214",
   "lastOpenFiles": [
-    "💻Programming/Rust/Structs and Methods.md",
     "💻Programming/Rust/Lifetimes.md",
-    "💻Programming/Rust/Traits.md",
+    "💻Programming/Rust/Automated Tests.md",
+    "💻Programming/Rust/Structs and Methods.md",
     "💻Programming/Rust/References and Borrowing.md",
+    "💻Programming/Rust/Traits.md",
     "💻Programming/Rust/Ownership.md",
     "💻Programming/Rust/Common Programming Concepts.md",
     "💻Programming/Rust/Setup and Cargo.md",
@@ -205,7 +226,6 @@
     "🎮Game Theory/Strategic Analysis/Rationalizability.md",
     "🎮Game Theory/Strategic Analysis/Nash Equilibria.md",
     "🎮Game Theory/Strategic Analysis/Imperfect Competition.md",
-    "🎮Game Theory/Strategic Analysis/Dominance.md",
     "👁️Computer Vision",
     "🚣Distributed Systems",
     "Hardware Architecture for Deep Learning",
