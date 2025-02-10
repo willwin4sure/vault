@@ -75,9 +75,9 @@ let s2 = s1.clone();
 
 So why in our original code with integers did we not have to call `clone`, yet `x` is still valid and wasn't moved into `y`?
 
-We are fine with this behavior because `x` is stack-allocated and copying it is inexpensive. The reason this happens is because Rust has a special annotation called the `Copy` ==trait==, which can be placed on a type to indicate that variables of that type do not move, but are rather trivially copied.
+We are fine with this behavior because `x` is stack-allocated and copying it is inexpensive. The reason this happens is because Rust has a special annotation called the `Copy` [[Traits|trait]], which can be placed on a type to indicate that variables of that type do not move, but are rather trivially copied.
 
-Note that a type cannot be annotated with `Copy` if the type, or any of its parts, has implemented the `Drop` trait. This is to prevent double freeing.
+Note that a type cannot be annotated with `Copy` if the type, or any of its parts, has implemented the `Drop` [[Traits|trait]]. This is to prevent double freeing.
 
 > [!example]
 > Some types that implement `Copy` include: all [[Common Programming Concepts#Scalar Types|scalar types]] and [[Common Programming Concepts#Compound Types|tuples]] that only contain types that also implement `Copy`.
@@ -127,4 +127,4 @@ Of course, all this ownership transfer is a bit tedious, even with tuples. Rust 
 
 ---
 
-**Next:** [[Reference and Borrowing]]
+**Next:** [[References and Borrowing]]

@@ -8,7 +8,7 @@ For example, the following code cannot compile:
 ```rust
 fn main() {
 	let x = 5;
-	x = 6;
+	x = 6;  // fails! x is immutable
 }
 ```
 
@@ -86,6 +86,8 @@ If you want to access individual elements of the tuple, use a `.` followed by th
 
 > [!definition] (Unit value/type)
 > The tuple without any values has a special name, ==unit==. The value and its type are written as `()`. It represents an empty value and empty return type. Expressions return this value if they don't explicitly return anything else.
+
+^7fd1f6
 
 Meanwhile, arrays are a collection of multiple values of the same type:
 

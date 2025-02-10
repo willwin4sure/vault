@@ -11,7 +11,7 @@ fn calculate_length(s: &String) -> usize {
 }
 ```
 
-Now the function takes in a `&String` instead of a `String`, and you give it a `&s1`, which is a reference to `s1` (in C++ this would make a pointer, but it's a reference here). Note that the opposite of `&` is `*`, which is called dereferencing (same terminology in C++, but different function).
+Now the function takes in a `&String` instead of a `String`, and you give it a `&s1`, which is a reference to `s1` (in C++ this would make a pointer, but it's a reference here). Note that the opposite of `&` is `*`, which is called dereferencing (same terminology in C++, but there it operates on pointers, not references).
 
 Since inside `calculate_length`, `s` is just a reference, the string doesn't get dropped when it goes out of scope.
 
@@ -33,14 +33,14 @@ fn change(some_string: &mut String) {
 > [!warning]
 > Mutable references have one big restriction: if you have a mutable reference to a value, you can have no other references to that value!
 
-The benefit of this is to prevent ==data races== at compile time. This happens when these three behaviors occur:
+The benefit of this is to prevent [[Nondeterministic Parallel Programming#^7906aa|data races]] at compile time. This happens when these three behaviors occur:
 
 * Two or more pointers access the same data at the same time.
 * At least of the pointers is being used to write to the data.
 * There's no mechanism being used to synchronize access to the data.
 
-> [!idea]
-> A reference's scope starts from where it is introduced and continues through the last time that the reference is used!
+> [!definition]
+> A reference's ==scope== starts from where it is introduced and continues through the last time that the reference is used!
 
 This means that the following code actually compiles:
 
@@ -64,13 +64,25 @@ These are a common problem in other programming languages. Let's see how Rust ha
 
 ```rust
 fn main() {
-	let reference_to_nothing = dangle()
+	let reference_to_nothing = dangle();
 }
 
 fn dangle() -> &String {
 	let s = String::from("hello");
-	&s
+	&s  // reference will dangle when s goes out of scope
 }
 ```
 
-Of course, if you actually wanted this functionality you could just move the value out directly, removing the reference.
+Of course, if you actually wanted this functionality you could just move the value out directly, removing the reference
+
+As a reminder:
+
+> [!idea] (Rules of references)
+> 1. At any given time, you can have *either* one mutable reference *or* any number of immutable references. This is much like the [[Multicore Programming#^426837|MSI protocol]] for cache coherence.
+> 2. References must always be valid.
+
+^e94134
+
+---
+
+**Next:** [[The Slice Type]]

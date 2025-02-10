@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d13f34d055b2a8db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💻Programming/Rust/Reference and Borrowing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reference and Borrowing"
-            }
-          },
-          {
             "id": "4d76aa4d495f9d74",
             "type": "leaf",
             "state": {
@@ -34,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Compilers"
             }
+          },
+          {
+            "id": "d13f34d055b2a8db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💻Programming/Rust/Lifetimes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lifetimes"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "garbage coll",
+                "query": "lifetimes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,32 +180,32 @@
   },
   "active": "d13f34d055b2a8db",
   "lastOpenFiles": [
-    "Compilers.md",
-    "💻Programming/Rust/Reference and Borrowing.md",
+    "💻Programming/Rust/Structs and Methods.md",
+    "💻Programming/Rust/Lifetimes.md",
+    "💻Programming/Rust/Traits.md",
+    "💻Programming/Rust/References and Borrowing.md",
     "💻Programming/Rust/Ownership.md",
     "💻Programming/Rust/Common Programming Concepts.md",
     "💻Programming/Rust/Setup and Cargo.md",
-    "🚀Performance Engineering/Memory and Caching/Storage Allocation.md",
-    "💻Programming/Rust/Macros.md",
-    "💻Programming/Rust/Basic Syntax.md",
-    "Linguistics.md",
-    "Quotes from Martin Rinard.md",
-    "🗃️Database Systems/Data Models/Tables, Tables, Tables.md",
-    "🗃️Database Systems/Data Models/⛺Data Models Homepage.md",
     "💻Programming/Rust/⛺Rust Homepage.md",
-    "💻Programming/Software Construction/The Power of Immutability.md",
-    "Linguistic Fieldwork.md",
-    "Interactive Music Systems.md",
-    "👁️Computer Vision/Tracking, Optical Flow, and Correspondence.md",
-    "🚀Performance Engineering/Memory and Caching/Memory-Level Parallelism.md",
-    "🚀Performance Engineering/Miscellany/GPUs and Accelerated Programming.md",
-    "🦿Sensorimotor Learning/Sim2Real/Simulators.md",
-    "👁️Computer Vision/History of Computer Vision.md",
+    "💻Programming/Rust/Generics Types.md",
+    "💻Programming/Rust/Error Handling.md",
+    "💻Programming/Rust/Enums.md",
+    "trait.md",
+    "trait object.md",
+    "💻Programming/Rust/Common Collections.md",
+    "💻Programming/Rust/The Slice Type.md",
+    "🧠Deep Learning/Hacker's Guide to Deep Learning.md",
+    "Compilers.md",
     "🧠Deep Learning/Generative Models/Structured Prediction and Unpaired Translation.md",
-    "🖥️Computer Systems Engineering/Distributed Systems/MapReduce.md",
-    "🚣Distributed Systems/Distributed Systems.md",
-    "🛸Accelerated Computing/Memory.md",
     "🧠Deep Learning/Generative Models/Variational Autoencoders.md",
+    "🧠Deep Learning/Generative Models/Deep Generative Models.md",
+    "🎮Game Theory/Strategic Analysis/Supermodular Games.md",
+    "🎮Game Theory/Strategic Analysis/Zero-Sum Games.md",
+    "🎮Game Theory/Strategic Analysis/Rationalizability.md",
+    "🎮Game Theory/Strategic Analysis/Nash Equilibria.md",
+    "🎮Game Theory/Strategic Analysis/Imperfect Competition.md",
+    "🎮Game Theory/Strategic Analysis/Dominance.md",
     "👁️Computer Vision",
     "🚣Distributed Systems",
     "Hardware Architecture for Deep Learning",

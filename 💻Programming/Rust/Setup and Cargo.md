@@ -21,7 +21,7 @@ The compiler can be invoked using `rustc <file_name>.rs`, much like `g++`. This 
 
 ==Cargo== is Rust's build system and package manager (imagine CMake, but if it were as nice as pip). This is what we'll use instead of the compiler directly.
 
-* `cargo new <project_name>` creates a new project. 
+* `cargo new <project_name>` creates a new project.  ^67aac4
 
 The project is also a Git repository with a `.gitignore` file. You will also see a `Cargo.toml` file, while acts like `package.json` in Typescript projects: you can specify metadata about your package, as well as its dependencies on other packages (called ==crates==). It will look something like:
 

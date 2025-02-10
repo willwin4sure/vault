@@ -45,6 +45,8 @@ Recall the definition of a [[Races and Parallelism#Determinacy Races|determinacy
 > [!definition] (Data race)
 > A ==data race== occurs when two logically parallel strands *holding no locks in common* access the same memory location and at least one of the strands performs a write.
 
+^7906aa
+
 Although data race free programs often obey atomicity constraints, they can still be nondeterministic, because the act of acquiring a lock can cause a determinacy race with another lock acquisition. This means we can't use the [[Cilk#Correctness|Cilksan]] tools.
 
 > [!warning] (No data races doesn't mean no bugs)

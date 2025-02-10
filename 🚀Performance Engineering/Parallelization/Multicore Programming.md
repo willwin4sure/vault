@@ -29,6 +29,8 @@ Now, suppose that one processor issues a store `x=5`. We must preserve ==cache c
 > * **I**: this cache block is *invalid* (equivalent to being not there).
 >
 
+^426837
+
 > [!idea]
 > The core idea of MSI is that before you modify a value, you invalidate all other copies of it.
 
