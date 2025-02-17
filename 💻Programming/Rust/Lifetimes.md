@@ -44,7 +44,7 @@ We can fix this by adding ==lifetime annotations== (`'` followed by short, all l
 fn longest<'a>(x: &'a str, y: &'a str) -> &'a str {
 ```
 
-We declare the ==generic lifetime parameters== much like the [[Generics Types|generic type parameters]], inside of angle brackets. This is because we can handle arbitrary concrete lifetimes that are passed in at runtime. Note: for mutable references you'd use the syntax `&'a mut i32`. 
+We declare the ==generic lifetime parameters== much like the [[Generic Types|generic type parameters]], inside of angle brackets. This is because we can handle arbitrary concrete lifetimes that are passed in at runtime. Note: for mutable references you'd use the syntax `&'a mut i32`. 
 
 What is the meaning of the function signature above? Each instance of `&'a` means:
 

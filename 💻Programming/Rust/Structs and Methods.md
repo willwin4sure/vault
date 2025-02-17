@@ -103,11 +103,11 @@ fn main() {
 }
 ```
 
-The error says that `Rectangle` doesn't implement `std::fmt::Display`, which is what the `println!` macro uses to show primitive types.
+The error says that `Rectangle` doesn't implement `std::fmt::Display`, which is what the `println!` [[Macros|macro]] uses to show primitive types.
 
 However, it does suggest using `{:?}` instead, which uses an output format called `Debug`. In order to use this though, you need to either add the outer attribute `#[derive(Debug)]` just before the struct definition, or manually implement `Debug`. You can also pretty print with `{:#?}`.
 
-Another way to print using the pretty `Debug` format is via the `dbg!` macro, which prints to `stderr` instead of `stdout`. It also takes ownership of an expression (unlike `println!` which takes a reference), and returns ownership of the value:
+Another way to print using the pretty `Debug` format is via the `dbg!` [[Macros|macro]], which prints to `stderr` instead of `stdout`. It also takes ownership of an expression (unlike `println!` which takes a reference), and returns ownership of the value:
 
 ```rust
 #[derive(Debug)]
@@ -131,7 +131,7 @@ It also prints some useful information like the file and line numbers of the deb
 
 ## Methods
 
-Called member functions in C++. They look like normal functions but are defined in the context of a struct (or an [[Enums|enum]] or [[trait object]]), and their first parameter is always `self`.
+Called member functions in C++. They look like normal functions but are defined in the context of a struct (or an [[Enums|enum]] or [[OOP in Rust#Trait Objects|trait object]]), and their first parameter is always `self`.
 
 > [!example] (Basic `area` method for a `Rectangle`)
 > 
@@ -185,7 +185,7 @@ Note that this function is namespaced by the struct, e.g. you need to access it 
 
 ## Multiple `impl` Blocks
 
-You can have multiple `impl` blocks for the same struct. There usually isn't a reason to do this, but we'll see cases for this later for [[Generics Types|generic types]] and [[Traits|traits]].
+You can have multiple `impl` blocks for the same struct. There usually isn't a reason to do this, but we'll see cases for this later for [[Generic Types|generic types]] and [[Traits|traits]].
 
 ---
 

@@ -2,7 +2,7 @@
 
 Parallel programs run their code simultaneously on multiple processing cores.
 
-Note the distinction between parallelism and [[concurrency]], which is just the notion of having multiple threads of execution (these potentially *could* be run in parallel, or just context switched between on a single core).
+Note the distinction between parallelism and concurrency, which is just the notion of having multiple threads of execution (these potentially *could* be run in parallel, or just context switched between on a single core).
 
 This is another critical speedup in performance-intensive applications, and can give a large constant factor on multicore machines (~4x, or even up to ~18x on the right hardware).
 

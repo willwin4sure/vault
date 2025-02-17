@@ -34,3 +34,49 @@ Learn about packages, crates, and modules.
 Learn some useful data structures that come with Rust.
 
 11. [[Common Collections]]
+
+How to handle errors.
+
+12. [[Error Handling]] 
+
+Generic programming.
+
+13. [[Generic Types]]
+
+Traits encode behaviors.
+
+14. [[Traits]]
+
+Lifetimes specify scopes of references.
+
+15. [[Lifetimes]]
+
+Test-first programming, or whatever.
+
+16. [[Automated Tests]]
+
+Functional programming things.
+
+17. [[Closures]]
+18. [[Iterators]]
+
+Heap-allocation, reference counting, and interior mutability.
+
+19. [[Smart Pointers]]
+
+Some more advanced topics: concurrency and OOP.
+
+20. [[Fearless Concurrency]]
+21. [[OOP in Rust]]
+
+How patterns work in Rust.
+
+22. [[Patterns and Matching]]
+
+Finally, some advanced features:
+
+23. [[Unsafe Rust]]
+24. [[Advanced Traits]]
+25. [[Advanced Types]]
+26. [[Advanced Functions and Closures]]
+27. [[Macros]]

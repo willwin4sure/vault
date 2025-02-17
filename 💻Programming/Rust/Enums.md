@@ -118,7 +118,7 @@ enum Option<T> {
 
 This is included in the Rust prelude (i.e. automatically pulled into scope). So are its variants `Some` and `None`, which you can use without the `Option::` prefix.
 
-The `<T>` syntax is part of Rust's [[Generics Types|generics]] feature, i.e. a generic type parameter. Think templates in C++.
+The `<T>` syntax is part of Rust's [[Generic Types|generics]] feature, i.e. a generic type parameter. Think templates in C++.
 
 ```rust
 let some_number = Some(5);

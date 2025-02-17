@@ -48,3 +48,7 @@ INTLITERAL 3
 ```
 
 Now the parser takes the tokenized string and converts it into a parse tree. It just needs to exit with 0 return code on valid inputs and nonzero return code on invalid inputs.
+
+## Intermediate Representations
+
+Parse tree, goes through semantic analysis to a high level intermediate representation, then a low level intermediate representation, and finally machine code.

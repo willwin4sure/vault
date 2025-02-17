@@ -2,7 +2,7 @@ We'll look at three types of collections: vectors, strings, and hash maps.
 
 ## Vectors
 
-You can create empty vectors, or use the macro `vec!`:
+You can create empty vectors, or use the [[Macros|macro]] `vec!`:
 
 ```rust
 let v: Vec<i32> = Vec::new();
@@ -100,9 +100,9 @@ fn add(self, s: &str) -> String {
 
 So what's actually happening is that `s3` takes over the memory of `s1` and then appends the contents of `s2` to the end of it.
 
-One subtle thing is that `s2`, as a `&String`, is being [[deref coerced]] into a `&str` type when passed as an argument to this method.
+One subtle thing is that `s2`, as a `&String`, is being [[The Deref and Drop Traits|deref coerced]] into a `&str` type when passed as an argument to this method.
 
-Finally, another option is the `format!` macro, which basically behaves like `println!` but returns a `String` instead of outputting to terminal.
+Finally, another option is the `format!` [[Macros|macro]], which basically behaves like `println!` but returns a `String` instead of outputting to terminal.
 
 ```rust
 let s = format!("{s1}-{s2}");

@@ -44,6 +44,8 @@ This is why for the guessing game project you had to bring in `rand::Rng` despit
 > 
 > However, you cannot implement external traits on external types. This property is called ==coherence==, and ensures that you can't break other people's code. It also prevents ambiguity if multiple pieces of code implement the same trait for the same type.
 
+^0af148
+
 ## Default Behaviors
 
 Sometimes it is useful to have default implementations for your traits. Think of it as an interface implementation that gets called if dynamic dispatch doesn't hit anything in the vtable.
@@ -66,7 +68,7 @@ Default implementations can call other trait methods, even if they don't have de
 
 ## Traits Bounds
 
-You can now specify ==trait bounds== to fix the [[Generics Types#Generic Functions|problem from last section]], e.g.
+You can now specify ==trait bounds== to fix the [[Generic Types#Generic Functions|problem from last section]], e.g.
 
 ```rust
 pub fn notify<T: Summary>(item: &T) {
@@ -104,13 +106,15 @@ where
 {
 ```
 
-You can also specify that a function returns some type that implements a trait, e.g.
+You can also specify that a function returns some type that implements a trait, e.g. ^c00845
 
 ```rust
 fn returns_summarizable() -> impl Summary {
 ```
 
 This is especially useful when we discuss closures and iterators, which have types that only the compiler knows or types that are very long to specify concretely. But note that your function can only return a single type when it does this (no mixing!).
+
+Note that the compiler infers the actual concrete type (e.g. for [[Advanced Types#The `Sized` Trait|sizing]] purposes), but this is just hidden (only the trait is exposed).
 
 ## Conditionally Implemented Methods
 

@@ -5,7 +5,7 @@ This section is about how we handle errors in Rust.
 > * Recoverable errors are ones where you'd like to just report the problem to the user and retry the operation (or otherwise continue).
 > * Unrecoverable errors are symptomatic of bugs and should terminate the program.
 
-Rust doesn't actually have exceptions. It has the type `Result<T, E>` for recoverable errors and the `panic!` macro for unrecoverable errors.
+Rust doesn't actually have exceptions. It has the type `Result<T, E>` for recoverable errors and the `panic!` [[Macros|macro]] for unrecoverable errors.
 
 ## Unrecoverable Errors with `panic!`
 
@@ -27,7 +27,7 @@ enum Result<T, E> {
 }
 ```
 
-Again, `T` and `E` are generic type parameters; we will discuss [[Generics Types|generics]] later. The type `T` is what is used for successes and `E` is what is used for errors.
+Again, `T` and `E` are generic type parameters; we will discuss [[Generic Types|generics]] later. The type `T` is what is used for successes and `E` is what is used for errors.
 
 For example:
 
@@ -144,7 +144,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 }
 ```
 
-Here, `Box<dyn Eror>` is a [[trait object]], but we don't know what that is yet. For now, it just means "any kind of error".
+Here, `Box<dyn Eror>` is a [[OOP in Rust#Trait Objects|trait object]], but we don't know what that is yet. For now, it just means "any kind of error".
 
 Now, the behavior of the executable is to return with exit code `0` on an `Ok` return, and nonzero exit code on an `Err` return.
 
@@ -166,4 +166,4 @@ Remember to keep these types [[safe from rep exposure]].
 
 ---
 
-**Next:** [[Generics Types]]
+**Next:** [[Generic Types]]

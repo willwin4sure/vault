@@ -25,3 +25,8 @@ A new cargo command!
 
 * `cargo test` runs the tests and prints the results with nice colors.
 
+There are some more details here, about subselecting tests, etc. See the reference.
+
+---
+
+**Next:** [[Closures]]

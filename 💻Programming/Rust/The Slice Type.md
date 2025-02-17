@@ -77,7 +77,7 @@ The error message will tell you that you cannot call `.clear()` since it require
 > [!idea]
 > It turns out that string literals have type `&str`, i.e. they are string slices. This is also why they aren't mutable: they are just immutable references to a specific point of the binary.
 
-An experienced Rustacean would write the parameter as `&str` type instead of `&String`, which allows both slices and strings to be passed in. You can directly pass in `String` values due to [[deref coercions]]. ^921163
+An experienced Rustacean would write the parameter as `&str` type instead of `&String`, which allows both slices and strings to be passed in. You can directly pass in `String` values due to [[The Deref and Drop Traits|deref coercions]]. ^921163
 
 ## Other Slices
 
