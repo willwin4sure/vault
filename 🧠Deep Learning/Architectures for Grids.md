@@ -23,7 +23,7 @@ If you have video data, you can have a data tensor for spacetime, and then convo
 
 Sometimes the shift invariance is undesired. In this case, you can add a hand-crafted ==positional encoding== to the model. This idea appears in transformer architectures as well.
 
-A related concept is that of a neural field, where you want to learn some function $(x,y)\mapsto \Phi(x,y)$ of the position by representing it as a neural network. The ==SIREN model== is rather good at modeling signals such as sounds and images, and also captures their derivatives well.
+A related concept is that of a neural field, where you want to learn some function $(x,y)\mapsto \Phi(x,y)$ of the position by representing it as a neural network. The ==SIREN model== is rather good at modeling signals such as sounds and images, and also captures their derivatives well. ^4f3e1e
 
 ==NeRF== uses this method to represent scenes by training a model $(x,y,z,\theta,\phi)\mapsto (RGB\sigma)$ that maps from a spatial location and viewing angle to a color and density. This technique has mostly been subsumed by ==Gaussian splatting==.
 

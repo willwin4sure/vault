@@ -1,0 +1,3 @@
+This was a part of the first problem set. The idea is to magnify local movements between two images by taking their 2D Fourier transforms and detecting phase shifts (since phase shifts correspond to translations). Then, we amplify that phase shift to generate a new magnified image.
+
+Now we do this for a lot of local Gaussian patches and then average their contributions together. This is because if the region we are considering has multiple directions of motion, their phase shifts will interfere with each other. So you want to do it locally.

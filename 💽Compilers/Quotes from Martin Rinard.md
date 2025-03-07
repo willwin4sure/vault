@@ -46,3 +46,9 @@
 
 > Treat your LLM like your roommate.
 
+> Every PhD student will undergo a thesis-mania stage: you panic that your advisor is not going to sign off your thesis, and you go temporarily insane.
+
+> What do you do with an animal that's misbehaving? You shoot it with a gun.
+
+> People say that they want fame and fortune... forget it! When you're dead, you're gone and forgotten. So get what you want out of life and don't derive value from other people's validation.
+

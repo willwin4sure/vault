@@ -13,7 +13,7 @@ This is the basic definition of a Fourier transform.
 > $$
 > Here, $\langle \bullet,\bullet \rangle$ denotes the usual inner product on $\mathbb{R}^{d}$.
 
-Note that $|\hat{f}(u)|\leq \| f \|_{1}$ and, by the dominated convergence theorem, $\hat{f}(u_{n})\to \hat{f}(u)$ whenever $u_{n}\to u$. Thus $\hat{f}$ is a continuous function in $L^{\infty}(\mathbb{R}^{d})$.
+Note that $|\hat{f}(u)|\leq \| f \|_{1}$ and, by the [[Dominated Convergence Theorem|dominated convergence theorem]], $\hat{f}(u_{n})\to \hat{f}(u)$ whenever $u_{n}\to u$. Thus $\hat{f}$ is a continuous function in $L^{\infty}(\mathbb{R}^{d})$.
 
 ## Identities
 
@@ -25,7 +25,7 @@ for almost all $x \in \mathbb{R}^{d}$ (Fourier transform back, up to scaling).
 
 When $f\in L^{1}\cap L^{2}(\mathbb{R}^{d})$, we say that the ==Plancherel identity== holds for $f$ if
 $$
-\| f \|_{2} = (2\pi)^{d/2}\| f \|_{2.}
+\| \hat{f} \|_{2} = (2\pi)^{d/2}\| f \|_{2.}
 $$
 The main results that we will show are that for all $f\in L^{1}(\mathbb{R}^{d})$, the inversion formula holds whenever $\hat{f}\in L^{1}(\mathbb{R}^{d})$, and that the Plancherel identity holds whenever $f\in L^{2}(\mathbb{R}^{d})$. 
 

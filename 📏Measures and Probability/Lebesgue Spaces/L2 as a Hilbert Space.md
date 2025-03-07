@@ -8,6 +8,8 @@
 > [!definition]
 > A complete inner product space is called a ==Hilbert space==.
 
+^f07987
+
 Note that for any inner product, the map $v\mapsto \sqrt{ \langle v,v \rangle }$ is a norm, by the [[Hölder's Inequality#^2c4b8a|Cauchy-Schwarz inequality]], so all Hilbert spaces are [[Lp as a Banach Space#^627497|Banach spaces]].
 ## $\mathcal{L}^{2}$ is a Hilbert Space
 

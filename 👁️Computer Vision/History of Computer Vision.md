@@ -46,4 +46,4 @@ A lot of words I don't understand: fundamental matrix, normalized 8-point algori
 
 ---
 
-**Next:** [[Tracking, Optical Flow, and Correspondence]]
+**Next:** [[Various Computer Vision Topics]]

@@ -14,6 +14,6 @@ How are we actually using our forward model? Well, at the end of the day, we're 
 
 What if we just directly predicted the actions? Instead, our model will take $x_{t}$ and $x_{t+1}$ and try to determine $a_{t}$.
 
-Usually, we will use a ==Siamese network architecture==, popularized by Hadsell in 2006. We'll have shared weights $\theta$ that process both $x_{t}$ and $x_{t+1}$ into $z_{t}$ and $z_{t+1}$, and then use those to predict $a_{t}$. The hope is that $x\mapsto z$ is also a good feature embedding in terms of what information in the state actually matters for actions.
+Usually, we will use a ==Siamese network architecture==, popularized by Hadsell in 2006. We'll have shared weights $\theta$ that process both $x_{t}$ and $x_{t+1}$ into $z_{t}$ and $z_{t+1}$, and then use those to predict $a_{t}$. The hope is that $x\mapsto z$ is also a good feature embedding in terms of what information in the state actually matters for actions. ^b1c6ad
 
 This works for one time step, but how do we get all the way from $x_{t}$ to $x_{G}$ over multiple steps? Well, just plug both of them in, then execute the output action on $x_{t}$, then plug $x_{t+1}$ and $x_{G}$ in, and repeat. 
