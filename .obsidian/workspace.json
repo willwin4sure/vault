@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🚀Performance Engineering/Parallelization/Synchronization Without Locks.md",
+                "file": "👁️Computer Vision/Geometry/Representation Theory in Computer Vision.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Synchronization Without Locks"
+              "title": "Representation Theory in Computer Vision"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,6 +165,12 @@
   },
   "active": "50c6fd74cf786956",
   "lastOpenFiles": [
+    "👁️Computer Vision/img/steerable_gaussians.png",
+    "👁️Computer Vision/Geometry/⛺Geometry Homepage.md",
+    "👁️Computer Vision/Geometry/Linear Image Processing and Transformations.md",
+    "👁️Computer Vision/Geometry/Image Formation.md",
+    "👁️Computer Vision/Various Computer Vision Topics.md",
+    "🚀Performance Engineering/Parallelization/Synchronization Without Locks.md",
     "🚀Performance Engineering/Parallelization/Multicore Programming.md",
     "🚀Performance Engineering/Parallelization/Master's Theorem.md",
     "🚀Performance Engineering/Parallelization/OpenMP.md",
@@ -173,7 +178,6 @@
     "🚀Performance Engineering/Parallelization/Races and Parallelism.md",
     "🚀Performance Engineering/Parallelization/Scheduling Theory and Parallel Loops.md",
     "🚀Performance Engineering/Parallelization/Speculative Parallelism.md",
-    "🚀Performance Engineering/Parallelization/Synchronization Without Locks.md",
     "🚀Performance Engineering/Parallelization/Task-Parallel Algorithms.md",
     "🚀Performance Engineering/Low-Level Optimizations/Linux x86-64 Calling Conventions.md",
     "🚀Performance Engineering/Low-Level Optimizations/C to Assembly.md",
@@ -184,17 +188,12 @@
     "🚀Performance Engineering/Low-Level Optimizations/x86-64 Primer.md",
     "🚀Performance Engineering/Low-Level Optimizations/Bentley Rules.md",
     "🧠Deep Learning/Neural Network Generalization.md",
-    "👁️Computer Vision/Geometry/Linear Image Processing and Transformations.md",
     "👁️Computer Vision/img/gaussian_laplacian_pyramids.png",
     "👁️Computer Vision/img/gaussian_blur_ft.png",
-    "👁️Computer Vision/Geometry/Image Formation.md",
     "👁️Computer Vision/Geometry/Motion Magnification.md",
     "👁️Computer Vision/img/dft_magnitude_phase.png",
     "📏Measures and Probability/Fourier Transforms/⛺Fourier Transforms Homepage.md",
     "📏Measures and Probability/Fourier Transforms/Fourier Transform Definitions.md",
-    "📏Measures and Probability/Fourier Transforms/Convolutions.md",
-    "📏Measures and Probability/Fourier Transforms/Gaussian Fourier Transforms.md",
-    "🤔Inference and Information/Estimation/The Gauss-Markov Theorem.md",
     "💽Compilers/img/regex_dfa_nfa.png",
     "💽Compilers/img",
     "💽Compilers/New folder",

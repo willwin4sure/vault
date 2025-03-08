@@ -14,4 +14,55 @@ A ==representation== is some group homomorphism $\rho:G \to \text{GL}(V)$ which 
 > [!definition] (Dual representation)
 > If $V$ is a representation of a group $G$, its ==dual representation== $V^{*}$ is given by taking any linear functional $\lambda \in V^{^{*}}$ to the linear functional given by $(g\lambda)v=\lambda(g^{-1}v)$.
 
+You need the inverse for things to commute properly, e.g. $((gh)\lambda)v=\lambda((gh)^{-1}v)$. It's the slightly counterintuitive fact you learn in middle school, that to shift a function $f(x)$ to the *right* by $c$, you need to write $f(x-c)$.
+
+We can slightly generalize this idea to where $f$ has generic domain $X$ that $G$ acts upon. Then, if $f\in L^{2}(X)$, we can write $\rho(g)f(x)=f(g^{-1}x)$ for a representation $\rho:G\to \text{GL}(L^{2}(X))$.
+
+## Steerable Bases
+
+> [!definition] (Steerable basis)
+> A vector $Y(x)=\begin{bmatrix}\vdots\\ Y_{\ell}(x)\\ \vdots\end{bmatrix}\in K^{L}$ with basis functions $Y_{\ell}\in L^{2}(X)$ is ==steerable== if for all $g\in G$,
+> $$
+> Y(gx)=\rho(g)Y(x),
+> $$
+> where $gx$ denotes the action of $G$ on $X$ and $\rho(g)\in K^{L\times L}$ is a representation of $G$.
+
+In other words, you can transform all basis functions (the left hand side) by simply taking a linear combination of the original basis functions (the right hand side).
+
+> [!example] ($\sin$ and $\cos$ form a steerable basis)
+> Suppose $G=\mathbb{R}$ acts on $X=\mathbb{R}$ via translation. Then, $Y(x)=\begin{bmatrix}\cos x\\ \sin x\end{bmatrix}$ forms a steerable basis via the representation $\rho(\theta)=\begin{bmatrix}\cos\theta & -\sin \theta\\ \sin\theta & \cos \theta\end{bmatrix}$.
+
+This is the fact that if you phase shift a sine wave, you can reconstruct it by simply taking a linear combination of zero phase sine and cosine waves.
+
+> [!claim] 
+> The Fourier basis is steerable.
+
+This is a consequence of the fact that sine and cosine are steerable.
+
+> [!idea]
+> Can we construct other steerable filters?
+
+[For sure!](https://people.csail.mit.edu/billf/publications/Design_and_Use_of_Steerable_Filters.pdf) For example, you might want some steerable edge detectors that allow you to detect edges of any orientation by only taking two convolutions (here, $G=S^{1}$). Here's an example:
+
+![[steerable_gaussians.png|center|512]]
+
+Normally, if you want to detect edges of all kinds, you might have to rotate your filter and recompute a full convolution with the image, which is expensive.
+
+The steerability property, together with the linearity of convolution, allows you to instead just compute the convolution with two base filters, and then take some linear combination of the results to get the convolution with any rotated filter.
+
+The construction here is just the partial derivative of a 2D Gaussian, e.g.
+$$
+\frac{ \partial }{ \partial x } e^{-(x^{2}+y^{2})} = -2x e^{-(x^{2}+y^{2})}.
+$$
+The property holds due to the rotational symmetry of the second term and the fact that single $x$ comes out the front.
+
+## Finding Steerable Bases
+
+Here's a recipe:
+
+1. Find a *linear operator* such that:
+	1. It *commutes* with the group action. This means its eigenspaces are unchanged under the group action.
+	2. Its eigenvectors are guaranteed to be a complete basis for the function space. For example, it can just be self-adjoint (Hermitian) via spectral theorem.
+2. Compute its eigendecomposition.
+3. The eigenfunctions must form a steerable basis for the group transformation!
 

@@ -5,3 +5,4 @@
 
 1. [[Image Formation]]
 2. [[Linear Image Processing and Transformations]]
+3. [[Representation Theory in Computer Vision]]
