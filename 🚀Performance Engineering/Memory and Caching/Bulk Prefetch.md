@@ -1,6 +1,6 @@
 Sometimes you have to contend with code that features unavoidable pointer-chasing, which has no memory-level parallelism. 
 
-Consider an allocator that takes in both a number of bytes, and a tag, where the allocator will try to group together allocations with the same tag. For example, in market making, you might want to tag using specific symbols:
+	Consider an allocator that takes in both a number of bytes, and a tag, where the allocator will try to group together allocations with the same tag. For example, in market making, you might want to tag using specific symbols:
 
 ![[market_making_tags.png|center|512]]
 

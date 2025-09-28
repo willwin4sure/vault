@@ -28,6 +28,8 @@ The ==base pointer== `%rbp` points to the *top* of the current stack frame, whil
 > [!example] (Managing registers across calls)
 > Some registers are ==caller-saved registers==, while others are ==callee-saved registers==. Both might induce wasted work. A few registers are designated to be callee-saved, while the rest are caller-saved.
 
+The registers RAX, RCX, RDX, R8, R9, R10, R11 are considered volatile (caller-saved). The registers RBX, RBP, RDI, RSI, RSP, R12, R13, R14, and R15 are considered **nonvolatile (callee-saved)**.
+
 Here are the designated roles for various general purpose registers in x86-64:
 
 ![[linkage_x86_gprs.png|center|512]]
