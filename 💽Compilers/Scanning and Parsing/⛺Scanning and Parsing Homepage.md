@@ -8,3 +8,9 @@ We do this in two steps:
 ## Main Sequence
 
 1. [[Regular Expressions, DFAs, and NFAs]]
+2. [[Context-Free Grammers]]
+3. [[Hand-Coded Scanners and Parsers]]
+
+---
+
+**Next:** [[]]
