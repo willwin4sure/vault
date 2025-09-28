@@ -63,7 +63,7 @@ Essentially, this is saying that every "view" of the database contents by any tr
 This is a protocol for enforcing conflict serializability. Before acting on an object, a transaction has to acquire a ==shared lock== for reads and an ==exclusive lock== for writes. If a transaction can't acquire a lock, it waits.
 
 > [!example] (Two-phase locking)
-> In two-phase locking, for any given transaction, it cannot release *any* of its locks until it has acquired *all* of its locked. This prevents other transactions from "sneaking in" and modifying things during its operation.
+> In two-phase locking, for any given transaction, it cannot release *any* of its locks until it has acquired *all* of its locks. This prevents other transactions from "sneaking in" and modifying things during its operation.
 
 > [!idea]
 > Two-phase locking has a *growing phase* and a *shrinking phase*.

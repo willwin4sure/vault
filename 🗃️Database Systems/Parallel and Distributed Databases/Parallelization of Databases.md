@@ -65,4 +65,4 @@ Another technique is called ==semi-joins==, where you send a list of join attrib
 
 ---
 
-**Next:**  [[Distributed Transactions]]
+**Next:**  [[🗃️Database Systems/Parallel and Distributed Databases/Distributed Transactions]]

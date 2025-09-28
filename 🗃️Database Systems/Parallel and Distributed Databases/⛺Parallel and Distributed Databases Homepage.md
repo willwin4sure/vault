@@ -6,7 +6,7 @@ We are interested in large scale query processing.
 ## Main Sequence
 
 1. [[Parallelization of Databases]]
-2. [[Distributed Transactions]]
+2. [[🗃️Database Systems/Parallel and Distributed Databases/Distributed Transactions]]
 
 We will actually contrast distributed transactions against another model, eventual consistency.
 
